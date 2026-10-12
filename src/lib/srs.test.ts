@@ -1,96 +1,43 @@
 import { describe, expect, it } from "vitest";
-import { gradeItem, newItem, nextDueAt, previewIntervals, Rating, requeueMissed, type Grade, type Progress, type ItemSchedule } from "./srs";
+import { gradeItem, newItem, Rating, type Grade, type ItemSchedule } from "./srs";
 
 const NOW = new Date("2026-10-08T12:00:00Z");
 const TODAY = "2026-10-08";
 
-const hours = (card: ItemSchedule) => (new Date(card.due).getTime() - NOW.getTime()) / 3_600_000;
+const days = (item: ItemSchedule) => (new Date(item.due).getTime() - NOW.getTime()) / 86_400_000;
 
-/** Grades a fresh card with each rating in turn, all at NOW. */
+/** Answers a fresh item with each rating in turn, all at NOW. */
 function gradeAll(ratings: Grade[]): ItemSchedule {
-  return ratings.reduce<ItemSchedule | undefined>((card, r) => gradeItem(card, r, NOW, TODAY), undefined)!;
+  return ratings.reduce<ItemSchedule | undefined>((item, r) => gradeItem(item, r, NOW, TODAY), undefined)!;
 }
 
 describe("gradeItem", () => {
-  it("records the day a card was first introduced", () => {
-    expect(gradeItem(undefined, Rating.Good, NOW, TODAY).introducedOn).toBe(TODAY);
+  it("records the day an item was first answered and keeps it", () => {
+    const first = gradeItem(undefined, Rating.Know, NOW, "2026-10-01");
+    expect(first.introducedOn).toBe("2026-10-01");
+    expect(gradeItem(first, Rating.Know, NOW, TODAY).introducedOn).toBe("2026-10-01");
   });
 
-  it("keeps the original introduction day on later reviews", () => {
-    const first = gradeItem(undefined, Rating.Good, NOW, "2026-10-01");
-    expect(gradeItem(first, Rating.Good, NOW, TODAY).introducedOn).toBe("2026-10-01");
+  it("makes a missed item due right away, still learning", () => {
+    expect(gradeAll([Rating.DontKnow])).toMatchObject({ state: "learning", streak: 0, due: NOW.toISOString() });
   });
 
-  it("schedules Again in 2 minutes and Hard in 10 minutes, still learning", () => {
-    expect(hours(gradeAll([Rating.Again])) * 60).toBe(2);
-    expect(gradeAll([Rating.Hard])).toMatchObject({ state: "learning" });
-    expect(hours(gradeAll([Rating.Hard])) * 60).toBe(10);
+  it("pushes a known item out by 1, 3, 7, 14, 30 and then 60 days", () => {
+    expect([1, 2, 3, 4, 5, 6, 7].map((n) => days(gradeAll(Array(n).fill(Rating.Know))))).toEqual([1, 3, 7, 14, 30, 60, 60]);
+    expect(gradeAll([Rating.Know])).toMatchObject({ state: "review", streak: 1 });
   });
 
-  it("schedules Good in 1 day, in review", () => {
-    expect(gradeAll([Rating.Good])).toMatchObject({ state: "review" });
-    expect(hours(gradeAll([Rating.Good]))).toBe(24);
+  it("starts the streak over after a miss", () => {
+    expect(days(gradeAll([Rating.Know, Rating.Know, Rating.DontKnow, Rating.Know]))).toBe(1);
   });
 
-  it("grows Easy by 4 days per Easy hit", () => {
-    expect([1, 2, 3, 4, 5].map((n) => hours(gradeAll(Array(n).fill(Rating.Easy))) / 24)).toEqual([4, 8, 12, 16, 20]);
-  });
-
-  it("moves to the next exercise on a pass and repeats the same one on a miss", () => {
-    expect(gradeAll([Rating.Good, Rating.Easy]).turn).toBe(2);
-    expect(gradeAll([Rating.Good, Rating.Again, Rating.Hard]).turn).toBe(1);
-  });
-
-  it("keeps the Easy count through Hard and Good, and resets it on Again", () => {
-    expect(hours(gradeAll([Rating.Easy, Rating.Good, Rating.Hard, Rating.Easy])) / 24).toBe(8);
-    expect(hours(gradeAll([Rating.Easy, Rating.Easy, Rating.Again, Rating.Easy])) / 24).toBe(4);
-  });
-});
-
-describe("previewIntervals", () => {
-  it("shows 2m / 10m / 1d / 4d for a new card", () => {
-    expect(previewIntervals(undefined)).toEqual({ 1: "2m", 2: "10m", 3: "1d", 4: "4d" });
-  });
-
-  it("shows the grown Easy interval after four Easy hits", () => {
-    const card = gradeAll(Array(4).fill(Rating.Easy));
-    expect(previewIntervals(card)).toEqual({ 1: "2m", 2: "10m", 3: "1d", 4: "20d" });
-  });
-});
-
-describe("nextDueAt", () => {
-  it("returns null with no cards", () => {
-    expect(nextDueAt({ items: {} })).toBeNull();
-  });
-
-  it("returns the earliest due date", () => {
-    const card = gradeItem(undefined, Rating.Good, NOW, TODAY);
-    const progress: Progress = {
-      items: { a: { ...card, due: "2026-10-10T00:00:00.000Z" }, b: { ...card, due: "2026-10-09T00:00:00.000Z" } },
-    };
-    expect(nextDueAt(progress)?.toISOString()).toBe("2026-10-09T00:00:00.000Z");
-  });
-});
-
-describe("requeueMissed", () => {
-  it("reinserts a missed card a few positions later", () => {
-    expect(requeueMissed([1, 2, 3, 4, 5, 6], 3)).toEqual([2, 3, 4, 1, 5, 6]);
-  });
-
-  it("appends to the end when the queue is short", () => {
-    expect(requeueMissed([1, 2], 3)).toEqual([2, 1]);
-  });
-
-  it("keeps a single-card queue repeating", () => {
-    expect(requeueMissed([7], 3)).toEqual([7]);
+  it("counts every answer", () => {
+    expect(gradeAll([Rating.Know, Rating.DontKnow, Rating.Know]).reps).toBe(3);
   });
 });
 
 describe("newItem", () => {
-  it("is a new item due now, introduced today", () => {
-    const card = newItem(NOW, TODAY);
-    expect(card.state).toBe("new");
-    expect(card.due).toBe(NOW.toISOString());
-    expect(card.introducedOn).toBe(TODAY);
+  it("is due now and unanswered", () => {
+    expect(newItem(NOW, TODAY)).toEqual({ due: NOW.toISOString(), state: "new", reps: 0, streak: 0, introducedOn: TODAY });
   });
 });

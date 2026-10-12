@@ -21,8 +21,8 @@ class MemoryStorage {
 }
 
 const NOW = new Date("2026-10-08T12:00:00Z");
-const known = gradeItem(undefined, Rating.Easy, NOW, "2026-10-08");
-const learning = gradeItem(undefined, Rating.Hard, NOW, "2026-10-08");
+const known = gradeItem(undefined, Rating.Know, NOW, "2026-10-08");
+const learning = gradeItem(undefined, Rating.DontKnow, NOW, "2026-10-08");
 const progress: Progress = { items: { "w:1": known, "w:2": learning } };
 
 const story: Story = {

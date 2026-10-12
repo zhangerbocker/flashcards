@@ -30,8 +30,7 @@ const ITEM: ItemSchedule = {
   due: "2026-10-09T00:00:00.000Z",
   state: "review",
   reps: 1,
-  easyHits: 0,
-  turn: 1,
+  streak: 1,
   introducedOn: "2026-10-08",
 };
 
@@ -62,20 +61,20 @@ describe("settings", () => {
 
   it("round-trips saved settings", () => {
     const storage = new MemoryStorage();
-    const settings = { newPerDay: 50, newGrammarPerDay: 3, autoplayAudio: true, typeAnswers: true };
+    const settings = { autoplayAudio: true, typeAnswers: true };
     saveSettings(storage, settings);
     expect(loadSettings(storage)).toEqual(settings);
   });
 
   it("keeps valid fields from older saves and defaults the rest", () => {
     const storage = new MemoryStorage();
-    storage.setItem("pt.settings.v1", JSON.stringify({ newPerDay: 50 }));
-    expect(loadSettings(storage)).toEqual({ ...DEFAULT_SETTINGS, newPerDay: 50 });
+    storage.setItem("pt.settings.v1", JSON.stringify({ typeAnswers: true }));
+    expect(loadSettings(storage)).toEqual({ ...DEFAULT_SETTINGS, typeAnswers: true });
   });
 
   it("ignores invalid values", () => {
     const storage = new MemoryStorage();
-    storage.setItem("pt.settings.v1", JSON.stringify({ newPerDay: -3, autoplayAudio: "yes" }));
+    storage.setItem("pt.settings.v1", JSON.stringify({ typeAnswers: 1, autoplayAudio: "yes" }));
     expect(loadSettings(storage)).toEqual(DEFAULT_SETTINGS);
   });
 });
@@ -98,7 +97,7 @@ describe("mistakes", () => {
 describe("reviews", () => {
   it("appends entries", () => {
     const storage = new MemoryStorage();
-    appendReview(storage, { key: "w:1:r", rating: 3, at: "2026-10-08T12:00:00.000Z" });
+    appendReview(storage, { key: "w:1:r", rating: 2, at: "2026-10-08T12:00:00.000Z" });
     expect(loadReviews(storage)).toHaveLength(1);
   });
 });

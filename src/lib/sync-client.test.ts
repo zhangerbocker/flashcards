@@ -3,7 +3,7 @@ import { addMistake, appendReview, loadProgress, loadSettings, saveProgress, sav
 import { loadReadIds, markRead } from "./reading";
 import { migrate, pgliteDb, type Db } from "./server/db";
 import { stateHandler, syncHandler } from "./server/sync-handlers";
-import { gradeItem, Rating } from "./srs";
+import { gradeItem, Rating, type Grade } from "./srs";
 import { flush, syncNow, type SyncDeps } from "./sync-client";
 import { pendingOps } from "./sync-ops";
 
@@ -40,20 +40,20 @@ function device(network: "online" | "offline" | "signed-out" = "online"): SyncDe
   return { storage: new MemoryStorage(), fetch: fakeFetch as typeof fetch };
 }
 
-const grade = (rating: 3 | 4, at: Date) => gradeItem(undefined, rating, at, "2026-10-08");
+const grade = (rating: Grade, at: Date) => gradeItem(undefined, rating, at, "2026-10-08");
 
 describe("syncNow", () => {
   it("uploads a device's existing progress on its first sync and gives it to a new device", async () => {
     const laptop = device();
-    saveProgress(laptop.storage, { items: { "w:7": grade(Rating.Good, T1) } });
-    appendReview(laptop.storage, { key: "w:7:r", rating: 3, at: T1.toISOString() });
+    saveProgress(laptop.storage, { items: { "w:7": grade(Rating.Know, T1) } });
+    appendReview(laptop.storage, { key: "w:7:r", rating: 2, at: T1.toISOString() });
     addMistake(laptop.storage, { id: "m1", wrong: "a", right: "b", reason: "c", createdAt: "2026-10-08" });
     markRead(laptop.storage, "h1-time-1");
     expect(await syncNow(laptop)).toBe("synced");
 
     const phone = device();
     expect(await syncNow(phone)).toBe("synced");
-    expect(loadProgress(phone.storage).items["w:7"]).toEqual(grade(Rating.Good, T1));
+    expect(loadProgress(phone.storage).items["w:7"]).toEqual(grade(Rating.Know, T1));
     expect(loadReadIds(phone.storage)).toEqual(new Set(["h1-time-1"]));
   });
 
@@ -62,27 +62,27 @@ describe("syncNow", () => {
     const phone = device();
     await syncNow(laptop);
     await syncNow(phone);
-    saveProgress(phone.storage, { items: { "w:7": grade(Rating.Easy, T2) } });
-    saveProgress(laptop.storage, { items: { "w:7": grade(Rating.Good, T1) } });
+    saveProgress(phone.storage, { items: { "w:7": grade(Rating.Know, T2) } });
+    saveProgress(laptop.storage, { items: { "w:7": grade(Rating.Know, T1) } });
     await syncNow(phone);
     await syncNow(laptop);
-    expect(loadProgress(laptop.storage).items["w:7"]).toEqual(grade(Rating.Easy, T2));
+    expect(loadProgress(laptop.storage).items["w:7"]).toEqual(grade(Rating.Know, T2));
   });
 
   it("does not let a new device's default settings replace the learner's", async () => {
     const laptop = device();
-    saveSettings(laptop.storage, { newPerDay: 10, newGrammarPerDay: 2, autoplayAudio: true, typeAnswers: false });
+    saveSettings(laptop.storage, { autoplayAudio: true, typeAnswers: true });
     await syncNow(laptop);
     const phone = device();
     await syncNow(phone);
-    expect(loadSettings(phone.storage).newPerDay).toBe(10);
+    expect(loadSettings(phone.storage).typeAnswers).toBe(true);
   });
 
   it("keeps working offline and sends the changes once back online", async () => {
     const shared = device();
     await syncNow(shared);
     const offline = { ...device("offline"), storage: shared.storage };
-    saveProgress(offline.storage, { items: { "w:9": grade(Rating.Good, T1) } });
+    saveProgress(offline.storage, { items: { "w:9": grade(Rating.Know, T1) } });
     expect(await syncNow(offline)).toBe("offline");
     expect(loadProgress(offline.storage).items["w:9"]).toBeDefined();
     expect(pendingOps(offline.storage)).toHaveLength(1);
@@ -96,7 +96,7 @@ describe("syncNow", () => {
 
   it("refills a new, empty database from a device that already synced elsewhere", async () => {
     const laptop = device();
-    saveProgress(laptop.storage, { items: { "w:7": grade(Rating.Good, T1) } });
+    saveProgress(laptop.storage, { items: { "w:7": grade(Rating.Know, T1) } });
     await syncNow(laptop);
     db = await pgliteDb(); // the database is replaced by an empty one
     await migrate(db);
@@ -109,7 +109,7 @@ describe("syncNow", () => {
 
   it("reports an expired session without touching local data", async () => {
     const d = device("signed-out");
-    saveProgress(d.storage, { items: { "w:7": grade(Rating.Good, T1) } });
+    saveProgress(d.storage, { items: { "w:7": grade(Rating.Know, T1) } });
     expect(await syncNow(d)).toBe("signed-out");
     expect(loadProgress(d.storage).items["w:7"]).toBeDefined();
   });
@@ -118,18 +118,18 @@ describe("syncNow", () => {
 describe("outbox", () => {
   it("queues only the items that changed", () => {
     const d = device();
-    saveProgress(d.storage, { items: { "w:1": grade(Rating.Good, T1), "w:2": grade(Rating.Good, T1) } });
+    saveProgress(d.storage, { items: { "w:1": grade(Rating.Know, T1), "w:2": grade(Rating.Know, T1) } });
     const before = pendingOps(d.storage).length;
-    saveProgress(d.storage, { items: { "w:1": grade(Rating.Good, T1), "w:2": grade(Rating.Easy, T2) } });
+    saveProgress(d.storage, { items: { "w:1": grade(Rating.Know, T1), "w:2": grade(Rating.Know, T2) } });
     const ops = pendingOps(d.storage);
     expect(before).toBe(2);
     expect(ops.filter((o) => o.type === "item")).toHaveLength(2); // w:2's newer write replaced its queued one
-    expect(ops.find((o) => o.type === "item" && o.key === "w:2")).toMatchObject({ schedule: grade(Rating.Easy, T2) });
+    expect(ops.find((o) => o.type === "item" && o.key === "w:2")).toMatchObject({ schedule: grade(Rating.Know, T2) });
   });
 
   it("empties the outbox once sent", async () => {
     const d = device();
-    saveProgress(d.storage, { items: { "w:1": grade(Rating.Good, T1) } });
+    saveProgress(d.storage, { items: { "w:1": grade(Rating.Know, T1) } });
     expect(await flush(d)).toBe("synced");
     expect(pendingOps(d.storage)).toEqual([]);
   });

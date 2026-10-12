@@ -13,13 +13,12 @@ export const ItemScheduleSchema = z.object({
   due: iso,
   state: z.enum(["new", "learning", "review"]),
   reps: z.number().int().min(0),
-  easyHits: z.number().int().min(0),
-  turn: z.number().int().min(0),
+  streak: z.number().int().min(0),
   last_review: iso.optional(),
   introducedOn: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
 });
 
-export const ReviewEntrySchema = z.object({ key: z.string().max(100), rating: z.number().int().min(1).max(4), at: iso });
+export const ReviewEntrySchema = z.object({ key: z.string().max(100), rating: z.number().int().min(1).max(2), at: iso });
 
 export const MistakeSchema = z.object({
   id: z.string().max(100),
@@ -31,8 +30,6 @@ export const MistakeSchema = z.object({
 });
 
 export const SettingsSchema = z.object({
-  newPerDay: z.number().int().min(0).max(500),
-  newGrammarPerDay: z.number().int().min(0).max(500),
   autoplayAudio: z.boolean(),
   typeAnswers: z.boolean(),
 });

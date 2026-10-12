@@ -25,28 +25,36 @@ key is set. Check the key with `npx tsx --env-file=.env.local scripts/check-clau
 
 ## Flashcards
 
+Tap **New session** and choose what to study (Words, Sentences, Grammar, Verbs or your chat Mistakes,
+filtered by level, topic, direction or tense) and how many cards: 10–80, or **All**.
+
+- **→ / "I know it"**: the card leaves the session.
+- **← / "I don't know it"**: the answer is shown (if it wasn't already), then the card is shuffled back
+  into the rest of the deck.
+- **Space** (or tapping the card) flips it.
+
+When the deck is empty the session is complete; you can go over just the cards you missed, or start a new
+session. A session survives switching tabs.
+
+Every answer is remembered per word, grammar point or verb tense, so new sessions are picked in this order:
+cards you missed last time, words you added from a story or chat, known cards due again (1, 3, 7, 14, 30,
+then 60 days after each "know"), new cards in study order (A1 before A2, by topic), and finally known cards
+not yet due. The chosen cards are shuffled.
+
 Card types (keys in `src/lib/deck.ts`):
 
-| Card | Front → back | Unlocks |
-|---|---|---|
-| Word | Português (nouns with o/a) → meaning, example | in order: A1 before A2, grouped by topic |
-| Word · English → Português | meaning → word | when the word card graduates |
-| Sentence | example sentence → English | when the word card graduates |
-| Sentence · English → Português | English → the Portuguese sentence | when the sentence card graduates |
-| Grammar | pattern + English → Portuguese example (rotates through examples) | when 70% of its example words are introduced |
-| Grammar · fix | typical mistake → correction + reason | when the grammar card graduates |
-| Conjugation | infinitive + tense + person → form, with the full table on the back | present once the verb is known; then pretérito perfeito, then imperfeito |
-| From your chat | your mistake → correction | immediately, outside the quota |
+| Card | Front → back |
+|---|---|
+| Word | Português (nouns with o/a) → meaning, example; or English → Português |
+| Sentence | example sentence → English; or English → Português |
+| Grammar | pattern + English → Portuguese example (rotates through examples); or a typical mistake → correction |
+| Conjugation | infinitive + tense + person → form, with the full table on the back |
+| From your chat | your mistake → correction |
 
-- **Daily**: due cards first, then new words and practice items (grammar points and verb tenses, taking
-  turns), each with its own daily quota, then missed cards a few minutes from due.
-- **Cram**: Words / Sentences (by level, topic, direction), Grammar, Verbs (by level and tense) or Mistakes.
-  Missed cards come back 3 cards later; cram never changes the schedule.
-- **Typed answers** ignore case and punctuation; nouns are accepted with or without the article and verb
-  forms with or without the pronoun. An answer that is right apart from accents is flagged "check the
-  accents" rather than marked correct.
+- **Typed answers** (settings) ignore case and punctuation; nouns are accepted with or without the article
+  and verb forms with or without the pronoun. An answer that is right apart from accents is flagged "check
+  the accents" rather than marked correct.
 - Audio uses the browser's pt-BR voice.
-- Keyboard: Space/Enter reveals, then 1–4 grades (Space = Good).
 
 ## Reading
 

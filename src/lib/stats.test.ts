@@ -3,7 +3,7 @@ import { reviewedOn, streak } from "./stats";
 
 // Local-time timestamps so the tests don't depend on the machine's timezone.
 const at = (y: number, m: number, d: number) => new Date(y, m - 1, d, 12).toISOString();
-const review = (y: number, m: number, d: number) => ({ key: "w:1:r", rating: 3, at: at(y, m, d) });
+const review = (y: number, m: number, d: number) => ({ key: "w:1:r", rating: 2, at: at(y, m, d) });
 
 describe("streak", () => {
   it("is zero with no reviews", () => {

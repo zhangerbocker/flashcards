@@ -19,7 +19,7 @@ const post = (body: unknown) => new Request("http://localhost/api", { method: "P
 
 describe("sync and state", () => {
   it("returns what a device synced", async () => {
-    const schedule = gradeItem(undefined, Rating.Good, NOW, "2026-10-08");
+    const schedule = gradeItem(undefined, Rating.Know, NOW, "2026-10-08");
     const res = await syncHandler(async () => db)(post({ ops: [{ type: "item", key: "w:7", schedule }] }));
     expect(await res.json()).toEqual({ applied: 1 });
     const state = await (await stateHandler(async () => db)()).json();
@@ -27,7 +27,7 @@ describe("sync and state", () => {
   });
 
   it("rejects a malformed op without applying any of the batch", async () => {
-    const schedule = gradeItem(undefined, Rating.Good, NOW, "2026-10-08");
+    const schedule = gradeItem(undefined, Rating.Know, NOW, "2026-10-08");
     const res = await syncHandler(async () => db)(
       post({ ops: [{ type: "item", key: "w:7", schedule }, { type: "item", key: "w:8", schedule: { due: "soon" } }] }),
     );
@@ -37,7 +37,7 @@ describe("sync and state", () => {
   });
 
   it("rejects item keys that aren't study items", async () => {
-    const schedule = gradeItem(undefined, Rating.Good, NOW, "2026-10-08");
+    const schedule = gradeItem(undefined, Rating.Know, NOW, "2026-10-08");
     const res = await syncHandler(async () => db)(post({ ops: [{ type: "item", key: "x'; DROP TABLE items", schedule }] }));
     expect(res.status).toBe(400);
   });

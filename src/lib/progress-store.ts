@@ -9,15 +9,11 @@ export interface KeyValueStorage {
 }
 
 export interface Settings {
-  newPerDay: number;
-  newGrammarPerDay: number;
   autoplayAudio: boolean;
   typeAnswers: boolean;
 }
 
 export const DEFAULT_SETTINGS: Settings = {
-  newPerDay: 30,
-  newGrammarPerDay: 5,
   autoplayAudio: false,
   typeAnswers: false,
 };
@@ -74,18 +70,12 @@ export function saveProgress(storage: KeyValueStorage, progress: Progress): void
   }
 }
 
-function intInRange(value: unknown, min: number, max: number): value is number {
-  return typeof value === "number" && Number.isInteger(value) && value >= min && value <= max;
-}
-
 /** Loads settings, falling back to the default for any missing or invalid field. */
 export function loadSettings(storage: KeyValueStorage): Settings {
   const value = readJson(storage, SETTINGS_KEY);
   if (typeof value !== "object" || value === null) return DEFAULT_SETTINGS;
   const s = value as Partial<Record<keyof Settings, unknown>>;
   return {
-    newPerDay: intInRange(s.newPerDay, 0, 500) ? s.newPerDay : DEFAULT_SETTINGS.newPerDay,
-    newGrammarPerDay: intInRange(s.newGrammarPerDay, 0, 500) ? s.newGrammarPerDay : DEFAULT_SETTINGS.newGrammarPerDay,
     autoplayAudio: typeof s.autoplayAudio === "boolean" ? s.autoplayAudio : DEFAULT_SETTINGS.autoplayAudio,
     typeAnswers: typeof s.typeAnswers === "boolean" ? s.typeAnswers : DEFAULT_SETTINGS.typeAnswers,
   };

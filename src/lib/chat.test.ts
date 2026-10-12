@@ -46,9 +46,9 @@ describe("chooseTargetWords", () => {
   it("puts words being learned first, then due ones, then studied and new words from the scenario's topics", () => {
     const progress: Progress = {
       items: {
-        "w:4": { ...gradeItem(undefined, Rating.Good, NOW, TODAY), due: "2026-10-08T00:00:00Z" },
-        "w:1": gradeItem(undefined, Rating.Again, NOW, TODAY),
-        "w:2": { ...gradeItem(undefined, Rating.Easy, NOW, TODAY), due: "2026-12-01T00:00:00Z" },
+        "w:4": { ...gradeItem(undefined, Rating.Know, NOW, TODAY), due: "2026-10-08T00:00:00Z" },
+        "w:1": gradeItem(undefined, Rating.DontKnow, NOW, TODAY),
+        "w:2": { ...gradeItem(undefined, Rating.Know, NOW, TODAY), due: "2026-12-01T00:00:00Z" },
       },
     };
     expect(chooseTargetWords(progress, words, 1, cafe, NOW).map((w) => w.id)).toEqual([1, 4, 2, 5]);

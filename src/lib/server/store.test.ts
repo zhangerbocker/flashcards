@@ -6,7 +6,7 @@ import { applyOps, failedLoginsSince, loadState, recordFailedLogin } from "./sto
 
 const T1 = new Date("2026-10-08T12:00:00.000Z");
 const T2 = new Date("2026-10-09T12:00:00.000Z");
-const reviewed = (at: Date, rating: Grade = Rating.Good) => gradeItem(undefined, rating, at, "2026-10-08");
+const reviewed = (at: Date, rating: Grade = Rating.Know) => gradeItem(undefined, rating, at, "2026-10-08");
 
 let db: Db;
 beforeEach(async () => {
@@ -20,7 +20,7 @@ describe("applyOps / loadState", () => {
   });
 
   it("keeps the most recently reviewed schedule, whichever device sends last", async () => {
-    const newer = reviewed(T2, Rating.Easy);
+    const newer = reviewed(T2, Rating.Know);
     const older = reviewed(T1);
     await applyOps(db, [{ type: "item", key: "w:7", schedule: newer }]);
     await applyOps(db, [{ type: "item", key: "w:7", schedule: older }]);
@@ -39,23 +39,23 @@ describe("applyOps / loadState", () => {
   it("can resend a whole batch without duplicating anything", async () => {
     const ops: SyncOp[] = [
       { type: "item", key: "w:7", schedule: reviewed(T1) },
-      { type: "review", entry: { key: "w:7:r", rating: 3, at: T1.toISOString() } },
+      { type: "review", entry: { key: "w:7:r", rating: 2, at: T1.toISOString() } },
       { type: "mistake", mistake: { id: "m1", wrong: "a", right: "b", reason: "c", createdAt: "2026-10-08" } },
       { type: "read", id: "h1-time-1" },
-      { type: "settings", settings: { newPerDay: 20, newGrammarPerDay: 3, autoplayAudio: false, typeAnswers: true } },
+      { type: "settings", settings: { autoplayAudio: false, typeAnswers: true } },
     ];
     await applyOps(db, ops);
     await applyOps(db, ops);
     const state = await loadState(db);
-    expect(state.reviews).toEqual([{ key: "w:7:r", rating: 3, at: T1.toISOString() }]);
+    expect(state.reviews).toEqual([{ key: "w:7:r", rating: 2, at: T1.toISOString() }]);
     expect(state.mistakes).toHaveLength(1);
     expect(state.readIds).toEqual(["h1-time-1"]);
-    expect(state.settings).toEqual({ newPerDay: 20, newGrammarPerDay: 3, autoplayAudio: false, typeAnswers: true });
+    expect(state.settings).toEqual({ autoplayAudio: false, typeAnswers: true });
   });
 
   it("returns reviews oldest first", async () => {
     await applyOps(db, [
-      { type: "review", entry: { key: "w:1:r", rating: 3, at: T2.toISOString() } },
+      { type: "review", entry: { key: "w:1:r", rating: 2, at: T2.toISOString() } },
       { type: "review", entry: { key: "w:2:r", rating: 1, at: T1.toISOString() } },
     ]);
     expect((await loadState(db)).reviews.map((r) => r.key)).toEqual(["w:2:r", "w:1:r"]);
