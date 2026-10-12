@@ -11,7 +11,7 @@ export function ChatSetup({ starting, onStart }: { starting: boolean; onStart: (
   return (
     <div className="flex flex-col gap-4">
       <div className="flex items-center justify-between">
-        <h1 className="text-lg font-semibold">Chat</h1>
+        <h1 className="font-pt text-3xl leading-tight">Chat</h1>
         <div className="flex rounded-full bg-stone-200 p-1 text-sm dark:bg-stone-800">
           {levels.map((l) => (
             <button
@@ -34,7 +34,7 @@ export function ChatSetup({ starting, onStart }: { starting: boolean; onStart: (
               type="button"
               disabled={starting}
               onClick={() => onStart(level, s.id)}
-              className="w-full rounded-2xl border border-stone-200 p-4 text-left hover:border-red-300 disabled:opacity-50 dark:border-stone-800 dark:hover:border-red-900"
+              className="w-full rounded-[20px] border border-stone-200 bg-white p-4 text-left shadow-[0_30px_60px_-44px_rgba(27,25,22,0.5)] transition hover:-translate-y-0.5 hover:border-red-700 disabled:opacity-50 dark:border-stone-800 dark:bg-stone-900 dark:hover:border-red-400"
             >
               <span className="block font-medium">{s.title}</span>
               <span className="block text-sm text-stone-500">{s.blurb}</span>

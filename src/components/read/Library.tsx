@@ -13,7 +13,7 @@ function StoryCard({ story, share, read }: { story: Story; share: number; read: 
   return (
     <Link
       href={`/read/${story.id}`}
-      className="flex items-center justify-between gap-3 rounded-2xl border border-stone-200 bg-white px-4 py-3 hover:border-stone-400 dark:border-stone-800 dark:bg-stone-900"
+      className="flex items-center justify-between gap-3 rounded-[20px] border border-stone-200 bg-white px-4 py-3 shadow-[0_30px_60px_-44px_rgba(27,25,22,0.5)] transition hover:-translate-y-0.5 hover:border-red-700 dark:border-stone-800 dark:bg-stone-900"
     >
       <span className="min-w-0">
         <span className="font-pt block truncate text-lg">{story.title}</span>
@@ -68,7 +68,7 @@ export function Library() {
   return (
     <div className="flex flex-col gap-5">
       <header className="flex items-center justify-between">
-        <h1 className="text-lg font-semibold">Reading</h1>
+        <h1 className="font-pt text-3xl leading-tight">Reading</h1>
         <div className="flex rounded-full bg-stone-200 p-1 text-sm dark:bg-stone-800">
           {levels.map((l) => (
             <button

@@ -9,7 +9,7 @@ import { findWord, LEVEL_NAMES, withArticle, WORDS, type Word } from "@/lib/word
 function Section({ title, hint, children }: { title: string; hint?: string; children: ReactNode }) {
   return (
     <section className="flex flex-col gap-2">
-      <h2 className="text-sm font-semibold uppercase tracking-wide text-stone-500">{title}</h2>
+      <h2 className="font-mono text-[11px] font-medium uppercase tracking-[0.18em] text-red-700 dark:text-red-400">{title}</h2>
       {hint && <p className="-mt-1 text-xs text-stone-500">{hint}</p>}
       {children}
     </section>
@@ -69,7 +69,7 @@ export function ChatSummaryView({
   return (
     <div className="flex flex-col gap-6">
       <header>
-        <h1 className="text-lg font-semibold">Chat summary</h1>
+        <h1 className="font-pt text-3xl leading-tight">Chat summary</h1>
         <p className="text-sm text-stone-500">
           {title} · {LEVEL_NAMES[conversation.level]}
         </p>
@@ -147,10 +147,10 @@ export function ChatSummaryView({
       )}
 
       <div className="grid grid-cols-2 gap-2">
-        <button type="button" onClick={onKeepChatting} className="rounded-2xl border border-stone-300 py-3 font-medium dark:border-stone-700">
+        <button type="button" onClick={onKeepChatting} className="rounded-full border border-stone-300 py-3 font-medium hover:border-stone-700 dark:hover:border-stone-300 dark:border-stone-700">
           Keep chatting
         </button>
-        <button type="button" onClick={onNewChat} className="rounded-2xl bg-stone-900 py-3 font-medium text-white dark:bg-stone-100 dark:text-stone-900">
+        <button type="button" onClick={onNewChat} className="rounded-full py-3 font-medium bg-red-700 text-white hover:bg-red-800 dark:bg-red-500 dark:text-white dark:hover:bg-red-400">
           New chat
         </button>
       </div>

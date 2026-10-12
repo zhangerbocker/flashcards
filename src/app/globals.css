@@ -3,12 +3,108 @@
 /* Dark mode follows the `dark` class on <html> (set from the Theme setting), not only the OS preference. */
 @custom-variant dark (&:where(.dark, .dark *));
 
+/*
+ * "Ink & paper", shared with gxzhang.com: warm paper and ink in place of Tailwind's greys, and the
+ * seal red as the accent. Components keep using stone / red / emerald / amber / rose class names;
+ * these scales redefine them, so light and dark mode both pick up the palette.
+ *   paper #F3EDE1 · paper-2 #EAE2D3 · card #FBF7EF · ink #1B1916 · ink-2 #423D36 · muted #766E62
+ *   seal #C23B22 · seal-dk #9A2C17 · seal-sf #F3DCD2 · dark: paper #14120F · card #221E19 · seal #E0563A
+ */
 @theme {
-  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-  --font-pt: ui-serif, "Iowan Old Style", Georgia, "Times New Roman", serif;
+  --font-sans: var(--font-inter), "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  /* Portuguese text (cards, stories, chat) in the site's display serif. */
+  --font-pt: var(--font-cormorant), "Cormorant Garamond", "Iowan Old Style", Georgia, serif;
+  --font-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+
+  --color-white: #fbf7ef; /* card */
+  --color-black: #1b1916; /* ink */
+
+  /* Paper (light end) to ink (dark end). */
+  --color-stone-50: #f3ede1;
+  --color-stone-100: #eae2d3;
+  --color-stone-200: #ddd4c3;
+  --color-stone-300: #c9bfad;
+  --color-stone-400: #9c9283;
+  --color-stone-500: #766e62;
+  --color-stone-600: #5a534a;
+  --color-stone-700: #423d36;
+  --color-stone-800: #2e2a25;
+  --color-stone-900: #221e19;
+  --color-stone-950: #14120f;
+
+  /* Seal red. */
+  --color-red-50: #f8ebe5;
+  --color-red-100: #f3dcd2;
+  --color-red-200: #ebbfae;
+  --color-red-300: #e39a83;
+  --color-red-400: #e0563a;
+  --color-red-500: #d14a2e;
+  --color-red-600: #c23b22;
+  --color-red-700: #c23b22;
+  --color-red-800: #9a2c17;
+  --color-red-900: #5a2014;
+  --color-red-950: #3a1e16;
+
+  /* "Don't know" buttons: a softer seal. */
+  --color-rose-50: #f8ebe5;
+  --color-rose-100: #f3dcd2;
+  --color-rose-200: #ebc9bb;
+  --color-rose-800: #9a2c17;
+  --color-rose-900: #4a241a;
+  --color-rose-950: #2b1a14;
+
+  /* Correct / "know": a muted sage that sits with the paper. */
+  --color-emerald-50: #eef1e6;
+  --color-emerald-100: #e1e8d6;
+  --color-emerald-200: #c8d4b8;
+  --color-emerald-300: #a9bd95;
+  --color-emerald-400: #8fa878;
+  --color-emerald-500: #6d8a59;
+  --color-emerald-600: #56724a;
+  --color-emerald-700: #46603c;
+  --color-emerald-800: #374c30;
+  --color-emerald-900: #26341f;
+  --color-emerald-950: #1a2416;
+
+  /* Highlights and "almost": warm ochre. */
+  --color-amber-50: #f7efdc;
+  --color-amber-100: #f1e3c2;
+  --color-amber-200: #e8d09a;
+  --color-amber-300: #dbb873;
+  --color-amber-500: #c08a2d;
+  --color-amber-700: #8a6320;
+  --color-amber-800: #6f4f1a;
+  --color-amber-900: #3d2d12;
 }
 
 body {
   font-family: var(--font-sans);
   -webkit-tap-highlight-color: transparent;
+}
+
+/* Faint paper fibre, as on gxzhang.com: drawn once and tiled behind everything. */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  opacity: 0.5;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .45 0 0 0 0 .38 0 0 0 0 .28 0 0 0 .07 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+::selection {
+  background: var(--color-red-700);
+  color: #fff;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-red-700);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+/* Cormorant is a display serif: a little weight keeps Portuguese text crisp at reading sizes. */
+.font-pt {
+  font-weight: 500;
 }

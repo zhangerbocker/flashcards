@@ -148,7 +148,7 @@ export function Reader({ id }: { id: string }) {
           setRead(true);
         }}
         disabled={read}
-        className="rounded-2xl bg-stone-900 py-3 font-medium text-white disabled:opacity-60 dark:bg-stone-100 dark:text-stone-900"
+        className="rounded-full py-3 font-medium bg-red-700 text-white hover:bg-red-800 dark:bg-red-500 dark:text-white dark:hover:bg-red-400 disabled:opacity-60"
       >
         {read ? "Marked as read" : "Mark as read"}
       </button>

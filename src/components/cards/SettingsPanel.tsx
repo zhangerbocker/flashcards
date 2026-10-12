@@ -16,7 +16,7 @@ function Toggle({ label, hint, checked, onChange }: { label: string; hint: strin
 
 export function SettingsPanel({ settings, onChange }: { settings: Settings; onChange: (s: Settings) => void }) {
   return (
-    <div className="flex flex-col gap-3 rounded-2xl border border-stone-200 p-4 dark:border-stone-800">
+    <div className="flex flex-col gap-3 rounded-[20px] border border-stone-200 bg-white p-4 dark:border-stone-800 dark:bg-stone-900">
       <Toggle
         label="Type answers"
         hint="Type the Portuguese on English → Português, grammar and verb cards, then check it."
