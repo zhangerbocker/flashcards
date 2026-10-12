@@ -61,7 +61,8 @@ export function CardsApp() {
   const [showSettings, setShowSettings] = useState(false);
 
   const currentKey = !showSetup ? session?.queue[0] : undefined;
-  const card = currentKey ? cardContent(currentKey, deck) : null;
+  // Grammar cards rotate through their examples by how often the item has been answered.
+  const card = currentKey ? cardContent(currentKey, deck, progress.items[itemOfCard(currentKey)]?.reps ?? 0) : null;
   const isNew = currentKey ? (progress.items[itemOfCard(currentKey)]?.state ?? "new") === "new" : false;
 
   const updateSession = useCallback((next: Session | null) => {
@@ -96,25 +97,27 @@ export function CardsApp() {
     [progress],
   );
 
+  /** Records the miss and shuffles the card back into the deck. */
+  const reshuffle = useCallback(() => {
+    if (!session || !currentKey) return;
+    record(currentKey, Rating.DontKnow);
+    updateSession(markMissed(session, Math.random));
+  }, [session, currentKey, record, updateSession]);
+
   const know = useCallback(() => {
     if (!session || !currentKey) return;
-    if (missShown) return updateSession(markMissed(session, Math.random));
+    if (missShown) return reshuffle();
     record(currentKey, Rating.Know);
     updateSession(markKnown(session));
-  }, [session, currentKey, missShown, record, updateSession]);
+  }, [session, currentKey, missShown, record, reshuffle, updateSession]);
 
   const dontKnow = useCallback(() => {
     if (!session || !currentKey) return;
-    if (missShown) return updateSession(markMissed(session, Math.random));
-    record(currentKey, Rating.DontKnow);
-    if (!revealed) {
-      // Show the answer before the card goes back into the deck.
-      reveal();
-      setMissShown(true);
-      return;
-    }
-    updateSession(markMissed(session, Math.random));
-  }, [session, currentKey, missShown, revealed, record, reveal, updateSession]);
+    if (revealed) return reshuffle();
+    // Show the answer before the card goes back into the deck; the next action moves on.
+    reveal();
+    setMissShown(true);
+  }, [session, currentKey, revealed, reshuffle, reveal]);
 
   useEffect(() => {
     function onKey(e: KeyboardEvent) {
