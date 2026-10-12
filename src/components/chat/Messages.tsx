@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Correction } from "../Correction";
-import type { MessageCheck } from "@/lib/chat";
+import { countedChanges, type MessageCheck } from "@/lib/chat";
 import type { Word } from "@/lib/words";
 
 export function PartnerMessage({ text, en }: { text: string; en: string }) {
@@ -34,18 +34,20 @@ export interface GapWord {
 export function UserMessage({
   text,
   check,
+  accentsOptional,
   gapWord,
   onAddWord,
 }: {
   text: string;
   check?: MessageCheck;
+  accentsOptional: boolean;
   gapWord: (pt: string) => GapWord;
   onAddWord: (wordId: number) => void;
 }) {
   return (
     <div className="flex max-w-[85%] flex-col items-end gap-1.5 self-end">
       <p className="font-pt rounded-2xl rounded-tr-sm bg-red-700 px-4 py-2.5 text-lg leading-relaxed text-white dark:bg-red-600">{text}</p>
-      {check && <CheckCard text={text} check={check} gapWord={gapWord} onAddWord={onAddWord} />}
+      {check && <CheckCard text={text} check={check} accentsOptional={accentsOptional} gapWord={gapWord} onAddWord={onAddWord} />}
     </div>
   );
 }
@@ -53,25 +55,34 @@ export function UserMessage({
 function CheckCard({
   text,
   check,
+  accentsOptional,
   gapWord,
   onAddWord,
 }: {
   text: string;
   check: MessageCheck;
+  accentsOptional: boolean;
   gapWord: (pt: string) => GapWord;
   onAddWord: (wordId: number) => void;
 }) {
   if (check.changes.length === 0 && check.gaps.length === 0) {
     return <p className="text-xs text-emerald-700 dark:text-emerald-400">✓ Looks good</p>;
   }
+  const counted = countedChanges(check, accentsOptional);
+  const accentOnly = check.changes.length > 0 && counted.length === 0;
   return (
     <div className="w-full rounded-2xl border border-stone-200 bg-stone-50 p-3 text-sm dark:border-stone-800 dark:bg-stone-900/60">
-      {check.changes.length > 0 ? (
+      {accentOnly ? (
+        <>
+          <Correction wrong={text} right={check.corrected} className="text-lg" />
+          <p className="mt-1 text-emerald-700 dark:text-emerald-400">✓ Looks good: only accents were missing (underlined)</p>
+        </>
+      ) : check.changes.length > 0 ? (
         <>
           <Correction wrong={text} right={check.corrected} className="text-lg" />
           <p className="mt-1 text-stone-600 dark:text-stone-300">{check.correctedEn}</p>
           <ul className="mt-2 flex flex-col gap-1">
-            {check.changes.map((c, i) => (
+            {counted.map((c, i) => (
               <li key={i}>
                 <span className="font-pt">
                   <del className="text-red-600 dark:text-red-400">{c.from}</del> → <span className="text-emerald-700 dark:text-emerald-400">{c.to}</span>
@@ -80,7 +91,10 @@ function CheckCard({
               </li>
             ))}
           </ul>
-          <p className="mt-2 text-xs text-stone-500">Added to your flashcards</p>
+          <p className="mt-2 text-xs text-stone-500">
+            Added to your flashcards
+            {counted.length < check.changes.length && " · underlined words only needed an accent (not counted)"}
+          </p>
         </>
       ) : (
         <p className="text-emerald-700 dark:text-emerald-400">✓ Grammar looks good</p>

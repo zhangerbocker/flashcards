@@ -40,9 +40,11 @@ export function AnswerInput({
 }
 
 /** Shows whether the typed answer matched, with a character diff when it didn't. */
-export function AnswerResult({ typed, expected }: { typed: string; expected: Expected }) {
+export function AnswerResult({ typed, expected, accentsOptional }: { typed: string; expected: Expected; accentsOptional: boolean }) {
   if (!typed.trim()) return null;
-  const result = checkAnswer(typed, expected.pt, expected.alternatives);
+  const check = checkAnswer(typed, expected.pt, expected.alternatives);
+  // With accents optional, an answer that only misses accents is correct (the spelling is still shown).
+  const result = accentsOptional && check.accentsOnly ? { ...check, correct: true } : check;
   const tone = result.correct ? "emerald" : result.accentsOnly ? "amber" : "red";
   const styles = {
     emerald: ["bg-emerald-50 dark:bg-emerald-900/30", "text-emerald-700 dark:text-emerald-300"],
@@ -54,6 +56,11 @@ export function AnswerResult({ typed, expected }: { typed: string; expected: Exp
       <p className={`text-sm font-medium ${styles[1]}`}>
         {result.correct ? "Correct" : result.accentsOnly ? "Almost: check the accents" : "Not quite"}
       </p>
+      {result.correct && result.accentsOnly && (
+        <p className="font-pt mt-1 text-lg">
+          {expected.pt} <span className="font-sans text-xs text-stone-500">with accents</span>
+        </p>
+      )}
       {!result.correct && (
         <>
           <p className="font-pt mt-1 text-xl">

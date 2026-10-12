@@ -33,6 +33,7 @@ export const SettingsSchema = z.object({
   autoplayAudio: z.boolean(),
   typeAnswers: z.boolean(),
   includeB1B2: z.boolean().default(false),
+  accentsOptional: z.boolean().default(true),
 });
 
 const StorySchema = z.custom<Story>((value) => {

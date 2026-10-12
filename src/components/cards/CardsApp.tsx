@@ -198,6 +198,7 @@ export function CardsApp() {
             revealed={revealed}
             isNew={isNew}
             typing={settings.typeAnswers}
+            accentsOptional={settings.accentsOptional}
             typed={typed}
             onTypedChange={setTyped}
             onReveal={reveal}

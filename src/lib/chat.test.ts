@@ -101,6 +101,14 @@ describe("mistakeFromTurn", () => {
     });
   });
 
+  it("leaves out accent-only fixes when accents are optional", () => {
+    const accent = { from: "cafe", to: "café", reason: "Accent on the final e." };
+    const gender = { from: "uma pão", to: "um pão", reason: "Pão is masculine." };
+    expect(mistakeFromTurn("Um cafe.", check([accent]), "m1", TODAY, true)).toBeNull();
+    expect(mistakeFromTurn("Um cafe.", check([accent]), "m1", TODAY, false)).not.toBeNull();
+    expect(mistakeFromTurn("Um cafe e uma pão.", check([accent, gender]), "m1", TODAY, true)?.reason).toBe("Pão is masculine.");
+  });
+
   it("makes nothing when the message needed no changes", () => {
     expect(mistakeFromTurn("Eu sou de Boston.", check([]), "m1", TODAY)).toBeNull();
   });

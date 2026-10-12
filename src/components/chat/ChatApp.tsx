@@ -20,12 +20,14 @@ import { itemKey } from "@/lib/deck";
 import { addMistake, loadProgress, localDay, saveProgress } from "@/lib/progress-store";
 import { newItem, type Progress } from "@/lib/srs";
 import { findWord, LEVEL_NAMES, WORDS, type Level } from "@/lib/words";
+import { useSettings } from "../useSettings";
 
 
 export function ChatApp() {
   // Rendered client-only (see ChatLoader), so browser storage is available at init.
   const [conversation, setConversation] = useState<Conversation | null>(() => loadConversation(window.localStorage));
   const [progress, setProgress] = useState<Progress>(() => loadProgress(window.localStorage));
+  const [{ accentsOptional }] = useSettings();
   const [draft, setDraft] = useState("");
   const [pending, setPending] = useState<string | null>(null);
   const [starting, setStarting] = useState(false);
@@ -76,7 +78,7 @@ export function ChatApp() {
     try {
       const turn = await sendMessage(request(conversation.level, conversation.scenario, conversation.messages, message));
       const now = new Date();
-      const mistake = mistakeFromTurn(message, turn.check, `chat-${now.getTime()}`, localDay(now));
+      const mistake = mistakeFromTurn(message, turn.check, `chat-${now.getTime()}`, localDay(now), accentsOptional);
       if (mistake) addMistake(window.localStorage, mistake);
       update({
         ...conversation,
@@ -142,6 +144,7 @@ export function ChatApp() {
         title={scenario.title}
         conversation={conversation}
         progress={progress}
+        accentsOptional={accentsOptional}
         onAddWords={addWords}
         onKeepChatting={() => update({ ...conversation, ended: false })}
         onNewChat={newChat}
@@ -171,12 +174,12 @@ export function ChatApp() {
           m.role === "partner" ? (
             <PartnerMessage key={i} text={m.text} en={m.en} />
           ) : (
-            <UserMessage key={i} text={m.text} check={m.check} gapWord={gapWord} onAddWord={addWord} />
+            <UserMessage key={i} text={m.text} check={m.check} accentsOptional={accentsOptional} gapWord={gapWord} onAddWord={addWord} />
           ),
         )}
         {pending !== null && (
           <>
-            <UserMessage text={pending} gapWord={gapWord} onAddWord={addWord} />
+            <UserMessage text={pending} accentsOptional={accentsOptional} gapWord={gapWord} onAddWord={addWord} />
             <p className="self-start text-sm text-stone-400">…</p>
           </>
         )}

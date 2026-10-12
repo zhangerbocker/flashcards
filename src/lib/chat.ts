@@ -1,4 +1,5 @@
 import { z } from "zod";
+import { sameButAccents } from "./answer";
 import { itemKey, type Mistake } from "./deck";
 import type { KeyValueStorage } from "./progress-store";
 import type { Progress } from "./srs";
@@ -182,15 +183,24 @@ export function recentHistory<T>(history: readonly T[], count = CONTEXT_MESSAGES
   return history.slice(Math.max(0, history.length - count));
 }
 
-/** A flashcard for a corrected message, or null when there was nothing to fix. */
-export function mistakeFromTurn(wrong: string, check: MessageCheck, id: string, createdAt: string): Mistake | null {
-  if (check.changes.length === 0) return null;
+/**
+ * The fixes that count as mistakes: all of them, or, when accents are optional, those that
+ * aren't just a missing or wrong accent (cafe → café).
+ */
+export function countedChanges(check: MessageCheck, accentsOptional: boolean): MessageCheck["changes"] {
+  return accentsOptional ? check.changes.filter((c) => !sameButAccents(c.from, c.to)) : check.changes;
+}
+
+/** A flashcard for a corrected message, or null when there was nothing (that counts) to fix. */
+export function mistakeFromTurn(wrong: string, check: MessageCheck, id: string, createdAt: string, accentsOptional = false): Mistake | null {
+  const changes = countedChanges(check, accentsOptional);
+  if (changes.length === 0) return null;
   return {
     id,
     wrong,
     right: check.corrected,
     en: check.correctedEn,
-    reason: check.changes.map((c) => c.reason).join(" "),
+    reason: changes.map((c) => c.reason).join(" "),
     createdAt,
   };
 }

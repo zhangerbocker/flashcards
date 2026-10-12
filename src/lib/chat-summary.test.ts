@@ -80,6 +80,12 @@ describe("summarizeChat", () => {
     expect(s.gaps).toEqual([gap]);
   });
 
+  it("counts a message that only missed accents as clean when accents are optional", () => {
+    const accentOnly = [user("Voce gosta de cafe?", check("Você gosta de café?", [{ from: "cafe", to: "café", reason: "Accent." }]))];
+    expect(summarizeChat(accentOnly, WORDS, NOBODY, true)).toMatchObject({ sent: 1, clean: 1, corrections: [] });
+    expect(summarizeChat(accentOnly, WORDS, NOBODY, false)).toMatchObject({ sent: 1, clean: 0 });
+  });
+
   it("is empty for a conversation with no messages from the learner", () => {
     const s = summarizeChat([partner("Oi!")], WORDS, NOBODY);
     expect([s.sent, s.clean, s.wordsUsedWell, s.corrections, s.gaps]).toEqual([0, 0, [], [], []]);

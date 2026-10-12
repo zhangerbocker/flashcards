@@ -9,12 +9,13 @@ interface FlashcardProps {
   revealed: boolean;
   isNew: boolean;
   typing: boolean;
+  accentsOptional: boolean;
   typed: string;
   onTypedChange: (value: string) => void;
   onReveal: () => void;
 }
 
-export function Flashcard({ card, revealed, isNew, typing, typed, onTypedChange, onReveal }: FlashcardProps) {
+export function Flashcard({ card, revealed, isNew, typing, accentsOptional, typed, onTypedChange, onReveal }: FlashcardProps) {
   const audio = revealed ? card.audio.back : card.audio.front;
   const showInput = typing && !revealed && card.answer !== undefined;
   return (
@@ -54,7 +55,7 @@ export function Flashcard({ card, revealed, isNew, typing, typed, onTypedChange,
           onSubmit={onReveal}
         />
       )}
-      {revealed && card.answer && <AnswerResult typed={typed} expected={card.answer} />}
+      {revealed && card.answer && <AnswerResult typed={typed} expected={card.answer} accentsOptional={accentsOptional} />}
       {!revealed && !showInput && <p className="text-sm text-stone-400">Tap to reveal</p>}
     </div>
   );

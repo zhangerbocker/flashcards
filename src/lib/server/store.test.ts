@@ -42,7 +42,7 @@ describe("applyOps / loadState", () => {
       { type: "review", entry: { key: "w:7:r", rating: 2, at: T1.toISOString() } },
       { type: "mistake", mistake: { id: "m1", wrong: "a", right: "b", reason: "c", createdAt: "2026-10-08" } },
       { type: "read", id: "h1-time-1" },
-      { type: "settings", settings: { autoplayAudio: false, typeAnswers: true, includeB1B2: true } },
+      { type: "settings", settings: { autoplayAudio: false, typeAnswers: true, includeB1B2: true, accentsOptional: false } },
     ];
     await applyOps(db, ops);
     await applyOps(db, ops);
@@ -50,7 +50,7 @@ describe("applyOps / loadState", () => {
     expect(state.reviews).toEqual([{ key: "w:7:r", rating: 2, at: T1.toISOString() }]);
     expect(state.mistakes).toHaveLength(1);
     expect(state.readIds).toEqual(["h1-time-1"]);
-    expect(state.settings).toEqual({ autoplayAudio: false, typeAnswers: true, includeB1B2: true });
+    expect(state.settings).toEqual({ autoplayAudio: false, typeAnswers: true, includeB1B2: true, accentsOptional: false });
   });
 
   it("returns reviews oldest first", async () => {

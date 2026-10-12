@@ -1,4 +1,4 @@
-import type { ChatMessage, MessageCheck } from "./chat";
+import { countedChanges, type ChatMessage, type MessageCheck } from "./chat";
 import { itemKey } from "./deck";
 import { buildLexicon, lookupForm, segment } from "./segment";
 import type { Progress } from "./srs";
@@ -22,7 +22,12 @@ export interface ChatSummary {
 const wordsOnly = (text: string) => lookupForm(text.replace(/[^\p{L}\p{M}\d]+/gu, " "));
 
 /** What a finished conversation showed about the learner's Portuguese; no model call needed. */
-export function summarizeChat(messages: readonly ChatMessage[], words: readonly Word[], progress: Progress): ChatSummary {
+export function summarizeChat(
+  messages: readonly ChatMessage[],
+  words: readonly Word[],
+  progress: Progress,
+  accentsOptional = false,
+): ChatSummary {
   const lexicon = buildLexicon(words);
   const byId = new Map(words.map((w) => [w.id, w]));
   const wordsIn = (text: string) => segment(text, lexicon).flatMap((t) => (t.kind === "word" && t.wordId !== undefined ? [t] : []));
@@ -51,7 +56,7 @@ export function summarizeChat(messages: readonly ChatMessage[], words: readonly 
     }
     if (!m.check) continue;
     sent++;
-    const { changes } = m.check;
+    const changes = countedChanges(m.check, accentsOptional);
     if (changes.length === 0) clean++;
     else corrections.push({ wrong: m.text, right: m.check.corrected, changes });
     for (const g of m.check.gaps) if (!gaps.has(g.pt)) gaps.set(g.pt, g);

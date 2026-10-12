@@ -51,8 +51,10 @@ Card types (keys in `src/lib/deck.ts`):
 | From your chat | your mistake → correction |
 
 - **Typed answers** (settings) ignore case and punctuation; nouns are accepted with or without the article
-  and verb forms with or without the pronoun. An answer that is right apart from accents is flagged "check
-  the accents" rather than marked correct.
+  and verb forms with or without the pronoun.
+- **Missing accents count as correct** (settings, on by default): a typed answer or chat message that only
+  misses accents (nao, cafe) counts as right, and the accented spelling is shown. Turn it off to have
+  accent slips flagged in cards and saved as chat mistakes.
 - Audio uses the browser's pt-BR voice.
 
 ## Reading

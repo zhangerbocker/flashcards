@@ -42,6 +42,7 @@ export function ChatSummaryView({
   title,
   conversation,
   progress,
+  accentsOptional,
   onAddWords,
   onKeepChatting,
   onNewChat,
@@ -49,12 +50,13 @@ export function ChatSummaryView({
   title: string;
   conversation: Conversation;
   progress: Progress;
+  accentsOptional: boolean;
   onAddWords: (wordIds: number[]) => void;
   onKeepChatting: () => void;
   onNewChat: () => void;
 }) {
   const onAddWord = (wordId: number) => onAddWords([wordId]);
-  const summary = summarizeChat(conversation.messages, WORDS.filter((w) => w.level <= conversation.level), progress);
+  const summary = summarizeChat(conversation.messages, WORDS.filter((w) => w.level <= conversation.level), progress, accentsOptional);
   // Words looked up that are in the word list (at this level) can go into the deck; others are just shown.
   const gapRows = summary.gaps.map((g) => {
     const word = findWord(g.pt);

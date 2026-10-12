@@ -1,9 +1,17 @@
 import { describe, expect, it } from "vitest";
-import { checkAnswer, diffSentences, stripAccents } from "./answer";
+import { checkAnswer, diffSentences, sameButAccents, stripAccents } from "./answer";
 
 describe("stripAccents", () => {
   it("removes accents and cedillas", () => {
     expect(stripAccents("Não, você começa às três")).toBe("Nao, voce comeca as tres");
+  });
+});
+
+describe("sameButAccents", () => {
+  it("compares ignoring accents, case and punctuation", () => {
+    expect(sameButAccents("cafe", "café")).toBe(true);
+    expect(sameButAccents("Ola!", "olá")).toBe(true);
+    expect(sameButAccents("uma pão", "um pão")).toBe(false);
   });
 });
 
@@ -53,6 +61,15 @@ describe("diffSentences", () => {
 
   it("shows the corrected form of words that differ only in case or punctuation", () => {
     expect(render("eu sou de boston", "Eu sou de Boston.")).toBe("Eu sou de Boston.");
+  });
+
+  it("marks words that only needed an accent, in their corrected spelling", () => {
+    expect(diffSentences("Ola! Um cafe, por favor", "Olá! Um café, por favor")).toEqual([
+      { text: "Olá! ", status: "accent" },
+      { text: "Um ", status: "same" },
+      { text: "café, ", status: "accent" },
+      { text: "por favor", status: "same" },
+    ]);
   });
 
   it("merges neighboring words with the same status", () => {

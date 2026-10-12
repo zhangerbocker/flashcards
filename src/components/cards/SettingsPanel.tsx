@@ -24,6 +24,12 @@ export function SettingsPanel({ settings, onChange }: { settings: Settings; onCh
         onChange={(v) => onChange({ ...settings, typeAnswers: v })}
       />
       <Toggle
+        label="Missing accents count as correct"
+        hint="Typed answers and chat messages without accents (nao, voce) count as right; the accented spelling is still shown, and chat doesn't save it as a mistake."
+        checked={settings.accentsOptional}
+        onChange={(v) => onChange({ ...settings, accentsOptional: v })}
+      />
+      <Toggle
         label="Play audio on reveal"
         hint="Reads the Portuguese aloud when you show the answer."
         checked={settings.autoplayAudio}

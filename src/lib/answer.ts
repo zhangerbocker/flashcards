@@ -13,7 +13,8 @@ export function stripAccents(text: string): string {
   return text.normalize("NFD").replace(/\p{M}/gu, "").normalize("NFC");
 }
 
-export type DiffPart = { text: string; status: "same" | "missing" | "extra" };
+/** "accent": the same word with different accents (cafe → café), shown in its corrected form. */
+export type DiffPart = { text: string; status: "same" | "missing" | "extra" | "accent" };
 
 export interface AnswerCheck {
   correct: boolean;
@@ -72,18 +73,29 @@ export function checkAnswer(typed: string, expected: string, alternatives: reado
 /** A word without surrounding punctuation, lowercased, for comparing sentence words. */
 const fold = (word: string) => word.normalize("NFC").toLowerCase().replace(/^[\p{P}]+|[\p{P}]+$/gu, "");
 
+/** Whether two words or phrases differ only in accents, case or punctuation (cafe / café). */
+export function sameButAccents(a: string, b: string): boolean {
+  const loose = (s: string) => stripAccents(normalize(s));
+  return loose(a) === loose(b);
+}
+
 /**
  * Word-level diff from a wrong sentence to its correction, for display. Words that differ
- * only in case or surrounding punctuation count as the same and show the corrected form.
+ * only in case or surrounding punctuation count as the same and show the corrected form;
+ * words that differ only in accents are "accent" parts, also in the corrected form.
  * Each part's text carries the space that follows it, so the parts join into a sentence;
  * neighboring words with the same status are merged into one part ("suco de laranja").
  */
 export function diffSentences(wrong: string, right: string): DiffPart[] {
   const words = (s: string) => s.normalize("NFC").trim().split(/\s+/).filter(Boolean);
   const corrected = words(right);
-  const diff = diffTokens(words(wrong), corrected, (a, b) => fold(a) === fold(b));
+  const diff = diffTokens(words(wrong), corrected, (a, b) => stripAccents(fold(a)) === stripAccents(fold(b)));
   let j = 0;
-  const parts = diff.map((d) => (d.status === "extra" ? d : { ...d, text: corrected[j++] }));
+  const parts = diff.map((d): DiffPart => {
+    if (d.status === "extra") return d;
+    const right = corrected[j++];
+    return { text: right, status: d.status === "same" && fold(d.text) !== fold(right) ? "accent" : d.status };
+  });
   const spaced = parts.map((d, i) => (i < parts.length - 1 ? { ...d, text: `${d.text} ` } : d));
   return spaced.reduce<DiffPart[]>((merged, d) => {
     const last = merged[merged.length - 1];

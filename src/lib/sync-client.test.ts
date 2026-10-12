@@ -71,7 +71,7 @@ describe("syncNow", () => {
 
   it("does not let a new device's default settings replace the learner's", async () => {
     const laptop = device();
-    saveSettings(laptop.storage, { autoplayAudio: true, typeAnswers: true, includeB1B2: false });
+    saveSettings(laptop.storage, { autoplayAudio: true, typeAnswers: true, includeB1B2: false, accentsOptional: true });
     await syncNow(laptop);
     const phone = device();
     await syncNow(phone);
