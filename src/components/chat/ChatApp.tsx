@@ -17,16 +17,16 @@ import {
   type Conversation,
 } from "@/lib/chat";
 import { itemKey } from "@/lib/deck";
-import { addMistake, loadProgress, localDay, saveProgress } from "@/lib/progress-store";
+import { addMistake, localDay, saveProgress } from "@/lib/progress-store";
 import { newItem, type Progress } from "@/lib/srs";
 import { findWord, LEVEL_NAMES, WORDS, type Level } from "@/lib/words";
-import { useSettings } from "../useSettings";
+import { useProgress, useSettings } from "../useSettings";
 
 
 export function ChatApp() {
   // Rendered client-only (see ChatLoader), so browser storage is available at init.
   const [conversation, setConversation] = useState<Conversation | null>(() => loadConversation(window.localStorage));
-  const [progress, setProgress] = useState<Progress>(() => loadProgress(window.localStorage));
+  const progress = useProgress();
   const [{ accentsOptional }] = useSettings();
   const [draft, setDraft] = useState("");
   const [pending, setPending] = useState<string | null>(null);
@@ -109,7 +109,6 @@ export function ChatApp() {
     if (added.length === 0) return;
     const updated: Progress = { items: { ...progress.items, ...Object.fromEntries(added.map((key) => [key, newItem(now, localDay(now))])) } };
     saveProgress(window.localStorage, updated);
-    setProgress(updated);
   }
   const addWord = (wordId: number) => addWords([wordId]);
 

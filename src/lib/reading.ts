@@ -1,6 +1,6 @@
 import rawStories from "../../data/stories.json";
 import { itemKey } from "./deck";
-import type { KeyValueStorage } from "./progress-store";
+import { notifyStorageChange, type KeyValueStorage } from "./progress-store";
 import type { Progress } from "./srs";
 import { parseStories, type Story } from "./story";
 import { enqueue } from "./sync-ops";
@@ -9,8 +9,8 @@ export const LIBRARY: Story[] = parseStories(rawStories);
 
 export type WordStatus = "known" | "learning" | "new";
 
-const CUSTOM_KEY = "pt.stories.v1";
-const READ_KEY = "pt.read.v1";
+export const CUSTOM_KEY = "pt.stories.v1";
+export const READ_KEY = "pt.read.v1";
 
 /** A word is known once it has been passed (in review), learning once it is being studied. */
 export function wordStatus(progress: Progress, wordId: number): WordStatus {
@@ -54,6 +54,7 @@ export function saveCustomStory(storage: KeyValueStorage, story: Story): Story[]
   const stories = [...loadCustomStories(storage).filter((s) => s.id !== story.id), story];
   storage.setItem(CUSTOM_KEY, JSON.stringify(stories));
   enqueue(storage, { type: "story", story });
+  notifyStorageChange();
   return stories;
 }
 
@@ -67,6 +68,7 @@ export function markRead(storage: KeyValueStorage, id: string): Set<string> {
   ids.add(id);
   storage.setItem(READ_KEY, JSON.stringify([...ids]));
   enqueue(storage, { type: "read", id });
+  notifyStorageChange();
   return ids;
 }
 
@@ -74,6 +76,7 @@ export function markRead(storage: KeyValueStorage, id: string): Set<string> {
 export function replaceReadingWithSynced(storage: KeyValueStorage, synced: { stories: Story[]; readIds: string[] }): void {
   storage.setItem(CUSTOM_KEY, JSON.stringify(synced.stories));
   storage.setItem(READ_KEY, JSON.stringify(synced.readIds));
+  notifyStorageChange();
 }
 
 export function findStory(id: string, custom: readonly Story[]): Story | undefined {

@@ -4,14 +4,12 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 import { Flashcard } from "./Flashcard";
 import { SessionSetup } from "./SessionSetup";
 import { SettingsPanel } from "./SettingsPanel";
-import { useActiveLevels, useSettings } from "../useSettings";
+import { useActiveLevels, useMistakes, useProgress, useSettings } from "../useSettings";
 import { cardContent } from "@/lib/card-content";
 import { itemKey, itemOfCard, matchingCards, type CardFilter, type Deck } from "@/lib/deck";
 import { GRAMMAR } from "@/lib/grammar";
 import {
   appendReview,
-  loadMistakes,
-  loadProgress,
   loadReviews,
   localDay,
   saveProgress,
@@ -41,11 +39,11 @@ function isTypingTarget(target: EventTarget | null): boolean {
 
 export function CardsApp() {
   // Rendered client-only (see CardsLoader), so browser storage is available at init.
-  const [progress, setProgress] = useState<Progress>(() => loadProgress(window.localStorage));
+  const progress = useProgress();
   const [settings, updateSettings] = useSettings();
   const levels = useActiveLevels();
   const [reviews, setReviews] = useState(() => loadReviews(window.localStorage));
-  const [mistakes] = useState(() => loadMistakes(window.localStorage));
+  const mistakes = useMistakes();
   // Only the levels switched on; cards of other levels stay out of new sessions.
   const deck: Deck = useMemo(
     () => ({
@@ -97,7 +95,6 @@ export function CardsApp() {
       const item = itemOfCard(key);
       const updated: Progress = { items: { ...progress.items, [item]: gradeItem(progress.items[item], rating, at, localDay(at)) } };
       saveProgress(window.localStorage, updated);
-      setProgress(updated);
       setReviews(appendReview(window.localStorage, { key, rating, at: at.toISOString() }));
     },
     [progress],

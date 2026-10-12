@@ -24,8 +24,16 @@ export const DEFAULT_SETTINGS: Settings = {
   accentsOptional: true,
 };
 
-/** Fired on window when settings are saved, so every screen can follow the level switch. */
-export const SETTINGS_EVENT = "pt:settings";
+/**
+ * Fired on window whenever study data or settings are saved here, so screens that stay
+ * mounted in the background (Next.js keeps recent routes alive) re-read them.
+ */
+export const STORAGE_EVENT = "pt:storage";
+
+/** Tells mounted screens that stored data changed. */
+export function notifyStorageChange(): void {
+  if (typeof globalThis.dispatchEvent === "function") globalThis.dispatchEvent(new Event(STORAGE_EVENT));
+}
 
 export interface ReviewEntry {
   key: string;
@@ -33,9 +41,9 @@ export interface ReviewEntry {
   at: string;
 }
 
-const PROGRESS_KEY = "pt.progress.v1";
-const SETTINGS_KEY = "pt.settings.v1";
-const MISTAKES_KEY = "pt.mistakes.v1";
+export const PROGRESS_KEY = "pt.progress.v1";
+export const SETTINGS_KEY = "pt.settings.v1";
+export const MISTAKES_KEY = "pt.mistakes.v1";
 const REVIEWS_KEY = "pt.reviews.v1";
 /** Keep the review log bounded; it only feeds streaks and today's counts. */
 const MAX_REVIEWS = 5000;
@@ -77,6 +85,7 @@ export function saveProgress(storage: KeyValueStorage, progress: Progress): void
   for (const [key, schedule] of Object.entries(progress.items)) {
     if (JSON.stringify(previous[key]) !== JSON.stringify(schedule)) enqueue(storage, { type: "item", key, schedule });
   }
+  notifyStorageChange();
 }
 
 /** Loads settings, falling back to the default for any missing or invalid field. */
@@ -95,7 +104,7 @@ export function loadSettings(storage: KeyValueStorage): Settings {
 export function saveSettings(storage: KeyValueStorage, settings: Settings): void {
   storage.setItem(SETTINGS_KEY, JSON.stringify(settings));
   enqueue(storage, { type: "settings", settings });
-  if (typeof globalThis.dispatchEvent === "function") globalThis.dispatchEvent(new Event(SETTINGS_EVENT));
+  notifyStorageChange();
 }
 
 /** Whether settings were ever saved on this device (rather than the defaults being in use). */
@@ -122,6 +131,7 @@ export function addMistake(storage: KeyValueStorage, mistake: Mistake): Mistake[
   const mistakes = [...loadMistakes(storage).filter((m) => m.id !== mistake.id), mistake];
   storage.setItem(MISTAKES_KEY, JSON.stringify(mistakes));
   enqueue(storage, { type: "mistake", mistake });
+  notifyStorageChange();
   return mistakes;
 }
 
@@ -154,6 +164,7 @@ export function replaceWithSynced(
   storage.setItem(REVIEWS_KEY, JSON.stringify(synced.reviews.slice(-MAX_REVIEWS)));
   storage.setItem(MISTAKES_KEY, JSON.stringify(synced.mistakes));
   if (synced.settings) storage.setItem(SETTINGS_KEY, JSON.stringify(synced.settings));
+  notifyStorageChange();
 }
 
 /** Local calendar day as YYYY-MM-DD; quotas and streaks reset at local midnight. */

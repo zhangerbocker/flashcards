@@ -6,7 +6,8 @@ import { BottomSheet } from "./BottomSheet";
 import { Questions } from "./Questions";
 import { itemKey } from "@/lib/deck";
 import { findStory, loadCustomStories, markRead, wordStatus } from "@/lib/reading";
-import { loadProgress, localDay, saveProgress } from "@/lib/progress-store";
+import { localDay, saveProgress } from "@/lib/progress-store";
+import { useProgress } from "../useSettings";
 import { newItem, type Progress } from "@/lib/srs";
 import type { StorySentence, StoryToken } from "@/lib/story";
 import { speakPortuguese } from "@/lib/speech";
@@ -22,7 +23,7 @@ function sentenceText(s: StorySentence): string {
 
 export function Reader({ id }: { id: string }) {
   const [story] = useState(() => findStory(id, loadCustomStories(window.localStorage)));
-  const [progress, setProgress] = useState<Progress>(() => loadProgress(window.localStorage));
+  const progress = useProgress();
   const [sheet, setSheet] = useState<Sheet>(null);
   const [read, setRead] = useState(false);
   const pressTimer = useRef<number | null>(null);
@@ -65,7 +66,6 @@ export function Reader({ id }: { id: string }) {
     if (progress.items[key]) return;
     const updated: Progress = { items: { ...progress.items, [key]: newItem(now, localDay(now)) } };
     saveProgress(window.localStorage, updated);
-    setProgress(updated);
   }
 
   return (

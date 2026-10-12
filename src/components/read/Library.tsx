@@ -3,12 +3,11 @@
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useState } from "react";
-import { knownShare, LIBRARY, loadCustomStories, loadReadIds, saveCustomStory } from "@/lib/reading";
-import { loadProgress } from "@/lib/progress-store";
+import { knownShare, LIBRARY, saveCustomStory } from "@/lib/reading";
 import type { Story } from "@/lib/story";
 import { TOPICS, type Topic } from "@/lib/topics";
 import { LEVEL_NAMES, type Level } from "@/lib/words";
-import { useActiveLevels } from "../useSettings";
+import { useActiveLevels, useCustomStories, useProgress, useReadIds } from "../useSettings";
 
 function StoryCard({ story, share, read }: { story: Story; share: number; read: boolean }) {
   return (
@@ -37,9 +36,9 @@ export function Library() {
   const [chosen, setLevel] = useState<Level>(1);
   // Falls back to A1 when the chosen level is switched off.
   const level = levels.includes(chosen) ? chosen : 1;
-  const [progress] = useState(() => loadProgress(window.localStorage));
-  const [readIds] = useState(() => loadReadIds(window.localStorage));
-  const [custom, setCustom] = useState(() => loadCustomStories(window.localStorage));
+  const progress = useProgress();
+  const readIds = useReadIds();
+  const custom = useCustomStories();
   const [generating, setGenerating] = useState<Topic | null>(null);
   const [error, setError] = useState<string | null>(null);
 
@@ -55,7 +54,7 @@ export function Library() {
       });
       const data = (await res.json()) as { story?: Story; error?: string };
       if (!res.ok || !data.story) throw new Error(data.error ?? `server returned ${res.status}`);
-      setCustom(saveCustomStory(window.localStorage, data.story));
+      saveCustomStory(window.localStorage, data.story);
       router.push(`/read/${data.story.id}`);
     } catch (err) {
       setError(err instanceof Error ? err.message : String(err));
