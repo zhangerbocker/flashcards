@@ -55,8 +55,6 @@ export function CardsApp() {
   });
   const [showSetup, setShowSetup] = useState(session === null);
   const [revealed, setRevealed] = useState(false);
-  /** The card was answered "don't know" before its answer was shown: it is showing now; the next action moves on. */
-  const [missShown, setMissShown] = useState(false);
   const [typed, setTyped] = useState("");
   const [showSettings, setShowSettings] = useState(false);
 
@@ -69,7 +67,6 @@ export function CardsApp() {
     saveSession(window.localStorage, next);
     setSession(next);
     setRevealed(false);
-    setMissShown(false);
     setTyped("");
   }, []);
 
@@ -97,27 +94,18 @@ export function CardsApp() {
     [progress],
   );
 
-  /** Records the miss and shuffles the card back into the deck. */
-  const reshuffle = useCallback(() => {
+  const know = useCallback(() => {
+    if (!session || !currentKey) return;
+    record(currentKey, Rating.Know);
+    updateSession(markKnown(session));
+  }, [session, currentKey, record, updateSession]);
+
+  /** Back into the pile: the card keeps coming back this session until it is known. */
+  const dontKnow = useCallback(() => {
     if (!session || !currentKey) return;
     record(currentKey, Rating.DontKnow);
     updateSession(markMissed(session, Math.random));
   }, [session, currentKey, record, updateSession]);
-
-  const know = useCallback(() => {
-    if (!session || !currentKey) return;
-    if (missShown) return reshuffle();
-    record(currentKey, Rating.Know);
-    updateSession(markKnown(session));
-  }, [session, currentKey, missShown, record, reshuffle, updateSession]);
-
-  const dontKnow = useCallback(() => {
-    if (!session || !currentKey) return;
-    if (revealed) return reshuffle();
-    // Show the answer before the card goes back into the deck; the next action moves on.
-    reveal();
-    setMissShown(true);
-  }, [session, currentKey, revealed, reshuffle, reveal]);
 
   useEffect(() => {
     function onKey(e: KeyboardEvent) {
@@ -130,13 +118,12 @@ export function CardsApp() {
         dontKnow();
       } else if (e.key === " " || e.key === "Enter") {
         e.preventDefault();
-        if (missShown) dontKnow();
-        else if (!revealed) reveal();
+        if (!revealed) reveal();
       }
     }
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, [card, revealed, missShown, know, dontKnow, reveal]);
+  }, [card, revealed, know, dontKnow, reveal]);
 
   function updateSettings(next: Settings) {
     saveSettings(window.localStorage, next);
@@ -210,34 +197,24 @@ export function CardsApp() {
             onTypedChange={setTyped}
             onReveal={reveal}
           />
-          {missShown ? (
+          <div className="grid grid-cols-2 gap-2">
             <button
               type="button"
               onClick={dontKnow}
-              className="rounded-2xl bg-stone-900 py-3 font-medium text-white dark:bg-stone-100 dark:text-stone-900"
+              className="rounded-2xl border border-rose-200 bg-rose-50 py-3 font-medium text-rose-800 hover:bg-rose-100 dark:border-rose-900/60 dark:bg-rose-950/40 dark:text-rose-200 dark:hover:bg-rose-950/70"
             >
-              Next · back into the deck
+              ← I don&apos;t know it
             </button>
-          ) : (
-            <div className="grid grid-cols-2 gap-2">
-              <button
-                type="button"
-                onClick={dontKnow}
-                className="flex flex-col items-center rounded-2xl bg-red-600 py-3 text-white hover:bg-red-700"
-              >
-                <span className="font-medium">← I don&apos;t know it</span>
-              </button>
-              <button
-                type="button"
-                onClick={know}
-                className="flex flex-col items-center rounded-2xl bg-emerald-600 py-3 text-white hover:bg-emerald-700"
-              >
-                <span className="font-medium">I know it →</span>
-              </button>
-            </div>
-          )}
+            <button
+              type="button"
+              onClick={know}
+              className="rounded-2xl border border-emerald-200 bg-emerald-50 py-3 font-medium text-emerald-800 hover:bg-emerald-100 dark:border-emerald-900/60 dark:bg-emerald-950/40 dark:text-emerald-200 dark:hover:bg-emerald-950/70"
+            >
+              I know it →
+            </button>
+          </div>
           <p className="hidden text-center text-xs text-stone-400 sm:block">
-            → know it · ← don&apos;t know it (shuffled back in) · Space to flip
+            → know it · ← don&apos;t know it (back into the pile until you know it) · Space to flip
           </p>
         </>
       ) : session ? (

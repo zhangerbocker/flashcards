@@ -29,8 +29,8 @@ Tap **New session** and choose what to study (Words, Sentences, Grammar, Verbs o
 filtered by level, topic, direction or tense) and how many cards: 10–80, or **All**.
 
 - **→ / "I know it"**: the card leaves the session.
-- **← / "I don't know it"**: the answer is shown (if it wasn't already), then the card is shuffled back
-  into the rest of the deck.
+- **← / "I don't know it"**: the card is shuffled back into the rest of the deck, and keeps coming back
+  until you know it.
 - **Space** (or tapping the card) flips it.
 
 When the deck is empty the session is complete; you can go over just the cards you missed, or start a new
