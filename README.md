@@ -5,8 +5,7 @@ grammar and verb conjugations), graded reading with tap-to-translate, and a chat
 every message.
 
 Adapted, with permission, from [ScharanCysne/mandarin](https://github.com/ScharanCysne/mandarin), an HSK
-Chinese app. The scheduler, sync, login and app shell are unchanged; the content model, tokenizer, answer
-checking and prompts were rewritten for Portuguese.
+Chinese app. The content model, tokenizer, answer checking and prompts were rewritten for Portuguese.
 
 ## Run
 
