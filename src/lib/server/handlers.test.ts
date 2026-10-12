@@ -73,4 +73,21 @@ describe("login", () => {
     const res = await handler({ sessionSecret: undefined })(post({ passcode: "ni-hao-123" }));
     expect(res.status).toBe(503);
   });
+
+  it("names a missing database as a setup problem, without any connection string", async () => {
+    const getDb = async () => {
+      throw new Error("can't reach postgres://user:secret@host/db");
+    };
+    const res = await handler({ getDb })(post({ passcode: "ni-hao-123" }));
+    expect(res.status).toBe(503);
+    const { error } = await res.json();
+    expect(error).toMatch(/^Server setup problem: can't reach <url>$/);
+    expect(error).not.toMatch(/secret/);
+  });
+
+  it("names a malformed passcode hash as a setup problem", async () => {
+    const res = await handler({ passcodeHash: '"scrypt-oops"' })(post({ passcode: "ni-hao-123" }));
+    expect(res.status).toBe(503);
+    expect((await res.json()).error).toMatch(/APP_PASSCODE_HASH must look like/);
+  });
 });

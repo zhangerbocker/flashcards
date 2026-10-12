@@ -25,12 +25,24 @@ export function loginHandler(config: LoginConfig) {
     const parsed = LoginBody.safeParse(await request.json().catch(() => null));
     if (!parsed.success) return Response.json({ error: "Enter the passcode" }, { status: 400 });
 
-    const db = await config.getDb();
+    // A missing database or a malformed hash is a setup problem: say which, so it can be fixed in
+    // the host's settings. The messages name the setting, never a secret.
+    let db: Db;
+    let matches: boolean;
+    try {
+      db = await config.getDb();
+      matches = verifyPasscode(parsed.data.passcode, config.passcodeHash);
+    } catch (err) {
+      // Drop any URL, in case a database error quotes the connection string.
+      const message = (err instanceof Error ? err.message : String(err)).replace(/\w+:\/\/\S+/g, "<url>");
+      console.error(`login setup problem: ${message}`);
+      return Response.json({ error: `Server setup problem: ${message}` }, { status: 503 });
+    }
     const now = config.now();
     if ((await failedLoginsSince(db, new Date(now.getTime() - FAILURE_WINDOW_MS))) >= MAX_FAILURES) {
       return Response.json({ error: "Too many wrong attempts. Try again in 15 minutes." }, { status: 429 });
     }
-    if (!verifyPasscode(parsed.data.passcode, config.passcodeHash)) {
+    if (!matches) {
       await recordFailedLogin(db, now);
       return Response.json({ error: "Wrong passcode" }, { status: 401 });
     }
