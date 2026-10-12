@@ -1,0 +1,197 @@
+[
+ {
+  "id": "noun-plurals",
+  "level": 1,
+  "title": "Noun plurals",
+  "pattern": "+s (casa → casas) · -ão → -ões/-ães/-ãos · -l → -is · -r/-z → +es",
+  "explanation": "Most nouns just add -s: livro → livros, mãe → mães. Nouns ending in -ão usually become -ões (estação → estações), but a few take -ães (pão → pães) or -ãos (irmão → irmãos). Words ending in -l change it to -is (hotel → hotéis, animal → animais), and words ending in -r or -z add -es (mulher → mulheres).",
+  "examples": [
+   { "pt": "Eu comprei dois pães na padaria.", "en": "I bought two rolls at the bakery.", "highlight": ["pães"] },
+   { "pt": "Os hotéis do centro são caros.", "en": "The hotels downtown are expensive.", "highlight": ["hotéis"] },
+   { "pt": "As mulheres estão no jardim.", "en": "The women are in the garden.", "highlight": ["mulheres"] }
+  ],
+  "mistake": { "wrong": "Tem muitos hotels aqui.", "right": "Tem muitos hotéis aqui.", "en": "There are lots of hotels here.", "reason": "Nouns ending in -l drop it and add -is in the plural." }
+ },
+ {
+  "id": "adjective-agreement",
+  "level": 1,
+  "title": "Adjective agreement and position",
+  "pattern": "noun + adjective, matching gender and number: a casa branca · os carros novos",
+  "explanation": "Adjectives match their noun in gender and number: o carro novo, a casa nova, os carros novos. They normally come after the noun. Adjectives ending in -e or a consonant (grande, feliz, azul) have the same form for masculine and feminine. A few common ones like bom and grande often go before the noun.",
+  "examples": [
+   { "pt": "Ela tem uma bicicleta vermelha.", "en": "She has a red bike.", "highlight": ["bicicleta vermelha"] },
+   { "pt": "Os meninos estão cansados.", "en": "The boys are tired.", "highlight": ["cansados"] },
+   { "pt": "Ele é um bom amigo.", "en": "He's a good friend.", "highlight": ["bom amigo"] }
+  ],
+  "mistake": { "wrong": "Eu moro em uma branca casa.", "right": "Eu moro em uma casa branca.", "en": "I live in a white house.", "reason": "Colors and most other adjectives come after the noun." }
+ },
+ {
+  "id": "subject-pronouns",
+  "level": 1,
+  "title": "Subject pronouns, você and a gente",
+  "pattern": "eu · você · ele/ela · a gente / nós · vocês · eles/elas",
+  "explanation": "In Brazil, você (you) and vocês (you all) are the normal ways to say 'you', and they take the same verb form as ele/eles. In speech, a gente (literally 'the people') is very common for 'we' and takes the ele form: a gente vai, not a gente vamos. Nós is also used and takes its own form (nós vamos).",
+  "examples": [
+   { "pt": "Você fala inglês?", "en": "Do you speak English?", "highlight": ["Você fala"] },
+   { "pt": "A gente vai à praia amanhã.", "en": "We're going to the beach tomorrow.", "highlight": ["A gente vai"] },
+   { "pt": "Vocês moram aqui?", "en": "Do you all live here?", "highlight": ["Vocês moram"] }
+  ],
+  "mistake": { "wrong": "A gente vamos ao cinema.", "right": "A gente vai ao cinema.", "en": "We're going to the movies.", "reason": "A gente means 'we' but takes the same verb form as ele/ela." }
+ },
+ {
+  "id": "present-regular",
+  "level": 1,
+  "title": "Present tense of regular verbs",
+  "pattern": "-ar: falo, fala, falamos, falam · -er: como, come, comemos, comem · -ir: abro, abre, abrimos, abrem",
+  "explanation": "Drop -ar, -er or -ir and add the ending for the person: eu -o, você/ele/a gente -a or -e, nós -amos/-emos/-imos, vocês/eles -am or -em. The present covers both 'I speak' and 'I'm speaking' as well as habits.",
+  "examples": [
+   { "pt": "Eu trabalho num escritório.", "en": "I work in an office.", "highlight": ["trabalho"] },
+   { "pt": "Ela come muita fruta.", "en": "She eats a lot of fruit.", "highlight": ["come"] },
+   { "pt": "Nós abrimos a loja às nove.", "en": "We open the store at nine.", "highlight": ["abrimos"] }
+  ],
+  "mistake": { "wrong": "Ela trabalhar no hospital.", "right": "Ela trabalha no hospital.", "en": "She works at the hospital.", "reason": "The verb must be conjugated; the infinitive alone doesn't say who does it." }
+ },
+ {
+  "id": "tem-there-is",
+  "level": 1,
+  "title": "Tem = there is / there are",
+  "pattern": "tem + noun = there is/are · (formal: há)",
+  "explanation": "In everyday Brazilian Portuguese, tem (from ter, to have) means both 'has' and 'there is/there are'. Há means the same thing but sounds more formal or written. The form doesn't change for plurals: tem um banco, tem dois bancos.",
+  "examples": [
+   { "pt": "Tem uma farmácia perto daqui?", "en": "Is there a pharmacy near here?", "highlight": ["Tem"] },
+   { "pt": "Tem muitas pessoas na praia.", "en": "There are a lot of people at the beach.", "highlight": ["Tem"] },
+   { "pt": "Não tem leite na geladeira.", "en": "There's no milk in the fridge.", "highlight": ["Não tem"] }
+  ],
+  "mistake": { "wrong": "Está um banco na esquina.", "right": "Tem um banco na esquina.", "en": "There's a bank on the corner.", "reason": "To say something exists somewhere, use tem, not estar." }
+ },
+ {
+  "id": "preposition-contractions",
+  "level": 1,
+  "title": "de and em + article",
+  "pattern": "de + o/a = do/da · em + o/a = no/na · em + um/uma = num/numa",
+  "explanation": "The prepositions de (of, from) and em (in, on, at) combine with a following article: do, da, dos, das; no, na, nos, nas. This is required, not optional. Before city names without an article you just use de or em: de Boston, em São Paulo, but do Rio, no Brasil.",
+  "examples": [
+   { "pt": "Ela é do Brasil.", "en": "She's from Brazil.", "highlight": ["do"] },
+   { "pt": "O livro está na mesa.", "en": "The book is on the table.", "highlight": ["na"] },
+   { "pt": "Eu moro em São Paulo, perto da praça.", "en": "I live in São Paulo, near the square.", "highlight": ["em", "da"] }
+  ],
+  "mistake": { "wrong": "A chave está em a mesa.", "right": "A chave está na mesa.", "en": "The key is on the table.", "reason": "Em and a always merge into na." }
+ },
+ {
+  "id": "possessives",
+  "level": 1,
+  "title": "Possessives: meu, seu, dele",
+  "pattern": "meu/minha · seu/sua (your) · dele/dela (his/her) · nosso/nossa",
+  "explanation": "Possessives agree with the thing owned, not the owner: minha casa (my house) even if you're a man. In Brazil, seu/sua usually means 'your' (of você), so for 'his' and 'her' people say o carro dele and a casa dela, placed after the noun. An article before the possessive (o meu carro) is optional.",
+  "examples": [
+   { "pt": "Minha mãe é médica.", "en": "My mother is a doctor.", "highlight": ["Minha"] },
+   { "pt": "Esse é o seu celular?", "en": "Is this your phone?", "highlight": ["seu"] },
+   { "pt": "O carro dele é novo.", "en": "His car is new.", "highlight": ["dele"] }
+  ],
+  "mistake": { "wrong": "Eu gosto da meu casa.", "right": "Eu gosto da minha casa.", "en": "I like my house.", "reason": "The possessive agrees with casa, which is feminine, so it's minha." }
+ },
+ {
+  "id": "demonstratives",
+  "level": 1,
+  "title": "Este, esse, aquele",
+  "pattern": "esse/essa/isso = this/that (near) · aquele/aquela/aquilo = that (over there)",
+  "explanation": "In spoken Brazilian Portuguese, esse and este are used almost interchangeably for 'this' or 'that' near the speaker or listener; esse is far more common. Aquele is for things farther away. Isso, isto and aquilo are neutral forms for ideas or unnamed things: o que é isso?",
+  "examples": [
+   { "pt": "Essa camisa é bonita.", "en": "This shirt is nice.", "highlight": ["Essa"] },
+   { "pt": "Aquele prédio é um hotel.", "en": "That building over there is a hotel.", "highlight": ["Aquele"] },
+   { "pt": "O que é isso?", "en": "What is that?", "highlight": ["isso"] }
+  ],
+  "mistake": { "wrong": "Esso é meu livro.", "right": "Esse é meu livro.", "en": "This is my book.", "reason": "With a named noun use esse/essa; the neutral form is isso, never esso." }
+ },
+ {
+  "id": "question-words",
+  "level": 1,
+  "title": "Question words",
+  "pattern": "(o) que · quem · onde · quando · como · quanto · qual · por que",
+  "explanation": "Question words usually go at the start, and the word order stays like a statement: Onde você mora? A yes/no question is just a statement with rising intonation: Você é brasileiro? Quanto agrees with the noun (quantos anos, quantas pessoas), and por que (why) is answered with porque (because).",
+  "examples": [
+   { "pt": "Onde você mora?", "en": "Where do you live?", "highlight": ["Onde"] },
+   { "pt": "Quantos anos você tem?", "en": "How old are you?", "highlight": ["Quantos"] },
+   { "pt": "Como é o seu nome?", "en": "What's your name?", "highlight": ["Como"] }
+  ],
+  "mistake": { "wrong": "Quanto pessoas tem na festa?", "right": "Quantas pessoas tem na festa?", "en": "How many people are at the party?", "reason": "Quanto agrees with the noun it counts, here feminine plural pessoas." }
+ },
+ {
+  "id": "negation",
+  "level": 1,
+  "title": "Negation with não",
+  "pattern": "não + verb · (speech: não … não / … não)",
+  "explanation": "Put não right before the verb: eu não sei. With nada, ninguém and nunca after the verb, não is still needed: não tem nada. In speech Brazilians often add a second não at the end for emphasis (não sei não), and in short answers just repeat the verb: Você quer? Quero / Não quero.",
+  "examples": [
+   { "pt": "Eu não falo inglês.", "en": "I don't speak English.", "highlight": ["não"] },
+   { "pt": "Ela não conhece ninguém aqui.", "en": "She doesn't know anyone here.", "highlight": ["não", "ninguém"] },
+   { "pt": "Não sei não.", "en": "I really don't know.", "highlight": ["Não", "não"] }
+  ],
+  "mistake": { "wrong": "Eu vejo nada.", "right": "Eu não vejo nada.", "en": "I don't see anything.", "reason": "When nada comes after the verb, the verb still needs não." }
+ },
+ {
+  "id": "gostar-de",
+  "level": 1,
+  "title": "Gostar de",
+  "pattern": "gostar de + noun / infinitive (do, da, de …)",
+  "explanation": "Gostar (to like) always needs de before what is liked, and de merges with articles: gosto do Rio, gosto da praia. Before an infinitive it's just de: gosto de cozinhar. A short answer to 'Do you like…?' is simply Gosto or Não gosto.",
+  "examples": [
+   { "pt": "Eu gosto de café.", "en": "I like coffee.", "highlight": ["gosto de"] },
+   { "pt": "Ela gosta muito da praia.", "en": "She really likes the beach.", "highlight": ["gosta", "da"] },
+   { "pt": "A gente gosta de dançar.", "en": "We like to dance.", "highlight": ["gosta de"] }
+  ],
+  "mistake": { "wrong": "Eu gosto chocolate.", "right": "Eu gosto de chocolate.", "en": "I like chocolate.", "reason": "Gostar always takes de before the thing you like." }
+ },
+ {
+  "id": "estar-gerund",
+  "level": 1,
+  "title": "Estar + gerund (present continuous)",
+  "pattern": "estar + -ando / -endo / -indo",
+  "explanation": "For something happening right now, Brazilians use estar plus the gerund: falar → falando, comer → comendo, dormir → dormindo. (In Portugal people say está a falar, but in Brazil the gerund is standard.)",
+  "examples": [
+   { "pt": "Eu estou estudando agora.", "en": "I'm studying now.", "highlight": ["estou estudando"] },
+   { "pt": "O bebê está dormindo.", "en": "The baby is sleeping.", "highlight": ["está dormindo"] },
+   { "pt": "O que vocês estão comendo?", "en": "What are you all eating?", "highlight": ["estão comendo"] }
+  ],
+  "mistake": { "wrong": "Eu estou a trabalhar.", "right": "Eu estou trabalhando.", "en": "I'm working.", "reason": "Brazilian Portuguese uses the gerund (-ando) after estar, not a + infinitive." }
+ },
+ {
+  "id": "telling-time",
+  "level": 1,
+  "title": "Telling time",
+  "pattern": "Que horas são? · É uma hora · São duas (horas) · às três = at three",
+  "explanation": "Use é for one o'clock, noon and midnight (é uma hora, é meio-dia) and são for everything else (são duas, são dez e meia). 'At' a time is à/às: à uma, às oito. Hours use feminine numbers: uma, duas.",
+  "examples": [
+   { "pt": "Que horas são? São duas e meia.", "en": "What time is it? It's two thirty.", "highlight": ["São duas e meia"] },
+   { "pt": "É uma hora.", "en": "It's one o'clock.", "highlight": ["É uma hora"] },
+   { "pt": "A aula começa às oito.", "en": "Class starts at eight.", "highlight": ["às oito"] }
+  ],
+  "mistake": { "wrong": "É três horas.", "right": "São três horas.", "en": "It's three o'clock.", "reason": "Every hour except one o'clock, noon and midnight is plural, so it takes são." }
+ },
+ {
+  "id": "ir-a-para",
+  "level": 1,
+  "title": "Going somewhere: ir a / ir para",
+  "pattern": "ir + a/para + place (ao, à, pro, pra)",
+  "explanation": "With ir, the destination takes a or para. A merges with the article (ao cinema, à praia), and para is often shortened in speech to pra, pro (pra praia, pro centro). Para tends to suggest staying longer, but in everyday speech pra is the most common choice. Don't use em with ir.",
+  "examples": [
+   { "pt": "Eu vou ao mercado.", "en": "I'm going to the market.", "highlight": ["ao"] },
+   { "pt": "A gente vai pra praia amanhã.", "en": "We're going to the beach tomorrow.", "highlight": ["pra"] },
+   { "pt": "Ela vai para o Rio nas férias.", "en": "She's going to Rio on vacation.", "highlight": ["para o"] }
+  ],
+  "mistake": { "wrong": "Eu vou no cinema.", "right": "Eu vou ao cinema.", "en": "I'm going to the movies.", "reason": "Ir no is very common in casual speech, but the standard preposition with ir is a or para." }
+ },
+ {
+  "id": "preterite-regular",
+  "level": 1,
+  "title": "Past tense of regular verbs",
+  "pattern": "-ar: falei, falou, falamos, falaram · -er: comi, comeu · -ir: abri, abriu",
+  "explanation": "The pretérito perfeito describes completed actions: I spoke, I ate. Eu forms end in -ei or -i, and você/ele/a gente forms in -ou, -eu or -iu. The nós form of -ar and -ir verbs looks like the present (falamos), so context or words like ontem make the time clear.",
+  "examples": [
+   { "pt": "Ontem eu trabalhei muito.", "en": "Yesterday I worked a lot.", "highlight": ["trabalhei"] },
+   { "pt": "Ela comeu uma salada no almoço.", "en": "She ate a salad for lunch.", "highlight": ["comeu"] },
+   { "pt": "Vocês assistiram o filme?", "en": "Did you all watch the movie?", "highlight": ["assistiram"] }
+  ],
+  "mistake": { "wrong": "Ontem eu falou com ela.", "right": "Ontem eu falei com ela.", "en": "Yesterday I talked to her.", "reason": "The eu form of an -ar verb in the past ends in -ei; -ou is for você/ele." }
+ }
+]

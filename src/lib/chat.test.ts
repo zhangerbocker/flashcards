@@ -115,7 +115,7 @@ describe("ChatRequest", () => {
 
   it("rejects an unknown scenario, a bad level and an over-long message", () => {
     expect(ChatRequest.safeParse({ ...valid, scenario: "moon" }).success).toBe(false);
-    expect(ChatRequest.safeParse({ ...valid, level: 3 }).success).toBe(false);
+    expect(ChatRequest.safeParse({ ...valid, level: 5 }).success).toBe(false);
     expect(ChatRequest.safeParse({ ...valid, message: "a".repeat(301) }).success).toBe(false);
   });
 

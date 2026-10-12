@@ -1,0 +1,513 @@
+[
+ {
+  "pt": "duzentos",
+  "pos": "num.",
+  "english": "two hundred",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "forms": [
+   "duzentas"
+  ],
+  "example": {
+   "pt": "O ingresso custa duzentos reais.",
+   "en": "The ticket costs two hundred reais."
+  }
+ },
+ {
+  "pt": "trezentos",
+  "pos": "num.",
+  "english": "three hundred",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "forms": [
+   "trezentas"
+  ],
+  "example": {
+   "pt": "A escola tem trezentos alunos.",
+   "en": "The school has three hundred students."
+  }
+ },
+ {
+  "pt": "quinhentos",
+  "pos": "num.",
+  "english": "five hundred",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "forms": [
+   "quinhentas"
+  ],
+  "example": {
+   "pt": "Paguei quinhentos reais pelo celular.",
+   "en": "I paid five hundred reais for the phone."
+  }
+ },
+ {
+  "pt": "mil",
+  "pos": "num.",
+  "english": "thousand",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "A cidade tem cinquenta mil habitantes.",
+   "en": "The town has fifty thousand inhabitants."
+  }
+ },
+ {
+  "pt": "milhão",
+  "pos": "n.",
+  "english": "million",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "milhões"
+  ],
+  "example": {
+   "pt": "São Paulo tem mais de doze milhões de pessoas.",
+   "en": "São Paulo has more than twelve million people."
+  }
+ },
+ {
+  "pt": "terceiro",
+  "pos": "adj.",
+  "english": "third",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "forms": [
+   "terceira",
+   "terceiros",
+   "terceiras"
+  ],
+  "example": {
+   "pt": "Moro no terceiro andar.",
+   "en": "I live on the third floor."
+  }
+ },
+ {
+  "pt": "quarto",
+  "pos": "adj.",
+  "english": "fourth",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "forms": [
+   "quarta",
+   "quartos",
+   "quartas"
+  ],
+  "example": {
+   "pt": "Ele chegou em quarto lugar.",
+   "en": "He came in fourth place."
+  }
+ },
+ {
+  "pt": "quinto",
+  "pos": "adj.",
+  "english": "fifth",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "forms": [
+   "quinta",
+   "quintos",
+   "quintas"
+  ],
+  "example": {
+   "pt": "Hoje é o quinto dia da viagem.",
+   "en": "Today is the fifth day of the trip."
+  }
+ },
+ {
+  "pt": "décimo",
+  "pos": "adj.",
+  "english": "tenth",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "forms": [
+   "décima",
+   "décimos",
+   "décimas"
+  ],
+  "example": {
+   "pt": "É o décimo aniversário da empresa.",
+   "en": "It's the company's tenth anniversary."
+  }
+ },
+ {
+  "pt": "metade",
+  "pos": "n.",
+  "english": "half",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "metades"
+  ],
+  "example": {
+   "pt": "Comi metade da pizza.",
+   "en": "I ate half of the pizza."
+  }
+ },
+ {
+  "pt": "dobro",
+  "pos": "n.",
+  "english": "double, twice as much",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "dobros"
+  ],
+  "example": {
+   "pt": "Ele ganha o dobro do meu salário.",
+   "en": "He earns double my salary."
+  }
+ },
+ {
+  "pt": "dúzia",
+  "pos": "n.",
+  "english": "dozen",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "dúzias"
+  ],
+  "example": {
+   "pt": "Comprei uma dúzia de ovos.",
+   "en": "I bought a dozen eggs."
+  }
+ },
+ {
+  "pt": "quilo",
+  "pos": "n.",
+  "english": "kilo",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "quilos"
+  ],
+  "example": {
+   "pt": "Quanto custa o quilo do tomate?",
+   "en": "How much is a kilo of tomatoes?"
+  }
+ },
+ {
+  "pt": "grama",
+  "pos": "n.",
+  "english": "gram",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "gramas"
+  ],
+  "example": {
+   "pt": "Quero duzentos gramas de queijo.",
+   "en": "I want two hundred grams of cheese."
+  }
+ },
+ {
+  "pt": "litro",
+  "pos": "n.",
+  "english": "liter",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "litros"
+  ],
+  "example": {
+   "pt": "Bebo dois litros de água por dia.",
+   "en": "I drink two liters of water a day."
+  }
+ },
+ {
+  "pt": "metro",
+  "pos": "n.",
+  "english": "meter",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "metros"
+  ],
+  "example": {
+   "pt": "A sala tem cinco metros de largura.",
+   "en": "The room is five meters wide."
+  }
+ },
+ {
+  "pt": "centímetro",
+  "pos": "n.",
+  "english": "centimeter",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "centímetros"
+  ],
+  "example": {
+   "pt": "A mesa tem oitenta centímetros de altura.",
+   "en": "The table is eighty centimeters high."
+  }
+ },
+ {
+  "pt": "quilômetro",
+  "pos": "n.",
+  "english": "kilometer",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "quilômetros"
+  ],
+  "example": {
+   "pt": "A praia fica a dez quilômetros daqui.",
+   "en": "The beach is ten kilometers from here."
+  }
+ },
+ {
+  "pt": "quantidade",
+  "pos": "n.",
+  "english": "quantity, amount",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "quantidades"
+  ],
+  "example": {
+   "pt": "Você comprou uma grande quantidade de comida.",
+   "en": "You bought a large amount of food."
+  }
+ },
+ {
+  "pt": "por cento",
+  "pos": "expr.",
+  "english": "percent",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "Trinta por cento dos alunos faltaram.",
+   "en": "Thirty percent of the students were absent."
+  }
+ },
+ {
+  "pt": "medir",
+  "pos": "v.",
+  "english": "to measure",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "Quanto você mede?",
+   "en": "How tall are you?"
+  }
+ },
+ {
+  "pt": "pesar",
+  "pos": "v.",
+  "english": "to weigh",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "A mala pesa vinte quilos.",
+   "en": "The suitcase weighs twenty kilos."
+  }
+ },
+ {
+  "pt": "peso",
+  "pos": "n.",
+  "english": "weight",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "pesos"
+  ],
+  "example": {
+   "pt": "O médico verificou o meu peso.",
+   "en": "The doctor checked my weight."
+  }
+ },
+ {
+  "pt": "tamanho",
+  "pos": "n.",
+  "english": "size",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "tamanhos"
+  ],
+  "example": {
+   "pt": "Qual é o seu tamanho de sapato?",
+   "en": "What is your shoe size?"
+  }
+ },
+ {
+  "pt": "altura",
+  "pos": "n.",
+  "english": "height",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "alturas"
+  ],
+  "example": {
+   "pt": "Qual é a sua altura?",
+   "en": "How tall are you?"
+  }
+ },
+ {
+  "pt": "comprimento",
+  "pos": "n.",
+  "english": "length",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "comprimentos"
+  ],
+  "example": {
+   "pt": "Qual é o comprimento da piscina?",
+   "en": "What is the length of the pool?"
+  }
+ },
+ {
+  "pt": "somar",
+  "pos": "v.",
+  "english": "to add (up)",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "Vamos somar todas as despesas.",
+   "en": "Let's add up all the expenses."
+  }
+ },
+ {
+  "pt": "dividir",
+  "pos": "v.",
+  "english": "to divide, to split",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "Vamos dividir a conta.",
+   "en": "Let's split the bill."
+  }
+ },
+ {
+  "pt": "total",
+  "pos": "n./adj.",
+  "english": "total",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "totais"
+  ],
+  "example": {
+   "pt": "O total da compra foi cem reais.",
+   "en": "The total of the purchase was a hundred reais."
+  }
+ },
+ {
+  "pt": "média",
+  "pos": "n.",
+  "english": "average",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "médias"
+  ],
+  "example": {
+   "pt": "A média da turma foi sete.",
+   "en": "The class average was seven."
+  }
+ },
+ {
+  "pt": "par",
+  "pos": "n.",
+  "english": "pair",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "pares"
+  ],
+  "example": {
+   "pt": "Comprei um par de sapatos.",
+   "en": "I bought a pair of shoes."
+  }
+ },
+ {
+  "pt": "contar",
+  "pos": "v.",
+  "english": "to count; to tell",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "A criança sabe contar até cem.",
+   "en": "The child can count to a hundred."
+  }
+ },
+ {
+  "pt": "mais ou menos",
+  "pos": "expr.",
+  "english": "more or less, about",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "A festa terminou mais ou menos à meia-noite.",
+   "en": "The party ended at about midnight."
+  }
+ },
+ {
+  "pt": "inteiro",
+  "pos": "adj.",
+  "english": "whole, entire",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "forms": [
+   "inteira",
+   "inteiros",
+   "inteiras"
+  ],
+  "example": {
+   "pt": "Ele comeu o bolo inteiro!",
+   "en": "He ate the whole cake!"
+  }
+ },
+ {
+  "pt": "dezena",
+  "pos": "n.",
+  "english": "(about) ten, a group of ten",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "dezenas"
+  ],
+  "example": {
+   "pt": "Uma dezena de pessoas veio à reunião.",
+   "en": "About ten people came to the meeting."
+  }
+ },
+ {
+  "pt": "cheio",
+  "pos": "adj.",
+  "english": "full",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "forms": [
+   "cheia",
+   "cheios",
+   "cheias"
+  ],
+  "example": {
+   "pt": "O ônibus estava cheio.",
+   "en": "The bus was full."
+  }
+ }
+]

@@ -1,0 +1,714 @@
+[
+ {
+  "pt": "comida",
+  "pos": "n.",
+  "english": "food",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "comidas"
+  ],
+  "example": {
+   "pt": "A comida brasileira é muito boa.",
+   "en": "Brazilian food is very good."
+  }
+ },
+ {
+  "pt": "café da manhã",
+  "pos": "n.",
+  "english": "breakfast",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "cafés da manhã"
+  ],
+  "example": {
+   "pt": "Eu como pão no café da manhã.",
+   "en": "I eat bread for breakfast."
+  }
+ },
+ {
+  "pt": "almoço",
+  "pos": "n.",
+  "english": "lunch",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "almoços"
+  ],
+  "example": {
+   "pt": "O almoço está pronto.",
+   "en": "Lunch is ready."
+  }
+ },
+ {
+  "pt": "jantar",
+  "pos": "n./v.",
+  "english": "dinner; to have dinner",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "jantares"
+  ],
+  "example": {
+   "pt": "O jantar é às oito.",
+   "en": "Dinner is at eight."
+  }
+ },
+ {
+  "pt": "almoçar",
+  "pos": "v.",
+  "english": "to have lunch",
+  "level": 1,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Eu almoço ao meio-dia.",
+   "en": "I have lunch at noon."
+  }
+ },
+ {
+  "pt": "carne",
+  "pos": "n.",
+  "english": "meat",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "carnes"
+  ],
+  "example": {
+   "pt": "Eu não como carne.",
+   "en": "I don't eat meat."
+  }
+ },
+ {
+  "pt": "frango",
+  "pos": "n.",
+  "english": "chicken",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "frangos"
+  ],
+  "example": {
+   "pt": "Eu quero frango com arroz.",
+   "en": "I want chicken with rice."
+  }
+ },
+ {
+  "pt": "arroz",
+  "pos": "n.",
+  "english": "rice",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "example": {
+   "pt": "Arroz e feijão é a comida do dia a dia.",
+   "en": "Rice and beans is everyday food."
+  }
+ },
+ {
+  "pt": "feijão",
+  "pos": "n.",
+  "english": "beans",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "feijões"
+  ],
+  "example": {
+   "pt": "Eu adoro feijão.",
+   "en": "I love beans."
+  }
+ },
+ {
+  "pt": "ovo",
+  "pos": "n.",
+  "english": "egg",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "ovos"
+  ],
+  "example": {
+   "pt": "Eu como dois ovos de manhã.",
+   "en": "I eat two eggs in the morning."
+  }
+ },
+ {
+  "pt": "queijo",
+  "pos": "n.",
+  "english": "cheese",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "queijos"
+  ],
+  "example": {
+   "pt": "O queijo de Minas é famoso.",
+   "en": "Minas cheese is famous."
+  }
+ },
+ {
+  "pt": "leite",
+  "pos": "n.",
+  "english": "milk",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "leites"
+  ],
+  "example": {
+   "pt": "Eu tomo café com leite.",
+   "en": "I drink coffee with milk."
+  }
+ },
+ {
+  "pt": "suco",
+  "pos": "n.",
+  "english": "juice",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "sucos"
+  ],
+  "example": {
+   "pt": "Um suco de laranja, por favor.",
+   "en": "An orange juice, please."
+  }
+ },
+ {
+  "pt": "cerveja",
+  "pos": "n.",
+  "english": "beer",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "cervejas"
+  ],
+  "example": {
+   "pt": "Ele bebe uma cerveja gelada.",
+   "en": "He drinks a cold beer."
+  }
+ },
+ {
+  "pt": "vinho",
+  "pos": "n.",
+  "english": "wine",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "vinhos"
+  ],
+  "example": {
+   "pt": "Você quer vinho tinto?",
+   "en": "Do you want red wine?"
+  }
+ },
+ {
+  "pt": "chá",
+  "pos": "n.",
+  "english": "tea",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "chás"
+  ],
+  "example": {
+   "pt": "Eu tomo chá à noite.",
+   "en": "I drink tea at night."
+  }
+ },
+ {
+  "pt": "refrigerante",
+  "pos": "n.",
+  "english": "soda, soft drink",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "refrigerantes"
+  ],
+  "example": {
+   "pt": "As crianças querem refrigerante.",
+   "en": "The kids want soda."
+  }
+ },
+ {
+  "pt": "fruta",
+  "pos": "n.",
+  "english": "fruit",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "frutas"
+  ],
+  "example": {
+   "pt": "Eu como muita fruta.",
+   "en": "I eat a lot of fruit."
+  }
+ },
+ {
+  "pt": "banana",
+  "pos": "n.",
+  "english": "banana",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "bananas"
+  ],
+  "example": {
+   "pt": "A banana está madura.",
+   "en": "The banana is ripe."
+  }
+ },
+ {
+  "pt": "maçã",
+  "pos": "n.",
+  "english": "apple",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "maçãs"
+  ],
+  "example": {
+   "pt": "Eu como uma maçã por dia.",
+   "en": "I eat an apple a day."
+  }
+ },
+ {
+  "pt": "salada",
+  "pos": "n.",
+  "english": "salad",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "saladas"
+  ],
+  "example": {
+   "pt": "Eu quero uma salada, por favor.",
+   "en": "I want a salad, please."
+  }
+ },
+ {
+  "pt": "sopa",
+  "pos": "n.",
+  "english": "soup",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "sopas"
+  ],
+  "example": {
+   "pt": "A sopa está quente.",
+   "en": "The soup is hot."
+  }
+ },
+ {
+  "pt": "batata",
+  "pos": "n.",
+  "english": "potato",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "batatas"
+  ],
+  "example": {
+   "pt": "Eu gosto de batata frita.",
+   "en": "I like French fries."
+  }
+ },
+ {
+  "pt": "legume",
+  "pos": "n.",
+  "english": "vegetable",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "legumes"
+  ],
+  "example": {
+   "pt": "Ela come muitos legumes.",
+   "en": "She eats a lot of vegetables."
+  }
+ },
+ {
+  "pt": "açúcar",
+  "pos": "n.",
+  "english": "sugar",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "example": {
+   "pt": "Café sem açúcar, por favor.",
+   "en": "Coffee without sugar, please."
+  }
+ },
+ {
+  "pt": "sal",
+  "pos": "n.",
+  "english": "salt",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "sais"
+  ],
+  "example": {
+   "pt": "A comida precisa de sal.",
+   "en": "The food needs salt."
+  }
+ },
+ {
+  "pt": "bolo",
+  "pos": "n.",
+  "english": "cake",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "bolos"
+  ],
+  "example": {
+   "pt": "Minha mãe faz bolo de chocolate.",
+   "en": "My mother makes chocolate cake."
+  }
+ },
+ {
+  "pt": "sorvete",
+  "pos": "n.",
+  "english": "ice cream",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "sorvetes"
+  ],
+  "example": {
+   "pt": "Vamos tomar um sorvete?",
+   "en": "Shall we get an ice cream?"
+  }
+ },
+ {
+  "pt": "chocolate",
+  "pos": "n.",
+  "english": "chocolate",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "chocolates"
+  ],
+  "example": {
+   "pt": "Eu adoro chocolate.",
+   "en": "I love chocolate."
+  }
+ },
+ {
+  "pt": "copo",
+  "pos": "n.",
+  "english": "glass, cup",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "copos"
+  ],
+  "example": {
+   "pt": "Um copo de água, por favor.",
+   "en": "A glass of water, please."
+  }
+ },
+ {
+  "pt": "garrafa",
+  "pos": "n.",
+  "english": "bottle",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "garrafas"
+  ],
+  "example": {
+   "pt": "Eu comprei uma garrafa de vinho.",
+   "en": "I bought a bottle of wine."
+  }
+ },
+ {
+  "pt": "prato",
+  "pos": "n.",
+  "english": "plate; dish",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "pratos"
+  ],
+  "example": {
+   "pt": "Qual é o prato do dia?",
+   "en": "What's the dish of the day?"
+  }
+ },
+ {
+  "pt": "garfo",
+  "pos": "n.",
+  "english": "fork",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "garfos"
+  ],
+  "example": {
+   "pt": "Preciso de um garfo, por favor.",
+   "en": "I need a fork, please."
+  }
+ },
+ {
+  "pt": "faca",
+  "pos": "n.",
+  "english": "knife",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "facas"
+  ],
+  "example": {
+   "pt": "A faca está na mesa.",
+   "en": "The knife is on the table."
+  }
+ },
+ {
+  "pt": "colher",
+  "pos": "n.",
+  "english": "spoon",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "colheres"
+  ],
+  "example": {
+   "pt": "Eu como sopa com colher.",
+   "en": "I eat soup with a spoon."
+  }
+ },
+ {
+  "pt": "cardápio",
+  "pos": "n.",
+  "english": "menu",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "cardápios"
+  ],
+  "example": {
+   "pt": "O cardápio, por favor.",
+   "en": "The menu, please."
+  }
+ },
+ {
+  "pt": "conta",
+  "pos": "n.",
+  "english": "bill, check; account",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "contas"
+  ],
+  "example": {
+   "pt": "A conta, por favor.",
+   "en": "The check, please."
+  }
+ },
+ {
+  "pt": "garçom",
+  "pos": "n.",
+  "english": "waiter",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "garçonete",
+   "garçons",
+   "garçonetes"
+  ],
+  "example": {
+   "pt": "O garçom é muito simpático.",
+   "en": "The waiter is very nice."
+  }
+ },
+ {
+  "pt": "fome",
+  "pos": "n.",
+  "english": "hunger",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "f",
+  "example": {
+   "pt": "Eu estou com fome.",
+   "en": "I'm hungry."
+  }
+ },
+ {
+  "pt": "sede",
+  "pos": "n.",
+  "english": "thirst",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "f",
+  "example": {
+   "pt": "Você está com sede?",
+   "en": "Are you thirsty?"
+  }
+ },
+ {
+  "pt": "gostoso",
+  "pos": "adj.",
+  "english": "tasty, delicious",
+  "level": 1,
+  "topic": "Food & drink",
+  "forms": [
+   "gostosa",
+   "gostosos",
+   "gostosas"
+  ],
+  "example": {
+   "pt": "Esse bolo está gostoso!",
+   "en": "This cake is tasty!"
+  }
+ },
+ {
+  "pt": "cozinhar",
+  "pos": "v.",
+  "english": "to cook",
+  "level": 1,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Meu pai cozinha muito bem.",
+   "en": "My father cooks very well."
+  }
+ },
+ {
+  "pt": "tomar",
+  "pos": "v.",
+  "english": "to drink, to take",
+  "level": 1,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Eu tomo café todo dia.",
+   "en": "I drink coffee every day."
+  }
+ },
+ {
+  "pt": "lanche",
+  "pos": "n.",
+  "english": "snack",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "lanches"
+  ],
+  "example": {
+   "pt": "Eu como um lanche à tarde.",
+   "en": "I have a snack in the afternoon."
+  }
+ },
+ {
+  "pt": "pizza",
+  "pos": "n.",
+  "english": "pizza",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "pizzas"
+  ],
+  "example": {
+   "pt": "Vamos pedir uma pizza?",
+   "en": "Shall we order a pizza?"
+  }
+ },
+ {
+  "pt": "manteiga",
+  "pos": "n.",
+  "english": "butter",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "manteigas"
+  ],
+  "example": {
+   "pt": "Eu como pão com manteiga.",
+   "en": "I eat bread and butter."
+  }
+ },
+ {
+  "pt": "tomate",
+  "pos": "n.",
+  "english": "tomato",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "tomates"
+  ],
+  "example": {
+   "pt": "A salada tem tomate.",
+   "en": "The salad has tomato."
+  }
+ },
+ {
+  "pt": "macarrão",
+  "pos": "n.",
+  "english": "pasta",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "example": {
+   "pt": "As crianças adoram macarrão.",
+   "en": "The kids love pasta."
+  }
+ },
+ {
+  "pt": "gelado",
+  "pos": "adj.",
+  "english": "cold, chilled",
+  "level": 1,
+  "topic": "Food & drink",
+  "forms": [
+   "gelada",
+   "gelados",
+   "geladas"
+  ],
+  "example": {
+   "pt": "Uma água gelada, por favor.",
+   "en": "A cold water, please."
+  }
+ }
+]

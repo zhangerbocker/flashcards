@@ -1,0 +1,723 @@
+[
+ {
+  "pt": "indignação",
+  "pos": "n.",
+  "english": "indignation, outrage",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "forms": [
+   "indignações"
+  ],
+  "example": {
+   "pt": "A notícia causou indignação na população.",
+   "en": "The news caused outrage among the population."
+  }
+ },
+ {
+  "pt": "indignado",
+  "pos": "adj.",
+  "english": "indignant, outraged",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "indignada",
+   "indignados",
+   "indignadas"
+  ],
+  "example": {
+   "pt": "Os moradores ficaram indignados com o aumento da tarifa.",
+   "en": "Residents were outraged at the fare increase."
+  }
+ },
+ {
+  "pt": "ressentimento",
+  "pos": "n.",
+  "english": "resentment",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "gender": "m",
+  "forms": [
+   "ressentimentos"
+  ],
+  "example": {
+   "pt": "Ele ainda guarda ressentimento do irmão.",
+   "en": "He still holds a grudge against his brother."
+  }
+ },
+ {
+  "pt": "rancor",
+  "pos": "n.",
+  "english": "rancor, grudge",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "gender": "m",
+  "forms": [
+   "rancores"
+  ],
+  "example": {
+   "pt": "Ela não é de guardar rancor.",
+   "en": "She's not one to hold a grudge."
+  }
+ },
+ {
+  "pt": "empatia",
+  "pos": "n.",
+  "english": "empathy",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "forms": [
+   "empatias"
+  ],
+  "example": {
+   "pt": "Ter empatia é se colocar no lugar do outro.",
+   "en": "Having empathy means putting yourself in the other person's shoes."
+  }
+ },
+ {
+  "pt": "compaixão",
+  "pos": "n.",
+  "english": "compassion",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "example": {
+   "pt": "Ela tratou os pacientes com compaixão.",
+   "en": "She treated the patients with compassion."
+  }
+ },
+ {
+  "pt": "gratidão",
+  "pos": "n.",
+  "english": "gratitude",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "example": {
+   "pt": "Quero expressar minha gratidão a todos que ajudaram.",
+   "en": "I want to express my gratitude to everyone who helped."
+  }
+ },
+ {
+  "pt": "desprezo",
+  "pos": "n.",
+  "english": "contempt, disdain",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "gender": "m",
+  "forms": [
+   "desprezos"
+  ],
+  "example": {
+   "pt": "Ele falou da proposta com desprezo.",
+   "en": "He spoke about the proposal with contempt."
+  }
+ },
+ {
+  "pt": "angústia",
+  "pos": "n.",
+  "english": "anguish, distress",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "forms": [
+   "angústias"
+  ],
+  "example": {
+   "pt": "A espera pelo resultado foi uma angústia.",
+   "en": "Waiting for the result was agonizing."
+  }
+ },
+ {
+  "pt": "aflição",
+  "pos": "n.",
+  "english": "distress, anxiety",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "forms": [
+   "aflições"
+  ],
+  "example": {
+   "pt": "Os familiares aguardavam notícias com aflição.",
+   "en": "The relatives waited for news in distress."
+  }
+ },
+ {
+  "pt": "aflito",
+  "pos": "adj.",
+  "english": "distressed, worried sick",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "aflita",
+   "aflitos",
+   "aflitas"
+  ],
+  "example": {
+   "pt": "A mãe ficou aflita porque o filho não atendia o celular.",
+   "en": "The mother was worried sick because her son wasn't answering his phone."
+  }
+ },
+ {
+  "pt": "apreensão",
+  "pos": "n.",
+  "english": "apprehension, unease",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "forms": [
+   "apreensões"
+  ],
+  "example": {
+   "pt": "Os investidores acompanham a eleição com apreensão.",
+   "en": "Investors are following the election with apprehension."
+  }
+ },
+ {
+  "pt": "apreensivo",
+  "pos": "adj.",
+  "english": "apprehensive, uneasy",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "apreensiva",
+   "apreensivos",
+   "apreensivas"
+  ],
+  "example": {
+   "pt": "Fiquei apreensivo antes da entrevista.",
+   "en": "I was apprehensive before the interview."
+  }
+ },
+ {
+  "pt": "euforia",
+  "pos": "n.",
+  "english": "euphoria",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "forms": [
+   "euforias"
+  ],
+  "example": {
+   "pt": "A vitória gerou euforia entre os torcedores.",
+   "en": "The victory caused euphoria among the fans."
+  }
+ },
+ {
+  "pt": "eufórico",
+  "pos": "adj.",
+  "english": "euphoric, elated",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "eufórica",
+   "eufóricos",
+   "eufóricas"
+  ],
+  "example": {
+   "pt": "Ela ficou eufórica com a aprovação no vestibular.",
+   "en": "She was elated at passing the university entrance exam."
+  }
+ },
+ {
+  "pt": "melancolia",
+  "pos": "n.",
+  "english": "melancholy",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "forms": [
+   "melancolias"
+  ],
+  "example": {
+   "pt": "Os dias de chuva me dão uma certa melancolia.",
+   "en": "Rainy days give me a certain melancholy."
+  }
+ },
+ {
+  "pt": "nostalgia",
+  "pos": "n.",
+  "english": "nostalgia",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "forms": [
+   "nostalgias"
+  ],
+  "example": {
+   "pt": "Ouvir essas músicas me dá nostalgia.",
+   "en": "Listening to these songs makes me nostalgic."
+  }
+ },
+ {
+  "pt": "remorso",
+  "pos": "n.",
+  "english": "remorse",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "gender": "m",
+  "forms": [
+   "remorsos"
+  ],
+  "example": {
+   "pt": "O réu não demonstrou nenhum remorso.",
+   "en": "The defendant showed no remorse."
+  }
+ },
+ {
+  "pt": "frustração",
+  "pos": "n.",
+  "english": "frustration",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "forms": [
+   "frustrações"
+  ],
+  "example": {
+   "pt": "A derrota foi uma grande frustração para o time.",
+   "en": "The defeat was a great frustration for the team."
+  }
+ },
+ {
+  "pt": "decepção",
+  "pos": "n.",
+  "english": "disappointment",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "forms": [
+   "decepções"
+  ],
+  "example": {
+   "pt": "O filme foi uma decepção.",
+   "en": "The film was a disappointment."
+  }
+ },
+ {
+  "pt": "desânimo",
+  "pos": "n.",
+  "english": "discouragement, low spirits",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "gender": "m",
+  "forms": [
+   "desânimos"
+  ],
+  "example": {
+   "pt": "Depois de tantas recusas, bateu um desânimo.",
+   "en": "After so many rejections, I felt discouraged."
+  }
+ },
+ {
+  "pt": "desanimado",
+  "pos": "adj.",
+  "english": "discouraged, dispirited",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "desanimada",
+   "desanimados",
+   "desanimadas"
+  ],
+  "example": {
+   "pt": "Ele está desanimado com a procura de emprego.",
+   "en": "He's discouraged by the job hunt."
+  }
+ },
+ {
+  "pt": "entusiasmo",
+  "pos": "n.",
+  "english": "enthusiasm",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "gender": "m",
+  "forms": [
+   "entusiasmos"
+  ],
+  "example": {
+   "pt": "Ela fala do projeto com muito entusiasmo.",
+   "en": "She talks about the project with great enthusiasm."
+  }
+ },
+ {
+  "pt": "constrangimento",
+  "pos": "n.",
+  "english": "embarrassment, awkwardness",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "gender": "m",
+  "forms": [
+   "constrangimentos"
+  ],
+  "example": {
+   "pt": "A pergunta causou constrangimento na sala.",
+   "en": "The question caused awkwardness in the room."
+  }
+ },
+ {
+  "pt": "constrangido",
+  "pos": "adj.",
+  "english": "embarrassed, uncomfortable",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "constrangida",
+   "constrangidos",
+   "constrangidas"
+  ],
+  "example": {
+   "pt": "Fiquei constrangido quando errei o nome dela.",
+   "en": "I felt embarrassed when I got her name wrong."
+  }
+ },
+ {
+  "pt": "relutante",
+  "pos": "adj.",
+  "english": "reluctant",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "relutantes"
+  ],
+  "example": {
+   "pt": "Ele estava relutante em aceitar a oferta.",
+   "en": "He was reluctant to accept the offer."
+  }
+ },
+ {
+  "pt": "comovente",
+  "pos": "adj.",
+  "english": "moving, touching",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "comoventes"
+  ],
+  "example": {
+   "pt": "O discurso da noiva foi muito comovente.",
+   "en": "The bride's speech was very moving."
+  }
+ },
+ {
+  "pt": "comover",
+  "pos": "v.",
+  "english": "to move, to touch (emotionally)",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "A história da família comoveu o país.",
+   "en": "The family's story moved the country."
+  }
+ },
+ {
+  "pt": "desabafar",
+  "pos": "v.",
+  "english": "to vent, to get something off one's chest",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Precisava desabafar com alguém.",
+   "en": "I needed to get it off my chest with someone."
+  }
+ },
+ {
+  "pt": "ponderar",
+  "pos": "v.",
+  "english": "to weigh up, to ponder",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "É preciso ponderar os riscos antes de decidir.",
+   "en": "You have to weigh up the risks before deciding."
+  }
+ },
+ {
+  "pt": "alegar",
+  "pos": "v.",
+  "english": "to claim, to allege",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "O acusado alega que estava em casa naquela noite.",
+   "en": "The accused claims he was at home that night."
+  }
+ },
+ {
+  "pt": "alegação",
+  "pos": "n.",
+  "english": "claim, allegation",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "forms": [
+   "alegações"
+  ],
+  "example": {
+   "pt": "Não há provas que sustentem essa alegação.",
+   "en": "There's no evidence to support that claim."
+  }
+ },
+ {
+  "pt": "argumentar",
+  "pos": "v.",
+  "english": "to argue (a point)",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Ela argumentou que a medida era injusta.",
+   "en": "She argued that the measure was unfair."
+  }
+ },
+ {
+  "pt": "contestar",
+  "pos": "v.",
+  "english": "to dispute, to challenge",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "O partido vai contestar o resultado na Justiça.",
+   "en": "The party will challenge the result in court."
+  }
+ },
+ {
+  "pt": "refutar",
+  "pos": "v.",
+  "english": "to refute",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "O cientista refutou as críticas com novos dados.",
+   "en": "The scientist refuted the criticism with new data."
+  }
+ },
+ {
+  "pt": "questionar",
+  "pos": "v.",
+  "english": "to question",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Os jornalistas questionaram o ministro sobre os gastos.",
+   "en": "The journalists questioned the minister about the spending."
+  }
+ },
+ {
+  "pt": "persuadir",
+  "pos": "v.",
+  "english": "to persuade",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Conseguimos persuadir o chefe a mudar de ideia.",
+   "en": "We managed to persuade the boss to change his mind."
+  }
+ },
+ {
+  "pt": "fundamentar",
+  "pos": "v.",
+  "english": "to back up, to base (an argument)",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Você precisa fundamentar sua opinião com dados.",
+   "en": "You need to back up your opinion with data."
+  }
+ },
+ {
+  "pt": "convicção",
+  "pos": "n.",
+  "english": "conviction, firm belief",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "forms": [
+   "convicções"
+  ],
+  "example": {
+   "pt": "Ela defendeu a proposta com convicção.",
+   "en": "She defended the proposal with conviction."
+  }
+ },
+ {
+  "pt": "convicto",
+  "pos": "adj.",
+  "english": "convinced, confirmed",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "convicta",
+   "convictos",
+   "convictas"
+  ],
+  "example": {
+   "pt": "Ele é um vegetariano convicto.",
+   "en": "He is a committed vegetarian."
+  }
+ },
+ {
+  "pt": "cético",
+  "pos": "adj.",
+  "english": "skeptical",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "cética",
+   "céticos",
+   "céticas"
+  ],
+  "example": {
+   "pt": "Continuo cético em relação a essa promessa.",
+   "en": "I remain skeptical about that promise."
+  }
+ },
+ {
+  "pt": "polêmica",
+  "pos": "n.",
+  "english": "controversy",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "forms": [
+   "polêmicas"
+  ],
+  "example": {
+   "pt": "A declaração gerou polêmica nas redes sociais.",
+   "en": "The statement sparked controversy on social media."
+  }
+ },
+ {
+  "pt": "polêmico",
+  "pos": "adj.",
+  "english": "controversial",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "polêmica",
+   "polêmicos",
+   "polêmicas"
+  ],
+  "example": {
+   "pt": "O aborto é um tema polêmico.",
+   "en": "Abortion is a controversial topic."
+  }
+ },
+ {
+  "pt": "controverso",
+  "pos": "adj.",
+  "english": "controversial, disputed",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "controversa",
+   "controversos",
+   "controversas"
+  ],
+  "example": {
+   "pt": "A decisão do juiz foi controversa.",
+   "en": "The judge's decision was controversial."
+  }
+ },
+ {
+  "pt": "imparcial",
+  "pos": "adj.",
+  "english": "impartial, unbiased",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "imparciais"
+  ],
+  "example": {
+   "pt": "Um bom jornalista tenta ser imparcial.",
+   "en": "A good journalist tries to be impartial."
+  }
+ },
+ {
+  "pt": "tendencioso",
+  "pos": "adj.",
+  "english": "biased",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "tendenciosa",
+   "tendenciosos",
+   "tendenciosas"
+  ],
+  "example": {
+   "pt": "A reportagem foi tendenciosa.",
+   "en": "The report was biased."
+  }
+ },
+ {
+  "pt": "defender um ponto de vista",
+  "pos": "expr.",
+  "english": "to defend/argue a point of view",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "defende um ponto de vista",
+   "defendeu um ponto de vista",
+   "defender seu ponto de vista"
+  ],
+  "example": {
+   "pt": "Ela sabe defender seu ponto de vista sem ofender ninguém.",
+   "en": "She knows how to argue her point of view without offending anyone."
+  }
+ },
+ {
+  "pt": "a meu ver",
+  "pos": "expr.",
+  "english": "in my view",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "A meu ver, a proposta tem mais vantagens que desvantagens.",
+   "en": "In my view, the proposal has more advantages than disadvantages."
+  }
+ },
+ {
+  "pt": "levar em conta",
+  "pos": "expr.",
+  "english": "to take into account",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "leva em conta",
+   "levou em conta",
+   "levando em conta"
+  ],
+  "example": {
+   "pt": "É preciso levar em conta a opinião dos moradores.",
+   "en": "We need to take residents' opinions into account."
+  }
+ },
+ {
+  "pt": "pesar os prós e os contras",
+  "pos": "expr.",
+  "english": "to weigh up the pros and cons",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Antes de mudar de emprego, pesar os prós e os contras é essencial.",
+   "en": "Before changing jobs, weighing up the pros and cons is essential."
+  }
+ },
+ {
+  "pt": "dar o braço a torcer",
+  "pos": "expr.",
+  "english": "to admit one is wrong, to back down",
+  "level": 4,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "dá o braço a torcer",
+   "deu o braço a torcer"
+  ],
+  "example": {
+   "pt": "Ele é teimoso e nunca dá o braço a torcer.",
+   "en": "He's stubborn and never admits he's wrong."
+  }
+ }
+]

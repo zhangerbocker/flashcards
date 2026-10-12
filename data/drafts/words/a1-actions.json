@@ -1,0 +1,706 @@
+[
+ {
+  "pt": "ver",
+  "pos": "v.",
+  "english": "to see",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu vi um filme ontem.",
+   "en": "I saw a movie yesterday."
+  }
+ },
+ {
+  "pt": "olhar",
+  "pos": "v.",
+  "english": "to look (at)",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Olhe para o céu!",
+   "en": "Look at the sky!"
+  }
+ },
+ {
+  "pt": "ouvir",
+  "pos": "v.",
+  "english": "to hear, to listen",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Você ouviu isso?",
+   "en": "Did you hear that?"
+  }
+ },
+ {
+  "pt": "escutar",
+  "pos": "v.",
+  "english": "to listen (to)",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu escuto música todo dia.",
+   "en": "I listen to music every day."
+  }
+ },
+ {
+  "pt": "dizer",
+  "pos": "v.",
+  "english": "to say, to tell",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "O que ele disse?",
+   "en": "What did he say?"
+  }
+ },
+ {
+  "pt": "perguntar",
+  "pos": "v.",
+  "english": "to ask (a question)",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Posso perguntar uma coisa?",
+   "en": "Can I ask something?"
+  }
+ },
+ {
+  "pt": "responder",
+  "pos": "v.",
+  "english": "to answer, to reply",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ela não respondeu a mensagem.",
+   "en": "She didn't answer the message."
+  }
+ },
+ {
+  "pt": "chamar",
+  "pos": "v.",
+  "english": "to call; to be named (chamar-se)",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Como você se chama?",
+   "en": "What is your name?"
+  }
+ },
+ {
+  "pt": "dar",
+  "pos": "v.",
+  "english": "to give",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu vou dar um presente para ela.",
+   "en": "I'm going to give her a present."
+  }
+ },
+ {
+  "pt": "pôr",
+  "pos": "v.",
+  "english": "to put, to place",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu pus o livro na mesa.",
+   "en": "I put the book on the table."
+  }
+ },
+ {
+  "pt": "colocar",
+  "pos": "v.",
+  "english": "to put, to place",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Coloque a bolsa aqui.",
+   "en": "Put the bag here."
+  }
+ },
+ {
+  "pt": "levar",
+  "pos": "v.",
+  "english": "to take, to carry",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu levo meu filho para a escola.",
+   "en": "I take my son to school."
+  }
+ },
+ {
+  "pt": "trazer",
+  "pos": "v.",
+  "english": "to bring",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Você pode trazer água?",
+   "en": "Can you bring water?"
+  }
+ },
+ {
+  "pt": "pegar",
+  "pos": "v.",
+  "english": "to get, to take, to catch",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu vou pegar o ônibus.",
+   "en": "I'm going to catch the bus."
+  }
+ },
+ {
+  "pt": "usar",
+  "pos": "v.",
+  "english": "to use; to wear",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu uso o celular todo dia.",
+   "en": "I use my phone every day."
+  }
+ },
+ {
+  "pt": "abrir",
+  "pos": "v.",
+  "english": "to open",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Pode abrir a janela?",
+   "en": "Can you open the window?"
+  }
+ },
+ {
+  "pt": "fechar",
+  "pos": "v.",
+  "english": "to close",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "A loja fecha às dez.",
+   "en": "The store closes at ten."
+  }
+ },
+ {
+  "pt": "ajudar",
+  "pos": "v.",
+  "english": "to help",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Você pode me ajudar?",
+   "en": "Can you help me?"
+  }
+ },
+ {
+  "pt": "esperar",
+  "pos": "v.",
+  "english": "to wait; to hope",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu espero você aqui.",
+   "en": "I'll wait for you here."
+  }
+ },
+ {
+  "pt": "procurar",
+  "pos": "v.",
+  "english": "to look for, to search",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Estou procurando minha chave.",
+   "en": "I'm looking for my key."
+  }
+ },
+ {
+  "pt": "encontrar",
+  "pos": "v.",
+  "english": "to find; to meet",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu encontrei meu amigo no shopping.",
+   "en": "I met my friend at the mall."
+  }
+ },
+ {
+  "pt": "perder",
+  "pos": "v.",
+  "english": "to lose; to miss",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu perdi o ônibus.",
+   "en": "I missed the bus."
+  }
+ },
+ {
+  "pt": "pensar",
+  "pos": "v.",
+  "english": "to think",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu penso muito em você.",
+   "en": "I think about you a lot."
+  }
+ },
+ {
+  "pt": "saber",
+  "pos": "v.",
+  "english": "to know (facts); to know how to",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu não sei a resposta.",
+   "en": "I don't know the answer."
+  }
+ },
+ {
+  "pt": "conhecer",
+  "pos": "v.",
+  "english": "to know (people, places); to meet",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Você conhece o Rio?",
+   "en": "Do you know Rio?"
+  }
+ },
+ {
+  "pt": "entender",
+  "pos": "v.",
+  "english": "to understand",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu não entendo.",
+   "en": "I don't understand."
+  }
+ },
+ {
+  "pt": "lembrar",
+  "pos": "v.",
+  "english": "to remember",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Você lembra o nome dela?",
+   "en": "Do you remember her name?"
+  }
+ },
+ {
+  "pt": "esquecer",
+  "pos": "v.",
+  "english": "to forget",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu esqueci a chave em casa.",
+   "en": "I forgot the key at home."
+  }
+ },
+ {
+  "pt": "aprender",
+  "pos": "v.",
+  "english": "to learn",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu estou aprendendo português.",
+   "en": "I am learning Portuguese."
+  }
+ },
+ {
+  "pt": "ler",
+  "pos": "v.",
+  "english": "to read",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu leio o jornal de manhã.",
+   "en": "I read the newspaper in the morning."
+  }
+ },
+ {
+  "pt": "escrever",
+  "pos": "v.",
+  "english": "to write",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ela escreveu uma carta.",
+   "en": "She wrote a letter."
+  }
+ },
+ {
+  "pt": "andar",
+  "pos": "v.",
+  "english": "to walk; to ride",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu ando no parque todo dia.",
+   "en": "I walk in the park every day."
+  }
+ },
+ {
+  "pt": "correr",
+  "pos": "v.",
+  "english": "to run",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ele corre todas as manhãs.",
+   "en": "He runs every morning."
+  }
+ },
+ {
+  "pt": "sentar",
+  "pos": "v.",
+  "english": "to sit (down)",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Pode sentar aqui.",
+   "en": "You can sit here."
+  }
+ },
+ {
+  "pt": "levantar",
+  "pos": "v.",
+  "english": "to get up; to lift",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu levanto às sete.",
+   "en": "I get up at seven."
+  }
+ },
+ {
+  "pt": "vir",
+  "pos": "v.",
+  "english": "to come",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Você vem à festa?",
+   "en": "Are you coming to the party?"
+  }
+ },
+ {
+  "pt": "voltar",
+  "pos": "v.",
+  "english": "to come back, to return",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu volto amanhã.",
+   "en": "I'll be back tomorrow."
+  }
+ },
+ {
+  "pt": "chegar",
+  "pos": "v.",
+  "english": "to arrive",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "O ônibus chegou.",
+   "en": "The bus arrived."
+  }
+ },
+ {
+  "pt": "sair",
+  "pos": "v.",
+  "english": "to go out, to leave",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Nós vamos sair hoje à noite.",
+   "en": "We are going out tonight."
+  }
+ },
+ {
+  "pt": "entrar",
+  "pos": "v.",
+  "english": "to enter, to come in",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Pode entrar!",
+   "en": "Come in!"
+  }
+ },
+ {
+  "pt": "começar",
+  "pos": "v.",
+  "english": "to begin, to start",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "A aula começa às nove.",
+   "en": "The class starts at nine."
+  }
+ },
+ {
+  "pt": "terminar",
+  "pos": "v.",
+  "english": "to finish, to end",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "O filme termina às dez.",
+   "en": "The movie ends at ten."
+  }
+ },
+ {
+  "pt": "poder",
+  "pos": "v.",
+  "english": "can, to be able to",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu posso ir amanhã.",
+   "en": "I can go tomorrow."
+  }
+ },
+ {
+  "pt": "querer",
+  "pos": "v.",
+  "english": "to want",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu quero um café.",
+   "en": "I want a coffee."
+  }
+ },
+ {
+  "pt": "precisar",
+  "pos": "v.",
+  "english": "to need (precisar de)",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu preciso de ajuda.",
+   "en": "I need help."
+  }
+ },
+ {
+  "pt": "dever",
+  "pos": "v.",
+  "english": "must, should; to owe",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Você deve descansar.",
+   "en": "You should rest."
+  }
+ },
+ {
+  "pt": "tentar",
+  "pos": "v.",
+  "english": "to try",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu vou tentar de novo.",
+   "en": "I'm going to try again."
+  }
+ },
+ {
+  "pt": "mudar",
+  "pos": "v.",
+  "english": "to change; to move (house)",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ela mudou de casa.",
+   "en": "She moved house."
+  }
+ },
+ {
+  "pt": "acontecer",
+  "pos": "v.",
+  "english": "to happen",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "O que aconteceu?",
+   "en": "What happened?"
+  }
+ },
+ {
+  "pt": "mostrar",
+  "pos": "v.",
+  "english": "to show",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Pode me mostrar a foto?",
+   "en": "Can you show me the photo?"
+  }
+ },
+ {
+  "pt": "passar",
+  "pos": "v.",
+  "english": "to pass; to spend (time)",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu passei o dia em casa.",
+   "en": "I spent the day at home."
+  }
+ },
+ {
+  "pt": "deixar",
+  "pos": "v.",
+  "english": "to leave (something); to let",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Deixe a porta aberta.",
+   "en": "Leave the door open."
+  }
+ },
+ {
+  "pt": "receber",
+  "pos": "v.",
+  "english": "to receive, to get",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu recebi uma mensagem.",
+   "en": "I received a message."
+  }
+ },
+ {
+  "pt": "mandar",
+  "pos": "v.",
+  "english": "to send; to order",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu mando uma mensagem para você.",
+   "en": "I'll send you a message."
+  }
+ },
+ {
+  "pt": "ligar",
+  "pos": "v.",
+  "english": "to call (phone); to turn on",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu vou ligar para minha mãe.",
+   "en": "I'm going to call my mother."
+  }
+ },
+ {
+  "pt": "jogar",
+  "pos": "v.",
+  "english": "to play (a game, sport); to throw",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eles jogam futebol no sábado.",
+   "en": "They play soccer on Saturday."
+  }
+ },
+ {
+  "pt": "brincar",
+  "pos": "v.",
+  "english": "to play (children); to joke",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "As crianças brincam no parque.",
+   "en": "The children play in the park."
+  }
+ },
+ {
+  "pt": "dormir",
+  "pos": "v.",
+  "english": "to sleep",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu durmo oito horas por noite.",
+   "en": "I sleep eight hours a night."
+  }
+ },
+ {
+  "pt": "acordar",
+  "pos": "v.",
+  "english": "to wake up",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu acordo cedo.",
+   "en": "I wake up early."
+  }
+ },
+ {
+  "pt": "pedir",
+  "pos": "v.",
+  "english": "to ask for, to order",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Vou pedir uma pizza.",
+   "en": "I'm going to order a pizza."
+  }
+ },
+ {
+  "pt": "pagar",
+  "pos": "v.",
+  "english": "to pay",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu pago com cartão.",
+   "en": "I pay by card."
+  }
+ },
+ {
+  "pt": "comprar",
+  "pos": "v.",
+  "english": "to buy",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu comprei um livro.",
+   "en": "I bought a book."
+  }
+ },
+ {
+  "pt": "viajar",
+  "pos": "v.",
+  "english": "to travel",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu vou viajar em julho.",
+   "en": "I'm going to travel in July."
+  }
+ },
+ {
+  "pt": "parar",
+  "pos": "v.",
+  "english": "to stop",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "O ônibus para aqui.",
+   "en": "The bus stops here."
+  }
+ }
+]

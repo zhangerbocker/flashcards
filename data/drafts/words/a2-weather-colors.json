@@ -1,0 +1,584 @@
+[
+ {
+  "pt": "nublado",
+  "pos": "adj.",
+  "english": "cloudy",
+  "level": 2,
+  "topic": "Weather & colors",
+  "forms": [
+   "nublada",
+   "nublados",
+   "nubladas"
+  ],
+  "example": {
+   "pt": "Hoje o céu está nublado.",
+   "en": "Today the sky is cloudy."
+  }
+ },
+ {
+  "pt": "garoa",
+  "pos": "n.",
+  "english": "drizzle",
+  "level": 2,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "garoas"
+  ],
+  "example": {
+   "pt": "Não precisa de guarda-chuva, é só uma garoa.",
+   "en": "You don't need an umbrella, it's just a drizzle."
+  }
+ },
+ {
+  "pt": "previsão do tempo",
+  "pos": "n.",
+  "english": "weather forecast",
+  "level": 2,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "previsões do tempo"
+  ],
+  "example": {
+   "pt": "Você viu a previsão do tempo para amanhã?",
+   "en": "Did you see the weather forecast for tomorrow?"
+  }
+ },
+ {
+  "pt": "previsão",
+  "pos": "n.",
+  "english": "forecast, prediction",
+  "level": 2,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "previsões"
+  ],
+  "example": {
+   "pt": "A previsão diz que vai chover.",
+   "en": "The forecast says it's going to rain."
+  }
+ },
+ {
+  "pt": "chuvoso",
+  "pos": "adj.",
+  "english": "rainy",
+  "level": 2,
+  "topic": "Weather & colors",
+  "forms": [
+   "chuvosa",
+   "chuvosos",
+   "chuvosas"
+  ],
+  "example": {
+   "pt": "Foi um dia chuvoso e frio.",
+   "en": "It was a rainy, cold day."
+  }
+ },
+ {
+  "pt": "ensolarado",
+  "pos": "adj.",
+  "english": "sunny",
+  "level": 2,
+  "topic": "Weather & colors",
+  "forms": [
+   "ensolarada",
+   "ensolarados",
+   "ensolaradas"
+  ],
+  "example": {
+   "pt": "Amanhã vai ser um dia ensolarado.",
+   "en": "Tomorrow will be a sunny day."
+  }
+ },
+ {
+  "pt": "temperatura",
+  "pos": "n.",
+  "english": "temperature",
+  "level": 2,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "temperaturas"
+  ],
+  "example": {
+   "pt": "A temperatura caiu muito à noite.",
+   "en": "The temperature dropped a lot at night."
+  }
+ },
+ {
+  "pt": "grau",
+  "pos": "n.",
+  "english": "degree",
+  "level": 2,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "graus"
+  ],
+  "example": {
+   "pt": "Hoje está fazendo trinta graus.",
+   "en": "It's thirty degrees today."
+  }
+ },
+ {
+  "pt": "úmido",
+  "pos": "adj.",
+  "english": "humid, damp",
+  "level": 2,
+  "topic": "Weather & colors",
+  "forms": [
+   "úmida",
+   "úmidos",
+   "úmidas"
+  ],
+  "example": {
+   "pt": "O Rio é uma cidade quente e úmida.",
+   "en": "Rio is a hot and humid city."
+  }
+ },
+ {
+  "pt": "seco",
+  "pos": "adj.",
+  "english": "dry",
+  "level": 2,
+  "topic": "Weather & colors",
+  "forms": [
+   "seca",
+   "secos",
+   "secas"
+  ],
+  "example": {
+   "pt": "O ar está muito seco hoje.",
+   "en": "The air is very dry today."
+  }
+ },
+ {
+  "pt": "nuvem",
+  "pos": "n.",
+  "english": "cloud",
+  "level": 2,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "nuvens"
+  ],
+  "example": {
+   "pt": "Tem muitas nuvens no céu.",
+   "en": "There are a lot of clouds in the sky."
+  }
+ },
+ {
+  "pt": "vento",
+  "pos": "n.",
+  "english": "wind",
+  "level": 2,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "ventos"
+  ],
+  "example": {
+   "pt": "Estava ventando, e o vento levou meu chapéu.",
+   "en": "It was windy, and the wind took my hat."
+  }
+ },
+ {
+  "pt": "tempestade",
+  "pos": "n.",
+  "english": "storm",
+  "level": 2,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "tempestades"
+  ],
+  "example": {
+   "pt": "Ontem teve uma tempestade forte.",
+   "en": "There was a strong storm yesterday."
+  }
+ },
+ {
+  "pt": "trovão",
+  "pos": "n.",
+  "english": "thunder",
+  "level": 2,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "trovões"
+  ],
+  "example": {
+   "pt": "O cachorro tem medo de trovão.",
+   "en": "The dog is afraid of thunder."
+  }
+ },
+ {
+  "pt": "relâmpago",
+  "pos": "n.",
+  "english": "lightning",
+  "level": 2,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "relâmpagos"
+  ],
+  "example": {
+   "pt": "Vi um relâmpago no céu.",
+   "en": "I saw lightning in the sky."
+  }
+ },
+ {
+  "pt": "neblina",
+  "pos": "n.",
+  "english": "fog",
+  "level": 2,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "neblinas"
+  ],
+  "example": {
+   "pt": "Tinha muita neblina na estrada.",
+   "en": "There was a lot of fog on the road."
+  }
+ },
+ {
+  "pt": "gelo",
+  "pos": "n.",
+  "english": "ice",
+  "level": 2,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "gelos"
+  ],
+  "example": {
+   "pt": "Você quer gelo no suco?",
+   "en": "Do you want ice in your juice?"
+  }
+ },
+ {
+  "pt": "neve",
+  "pos": "n.",
+  "english": "snow",
+  "level": 2,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "neves"
+  ],
+  "example": {
+   "pt": "Nunca vi neve na minha vida.",
+   "en": "I've never seen snow in my life."
+  }
+ },
+ {
+  "pt": "clima",
+  "pos": "n.",
+  "english": "climate; weather",
+  "level": 2,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "climas"
+  ],
+  "example": {
+   "pt": "O clima no sul do Brasil é mais frio.",
+   "en": "The climate in southern Brazil is colder."
+  }
+ },
+ {
+  "pt": "estação",
+  "pos": "n.",
+  "english": "season; station",
+  "level": 2,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "estações"
+  ],
+  "example": {
+   "pt": "Qual é a sua estação favorita?",
+   "en": "What's your favorite season?"
+  }
+ },
+ {
+  "pt": "primavera",
+  "pos": "n.",
+  "english": "spring",
+  "level": 2,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "primaveras"
+  ],
+  "example": {
+   "pt": "As flores aparecem na primavera.",
+   "en": "The flowers come out in spring."
+  }
+ },
+ {
+  "pt": "outono",
+  "pos": "n.",
+  "english": "autumn, fall",
+  "level": 2,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "outonos"
+  ],
+  "example": {
+   "pt": "No outono, as folhas caem.",
+   "en": "In autumn, the leaves fall."
+  }
+ },
+ {
+  "pt": "inverno",
+  "pos": "n.",
+  "english": "winter",
+  "level": 2,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "invernos"
+  ],
+  "example": {
+   "pt": "O inverno em São Paulo pode ser frio.",
+   "en": "Winter in São Paulo can be cold."
+  }
+ },
+ {
+  "pt": "verão",
+  "pos": "n.",
+  "english": "summer",
+  "level": 2,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "verões"
+  ],
+  "example": {
+   "pt": "Vamos para a praia no verão.",
+   "en": "We're going to the beach in the summer."
+  }
+ },
+ {
+  "pt": "ventar",
+  "pos": "v.",
+  "english": "to be windy",
+  "level": 2,
+  "topic": "Weather & colors",
+  "example": {
+   "pt": "Ventou muito ontem à noite.",
+   "en": "It was very windy last night."
+  }
+ },
+ {
+  "pt": "garoar",
+  "pos": "v.",
+  "english": "to drizzle",
+  "level": 2,
+  "topic": "Weather & colors",
+  "example": {
+   "pt": "Garoou a manhã inteira.",
+   "en": "It drizzled the whole morning."
+  }
+ },
+ {
+  "pt": "nevar",
+  "pos": "v.",
+  "english": "to snow",
+  "level": 2,
+  "topic": "Weather & colors",
+  "example": {
+   "pt": "Nevou no sul do Brasil no ano passado.",
+   "en": "It snowed in southern Brazil last year."
+  }
+ },
+ {
+  "pt": "esquentar",
+  "pos": "v.",
+  "english": "to warm up, to get hot",
+  "level": 2,
+  "topic": "Weather & colors",
+  "example": {
+   "pt": "À tarde, o tempo esquentou.",
+   "en": "In the afternoon, the weather warmed up."
+  }
+ },
+ {
+  "pt": "esfriar",
+  "pos": "v.",
+  "english": "to cool down, to get cold",
+  "level": 2,
+  "topic": "Weather & colors",
+  "example": {
+   "pt": "Leve um casaco, porque vai esfriar.",
+   "en": "Take a coat, because it's going to get cold."
+  }
+ },
+ {
+  "pt": "molhado",
+  "pos": "adj.",
+  "english": "wet",
+  "level": 2,
+  "topic": "Weather & colors",
+  "forms": [
+   "molhada",
+   "molhados",
+   "molhadas"
+  ],
+  "example": {
+   "pt": "Cheguei em casa todo molhado.",
+   "en": "I got home all wet."
+  }
+ },
+ {
+  "pt": "escuro",
+  "pos": "adj.",
+  "english": "dark",
+  "level": 2,
+  "topic": "Weather & colors",
+  "forms": [
+   "escura",
+   "escuros",
+   "escuras"
+  ],
+  "example": {
+   "pt": "Ela tem cabelo escuro.",
+   "en": "She has dark hair."
+  }
+ },
+ {
+  "pt": "claro",
+  "pos": "adj.",
+  "english": "light (color); clear",
+  "level": 2,
+  "topic": "Weather & colors",
+  "forms": [
+   "clara",
+   "claros",
+   "claras"
+  ],
+  "example": {
+   "pt": "Prefiro uma camisa azul clara.",
+   "en": "I prefer a light blue shirt."
+  }
+ },
+ {
+  "pt": "roxo",
+  "pos": "adj.",
+  "english": "purple",
+  "level": 2,
+  "topic": "Weather & colors",
+  "forms": [
+   "roxa",
+   "roxos",
+   "roxas"
+  ],
+  "example": {
+   "pt": "Ela comprou um vestido roxo.",
+   "en": "She bought a purple dress."
+  }
+ },
+ {
+  "pt": "cinza",
+  "pos": "adj.",
+  "english": "gray",
+  "level": 2,
+  "topic": "Weather & colors",
+  "forms": [],
+  "example": {
+   "pt": "O céu está cinza hoje.",
+   "en": "The sky is gray today."
+  }
+ },
+ {
+  "pt": "marrom",
+  "pos": "adj.",
+  "english": "brown",
+  "level": 2,
+  "topic": "Weather & colors",
+  "forms": [
+   "marrons"
+  ],
+  "example": {
+   "pt": "Ele usa sapatos marrons.",
+   "en": "He wears brown shoes."
+  }
+ },
+ {
+  "pt": "rosa",
+  "pos": "adj.",
+  "english": "pink",
+  "level": 2,
+  "topic": "Weather & colors",
+  "forms": [],
+  "example": {
+   "pt": "Ela pintou o quarto de rosa.",
+   "en": "She painted the room pink."
+  }
+ },
+ {
+  "pt": "laranja",
+  "pos": "adj.",
+  "english": "orange (color)",
+  "level": 2,
+  "topic": "Weather & colors",
+  "forms": [],
+  "example": {
+   "pt": "Ele estava com uma camiseta laranja.",
+   "en": "He was wearing an orange T-shirt."
+  }
+ },
+ {
+  "pt": "dourado",
+  "pos": "adj.",
+  "english": "golden, gold",
+  "level": 2,
+  "topic": "Weather & colors",
+  "forms": [
+   "dourada",
+   "dourados",
+   "douradas"
+  ],
+  "example": {
+   "pt": "Ela usa um relógio dourado.",
+   "en": "She wears a gold watch."
+  }
+ },
+ {
+  "pt": "prateado",
+  "pos": "adj.",
+  "english": "silver (color)",
+  "level": 2,
+  "topic": "Weather & colors",
+  "forms": [
+   "prateada",
+   "prateados",
+   "prateadas"
+  ],
+  "example": {
+   "pt": "Comprei um carro prateado.",
+   "en": "I bought a silver car."
+  }
+ },
+ {
+  "pt": "colorido",
+  "pos": "adj.",
+  "english": "colorful",
+  "level": 2,
+  "topic": "Weather & colors",
+  "forms": [
+   "colorida",
+   "coloridos",
+   "coloridas"
+  ],
+  "example": {
+   "pt": "As casas dessa rua são coloridas.",
+   "en": "The houses on this street are colorful."
+  }
+ }
+]

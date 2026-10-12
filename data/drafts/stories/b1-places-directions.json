@@ -1,0 +1,489 @@
+[
+ {
+  "id": "b1-places-directions-1",
+  "level": 3,
+  "topic": "Places & directions",
+  "title": "O beco sem nome",
+  "titleEn": "The alley with no name",
+  "sentences": [
+   {
+    "pt": "Beatriz mora em São Paulo e foi a Salvador pela primeira vez, porque uma amiga de infância ia se casar.",
+    "en": "Beatriz lives in São Paulo and went to Salvador for the first time, because a childhood friend was getting married.",
+    "glosses": {
+     "mora": "lives",
+     "foi": "went",
+     "pela": "for the",
+     "ia": "was going to",
+     "casar": "marry"
+    }
+   },
+   {
+    "pt": "A amiga, Aline, tinha mandado o endereço da casa da avó dela, onde todos iam se encontrar antes da festa.",
+    "en": "Her friend, Aline, had sent the address of her grandmother's house, where everyone was going to meet before the party.",
+    "glosses": {
+     "tinha": "had",
+     "mandado": "sent",
+     "da": "of the",
+     "dela": "her",
+     "iam": "were going",
+     "encontrar": "meet up"
+    }
+   },
+   {
+    "pt": "A casa ficava num bairro antigo, perto do centro da cidade.",
+    "en": "The house was in an old neighborhood, near the center of the city.",
+    "glosses": {
+     "ficava": "was located",
+     "num": "in a",
+     "do": "of the",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Beatriz pegou um táxi no hotel, mas o motorista deixou ela embaixo de uma ladeira enorme.",
+    "en": "Beatriz took a taxi at the hotel, but the driver dropped her off at the bottom of a huge steep street.",
+    "glosses": {
+     "pegou": "took",
+     "no": "at the",
+     "deixou": "left",
+     "embaixo": "at the bottom"
+    }
+   },
+   {
+    "pt": "\"Carro não passa aí, moça. É só subir e virar à esquerda\", disse ele.",
+    "en": "\"Cars can't get through there, miss. Just go up and turn left,\" he said.",
+    "glosses": {
+     "passa": "passes",
+     "é": "it is",
+     "só": "just",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Ela subiu a ladeira com a mala, com um sol muito forte na cabeça.",
+    "en": "She climbed the street with her suitcase, with a very strong sun on her head.",
+    "glosses": {
+     "subiu": "climbed",
+     "na": "on the"
+    }
+   },
+   {
+    "pt": "No alto, no entanto, havia três ruas e dois becos, e nenhum deles tinha placa.",
+    "en": "At the top, however, there were three streets and two alleys, and none of them had a sign.",
+    "glosses": {
+     "no": "at the",
+     "alto": "top",
+     "havia": "there were",
+     "deles": "of them",
+     "tinha": "had"
+    }
+   },
+   {
+    "pt": "Ela tentou usar o mapa do celular, mas não tinha internet ali.",
+    "en": "She tried to use the map on her phone, but there was no internet there.",
+    "glosses": {
+     "tentou": "tried",
+     "do": "of the",
+     "tinha": "there was"
+    }
+   },
+   {
+    "pt": "Beatriz começou a ficar preocupada, porque a festa começaria às cinco e já eram quatro e quinze.",
+    "en": "Beatriz started to get worried, because the party would start at five and it was already four fifteen.",
+    "glosses": {
+     "começou": "started",
+     "começaria": "would start",
+     "às": "at",
+     "eram": "it was"
+    }
+   },
+   {
+    "pt": "Então ela entrou numa pequena farmácia na esquina e pediu ajuda.",
+    "en": "So she went into a small pharmacy on the corner and asked for help.",
+    "glosses": {
+     "entrou": "went in",
+     "numa": "into a",
+     "na": "on the",
+     "pediu": "asked for"
+    }
+   },
+   {
+    "pt": "O proprietário da farmácia, um senhor muito simpático, não conhecia o nome da rua.",
+    "en": "The owner of the pharmacy, a very friendly man, didn't know the name of the street.",
+    "glosses": {
+     "da": "of the",
+     "conhecia": "knew"
+    }
+   },
+   {
+    "pt": "\"Aqui a gente não usa muito o nome das ruas\", explicou ele, rindo.",
+    "en": "\"Here we don't really use street names,\" he explained, laughing.",
+    "glosses": {
+     "usa": "use",
+     "das": "of the",
+     "explicou": "explained",
+     "rindo": "laughing"
+    }
+   },
+   {
+    "pt": "\"Qual é o ponto de referência?\", perguntou.",
+    "en": "\"What's the landmark?\" he asked.",
+    "glosses": {
+     "é": "is",
+     "perguntou": "asked"
+    }
+   },
+   {
+    "pt": "Beatriz lembrou que Aline tinha falado de uma igreja azul e de uma padaria famosa pelo pão de queijo.",
+    "en": "Beatriz remembered that Aline had mentioned a blue church and a bakery famous for its cheese bread.",
+    "glosses": {
+     "lembrou": "remembered",
+     "tinha": "had",
+     "falado": "talked",
+     "pelo": "for the"
+    }
+   },
+   {
+    "pt": "\"Ah, a casa de Dona Lúcia!\", disse o senhor.",
+    "en": "\"Ah, Dona Lúcia's house!\" said the man.",
+    "glosses": {
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Ele fechou a farmácia por cinco minutos e foi com ela até lá.",
+    "en": "He closed the pharmacy for five minutes and went with her all the way there.",
+    "glosses": {
+     "fechou": "closed",
+     "foi": "went"
+    }
+   },
+   {
+    "pt": "Eles atravessaram uma praça, passaram em frente à igreja azul e entraram num beco estreito.",
+    "en": "They crossed a square, passed in front of the blue church and went into a narrow alley.",
+    "glosses": {
+     "atravessaram": "crossed",
+     "passaram": "passed",
+     "à": "to the",
+     "entraram": "went into",
+     "num": "into a"
+    }
+   },
+   {
+    "pt": "No fim do beco, havia uma casa amarela cheia de flores e de gente feliz.",
+    "en": "At the end of the alley, there was a yellow house full of flowers and happy people.",
+    "glosses": {
+     "do": "of the",
+     "havia": "there was"
+    }
+   },
+   {
+    "pt": "Aline ficou muito emocionada e disse \"muito obrigada\" ao senhor da farmácia.",
+    "en": "Aline was very moved and said \"thank you very much\" to the man from the pharmacy.",
+    "glosses": {
+     "ficou": "was",
+     "emocionada": "moved",
+     "disse": "said",
+     "obrigada": "thank you",
+     "ao": "to the",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Beatriz chegou à festa na hora, embora estivesse com o rosto vermelho de calor.",
+    "en": "Beatriz got to the party on time, although her face was red from the heat.",
+    "glosses": {
+     "chegou": "arrived",
+     "à": "at the",
+     "na": "on the",
+     "hora": "time (right then)",
+     "estivesse": "was (subjunctive)"
+    }
+   },
+   {
+    "pt": "Desde então, quando alguém pede um endereço, ela sempre pergunta primeiro qual é o ponto de referência.",
+    "en": "Since then, when someone asks for an address, she always asks first what the landmark is.",
+    "glosses": {
+     "pede": "asks for",
+     "pergunta": "asks",
+     "é": "is"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Por que Beatriz foi a Salvador?",
+    "qEn": "Why did Beatriz go to Salvador?",
+    "options": [
+     "Para visitar os pais",
+     "Uma amiga ia casar",
+     "Para estudar",
+     "A trabalho"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Por que o mapa do celular não ajudou?",
+    "qEn": "Why didn't the phone map help?",
+    "options": [
+     "O endereço estava errado",
+     "O celular quebrou",
+     "Ela não sabia usar",
+     "Não tinha internet"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "Quem levou Beatriz até a casa?",
+    "qEn": "Who took Beatriz to the house?",
+    "options": [
+     "O senhor da farmácia",
+     "Aline",
+     "O motorista do táxi",
+     "Dona Lúcia"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "b1-places-directions-2",
+  "level": 3,
+  "topic": "Places & directions",
+  "title": "O desvio",
+  "titleEn": "The detour",
+  "sentences": [
+   {
+    "pt": "Rodrigo e o namorado, Diego, moram em Porto Alegre e decidiram passar um fim de semana no litoral.",
+    "en": "Rodrigo and his boyfriend, Diego, live in Porto Alegre and decided to spend a weekend on the coast.",
+    "glosses": {
+     "moram": "live",
+     "decidiram": "decided"
+    }
+   },
+   {
+    "pt": "Eles alugaram uma casa numa praia afastada, a uns cento e cinquenta quilômetros da cidade.",
+    "en": "They rented a house on a remote beach, about a hundred and fifty kilometers from the city.",
+    "glosses": {
+     "alugaram": "rented",
+     "numa": "on a",
+     "uns": "about",
+     "da": "from the"
+    }
+   },
+   {
+    "pt": "Saíram no sábado bem cedo para evitar o trânsito na rodovia.",
+    "en": "They left on Saturday very early to avoid the traffic on the highway.",
+    "glosses": {
+     "saíram": "they left",
+     "na": "on the"
+    }
+   },
+   {
+    "pt": "Diego dirigia, e Rodrigo cuidava do mapa e da música.",
+    "en": "Diego was driving, and Rodrigo was in charge of the map and the music.",
+    "glosses": {
+     "dirigia": "was driving",
+     "cuidava": "took care",
+     "do": "of the",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Depois do pedágio, no entanto, encontraram a estrada fechada por causa de uma enchente.",
+    "en": "After the toll booth, however, they found the road closed because of a flood.",
+    "glosses": {
+     "do": "the",
+     "encontraram": "found"
+    }
+   },
+   {
+    "pt": "Um homem da polícia explicou que o rio tinha subido durante a noite e que ninguém podia atravessar a ponte.",
+    "en": "A police officer explained that the river had risen during the night and no one could cross the bridge.",
+    "glosses": {
+     "da": "of the",
+     "explicou": "explained",
+     "tinha": "had",
+     "subido": "risen",
+     "podia": "could"
+    }
+   },
+   {
+    "pt": "Ele mostrou uma placa amarela com a palavra \"desvio\", em direção ao interior.",
+    "en": "He pointed to a yellow sign with the word \"detour,\" toward the countryside.",
+    "glosses": {
+     "mostrou": "showed",
+     "ao": "to the"
+    }
+   },
+   {
+    "pt": "O novo trajeto era mais longo e passava por muitas cidades pequenas.",
+    "en": "The new route was longer and went through many small towns.",
+    "glosses": {
+     "era": "was",
+     "passava": "went"
+    }
+   },
+   {
+    "pt": "Durante uma hora, eles seguiram as placas sem problema.",
+    "en": "For an hour, they followed the signs with no problem.",
+    "glosses": {
+     "seguiram": "followed"
+    }
+   },
+   {
+    "pt": "Num cruzamento sem sinal, porém, Rodrigo achou que deviam virar à direita, e Diego achou que deviam seguir reto.",
+    "en": "At a crossroads with no traffic light, however, Rodrigo thought they should turn right, and Diego thought they should go straight.",
+    "glosses": {
+     "num": "at a",
+     "achou": "thought",
+     "deviam": "should"
+    }
+   },
+   {
+    "pt": "Eles viraram à direita e, vinte minutos depois, perceberam que estavam indo no sentido errado.",
+    "en": "They turned right and, twenty minutes later, realized they were going in the wrong direction.",
+    "glosses": {
+     "viraram": "turned",
+     "perceberam": "realized",
+     "estavam": "were",
+     "indo": "going",
+     "no": "in the"
+    }
+   },
+   {
+    "pt": "A estrada virou uma rua de terra, cheia de pedras e de vacas.",
+    "en": "The road turned into a dirt road, full of stones and cows.",
+    "glosses": {
+     "virou": "became"
+    }
+   },
+   {
+    "pt": "\"Eu disse que era para seguir reto!\", reclamou Diego.",
+    "en": "\"I said we should go straight!\" complained Diego.",
+    "glosses": {
+     "disse": "said",
+     "era": "it was",
+     "para": "(what) we should (do)",
+     "reclamou": "complained"
+    }
+   },
+   {
+    "pt": "Rodrigo ficou quieto, porque sabia que o namorado tinha razão.",
+    "en": "Rodrigo stayed quiet, because he knew his boyfriend was right.",
+    "glosses": {
+     "ficou": "stayed",
+     "sabia": "knew",
+     "tinha": "had",
+     "razão": "reason (was right)"
+    }
+   },
+   {
+    "pt": "Pararam num pequeno posto de gasolina para abastecer e pedir informação.",
+    "en": "They stopped at a small gas station to fill up and ask for directions.",
+    "glosses": {
+     "pararam": "stopped",
+     "num": "at a"
+    }
+   },
+   {
+    "pt": "A moça do posto disse que eles estavam num município chamado Rio Bonito.",
+    "en": "The woman at the gas station said they were in a town called Rio Bonito.",
+    "glosses": {
+     "do": "of the",
+     "disse": "said",
+     "estavam": "were",
+     "num": "in a",
+     "chamado": "called",
+     "Rio": "Rio (town name)",
+     "Bonito": "Bonito (town name)"
+    }
+   },
+   {
+    "pt": "Ela explicou o caminho de volta, mas antes falou de uma cachoeira a dois quilômetros dali.",
+    "en": "She explained the way back, but first told them about a waterfall two kilometers from there.",
+    "glosses": {
+     "explicou": "explained",
+     "caminho": "way",
+     "volta": "return",
+     "falou": "talked",
+     "dali": "from there"
+    }
+   },
+   {
+    "pt": "Como já estavam atrasados de qualquer forma, os dois resolveram conhecer o lugar.",
+    "en": "Since they were already late anyway, the two decided to see the place.",
+    "glosses": {
+     "estavam": "were",
+     "resolveram": "decided"
+    }
+   },
+   {
+    "pt": "A cachoeira era linda, com água limpa e quase ninguém por perto.",
+    "en": "The waterfall was beautiful, with clean water and almost no one around.",
+    "glosses": {
+     "era": "was",
+     "perto": "nearby (around)"
+    }
+   },
+   {
+    "pt": "Eles nadaram, fizeram um lanche e só chegaram à praia no fim da tarde.",
+    "en": "They swam, had a snack and only got to the beach at the end of the afternoon.",
+    "glosses": {
+     "nadaram": "swam",
+     "fizeram": "made",
+     "chegaram": "arrived",
+     "à": "at the",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Agora, sempre que discordam por causa de um mapa, Diego lembra: \"Às vezes, o caminho errado é o melhor\".",
+    "en": "Now, whenever they disagree over a map, Diego says: \"Sometimes the wrong way is the best.\"",
+    "glosses": {
+     "discordam": "disagree",
+     "lembra": "reminds",
+     "às": "at the",
+     "vezes": "times (sometimes)",
+     "caminho": "way",
+     "é": "is"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Por que a estrada estava fechada?",
+    "qEn": "Why was the road closed?",
+    "options": [
+     "Por causa de um acidente",
+     "Por causa de uma enchente",
+     "Por causa de um show",
+     "Por causa de uma greve"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Onde eles pararam para pedir informação?",
+    "qEn": "Where did they stop to ask for directions?",
+    "options": [
+     "Numa igreja",
+     "Numa farmácia",
+     "Num hotel",
+     "Num posto de gasolina"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "O que eles conheceram por causa do erro?",
+    "qEn": "What did they discover because of the mistake?",
+    "options": [
+     "Um lago",
+     "Uma cachoeira",
+     "Uma fazenda",
+     "Um museu"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

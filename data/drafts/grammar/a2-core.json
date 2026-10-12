@@ -1,0 +1,622 @@
+[
+ {
+  "id": "imperfect-vs-preterite",
+  "level": 2,
+  "title": "Imperfeito vs. perfeito",
+  "pattern": "imperfeito (-ava, -ia) = was doing, used to · perfeito (-ou, -eu) = did, happened",
+  "explanation": "The pretérito perfeito tells what happened, as a completed event. The imperfeito sets the scene: ongoing actions, descriptions, and habits in the past (used to). Often both appear together: the imperfeito is the background and the perfeito is what interrupted it.",
+  "examples": [
+   {
+    "pt": "Quando eu era criança, eu morava no Rio.",
+    "en": "When I was a kid, I lived in Rio.",
+    "highlight": [
+     "era",
+     "morava"
+    ]
+   },
+   {
+    "pt": "Eu estava dormindo quando o telefone tocou.",
+    "en": "I was sleeping when the phone rang.",
+    "highlight": [
+     "estava dormindo",
+     "tocou"
+    ]
+   },
+   {
+    "pt": "Antigamente a gente jogava futebol todo domingo.",
+    "en": "We used to play soccer every Sunday.",
+    "highlight": [
+     "jogava"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Quando eu fui criança, eu morei na Bahia.",
+   "right": "Quando eu era criança, eu morava na Bahia.",
+   "en": "When I was a kid, I lived in Bahia.",
+   "reason": "Childhood is a background period, so it takes the imperfeito."
+  }
+ },
+ {
+  "id": "irregular-preterites",
+  "level": 2,
+  "title": "Irregular past tense verbs",
+  "pattern": "ser/ir: fui, foi · fazer: fiz, fez · ter: tive, teve · estar: estive, esteve · poder: pude, pôde",
+  "explanation": "The most common verbs have irregular past forms that must be memorized. Ser and ir share the same forms (fui = I was / I went), and context tells them apart. Note that the eu and ele forms of these verbs don't carry the regular -ei/-ou endings: eu fiz, ele fez.",
+  "examples": [
+   {
+    "pt": "Ontem eu fui ao cinema.",
+    "en": "Yesterday I went to the movies.",
+    "highlight": [
+     "fui"
+    ]
+   },
+   {
+    "pt": "O que você fez no fim de semana?",
+    "en": "What did you do on the weekend?",
+    "highlight": [
+     "fez"
+    ]
+   },
+   {
+    "pt": "Eu tive um problema e não pude ir.",
+    "en": "I had a problem and couldn't go.",
+    "highlight": [
+     "tive",
+     "pude"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Eu fazi o jantar.",
+   "right": "Eu fiz o jantar.",
+   "en": "I made dinner.",
+   "reason": "Fazer is irregular in the past: eu fiz, ele fez."
+  }
+ },
+ {
+  "id": "reflexive-verbs",
+  "level": 2,
+  "title": "Reflexive verbs",
+  "pattern": "eu me levanto · você se levanta · a gente se levanta · nós nos levantamos",
+  "explanation": "Reflexive verbs carry a pronoun that refers back to the subject: me, te, se, nos. In Brazil the pronoun normally goes before the verb, even at the start of a sentence in speech (me chamo Ana). In casual speech some reflexive pronouns are dropped (eu levanto cedo), but se is still common.",
+  "examples": [
+   {
+    "pt": "Eu me levanto às sete.",
+    "en": "I get up at seven.",
+    "highlight": [
+     "me levanto"
+    ]
+   },
+   {
+    "pt": "Como você se chama?",
+    "en": "What's your name?",
+    "highlight": [
+     "se chama"
+    ]
+   },
+   {
+    "pt": "A gente se encontrou na praça.",
+    "en": "We met in the square.",
+    "highlight": [
+     "se encontrou"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Eu se levanto cedo.",
+   "right": "Eu me levanto cedo.",
+   "en": "I get up early.",
+   "reason": "The reflexive pronoun matches the subject: eu takes me, not se."
+  }
+ },
+ {
+  "id": "object-pronouns-br",
+  "level": 2,
+  "title": "Object pronouns in Brazilian speech",
+  "pattern": "me / te + verb (te amo, me ajuda) · speech: vi ele, conheço ela · writing: vi-o, conheço-a",
+  "explanation": "Me and te go before the verb in Brazil: ele me ligou, eu te amo. For 'him', 'her' and 'them', everyday speech uses ele, ela, eles after the verb (eu vi ele), which is normal in conversation but avoided in formal writing, where o/a are used (eu o vi). Te is used with você in speech even though it's technically the tu form.",
+  "examples": [
+   {
+    "pt": "Eu te amo.",
+    "en": "I love you.",
+    "highlight": [
+     "te"
+    ]
+   },
+   {
+    "pt": "Você me ajuda com a mala?",
+    "en": "Can you help me with the suitcase?",
+    "highlight": [
+     "me"
+    ]
+   },
+   {
+    "pt": "Eu vi ele no mercado ontem.",
+    "en": "I saw him at the market yesterday.",
+    "highlight": [
+     "vi ele"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Eu amo te.",
+   "right": "Eu te amo.",
+   "en": "I love you.",
+   "reason": "In Brazilian Portuguese, me and te go before the verb."
+  }
+ },
+ {
+  "id": "lhe-vs-pra-ele",
+  "level": 2,
+  "title": "Lhe vs. pra ele",
+  "pattern": "to him/her: (formal) lhe · (speech) pra ele / pra ela · to you: te / lhe",
+  "explanation": "For indirect objects (to someone), formal Portuguese uses lhe. In everyday Brazilian speech, people instead say pra ele, pra ela, pra você after the verb. Lhe is still heard in polite speech meaning 'to you' (posso lhe ajudar?), but rarely for 'to him/her'.",
+  "examples": [
+   {
+    "pt": "Eu mandei uma mensagem pra ela.",
+    "en": "I sent her a message.",
+    "highlight": [
+     "pra ela"
+    ]
+   },
+   {
+    "pt": "Você pode dar o livro pra ele?",
+    "en": "Can you give him the book?",
+    "highlight": [
+     "pra ele"
+    ]
+   },
+   {
+    "pt": "O senhor quer que eu lhe mostre o quarto?",
+    "en": "Would you like me to show you the room, sir?",
+    "highlight": [
+     "lhe"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Eu dei ela um presente.",
+   "right": "Eu dei um presente pra ela.",
+   "en": "I gave her a present.",
+   "reason": "The person who receives something needs pra (or lhe); ela alone can't be an indirect object."
+  }
+ },
+ {
+  "id": "comparatives",
+  "level": 2,
+  "title": "Comparatives",
+  "pattern": "mais/menos + adjective + (do) que · melhor, pior, maior, menor · tão … quanto",
+  "explanation": "Compare with mais (more) or menos (less) plus que or do que: mais caro do que. Bom, mau, grande and pequeno have special forms: melhor (better), pior (worse), maior (bigger), menor (smaller). For equality use tão … quanto (as … as).",
+  "examples": [
+   {
+    "pt": "O metrô é mais rápido do que o ônibus.",
+    "en": "The subway is faster than the bus.",
+    "highlight": [
+     "mais",
+     "do que"
+    ]
+   },
+   {
+    "pt": "Esse restaurante é melhor que aquele.",
+    "en": "This restaurant is better than that one.",
+    "highlight": [
+     "melhor que"
+    ]
+   },
+   {
+    "pt": "Ela é tão alta quanto o irmão.",
+    "en": "She's as tall as her brother.",
+    "highlight": [
+     "tão",
+     "quanto"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Esse café é mais bom.",
+   "right": "Esse café é melhor.",
+   "en": "This coffee is better.",
+   "reason": "Bom has its own comparative, melhor; mais bom isn't used."
+  }
+ },
+ {
+  "id": "superlatives",
+  "level": 2,
+  "title": "Superlatives",
+  "pattern": "o/a mais + adjective (de) · -íssimo (very, extremely) · muito + adjective",
+  "explanation": "'The most' is o/a mais + adjective, and 'in' a group is de: a cidade mais bonita do Brasil. Melhor and pior become o melhor, o pior. To say 'extremely', add -íssimo to the adjective (caro → caríssimo, lindo → lindíssimo), or just use muito.",
+  "examples": [
+   {
+    "pt": "Ela é a aluna mais inteligente da turma.",
+    "en": "She's the smartest student in the class.",
+    "highlight": [
+     "mais inteligente da"
+    ]
+   },
+   {
+    "pt": "Esse é o melhor restaurante do bairro.",
+    "en": "This is the best restaurant in the neighborhood.",
+    "highlight": [
+     "o melhor"
+    ]
+   },
+   {
+    "pt": "O Pedro é o mais alto da família.",
+    "en": "Pedro is the tallest in the family.",
+    "highlight": [
+     "o mais alto da"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "É a cidade mais bonita em o Brasil.",
+   "right": "É a cidade mais bonita do Brasil.",
+   "en": "It's the most beautiful city in Brazil.",
+   "reason": "After a superlative, 'in' a group or place is de, not em."
+  }
+ },
+ {
+  "id": "por-para",
+  "level": 2,
+  "title": "Por vs. para",
+  "pattern": "para = destination, purpose, recipient, deadline · por = through, cause, exchange, duration",
+  "explanation": "Para points toward a goal: where you're going, who something is for, why you do it. Por covers the route or means (por aqui), the cause (por causa de), exchange (obrigado por) and per (duas vezes por semana). Por merges with articles: pelo, pela.",
+  "examples": [
+   {
+    "pt": "Esse presente é para você.",
+    "en": "This present is for you.",
+    "highlight": [
+     "para"
+    ]
+   },
+   {
+    "pt": "A gente passou pelo centro.",
+    "en": "We went through downtown.",
+    "highlight": [
+     "pelo"
+    ]
+   },
+   {
+    "pt": "Eu estudo para a prova duas vezes por semana.",
+    "en": "I study for the test twice a week.",
+    "highlight": [
+     "para",
+     "por"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Obrigado para a ajuda.",
+   "right": "Obrigado pela ajuda.",
+   "en": "Thanks for the help.",
+   "reason": "Thanks are 'for' something in exchange, which takes por (por + a = pela)."
+  }
+ },
+ {
+  "id": "ja-ainda",
+  "level": 2,
+  "title": "Já, ainda, ainda não, não … mais",
+  "pattern": "já = already/ever · ainda = still · ainda não = not yet · não … mais = not anymore",
+  "explanation": "Já means 'already' and, in questions, 'ever' (você já foi ao Rio?). Ainda means 'still', and ainda não means 'not yet'. 'Not anymore' is não … mais. Brazilians answer já-questions with the verb or with já / ainda não.",
+  "examples": [
+   {
+    "pt": "Você já comeu?",
+    "en": "Have you eaten already?",
+    "highlight": [
+     "já"
+    ]
+   },
+   {
+    "pt": "Ainda não, estou esperando a Ana.",
+    "en": "Not yet, I'm waiting for Ana.",
+    "highlight": [
+     "Ainda não"
+    ]
+   },
+   {
+    "pt": "Ele não mora mais aqui.",
+    "en": "He doesn't live here anymore.",
+    "highlight": [
+     "não",
+     "mais"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Eu não terminei já.",
+   "right": "Eu ainda não terminei.",
+   "en": "I haven't finished yet.",
+   "reason": "'Not yet' is ainda não, placed before the verb."
+  }
+ },
+ {
+  "id": "acabar-de",
+  "level": 2,
+  "title": "Acabar de + infinitive",
+  "pattern": "acabar de + infinitive = to have just done",
+  "explanation": "To say something just happened, use acabar (literally 'to finish') + de + infinitive. In the present it means 'have just': acabo de chegar = I've just arrived. In speech the past is also common with the same meaning: acabei de comer.",
+  "examples": [
+   {
+    "pt": "Eu acabei de chegar.",
+    "en": "I just got here.",
+    "highlight": [
+     "acabei de chegar"
+    ]
+   },
+   {
+    "pt": "O ônibus acabou de sair.",
+    "en": "The bus just left.",
+    "highlight": [
+     "acabou de sair"
+    ]
+   },
+   {
+    "pt": "A gente acabou de almoçar.",
+    "en": "We just had lunch.",
+    "highlight": [
+     "acabou de almoçar"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Eu só comi agora.",
+   "right": "Eu acabei de comer.",
+   "en": "I just ate.",
+   "reason": "'Just' meaning 'a moment ago' is expressed with acabar de, not só."
+  }
+ },
+ {
+  "id": "ficar",
+  "level": 2,
+  "title": "Ficar: to be located, to stay, to become",
+  "pattern": "ficar em = be located · ficar = stay · ficar + adjective = get/become",
+  "explanation": "Ficar is one of the most used verbs in Brazil. For fixed places it means 'to be (located)': o banco fica na esquina. It also means 'to stay' (fiquei em casa) and, with an adjective, 'to get' or 'become': fiquei nervoso.",
+  "examples": [
+   {
+    "pt": "Onde fica a estação?",
+    "en": "Where is the station?",
+    "highlight": [
+     "fica"
+    ]
+   },
+   {
+    "pt": "Ontem eu fiquei em casa.",
+    "en": "Yesterday I stayed home.",
+    "highlight": [
+     "fiquei"
+    ]
+   },
+   {
+    "pt": "Ela ficou feliz com a notícia.",
+    "en": "She got happy with the news.",
+    "highlight": [
+     "ficou feliz"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Eu fiquei a casa.",
+   "right": "Eu fiquei em casa.",
+   "en": "I stayed home.",
+   "reason": "Staying somewhere is ficar em."
+  }
+ },
+ {
+  "id": "ter-que",
+  "level": 2,
+  "title": "Ter que / precisar + infinitive",
+  "pattern": "ter que + infinitive = have to · precisar + infinitive = need to",
+  "explanation": "Obligation is usually ter que (or ter de) + infinitive: tenho que trabalhar = I have to work. Precisar + infinitive means 'need to', and takes no preposition before a verb, but takes de before a noun: preciso sair, preciso de ajuda. Dever + infinitive (should) is softer advice.",
+  "examples": [
+   {
+    "pt": "Eu tenho que acordar cedo amanhã.",
+    "en": "I have to wake up early tomorrow.",
+    "highlight": [
+     "tenho que acordar"
+    ]
+   },
+   {
+    "pt": "Você precisa descansar.",
+    "en": "You need to rest.",
+    "highlight": [
+     "precisa descansar"
+    ]
+   },
+   {
+    "pt": "A gente precisa de um táxi.",
+    "en": "We need a taxi.",
+    "highlight": [
+     "precisa de"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Eu tenho trabalhar hoje.",
+   "right": "Eu tenho que trabalhar hoje.",
+   "en": "I have to work today.",
+   "reason": "Ter needs que (or de) before an infinitive to mean 'have to'."
+  }
+ },
+ {
+  "id": "imperative",
+  "level": 2,
+  "title": "Commands",
+  "pattern": "standard: fale, coma, abra · BR speech: fala, come, abre · não + fale",
+  "explanation": "The textbook command for você uses the 'opposite' vowel: falar → fale, comer → coma, abrir → abra. In much of Brazil, everyday speech uses the plain ele form instead: fala!, come!, olha! Both are understood; signs and formal requests use the standard form. Polite requests often add por favor or use pode + infinitive.",
+  "examples": [
+   {
+    "pt": "Fale mais alto, por favor.",
+    "en": "Speak louder, please.",
+    "highlight": [
+     "Fale"
+    ]
+   },
+   {
+    "pt": "Olha, está chovendo!",
+    "en": "Look, it's raining!",
+    "highlight": [
+     "Olha"
+    ]
+   },
+   {
+    "pt": "Não esqueça a chave.",
+    "en": "Don't forget the key.",
+    "highlight": [
+     "Não esqueça"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Por favor, fecha a porta, senhor.",
+   "right": "Por favor, feche a porta, senhor.",
+   "en": "Please close the door, sir.",
+   "reason": "With senhor or in polite settings, use the standard command form (feche)."
+  }
+ },
+ {
+  "id": "indefinites",
+  "level": 2,
+  "title": "Algum, nenhum, todo, tudo",
+  "pattern": "algum = some · nenhum = no, none · todo o/a = the whole · todos os = every · tudo = everything",
+  "explanation": "Algum and nenhum agree with the noun (alguma coisa, nenhuma pessoa); nenhum after the verb needs não. Todo with an article means 'whole' or, in the plural, 'every' (todo o dia = all day, todos os dias = every day). Tudo never changes and means 'everything'.",
+  "examples": [
+   {
+    "pt": "Você tem alguma pergunta?",
+    "en": "Do you have any questions?",
+    "highlight": [
+     "alguma"
+    ]
+   },
+   {
+    "pt": "Eu não tenho nenhum problema.",
+    "en": "I don't have any problem.",
+    "highlight": [
+     "nenhum"
+    ]
+   },
+   {
+    "pt": "Ela trabalha todos os dias, mas entende tudo.",
+    "en": "She works every day, but she understands everything.",
+    "highlight": [
+     "todos os",
+     "tudo"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Todo está bem.",
+   "right": "Tudo está bem.",
+   "en": "Everything is fine.",
+   "reason": "'Everything' on its own is tudo; todo goes with a noun."
+  }
+ },
+ {
+  "id": "weather-time-fazer",
+  "level": 2,
+  "title": "Weather and 'ago' with fazer",
+  "pattern": "faz calor / frio · está chovendo · faz + time = ago / for",
+  "explanation": "Weather uses fazer for heat and cold (faz frio, fez muito calor) and estar for conditions right now (está nublado, está chovendo). Fazer with a length of time means 'ago' or 'for': faz dois anos = two years ago. In speech tem is also common: tem dois anos que eu moro aqui.",
+  "examples": [
+   {
+    "pt": "Hoje faz muito calor.",
+    "en": "It's really hot today.",
+    "highlight": [
+     "faz"
+    ]
+   },
+   {
+    "pt": "Está chovendo desde ontem.",
+    "en": "It's been raining since yesterday.",
+    "highlight": [
+     "Está chovendo"
+    ]
+   },
+   {
+    "pt": "Eu moro aqui faz dois anos.",
+    "en": "I've lived here for two years.",
+    "highlight": [
+     "faz dois anos"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Hoje é muito frio.",
+   "right": "Hoje faz muito frio.",
+   "en": "It's very cold today.",
+   "reason": "Hot and cold weather is expressed with fazer, not ser."
+  }
+ },
+ {
+  "id": "estar-com",
+  "level": 2,
+  "title": "Estar com fome, frio, sono",
+  "pattern": "estar com + fome / sede / frio / calor / sono / medo",
+  "explanation": "Where English says 'I am hungry', Portuguese says 'I am with hunger': estou com fome. The same pattern works for thirst, cold, heat, sleepiness and fear. Use muito/muita to intensify, matching the noun: com muita fome, com muito frio.",
+  "examples": [
+   {
+    "pt": "Eu estou com fome.",
+    "en": "I'm hungry.",
+    "highlight": [
+     "estou com fome"
+    ]
+   },
+   {
+    "pt": "As crianças estão com sono.",
+    "en": "The kids are sleepy.",
+    "highlight": [
+     "estão com sono"
+    ]
+   },
+   {
+    "pt": "Você está com frio?",
+    "en": "Are you cold?",
+    "highlight": [
+     "está com frio"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Eu sou com fome.",
+   "right": "Eu estou com fome.",
+   "en": "I'm hungry.",
+   "reason": "Hunger is a temporary state, so it's estar com, never ser."
+  }
+ },
+ {
+  "id": "saber-conhecer",
+  "level": 2,
+  "title": "Saber vs. conhecer",
+  "pattern": "saber = know facts / how to · conhecer = know people, places; meet",
+  "explanation": "Saber is knowing information or a skill: sei o endereço, sei nadar. Conhecer is being familiar with a person, place or thing: conheço o Rio. In the past, conhecer often means 'met': conheci a Ana na festa.",
+  "examples": [
+   {
+    "pt": "Você sabe onde fica o banco?",
+    "en": "Do you know where the bank is?",
+    "highlight": [
+     "sabe"
+    ]
+   },
+   {
+    "pt": "Eu não conheço o Rio.",
+    "en": "I've never been to Rio.",
+    "highlight": [
+     "conheço"
+    ]
+   },
+   {
+    "pt": "Ela sabe nadar muito bem.",
+    "en": "She knows how to swim really well.",
+    "highlight": [
+     "sabe nadar"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Eu sei a Maria.",
+   "right": "Eu conheço a Maria.",
+   "en": "I know Maria.",
+   "reason": "Knowing a person is conhecer; saber is for facts and skills."
+  }
+ }
+]

@@ -1,0 +1,518 @@
+[
+ {
+  "pt": "reunião",
+  "pos": "n.",
+  "english": "meeting",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "reuniões"
+  ],
+  "example": {
+   "pt": "A reunião começa às dez.",
+   "en": "The meeting starts at ten."
+  }
+ },
+ {
+  "pt": "salário",
+  "pos": "n.",
+  "english": "salary, wages",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "salários"
+  ],
+  "example": {
+   "pt": "O salário é pago no fim do mês.",
+   "en": "The salary is paid at the end of the month."
+  }
+ },
+ {
+  "pt": "chefe",
+  "pos": "n.",
+  "english": "boss",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "mf",
+  "forms": [
+   "chefes"
+  ],
+  "example": {
+   "pt": "A minha chefe está de férias.",
+   "en": "My boss is on vacation."
+  }
+ },
+ {
+  "pt": "entrevista",
+  "pos": "n.",
+  "english": "interview",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "entrevistas"
+  ],
+  "example": {
+   "pt": "Tenho uma entrevista de emprego amanhã.",
+   "en": "I have a job interview tomorrow."
+  }
+ },
+ {
+  "pt": "empresa",
+  "pos": "n.",
+  "english": "company, business",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "empresas"
+  ],
+  "example": {
+   "pt": "Ela trabalha numa empresa grande.",
+   "en": "She works at a big company."
+  }
+ },
+ {
+  "pt": "escritório",
+  "pos": "n.",
+  "english": "office",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "escritórios"
+  ],
+  "example": {
+   "pt": "O escritório fica no centro.",
+   "en": "The office is downtown."
+  }
+ },
+ {
+  "pt": "funcionário",
+  "pos": "n.",
+  "english": "employee",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "funcionária",
+   "funcionários",
+   "funcionárias"
+  ],
+  "example": {
+   "pt": "A empresa tem cem funcionários.",
+   "en": "The company has a hundred employees."
+  }
+ },
+ {
+  "pt": "cliente",
+  "pos": "n.",
+  "english": "customer, client",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "mf",
+  "forms": [
+   "clientes"
+  ],
+  "example": {
+   "pt": "O cliente quer falar com o gerente.",
+   "en": "The customer wants to speak to the manager."
+  }
+ },
+ {
+  "pt": "contrato",
+  "pos": "n.",
+  "english": "contract",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "contratos"
+  ],
+  "example": {
+   "pt": "Assinei o contrato ontem.",
+   "en": "I signed the contract yesterday."
+  }
+ },
+ {
+  "pt": "currículo",
+  "pos": "n.",
+  "english": "résumé, CV",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "currículos"
+  ],
+  "example": {
+   "pt": "Mandei o meu currículo para três empresas.",
+   "en": "I sent my résumé to three companies."
+  }
+ },
+ {
+  "pt": "vaga",
+  "pos": "n.",
+  "english": "vacancy, opening; spot",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "vagas"
+  ],
+  "example": {
+   "pt": "Tem uma vaga de professor na escola.",
+   "en": "There's a teaching position open at the school."
+  }
+ },
+ {
+  "pt": "emprego",
+  "pos": "n.",
+  "english": "job, employment",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "empregos"
+  ],
+  "example": {
+   "pt": "Ele está procurando emprego.",
+   "en": "He's looking for a job."
+  }
+ },
+ {
+  "pt": "desempregado",
+  "pos": "adj.",
+  "english": "unemployed",
+  "level": 2,
+  "topic": "School & work",
+  "forms": [
+   "desempregada",
+   "desempregados",
+   "desempregadas"
+  ],
+  "example": {
+   "pt": "Meu irmão está desempregado.",
+   "en": "My brother is unemployed."
+  }
+ },
+ {
+  "pt": "aposentado",
+  "pos": "adj.",
+  "english": "retired",
+  "level": 2,
+  "topic": "School & work",
+  "forms": [
+   "aposentada",
+   "aposentados",
+   "aposentadas"
+  ],
+  "example": {
+   "pt": "Os meus avós são aposentados.",
+   "en": "My grandparents are retired."
+  }
+ },
+ {
+  "pt": "prova",
+  "pos": "n.",
+  "english": "test, exam",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "provas"
+  ],
+  "example": {
+   "pt": "Amanhã temos prova de matemática.",
+   "en": "Tomorrow we have a math test."
+  }
+ },
+ {
+  "pt": "nota",
+  "pos": "n.",
+  "english": "grade; note; bill (money)",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "notas"
+  ],
+  "example": {
+   "pt": "Tirei uma nota boa na prova.",
+   "en": "I got a good grade on the test."
+  }
+ },
+ {
+  "pt": "matéria",
+  "pos": "n.",
+  "english": "subject (school)",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "matérias"
+  ],
+  "example": {
+   "pt": "Qual é a sua matéria favorita?",
+   "en": "What's your favorite subject?"
+  }
+ },
+ {
+  "pt": "turma",
+  "pos": "n.",
+  "english": "class, group of students",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "turmas"
+  ],
+  "example": {
+   "pt": "A nossa turma tem vinte alunos.",
+   "en": "Our class has twenty students."
+  }
+ },
+ {
+  "pt": "faculdade",
+  "pos": "n.",
+  "english": "college, university",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "faculdades"
+  ],
+  "example": {
+   "pt": "Ela estuda Direito na faculdade.",
+   "en": "She studies law in college."
+  }
+ },
+ {
+  "pt": "curso",
+  "pos": "n.",
+  "english": "course",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "cursos"
+  ],
+  "example": {
+   "pt": "Estou fazendo um curso de inglês.",
+   "en": "I'm taking an English course."
+  }
+ },
+ {
+  "pt": "diploma",
+  "pos": "n.",
+  "english": "diploma, degree",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "diplomas"
+  ],
+  "example": {
+   "pt": "Ele recebeu o diploma em dezembro.",
+   "en": "He got his diploma in December."
+  }
+ },
+ {
+  "pt": "dever de casa",
+  "pos": "n.",
+  "english": "homework",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "deveres de casa"
+  ],
+  "example": {
+   "pt": "Você já fez o dever de casa?",
+   "en": "Have you done your homework yet?"
+  }
+ },
+ {
+  "pt": "exercício",
+  "pos": "n.",
+  "english": "exercise",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "exercícios"
+  ],
+  "example": {
+   "pt": "Façam os exercícios da página dez.",
+   "en": "Do the exercises on page ten."
+  }
+ },
+ {
+  "pt": "explicar",
+  "pos": "v.",
+  "english": "to explain",
+  "level": 2,
+  "topic": "School & work",
+  "example": {
+   "pt": "O professor explicou a lição de novo.",
+   "en": "The teacher explained the lesson again."
+  }
+ },
+ {
+  "pt": "ensinar",
+  "pos": "v.",
+  "english": "to teach",
+  "level": 2,
+  "topic": "School & work",
+  "example": {
+   "pt": "Ela ensina português para estrangeiros.",
+   "en": "She teaches Portuguese to foreigners."
+  }
+ },
+ {
+  "pt": "erro",
+  "pos": "n.",
+  "english": "mistake, error",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "erros"
+  ],
+  "example": {
+   "pt": "Eu cometi muitos erros na prova.",
+   "en": "I made a lot of mistakes on the test."
+  }
+ },
+ {
+  "pt": "corrigir",
+  "pos": "v.",
+  "english": "to correct",
+  "level": 2,
+  "topic": "School & work",
+  "example": {
+   "pt": "A professora corrige as provas à noite.",
+   "en": "The teacher grades the tests at night."
+  }
+ },
+ {
+  "pt": "projeto",
+  "pos": "n.",
+  "english": "project",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "projetos"
+  ],
+  "example": {
+   "pt": "Estamos trabalhando num projeto novo.",
+   "en": "We're working on a new project."
+  }
+ },
+ {
+  "pt": "prazo",
+  "pos": "n.",
+  "english": "deadline",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "prazos"
+  ],
+  "example": {
+   "pt": "O prazo termina na sexta-feira.",
+   "en": "The deadline is on Friday."
+  }
+ },
+ {
+  "pt": "enviar",
+  "pos": "v.",
+  "english": "to send",
+  "level": 2,
+  "topic": "School & work",
+  "example": {
+   "pt": "Enviei o e-mail para o cliente.",
+   "en": "I sent the email to the client."
+  }
+ },
+ {
+  "pt": "assinar",
+  "pos": "v.",
+  "english": "to sign",
+  "level": 2,
+  "topic": "School & work",
+  "example": {
+   "pt": "Assine aqui, por favor.",
+   "en": "Sign here, please."
+  }
+ },
+ {
+  "pt": "contratar",
+  "pos": "v.",
+  "english": "to hire",
+  "level": 2,
+  "topic": "School & work",
+  "example": {
+   "pt": "A empresa vai contratar duas pessoas.",
+   "en": "The company is going to hire two people."
+  }
+ },
+ {
+  "pt": "ganhar",
+  "pos": "v.",
+  "english": "to earn; to win; to get",
+  "level": 2,
+  "topic": "School & work",
+  "example": {
+   "pt": "Quanto você ganha por mês?",
+   "en": "How much do you earn a month?"
+  }
+ },
+ {
+  "pt": "profissão",
+  "pos": "n.",
+  "english": "profession, occupation",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "profissões"
+  ],
+  "example": {
+   "pt": "Qual é a sua profissão?",
+   "en": "What is your profession?"
+  }
+ },
+ {
+  "pt": "estágio",
+  "pos": "n.",
+  "english": "internship",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "estágios"
+  ],
+  "example": {
+   "pt": "Ela faz estágio num hospital.",
+   "en": "She's doing an internship at a hospital."
+  }
+ },
+ {
+  "pt": "experiência",
+  "pos": "n.",
+  "english": "experience",
+  "level": 2,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "experiências"
+  ],
+  "example": {
+   "pt": "Você tem experiência com vendas?",
+   "en": "Do you have experience in sales?"
+  }
+ }
+]

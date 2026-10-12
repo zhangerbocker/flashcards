@@ -1,0 +1,565 @@
+[
+ {
+  "pt": "rua",
+  "pos": "n.",
+  "english": "street",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "ruas"
+  ],
+  "example": {
+   "pt": "Eu moro nesta rua.",
+   "en": "I live on this street."
+  }
+ },
+ {
+  "pt": "bairro",
+  "pos": "n.",
+  "english": "neighborhood",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "bairros"
+  ],
+  "example": {
+   "pt": "Meu bairro é tranquilo.",
+   "en": "My neighborhood is quiet."
+  }
+ },
+ {
+  "pt": "lugar",
+  "pos": "n.",
+  "english": "place",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "lugares"
+  ],
+  "example": {
+   "pt": "Este lugar é muito bonito.",
+   "en": "This place is very beautiful."
+  }
+ },
+ {
+  "pt": "mundo",
+  "pos": "n.",
+  "english": "world",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "mundos"
+  ],
+  "example": {
+   "pt": "Eu quero viajar pelo mundo.",
+   "en": "I want to travel around the world."
+  }
+ },
+ {
+  "pt": "centro",
+  "pos": "n.",
+  "english": "downtown, center",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "centros"
+  ],
+  "example": {
+   "pt": "Eu trabalho no centro.",
+   "en": "I work downtown."
+  }
+ },
+ {
+  "pt": "praça",
+  "pos": "n.",
+  "english": "square, plaza",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "praças"
+  ],
+  "example": {
+   "pt": "A igreja fica na praça.",
+   "en": "The church is on the square."
+  }
+ },
+ {
+  "pt": "parque",
+  "pos": "n.",
+  "english": "park",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "parques"
+  ],
+  "example": {
+   "pt": "As crianças brincam no parque.",
+   "en": "The children play in the park."
+  }
+ },
+ {
+  "pt": "loja",
+  "pos": "n.",
+  "english": "store, shop",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "lojas"
+  ],
+  "example": {
+   "pt": "A loja abre às dez.",
+   "en": "The store opens at ten."
+  }
+ },
+ {
+  "pt": "mercado",
+  "pos": "n.",
+  "english": "market",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "mercados"
+  ],
+  "example": {
+   "pt": "Eu vou ao mercado hoje.",
+   "en": "I'm going to the market today."
+  }
+ },
+ {
+  "pt": "supermercado",
+  "pos": "n.",
+  "english": "supermarket",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "supermercados"
+  ],
+  "example": {
+   "pt": "O supermercado fica perto daqui.",
+   "en": "The supermarket is near here."
+  }
+ },
+ {
+  "pt": "padaria",
+  "pos": "n.",
+  "english": "bakery",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "padarias"
+  ],
+  "example": {
+   "pt": "Eu compro pão na padaria.",
+   "en": "I buy bread at the bakery."
+  }
+ },
+ {
+  "pt": "banco",
+  "pos": "n.",
+  "english": "bank; bench",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "bancos"
+  ],
+  "example": {
+   "pt": "Eu preciso ir ao banco.",
+   "en": "I need to go to the bank."
+  }
+ },
+ {
+  "pt": "hotel",
+  "pos": "n.",
+  "english": "hotel",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "hotéis"
+  ],
+  "example": {
+   "pt": "O hotel fica perto da praia.",
+   "en": "The hotel is near the beach."
+  }
+ },
+ {
+  "pt": "igreja",
+  "pos": "n.",
+  "english": "church",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "igrejas"
+  ],
+  "example": {
+   "pt": "A igreja é muito antiga.",
+   "en": "The church is very old."
+  }
+ },
+ {
+  "pt": "shopping",
+  "pos": "n.",
+  "english": "shopping mall",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "shoppings"
+  ],
+  "example": {
+   "pt": "Vamos ao shopping no sábado?",
+   "en": "Shall we go to the mall on Saturday?"
+  }
+ },
+ {
+  "pt": "aeroporto",
+  "pos": "n.",
+  "english": "airport",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "aeroportos"
+  ],
+  "example": {
+   "pt": "O aeroporto fica longe.",
+   "en": "The airport is far away."
+  }
+ },
+ {
+  "pt": "apartamento",
+  "pos": "n.",
+  "english": "apartment",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "apartamentos"
+  ],
+  "example": {
+   "pt": "Eu moro num apartamento pequeno.",
+   "en": "I live in a small apartment."
+  }
+ },
+ {
+  "pt": "prédio",
+  "pos": "n.",
+  "english": "building",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "prédios"
+  ],
+  "example": {
+   "pt": "Meu prédio tem dez andares.",
+   "en": "My building has ten floors."
+  }
+ },
+ {
+  "pt": "andar",
+  "pos": "n.",
+  "english": "floor, story",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "andares"
+  ],
+  "example": {
+   "pt": "Eu moro no terceiro andar.",
+   "en": "I live on the third floor."
+  }
+ },
+ {
+  "pt": "quarto",
+  "pos": "n.",
+  "english": "bedroom; room",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "quartos"
+  ],
+  "example": {
+   "pt": "Meu quarto é pequeno.",
+   "en": "My bedroom is small."
+  }
+ },
+ {
+  "pt": "cozinha",
+  "pos": "n.",
+  "english": "kitchen",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "cozinhas"
+  ],
+  "example": {
+   "pt": "A mãe está na cozinha.",
+   "en": "Mom is in the kitchen."
+  }
+ },
+ {
+  "pt": "sala",
+  "pos": "n.",
+  "english": "living room; room",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "salas"
+  ],
+  "example": {
+   "pt": "A TV está na sala.",
+   "en": "The TV is in the living room."
+  }
+ },
+ {
+  "pt": "banheiro",
+  "pos": "n.",
+  "english": "bathroom",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "banheiros"
+  ],
+  "example": {
+   "pt": "Onde fica o banheiro?",
+   "en": "Where is the bathroom?"
+  }
+ },
+ {
+  "pt": "porta",
+  "pos": "n.",
+  "english": "door",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "portas"
+  ],
+  "example": {
+   "pt": "Pode fechar a porta, por favor?",
+   "en": "Can you close the door, please?"
+  }
+ },
+ {
+  "pt": "janela",
+  "pos": "n.",
+  "english": "window",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "janelas"
+  ],
+  "example": {
+   "pt": "Eu abro a janela de manhã.",
+   "en": "I open the window in the morning."
+  }
+ },
+ {
+  "pt": "esquerda",
+  "pos": "n.",
+  "english": "left",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "f",
+  "example": {
+   "pt": "Vire à esquerda na esquina.",
+   "en": "Turn left at the corner."
+  }
+ },
+ {
+  "pt": "direita",
+  "pos": "n.",
+  "english": "right",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "f",
+  "example": {
+   "pt": "O banco fica à direita.",
+   "en": "The bank is on the right."
+  }
+ },
+ {
+  "pt": "esquina",
+  "pos": "n.",
+  "english": "street corner",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "esquinas"
+  ],
+  "example": {
+   "pt": "A padaria fica na esquina.",
+   "en": "The bakery is on the corner."
+  }
+ },
+ {
+  "pt": "lado",
+  "pos": "n.",
+  "english": "side",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "lados"
+  ],
+  "example": {
+   "pt": "A loja fica do outro lado da rua.",
+   "en": "The store is on the other side of the street."
+  }
+ },
+ {
+  "pt": "em frente",
+  "pos": "adv.",
+  "english": "straight ahead; opposite",
+  "level": 1,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "Siga em frente até a praça.",
+   "en": "Go straight ahead to the square."
+  }
+ },
+ {
+  "pt": "longe",
+  "pos": "adv.",
+  "english": "far",
+  "level": 1,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "A praia fica longe daqui?",
+   "en": "Is the beach far from here?"
+  }
+ },
+ {
+  "pt": "reto",
+  "pos": "adv.",
+  "english": "straight (ahead)",
+  "level": 1,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "Vá reto e vire à direita.",
+   "en": "Go straight and turn right."
+  }
+ },
+ {
+  "pt": "endereço",
+  "pos": "n.",
+  "english": "address",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "endereços"
+  ],
+  "example": {
+   "pt": "Qual é o seu endereço?",
+   "en": "What is your address?"
+  }
+ },
+ {
+  "pt": "mapa",
+  "pos": "n.",
+  "english": "map",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "mapas"
+  ],
+  "example": {
+   "pt": "Eu olho o mapa no celular.",
+   "en": "I look at the map on my phone."
+  }
+ },
+ {
+  "pt": "virar",
+  "pos": "v.",
+  "english": "to turn",
+  "level": 1,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "Vire à esquerda no banco.",
+   "en": "Turn left at the bank."
+  }
+ },
+ {
+  "pt": "feira",
+  "pos": "n.",
+  "english": "street market, fair",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "feiras"
+  ],
+  "example": {
+   "pt": "Eu compro frutas na feira.",
+   "en": "I buy fruit at the street market."
+  }
+ },
+ {
+  "pt": "jardim",
+  "pos": "n.",
+  "english": "garden, yard",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "jardins"
+  ],
+  "example": {
+   "pt": "A casa tem um jardim pequeno.",
+   "en": "The house has a small garden."
+  }
+ },
+ {
+  "pt": "elevador",
+  "pos": "n.",
+  "english": "elevator",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "elevadores"
+  ],
+  "example": {
+   "pt": "O elevador está quebrado.",
+   "en": "The elevator is broken."
+  }
+ },
+ {
+  "pt": "escada",
+  "pos": "n.",
+  "english": "stairs",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "escadas"
+  ],
+  "example": {
+   "pt": "Eu subo pela escada.",
+   "en": "I go up by the stairs."
+  }
+ }
+]

@@ -12,6 +12,11 @@ const ThemeButton = dynamic(() => import("./ThemeButton").then((m) => m.ThemeBut
   loading: () => <span className={`${ITEM} invisible`}>Theme</span>,
 });
 
+const LevelButton = dynamic(() => import("./LevelButton").then((m) => m.LevelButton), {
+  ssr: false,
+  loading: () => <span className={`${ITEM} invisible`}>Levels</span>,
+});
+
 const TABS = [
   { href: "/cards", label: "Cards", pt: "Cartões" },
   { href: "/read", label: "Read", pt: "Ler" },
@@ -40,6 +45,9 @@ export function TabBarView({ pathname }: { pathname: string }) {
             </li>
           );
         })}
+        <li className="w-20 shrink-0">
+          <LevelButton className={`${ITEM} text-stone-500`} />
+        </li>
         <li className="w-20 shrink-0">
           <ThemeButton className={`${ITEM} text-stone-500`} />
         </li>

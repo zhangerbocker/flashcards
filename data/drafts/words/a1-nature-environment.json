@@ -1,0 +1,366 @@
+[
+ {
+  "pt": "natureza",
+  "pos": "n.",
+  "english": "nature",
+  "level": 1,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "naturezas"
+  ],
+  "example": {
+   "pt": "Eu gosto de estar na natureza.",
+   "en": "I like being in nature."
+  }
+ },
+ {
+  "pt": "árvore",
+  "pos": "n.",
+  "english": "tree",
+  "level": 1,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "árvores"
+  ],
+  "example": {
+   "pt": "Tem uma árvore grande no jardim.",
+   "en": "There is a big tree in the garden."
+  }
+ },
+ {
+  "pt": "flor",
+  "pos": "n.",
+  "english": "flower",
+  "level": 1,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "flores"
+  ],
+  "example": {
+   "pt": "Ela comprou flores para a mãe.",
+   "en": "She bought flowers for her mother."
+  }
+ },
+ {
+  "pt": "planta",
+  "pos": "n.",
+  "english": "plant",
+  "level": 1,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "plantas"
+  ],
+  "example": {
+   "pt": "Eu tenho muitas plantas em casa.",
+   "en": "I have many plants at home."
+  }
+ },
+ {
+  "pt": "mar",
+  "pos": "n.",
+  "english": "sea",
+  "level": 1,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "mares"
+  ],
+  "example": {
+   "pt": "O mar está azul.",
+   "en": "The sea is blue."
+  }
+ },
+ {
+  "pt": "rio",
+  "pos": "n.",
+  "english": "river",
+  "level": 1,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "rios"
+  ],
+  "example": {
+   "pt": "O rio Amazonas é muito grande.",
+   "en": "The Amazon River is very big."
+  }
+ },
+ {
+  "pt": "lago",
+  "pos": "n.",
+  "english": "lake",
+  "level": 1,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "lagos"
+  ],
+  "example": {
+   "pt": "Nós nadamos no lago.",
+   "en": "We swam in the lake."
+  }
+ },
+ {
+  "pt": "montanha",
+  "pos": "n.",
+  "english": "mountain",
+  "level": 1,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "montanhas"
+  ],
+  "example": {
+   "pt": "A montanha é muito alta.",
+   "en": "The mountain is very high."
+  }
+ },
+ {
+  "pt": "campo",
+  "pos": "n.",
+  "english": "countryside; field",
+  "level": 1,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "campos"
+  ],
+  "example": {
+   "pt": "Meus avós moram no campo.",
+   "en": "My grandparents live in the countryside."
+  }
+ },
+ {
+  "pt": "floresta",
+  "pos": "n.",
+  "english": "forest",
+  "level": 1,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "florestas"
+  ],
+  "example": {
+   "pt": "A floresta amazônica é enorme.",
+   "en": "The Amazon forest is huge."
+  }
+ },
+ {
+  "pt": "céu",
+  "pos": "n.",
+  "english": "sky",
+  "level": 1,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "céus"
+  ],
+  "example": {
+   "pt": "O céu está bonito hoje.",
+   "en": "The sky is beautiful today."
+  }
+ },
+ {
+  "pt": "lua",
+  "pos": "n.",
+  "english": "moon",
+  "level": 1,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "luas"
+  ],
+  "example": {
+   "pt": "A lua está cheia hoje.",
+   "en": "The moon is full tonight."
+  }
+ },
+ {
+  "pt": "estrela",
+  "pos": "n.",
+  "english": "star",
+  "level": 1,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "estrelas"
+  ],
+  "example": {
+   "pt": "Tem muitas estrelas no céu.",
+   "en": "There are many stars in the sky."
+  }
+ },
+ {
+  "pt": "terra",
+  "pos": "n.",
+  "english": "earth, land, soil",
+  "level": 1,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "terras"
+  ],
+  "example": {
+   "pt": "A terra aqui é boa para plantar.",
+   "en": "The soil here is good for planting."
+  }
+ },
+ {
+  "pt": "pedra",
+  "pos": "n.",
+  "english": "stone, rock",
+  "level": 1,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "pedras"
+  ],
+  "example": {
+   "pt": "Tem muitas pedras no rio.",
+   "en": "There are many rocks in the river."
+  }
+ },
+ {
+  "pt": "ilha",
+  "pos": "n.",
+  "english": "island",
+  "level": 1,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "ilhas"
+  ],
+  "example": {
+   "pt": "Florianópolis é uma ilha.",
+   "en": "Florianópolis is an island."
+  }
+ },
+ {
+  "pt": "animal",
+  "pos": "n.",
+  "english": "animal",
+  "level": 1,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "animais"
+  ],
+  "example": {
+   "pt": "Eu gosto de animais.",
+   "en": "I like animals."
+  }
+ },
+ {
+  "pt": "cachorro",
+  "pos": "n.",
+  "english": "dog",
+  "level": 1,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "cachorra",
+   "cachorros",
+   "cachorras"
+  ],
+  "example": {
+   "pt": "Meu cachorro se chama Bob.",
+   "en": "My dog is called Bob."
+  }
+ },
+ {
+  "pt": "gato",
+  "pos": "n.",
+  "english": "cat",
+  "level": 1,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "gata",
+   "gatos",
+   "gatas"
+  ],
+  "example": {
+   "pt": "A gata dorme no sofá.",
+   "en": "The cat sleeps on the sofa."
+  }
+ },
+ {
+  "pt": "pássaro",
+  "pos": "n.",
+  "english": "bird",
+  "level": 1,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "pássaros"
+  ],
+  "example": {
+   "pt": "O pássaro canta de manhã.",
+   "en": "The bird sings in the morning."
+  }
+ },
+ {
+  "pt": "peixe",
+  "pos": "n.",
+  "english": "fish",
+  "level": 1,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "peixes"
+  ],
+  "example": {
+   "pt": "Tem muitos peixes no mar.",
+   "en": "There are many fish in the sea."
+  }
+ },
+ {
+  "pt": "cavalo",
+  "pos": "n.",
+  "english": "horse",
+  "level": 1,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "cavalos"
+  ],
+  "example": {
+   "pt": "Ele anda de cavalo.",
+   "en": "He rides a horse."
+  }
+ },
+ {
+  "pt": "lixo",
+  "pos": "n.",
+  "english": "trash, garbage",
+  "level": 1,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "lixos"
+  ],
+  "example": {
+   "pt": "Não jogue lixo na rua.",
+   "en": "Don't throw trash in the street."
+  }
+ },
+ {
+  "pt": "ar",
+  "pos": "n.",
+  "english": "air",
+  "level": 1,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "ares"
+  ],
+  "example": {
+   "pt": "O ar da montanha é limpo.",
+   "en": "The mountain air is clean."
+  }
+ }
+]

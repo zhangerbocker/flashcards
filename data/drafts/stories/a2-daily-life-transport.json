@@ -1,0 +1,432 @@
+[
+ {
+  "id": "a2-daily-life-transport-1",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "title": "De bicicleta para o trabalho",
+  "titleEn": "Cycling to work",
+  "sentences": [
+   {
+    "pt": "Ricardo mora em Copacabana e trabalha no centro do Rio.",
+    "en": "Ricardo lives in Copacabana and works in downtown Rio.",
+    "glosses": {
+     "mora": "lives",
+     "trabalha": "works",
+     "no centro do": "in downtown"
+    }
+   },
+   {
+    "pt": "Todos os dias, ele ia para o trabalho de carro.",
+    "en": "Every day, he used to go to work by car.",
+    "glosses": {
+     "todos os dias": "every day",
+     "ia": "used to go",
+     "de": "by"
+    }
+   },
+   {
+    "pt": "Mas o trânsito era horrível, e ele passava mais de uma hora no engarrafamento.",
+    "en": "But the traffic was awful, and he spent more than an hour in traffic jams.",
+    "glosses": {
+     "era": "was",
+     "passava": "spent",
+     "mais de": "more than",
+     "no": "in"
+    }
+   },
+   {
+    "pt": "E também era difícil estacionar perto do escritório.",
+    "en": "And it was also hard to park near the office.",
+    "glosses": {
+     "era": "it was",
+     "do": "the"
+    }
+   },
+   {
+    "pt": "O estacionamento custava trinta reais por dia.",
+    "en": "The parking lot cost thirty reais a day.",
+    "glosses": {
+     "custava": "cost",
+     "por": "a"
+    }
+   },
+   {
+    "pt": "Um dia, uma colega disse: — Por que você não vai de bicicleta?",
+    "en": "One day, a colleague said, \"Why don't you go by bike?\"",
+    "glosses": {
+     "disse": "said",
+     "vai": "go",
+     "de": "by"
+    }
+   },
+   {
+    "pt": "— Eu não tenho bicicleta — respondeu Ricardo.",
+    "en": "\"I don't have a bike,\" answered Ricardo.",
+    "glosses": {
+     "tenho": "have",
+     "respondeu": "answered"
+    }
+   },
+   {
+    "pt": "— Você pode alugar uma! Tem bicicletas para alugar no bairro todo.",
+    "en": "\"You can rent one! There are bikes for rent all over the neighborhood.\"",
+    "glosses": {
+     "pode": "can",
+     "uma": "one",
+     "tem": "there are",
+     "para alugar": "for rent",
+     "no bairro todo": "all over the neighborhood"
+    }
+   },
+   {
+    "pt": "Na segunda-feira, Ricardo decidiu tentar.",
+    "en": "On Monday, Ricardo decided to try.",
+    "glosses": {
+     "na": "on",
+     "decidiu": "decided"
+    }
+   },
+   {
+    "pt": "Ele saiu de casa às sete, com uma mochila nas costas.",
+    "en": "He left home at seven, with a backpack on his back.",
+    "glosses": {
+     "saiu de casa": "left home",
+     "às": "at",
+     "nas": "on his"
+    }
+   },
+   {
+    "pt": "Alugou uma bicicleta laranja na esquina e foi pela praia.",
+    "en": "He rented an orange bike on the corner and went along the beach.",
+    "glosses": {
+     "alugou": "rented",
+     "na": "on the",
+     "foi": "went",
+     "pela": "along the"
+    }
+   },
+   {
+    "pt": "O dia estava ensolarado, e o mar estava lindo.",
+    "en": "The day was sunny, and the sea was beautiful.",
+    "glosses": {
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "Ele passou ao lado dos carros parados no trânsito.",
+    "en": "He went past the cars stopped in traffic.",
+    "glosses": {
+     "passou ao lado dos": "went past the",
+     "parados": "stopped",
+     "no": "in"
+    }
+   },
+   {
+    "pt": "Os motoristas pareciam cansados e irritados.",
+    "en": "The drivers looked tired and annoyed.",
+    "glosses": {
+     "pareciam": "looked"
+    }
+   },
+   {
+    "pt": "Ricardo chegou ao escritório em quarenta minutos.",
+    "en": "Ricardo got to the office in forty minutes.",
+    "glosses": {
+     "chegou": "got",
+     "ao": "to the"
+    }
+   },
+   {
+    "pt": "Ele estava com calor e com sede, mas muito animado.",
+    "en": "He was hot and thirsty, but very excited.",
+    "glosses": {
+     "estava com calor": "was hot",
+     "com sede": "thirsty",
+     "animado": "excited"
+    }
+   },
+   {
+    "pt": "Ele tomou um banho rápido no banheiro da empresa e trocou de roupa.",
+    "en": "He took a quick shower in the company bathroom and changed his clothes.",
+    "glosses": {
+     "tomou": "took",
+     "no": "in the",
+     "da empresa": "company",
+     "trocou de roupa": "changed clothes"
+    }
+   },
+   {
+    "pt": "Agora, Ricardo só usa o carro quando está chovendo.",
+    "en": "Now Ricardo only uses the car when it's raining.",
+    "glosses": {
+     "usa": "uses",
+     "está chovendo": "it's raining"
+    }
+   },
+   {
+    "pt": "Ele paga menos e chega mais feliz ao trabalho.",
+    "en": "He pays less and gets to work happier.",
+    "glosses": {
+     "paga": "pays",
+     "chega": "gets",
+     "mais feliz": "happier",
+     "ao": "to"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Onde Ricardo trabalha?",
+    "qEn": "Where does Ricardo work?",
+    "options": [
+     "Em Copacabana",
+     "No centro do Rio",
+     "Em Ipanema",
+     "Em casa"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quanto custava o estacionamento?",
+    "qEn": "How much did the parking lot cost?",
+    "options": [
+     "Dez reais por dia",
+     "Vinte reais por dia",
+     "Trinta reais por dia",
+     "Cinquenta reais por dia"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Quando Ricardo usa o carro agora?",
+    "qEn": "When does Ricardo use the car now?",
+    "options": [
+     "Todos os dias",
+     "Só quando está chovendo",
+     "Nos fins de semana",
+     "Nunca"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "a2-daily-life-transport-2",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "title": "O voo para Manaus",
+  "titleEn": "The flight to Manaus",
+  "sentences": [
+   {
+    "pt": "Thiago vai visitar o irmão em Manaus pela primeira vez.",
+    "en": "Thiago is going to visit his brother in Manaus for the first time.",
+    "glosses": {
+     "vai visitar": "is going to visit",
+     "pela primeira vez": "for the first time"
+    }
+   },
+   {
+    "pt": "Ele comprou uma passagem de ida e volta de Brasília por 800 reais.",
+    "en": "He bought a round-trip ticket from Brasília for 800 reais.",
+    "glosses": {
+     "comprou": "bought",
+     "passagem": "ticket"
+    }
+   },
+   {
+    "pt": "Na noite antes da viagem, ele arrumou a mala com calma.",
+    "en": "The night before the trip, he packed his suitcase calmly.",
+    "glosses": {
+     "na": "the",
+     "da": "the",
+     "arrumou": "packed",
+     "com calma": "calmly"
+    }
+   },
+   {
+    "pt": "Levou roupa leve, porque em Manaus faz muito calor.",
+    "en": "He took light clothes, because in Manaus it's very hot.",
+    "glosses": {
+     "levou": "he took",
+     "faz muito calor": "it's very hot"
+    }
+   },
+   {
+    "pt": "No dia do voo, ele pegou um táxi para o aeroporto às cinco da manhã.",
+    "en": "On the day of the flight, he took a taxi to the airport at five in the morning.",
+    "glosses": {
+     "no": "on the",
+     "do": "of the",
+     "pegou": "took",
+     "às": "at",
+     "da manhã": "in the morning"
+    }
+   },
+   {
+    "pt": "O motorista era muito simpático e falou sobre a Amazônia durante toda a viagem.",
+    "en": "The driver was very friendly and talked about the Amazon the whole ride.",
+    "glosses": {
+     "era": "was",
+     "falou": "talked",
+     "durante toda a viagem": "the whole ride"
+    }
+   },
+   {
+    "pt": "No aeroporto, Thiago deixou a mala grande e ficou só com a mochila.",
+    "en": "At the airport, Thiago checked his big suitcase and kept only his backpack.",
+    "glosses": {
+     "no": "at the",
+     "deixou": "checked",
+     "ficou só com": "kept only"
+    }
+   },
+   {
+    "pt": "Depois, ele tomou um café e comeu um pão de queijo.",
+    "en": "Then he had a coffee and ate a cheese bread.",
+    "glosses": {
+     "tomou": "had",
+     "comeu": "ate"
+    }
+   },
+   {
+    "pt": "Ele estava tão calmo que começou a ler um livro.",
+    "en": "He was so calm that he started reading a book.",
+    "glosses": {
+     "estava": "was",
+     "começou a ler": "started reading"
+    }
+   },
+   {
+    "pt": "Depois de um tempo, ele olhou para o relógio: eram sete e dez!",
+    "en": "After a while, he looked at his watch: it was ten past seven!",
+    "glosses": {
+     "depois de um tempo": "after a while",
+     "olhou para": "looked at",
+     "relógio": "watch",
+     "eram": "it was"
+    }
+   },
+   {
+    "pt": "O voo era às sete e meia, e os passageiros já estavam embarcando.",
+    "en": "The flight was at seven thirty, and the passengers were already boarding.",
+    "glosses": {
+     "era": "was",
+     "às": "at",
+     "meia": "thirty",
+     "estavam embarcando": "were boarding"
+    }
+   },
+   {
+    "pt": "Thiago correu pelo aeroporto até o portão doze.",
+    "en": "Thiago ran through the airport to gate twelve.",
+    "glosses": {
+     "correu": "ran",
+     "pelo": "through the",
+     "até": "to"
+    }
+   },
+   {
+    "pt": "Ele chegou a tempo, mas muito cansado.",
+    "en": "He got there in time, but very tired.",
+    "glosses": {
+     "chegou": "got there"
+    }
+   },
+   {
+    "pt": "Dentro do avião, ele sentou ao lado de uma senhora idosa.",
+    "en": "Inside the plane, he sat next to an elderly lady.",
+    "glosses": {
+     "dentro do": "inside the",
+     "sentou": "sat",
+     "senhora": "lady"
+    }
+   },
+   {
+    "pt": "Ela também ia para Manaus, para conhecer o neto.",
+    "en": "She was also going to Manaus, to meet her grandson.",
+    "glosses": {
+     "ia": "was going",
+     "conhecer": "to meet"
+    }
+   },
+   {
+    "pt": "Os dois conversaram durante todo o voo, que durou quase três horas.",
+    "en": "The two of them talked during the whole flight, which lasted almost three hours.",
+    "glosses": {
+     "os dois": "the two of them",
+     "conversaram": "talked",
+     "todo": "whole",
+     "durou": "lasted"
+    }
+   },
+   {
+    "pt": "Quando o avião desceu, Thiago viu o rio enorme e a floresta verde.",
+    "en": "When the plane came down, Thiago saw the huge river and the green forest.",
+    "glosses": {
+     "desceu": "came down",
+     "viu": "saw"
+    }
+   },
+   {
+    "pt": "O irmão estava esperando por ele no aeroporto.",
+    "en": "His brother was waiting for him at the airport.",
+    "glosses": {
+     "estava esperando por": "was waiting for",
+     "no": "at the"
+    }
+   },
+   {
+    "pt": "— Como foi a viagem? — perguntou o irmão.",
+    "en": "\"How was the trip?\" asked his brother.",
+    "glosses": {
+     "foi": "was",
+     "perguntou": "asked"
+    }
+   },
+   {
+    "pt": "— Quase perdi o voo, mas foi ótima! — respondeu Thiago.",
+    "en": "\"I almost missed the flight, but it was great!\" answered Thiago.",
+    "glosses": {
+     "perdi": "I missed",
+     "foi": "it was",
+     "respondeu": "answered"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Quanto custou a passagem?",
+    "qEn": "How much did the ticket cost?",
+    "options": [
+     "300 reais",
+     "500 reais",
+     "800 reais",
+     "100 reais"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Por que Thiago quase perdeu o voo?",
+    "qEn": "Why did Thiago almost miss the flight?",
+    "options": [
+     "Porque o táxi chegou tarde",
+     "Porque ele estava lendo um livro",
+     "Porque ele esqueceu a mala",
+     "Porque teve trânsito"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quem sentou ao lado de Thiago?",
+    "qEn": "Who sat next to Thiago?",
+    "options": [
+     "O irmão dele",
+     "Um motorista",
+     "Uma senhora idosa",
+     "Uma criança"
+    ],
+    "answer": 2
+   }
+  ]
+ }
+]

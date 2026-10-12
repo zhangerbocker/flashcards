@@ -1,0 +1,599 @@
+[
+ {
+  "id": "b2-places-directions-1",
+  "level": 4,
+  "topic": "Places & directions",
+  "title": "O prédio da esquina",
+  "titleEn": "The building on the corner",
+  "sentences": [
+   {
+    "pt": "No centro histórico de Salvador, numa ladeira estreita, fica um prédio amarelo de três andares.",
+    "en": "In the historic center of Salvador, on a narrow steep street, there is a three-story yellow building.",
+    "glosses": {
+     "numa": "on a",
+     "fica": "there is",
+     "andares": "floors"
+    }
+   },
+   {
+    "pt": "Durante décadas, ele foi um cortiço onde moravam onze famílias.",
+    "en": "For decades, it was a tenement where eleven families lived.",
+    "glosses": {
+     "foi": "was",
+     "moravam": "lived"
+    }
+   },
+   {
+    "pt": "Seu Antônio chegou ali com vinte anos e nunca mais saiu.",
+    "en": "Mr. Antônio arrived there at twenty and never left again.",
+    "glosses": {
+     "chegou": "arrived",
+     "com": "at",
+     "nunca mais": "never again",
+     "saiu": "left"
+    }
+   },
+   {
+    "pt": "Ali criou três filhos, perdeu a esposa e viu o bairro mudar muitas vezes.",
+    "en": "There he raised three children, lost his wife and saw the neighborhood change many times.",
+    "glosses": {
+     "criou": "raised",
+     "perdeu": "lost",
+     "viu": "saw"
+    }
+   },
+   {
+    "pt": "Do quarto dele, no térreo, dá para ver o mar entre dois prédios.",
+    "en": "From his room, on the ground floor, you can see the sea between two buildings.",
+    "glosses": {
+     "Do": "from the",
+     "dele": "his",
+     "no": "on the",
+     "dá para": "one can"
+    }
+   },
+   {
+    "pt": "No ano passado, uma empresa comprou o imóvel e anunciou uma reforma enorme.",
+    "en": "Last year, a company bought the property and announced a huge renovation.",
+    "glosses": {
+     "passado": "last",
+     "comprou": "bought",
+     "anunciou": "announced"
+    }
+   },
+   {
+    "pt": "O projeto tem um hotel pequeno no térreo e apartamentos de temporada nos outros andares.",
+    "en": "The project has a small hotel on the ground floor and short-stay apartments on the other floors.",
+    "glosses": {
+     "tem": "has",
+     "no": "on the",
+     "de temporada": "short-stay",
+     "nos": "on the",
+     "andares": "floors"
+    }
+   },
+   {
+    "pt": "Para os moradores, a notícia caiu como uma tempestade.",
+    "en": "For the residents, the news fell like a storm.",
+    "glosses": {
+     "caiu": "fell"
+    }
+   },
+   {
+    "pt": "O aluguel era baixo, a localização era ótima, e o entorno tinha tudo: padaria, farmácia, igreja e ponto de ônibus.",
+    "en": "The rent was low, the location was great, and the surrounding area had everything: bakery, pharmacy, church and bus stop.",
+    "glosses": {
+     "era": "was",
+     "tinha": "had"
+    }
+   },
+   {
+    "pt": "A empresa ofereceu dinheiro para quem saísse até dezembro.",
+    "en": "The company offered money to whoever left by December.",
+    "glosses": {
+     "ofereceu": "offered",
+     "saísse": "left (subjunctive)"
+    }
+   },
+   {
+    "pt": "Algumas famílias aceitaram e se mudaram para bairros afastados, na periferia da região metropolitana.",
+    "en": "Some families accepted and moved to remote neighborhoods on the outskirts of the metropolitan area.",
+    "glosses": {
+     "aceitaram": "accepted",
+     "se mudaram": "moved",
+     "na": "on the",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Lá, o aluguel era mais barato, mas o deslocamento até o trabalho passou a levar duas horas.",
+    "en": "There, the rent was cheaper, but the commute to work came to take two hours.",
+    "glosses": {
+     "era": "was",
+     "passou a": "came to",
+     "levar": "take"
+    }
+   },
+   {
+    "pt": "Muitos perderam também o convívio com os vizinhos de uma vida inteira.",
+    "en": "Many also lost the company of lifelong neighbors.",
+    "glosses": {
+     "perderam": "lost",
+     "de uma vida inteira": "lifelong"
+    }
+   },
+   {
+    "pt": "Seu Antônio, no entanto, disse que não sairia de jeito nenhum.",
+    "en": "Mr. Antônio, however, said he wouldn't leave under any circumstances.",
+    "glosses": {
+     "disse": "said",
+     "sairia": "would leave",
+     "de jeito nenhum": "no way"
+    }
+   },
+   {
+    "pt": "\"Eu conheço cada pedra desta rua\", disse ele a um jornalista.",
+    "en": "\"I know every stone of this street,\" he said to a journalist.",
+    "glosses": {
+     "conheço": "know",
+     "desta": "of this",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "\"Se eu for embora, quem vai lembrar como era o bairro antes?\"",
+    "en": "\"If I leave, who will remember what the neighborhood was like before?\"",
+    "glosses": {
+     "for embora": "leave (future subjunctive)",
+     "vai lembrar": "will remember",
+     "era": "was"
+    }
+   },
+   {
+    "pt": "A reportagem foi publicada num domingo e virou polêmica na cidade inteira.",
+    "en": "The report was published on a Sunday and became a controversy across the whole city.",
+    "glosses": {
+     "foi publicada": "was published",
+     "num": "on a",
+     "virou": "became",
+     "na": "in the"
+    }
+   },
+   {
+    "pt": "De um lado, havia quem defendesse a reforma.",
+    "en": "On one side, there were those who defended the renovation.",
+    "glosses": {
+     "havia": "there were",
+     "defendesse": "defended (subjunctive)"
+    }
+   },
+   {
+    "pt": "\"O prédio estava caindo, sem saneamento nem segurança\", argumentou um vereador.",
+    "en": "\"The building was falling down, without sanitation or safety,\" argued a councilor.",
+    "glosses": {
+     "estava caindo": "was falling down",
+     "nem": "nor",
+     "argumentou": "argued"
+    }
+   },
+   {
+    "pt": "\"A urbanização traz dinheiro, empregos e infraestrutura para todo o centro.\"",
+    "en": "\"Urbanization brings money, jobs and infrastructure to the whole center.\"",
+    "glosses": {
+     "traz": "brings"
+    }
+   },
+   {
+    "pt": "De outro lado, professores da universidade lembravam que um bairro sem moradores vira um cenário vazio.",
+    "en": "On the other side, university professors pointed out that a neighborhood without residents becomes an empty stage set.",
+    "glosses": {
+     "da": "of the",
+     "lembravam": "pointed out",
+     "vira": "becomes"
+    }
+   },
+   {
+    "pt": "Em março, a prefeitura chamou as duas partes para uma reunião.",
+    "en": "In March, the city hall called both sides to a meeting.",
+    "glosses": {
+     "chamou": "called",
+     "partes": "sides"
+    }
+   },
+   {
+    "pt": "Depois de semanas de conversa, chegaram a um acordo raro.",
+    "en": "After weeks of talks, they reached an unusual agreement.",
+    "glosses": {
+     "conversa": "talks",
+     "chegaram a um acordo": "reached an agreement",
+     "raro": "unusual"
+    }
+   },
+   {
+    "pt": "O térreo continuaria com Seu Antônio, que pagaria um aluguel irrisório até o fim da vida.",
+    "en": "The ground floor would stay with Mr. Antônio, who would pay a token rent until the end of his life.",
+    "glosses": {
+     "continuaria": "would stay",
+     "pagaria": "would pay",
+     "irrisório": "token",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Em contrapartida, ele contaria aos clientes do hotel a história da ladeira.",
+    "en": "In return, he would tell the hotel's guests the history of the street.",
+    "glosses": {
+     "contaria": "would tell",
+     "aos": "to the",
+     "clientes": "guests",
+     "do": "of the",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Hoje, gente de muitos países se senta ao lado dele na porta do hotel para ouvir.",
+    "en": "Today, people from many countries sit beside him at the hotel door to listen.",
+    "glosses": {
+     "gente": "people",
+     "países": "countries",
+     "se senta": "sit",
+     "dele": "him",
+     "na": "at the",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Ele mostra o mar, as igrejas, as janelas dos vizinhos que se foram.",
+    "en": "He shows them the sea, the churches, the windows of the neighbors who are gone.",
+    "glosses": {
+     "mostra": "shows",
+     "dos": "of the",
+     "se foram": "are gone"
+    }
+   },
+   {
+    "pt": "Mesmo que o prédio tenha mudado, a história da rua continua morando ali.",
+    "en": "Even if the building has changed, the history of the street still lives there.",
+    "glosses": {
+     "tenha mudado": "has changed (subjunctive)",
+     "da": "of the",
+     "continua": "still",
+     "morando": "living"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "O que a empresa queria fazer com o prédio?",
+    "qEn": "What did the company want to do with the building?",
+    "options": [
+     "Uma escola",
+     "Um estacionamento",
+     "Uma igreja nova",
+     "Um hotel e apartamentos de temporada"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "O que aconteceu com algumas famílias?",
+    "qEn": "What happened to some families?",
+    "options": [
+     "Compraram o prédio",
+     "Mudaram para a periferia",
+     "Abriram um hotel",
+     "Voltaram para o centro"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "O que Seu Antônio faz hoje?",
+    "qEn": "What does Mr. Antônio do today?",
+    "options": [
+     "Conta a história da rua no hotel",
+     "Trabalha numa padaria",
+     "Mora na periferia",
+     "Dirige um ônibus"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "b2-places-directions-2",
+  "level": 4,
+  "topic": "Places & directions",
+  "title": "Na contramão",
+  "titleEn": "The wrong way",
+  "sentences": [
+   {
+    "pt": "Pedro tinha acabado de chegar a Fortaleza para uma palestra quando alugou um carro no aeroporto.",
+    "en": "Pedro had just arrived in Fortaleza for a talk when he rented a car at the airport.",
+    "glosses": {
+     "tinha acabado de chegar": "had just arrived",
+     "alugou": "rented",
+     "no": "at the"
+    }
+   },
+   {
+    "pt": "O hotel ficava na orla, a uns quinze quilômetros dali.",
+    "en": "The hotel was on the waterfront, about fifteen kilometers from there.",
+    "glosses": {
+     "ficava": "was",
+     "na": "on the",
+     "uns": "about",
+     "dali": "from there"
+    }
+   },
+   {
+    "pt": "Ele colocou o endereço no celular e saiu calmo, sem olhar o mapa.",
+    "en": "He put the address into his phone and set off calmly, without looking at the map.",
+    "glosses": {
+     "colocou": "put",
+     "no": "into the",
+     "saiu": "set off",
+     "calmo": "calm"
+    }
+   },
+   {
+    "pt": "Nos primeiros minutos, tudo correu bem pela avenida principal.",
+    "en": "In the first minutes, everything went well along the main avenue.",
+    "glosses": {
+     "Nos": "in the",
+     "correu bem": "went well",
+     "pela": "along the"
+    }
+   },
+   {
+    "pt": "Mas, perto de uma rotatória enorme, o aplicativo mandou virar à esquerda, em direção a uma rua sem sinalização.",
+    "en": "But near a huge roundabout, the app told him to turn left, toward a street with no signs.",
+    "glosses": {
+     "mandou": "told",
+     "virar": "turn"
+    }
+   },
+   {
+    "pt": "Pedro fez o que o celular mandou e, de repente, viu dois carros vindo contra ele.",
+    "en": "Pedro did what the phone told him and, suddenly, saw two cars coming at him.",
+    "glosses": {
+     "fez": "did",
+     "mandou": "told",
+     "viu": "saw",
+     "vindo": "coming",
+     "contra ele": "at him"
+    }
+   },
+   {
+    "pt": "Ele estava na contramão.",
+    "en": "He was going the wrong way.",
+    "glosses": {
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "Ainda bem que era domingo de manhã e a rua estava quase vazia.",
+    "en": "Good thing it was Sunday morning and the street was almost empty.",
+    "glosses": {
+     "Ainda bem": "good thing",
+     "era": "was",
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "Com o coração na boca, ele parou no acostamento e respirou fundo.",
+    "en": "With his heart in his mouth, he stopped on the shoulder and took a deep breath.",
+    "glosses": {
+     "parou": "stopped",
+     "no": "on the",
+     "respirou fundo": "took a deep breath"
+    }
+   },
+   {
+    "pt": "Um guarda que estava nas proximidades da esquina veio até ele devagar.",
+    "en": "A traffic officer who was in the vicinity of the corner came over to him slowly.",
+    "glosses": {
+     "estava": "was",
+     "nas proximidades da": "in the vicinity of the",
+     "veio": "came",
+     "devagar": "slowly"
+    }
+   },
+   {
+    "pt": "\"O senhor não é daqui, é?\", perguntou ele, quase rindo.",
+    "en": "\"You're not from around here, are you?\" he asked, almost laughing.",
+    "glosses": {
+     "O senhor": "you (formal)",
+     "é": "are",
+     "daqui": "from here",
+     "perguntou": "asked",
+     "rindo": "laughing"
+    }
+   },
+   {
+    "pt": "Pedro explicou que o aplicativo tinha mandado entrar ali.",
+    "en": "Pedro explained that the app had told him to go in there.",
+    "glosses": {
+     "explicou": "explained",
+     "tinha mandado": "had told"
+    }
+   },
+   {
+    "pt": "\"Essa rua mudou de sentido há duas semanas, e o mapa ainda não sabe\", disse o guarda.",
+    "en": "\"This street changed direction two weeks ago, and the map doesn't know yet,\" said the officer.",
+    "glosses": {
+     "mudou": "changed",
+     "há": "ago",
+     "sabe": "knows",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Em vez de dar uma multa, o guarda resolveu explicar o caminho como antigamente, com as mãos.",
+    "en": "Instead of giving a fine, the officer decided to explain the way as in the old days, with his hands.",
+    "glosses": {
+     "dar": "giving",
+     "resolveu": "decided",
+     "caminho": "way"
+    }
+   },
+   {
+    "pt": "\"O senhor volta até a rotatória e pega a segunda saída, à direita.\"",
+    "en": "\"You go back to the roundabout and take the second exit, on the right.\"",
+    "glosses": {
+     "volta": "go back",
+     "pega": "take",
+     "saída": "exit"
+    }
+   },
+   {
+    "pt": "\"Depois, segue reto uns três quarteirões, até ver uma passarela azul em cima da avenida.\"",
+    "en": "\"Then go straight for about three blocks, until you see a blue footbridge over the avenue.\"",
+    "glosses": {
+     "segue": "go",
+     "uns": "about",
+     "ver": "see"
+    }
+   },
+   {
+    "pt": "\"Logo depois da passarela, vira à esquerda e desce a ladeira até o mar.\"",
+    "en": "\"Right after the footbridge, turn left and go down the hill to the sea.\"",
+    "glosses": {
+     "vira": "turn",
+     "desce": "go down"
+    }
+   },
+   {
+    "pt": "\"Aí é só seguir o calçadão; o hotel fica atrás de uma igreja branca, à beira da praia.\"",
+    "en": "\"Then just follow the promenade; the hotel is behind a white church, at the edge of the beach.\"",
+    "glosses": {
+     "é só": "just",
+     "seguir": "follow",
+     "fica": "is",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "O guarda ainda desenhou um mapa pequeno num papel, só por segurança.",
+    "en": "The officer even drew a small map on a piece of paper, just to be safe.",
+    "glosses": {
+     "ainda": "even",
+     "desenhou": "drew",
+     "num": "on a",
+     "por segurança": "to be safe"
+    }
+   },
+   {
+    "pt": "Pedro repetiu tudo duas vezes, para não esquecer nada.",
+    "en": "Pedro repeated everything twice, so as not to forget anything.",
+    "glosses": {
+     "repetiu": "repeated",
+     "duas vezes": "twice",
+     "esquecer": "forget"
+    }
+   },
+   {
+    "pt": "Por via das dúvidas, fechou o aplicativo e seguiu apenas o que o guarda tinha dito.",
+    "en": "Just in case, he closed the app and followed only what the officer had said.",
+    "glosses": {
+     "Por via das dúvidas": "just in case",
+     "fechou": "closed",
+     "seguiu": "followed",
+     "tinha dito": "had said"
+    }
+   },
+   {
+    "pt": "Vinte minutos depois, ele viu a igreja branca, bem onde o guarda tinha dito.",
+    "en": "Twenty minutes later, he saw the white church, right where the officer had said.",
+    "glosses": {
+     "viu": "saw",
+     "bem": "right",
+     "tinha dito": "had said"
+    }
+   },
+   {
+    "pt": "O hotel era simples, mas a janela do quarto dava para o mar.",
+    "en": "The hotel was simple, but the room's window looked out on the sea.",
+    "glosses": {
+     "era": "was",
+     "do": "of the",
+     "dava para": "looked out on"
+    }
+   },
+   {
+    "pt": "Ele tomou banho, pediu um suco de laranja e ficou um bom tempo olhando as ondas.",
+    "en": "He took a shower, ordered an orange juice and spent a good while watching the waves.",
+    "glosses": {
+     "tomou banho": "took a shower",
+     "pediu": "ordered",
+     "ficou": "spent",
+     "olhando": "watching"
+    }
+   },
+   {
+    "pt": "Naquela noite, Pedro desceu até a praia e andou pelo calçadão sem pressa.",
+    "en": "That night, Pedro went down to the beach and walked along the promenade without hurrying.",
+    "glosses": {
+     "Naquela": "that",
+     "desceu": "went down",
+     "andou": "walked",
+     "pelo": "along the"
+    }
+   },
+   {
+    "pt": "Pensou que, quanto mais confiamos no celular, menos olhamos para os lugares por onde passamos.",
+    "en": "He thought that the more we trust our phones, the less we look at the places we pass through.",
+    "glosses": {
+     "Pensou": "he thought",
+     "confiamos": "we trust",
+     "no": "in the",
+     "olhamos": "we look",
+     "passamos": "we pass"
+    }
+   },
+   {
+    "pt": "No dia seguinte, chegou à palestra de táxi e contou a história a todos.",
+    "en": "The next day, he arrived at the talk by taxi and told the story to everyone.",
+    "glosses": {
+     "seguinte": "next",
+     "chegou": "arrived",
+     "à": "at the",
+     "contou": "told"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Por que Pedro entrou na contramão?",
+    "qEn": "Why did Pedro go the wrong way?",
+    "options": [
+     "O aplicativo não sabia que a rua tinha mudado",
+     "Ele estava com sono",
+     "O guarda mandou",
+     "Ele queria chegar rápido"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "O que o guarda fez?",
+    "qEn": "What did the officer do?",
+    "options": [
+     "Deu uma multa",
+     "Levou Pedro ao hotel",
+     "Explicou o caminho com as mãos",
+     "Chamou a polícia"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Onde fica o hotel?",
+    "qEn": "Where is the hotel?",
+    "options": [
+     "Ao lado do aeroporto",
+     "Atrás de uma igreja, perto da praia",
+     "No centro histórico",
+     "Embaixo da passarela"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

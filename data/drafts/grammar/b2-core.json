@@ -1,0 +1,561 @@
+[
+ {
+  "id": "imperfeito-subjuntivo-formacao",
+  "level": 4,
+  "title": "Forming the imperfect subjunctive",
+  "pattern": "eles form of preterite − ram + sse: falaram → falasse · fizeram → fizesse · foram → fosse",
+  "explanation": "Take the eles form of the preterite, drop -ram and add -sse, -ssemos, -ssem: falaram → falasse, tiveram → tivesse, disseram → dissesse. It is used where the present subjunctive would be, but when the main verb is in the past or conditional. The nós form has an accent: falássemos, fizéssemos.",
+  "examples": [
+   {
+    "pt": "Eu queria que você viesse comigo.",
+    "en": "I wanted you to come with me.",
+    "highlight": [
+     "viesse"
+    ]
+   },
+   {
+    "pt": "Ela pediu que nós fizéssemos o jantar.",
+    "en": "She asked us to make dinner.",
+    "highlight": [
+     "fizéssemos"
+    ]
+   },
+   {
+    "pt": "Era importante que eles soubessem a resposta.",
+    "en": "It was important for them to know the answer.",
+    "highlight": [
+     "soubessem"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Eu queria que você vinha comigo.",
+   "right": "Eu queria que você viesse comigo.",
+   "en": "I wanted you to come with me.",
+   "reason": "Querer que needs the subjunctive, and in the past that's the imperfect subjunctive."
+  }
+ },
+ {
+  "id": "se-imperfeito-subjuntivo",
+  "level": 4,
+  "title": "Hypotheticals with se",
+  "pattern": "se + imperfect subjunctive, … conditional",
+  "explanation": "For unlikely or imaginary situations, put the se-clause in the imperfect subjunctive and the result in the conditional. In casual speech the result is often in the imperfect instead (se eu tivesse tempo, eu viajava mais). For real, likely conditions use se + present indicative: se chover, se está chovendo.",
+  "examples": [
+   {
+    "pt": "Se eu tivesse tempo, viajaria mais.",
+    "en": "If I had time, I'd travel more.",
+    "highlight": [
+     "tivesse",
+     "viajaria"
+    ]
+   },
+   {
+    "pt": "Se eu fosse você, eu iria ao médico.",
+    "en": "If I were you, I'd go to the doctor.",
+    "highlight": [
+     "fosse",
+     "iria"
+    ]
+   },
+   {
+    "pt": "O que você faria se ganhasse um milhão de reais?",
+    "en": "What would you do if you won a million reais?",
+    "highlight": [
+     "faria",
+     "ganhasse"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Se eu tenho tempo, viajaria mais.",
+   "right": "Se eu tivesse tempo, viajaria mais.",
+   "en": "If I had time, I'd travel more.",
+   "reason": "A hypothetical se-clause takes the imperfect subjunctive."
+  }
+ },
+ {
+  "id": "futuro-subjuntivo",
+  "level": 4,
+  "title": "Future subjunctive",
+  "pattern": "quando / se / assim que / enquanto / quem + future subjunctive",
+  "explanation": "Portuguese uses the future subjunctive for future events after quando, se, assim que, enquanto, sempre que, quem and onde, where English uses the present ('when I can'). It's formed from the eles preterite minus -am: puderam → puder, fizeram → fizer, foram → for. Regular verbs look like the infinitive: quando eu chegar.",
+  "examples": [
+   {
+    "pt": "Quando eu puder, vou te visitar.",
+    "en": "When I can, I'll visit you.",
+    "highlight": [
+     "Quando",
+     "puder"
+    ]
+   },
+   {
+    "pt": "Se você quiser, a gente sai mais cedo.",
+    "en": "If you want, we'll leave earlier.",
+    "highlight": [
+     "Se",
+     "quiser"
+    ]
+   },
+   {
+    "pt": "Me liga assim que você chegar.",
+    "en": "Call me as soon as you arrive.",
+    "highlight": [
+     "assim que",
+     "chegar"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Quando eu tenho dinheiro, vou comprar um carro.",
+   "right": "Quando eu tiver dinheiro, vou comprar um carro.",
+   "en": "When I have money, I'm going to buy a car.",
+   "reason": "Quando referring to the future takes the future subjunctive."
+  }
+ },
+ {
+  "id": "infinitivo-pessoal",
+  "level": 4,
+  "title": "Personal infinitive",
+  "pattern": "para / antes de / depois de / sem + subject + infinitive + -mos / -em",
+  "explanation": "Portuguese infinitives can take endings for their subject: nós -mos, eles/vocês -em (para nós entendermos, antes de eles chegarem). It is used mainly after prepositions when the infinitive has its own subject, and replaces a whole clause (para que nós entendamos). For eu and você/ele the form is just the infinitive.",
+  "examples": [
+   {
+    "pt": "O professor explicou de novo para nós entendermos.",
+    "en": "The teacher explained again so we'd understand.",
+    "highlight": [
+     "entendermos"
+    ]
+   },
+   {
+    "pt": "Vamos limpar a casa antes de eles chegarem.",
+    "en": "Let's clean the house before they arrive.",
+    "highlight": [
+     "chegarem"
+    ]
+   },
+   {
+    "pt": "É melhor vocês saírem cedo.",
+    "en": "It's better for you all to leave early.",
+    "highlight": [
+     "saírem"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Antes de eles chegar, vamos jantar.",
+   "right": "Antes de eles chegarem, vamos jantar.",
+   "en": "Before they arrive, let's have dinner.",
+   "reason": "When the infinitive has a plural subject of its own, it takes the personal ending."
+  }
+ },
+ {
+  "id": "tempos-compostos",
+  "level": 4,
+  "title": "Compound tenses: terei feito, teria feito",
+  "pattern": "ter (future / conditional / subjunctive) + participle",
+  "explanation": "Ter + participle builds perfect tenses across moods. Terei feito (will have done) appears mostly in writing; teria feito (would have done) is common in speech for missed possibilities. Tivesse feito (had done) pairs with teria feito in past hypotheticals: se tivesse sabido, teria vindo.",
+  "examples": [
+   {
+    "pt": "Às oito horas eu já terei terminado.",
+    "en": "By eight o'clock I'll have finished.",
+    "highlight": [
+     "terei terminado"
+    ]
+   },
+   {
+    "pt": "Eu teria ajudado, mas ninguém me avisou.",
+    "en": "I would have helped, but nobody told me.",
+    "highlight": [
+     "teria ajudado"
+    ]
+   },
+   {
+    "pt": "Se tivesse sabido, eu teria vindo.",
+    "en": "If I had known, I would have come.",
+    "highlight": [
+     "tivesse sabido",
+     "teria vindo"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Se eu tinha sabido, teria vindo.",
+   "right": "Se eu tivesse sabido, teria vindo.",
+   "en": "If I had known, I would have come.",
+   "reason": "A past hypothetical se-clause uses tivesse + participle, not tinha."
+  }
+ },
+ {
+  "id": "conjuncoes-subjuntivo",
+  "level": 4,
+  "title": "Conjunctions that require the subjunctive",
+  "pattern": "para que · antes que · a não ser que · desde que · caso · sem que + subjunctive",
+  "explanation": "Some conjunctions always trigger the subjunctive because they introduce a purpose, condition or event that hasn't happened: para que (so that), antes que (before), a não ser que (unless), desde que (as long as), caso (in case), sem que (without). Note that caso takes the present subjunctive, unlike se.",
+  "examples": [
+   {
+    "pt": "Vou explicar de novo para que todos entendam.",
+    "en": "I'll explain again so that everyone understands.",
+    "highlight": [
+     "para que",
+     "entendam"
+    ]
+   },
+   {
+    "pt": "Caso chova, a festa vai ser dentro de casa.",
+    "en": "In case it rains, the party will be indoors.",
+    "highlight": [
+     "Caso",
+     "chova"
+    ]
+   },
+   {
+    "pt": "Pode sair, desde que volte antes da meia-noite.",
+    "en": "You can go out, as long as you're back before midnight.",
+    "highlight": [
+     "desde que",
+     "volte"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Caso você precisar, me liga.",
+   "right": "Caso você precise, me liga.",
+   "en": "In case you need anything, call me.",
+   "reason": "Caso takes the present subjunctive; the future subjunctive goes with se (se precisar)."
+  }
+ },
+ {
+  "id": "como-se",
+  "level": 4,
+  "title": "Como se + imperfect subjunctive",
+  "pattern": "como se + imperfect subjunctive",
+  "explanation": "Como se (as if) always takes the imperfect subjunctive, whatever the tense of the main verb, because it describes something unreal. It is very common in descriptions and complaints.",
+  "examples": [
+   {
+    "pt": "Ele fala como se soubesse tudo.",
+    "en": "He talks as if he knew everything.",
+    "highlight": [
+     "como se",
+     "soubesse"
+    ]
+   },
+   {
+    "pt": "Ela me olhou como se não me conhecesse.",
+    "en": "She looked at me as if she didn't know me.",
+    "highlight": [
+     "como se",
+     "conhecesse"
+    ]
+   },
+   {
+    "pt": "Ela fala como se fosse rica.",
+    "en": "She talks as if she were rich.",
+    "highlight": [
+     "como se",
+     "fosse"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Ele fala como se sabe tudo.",
+   "right": "Ele fala como se soubesse tudo.",
+   "en": "He talks as if he knew everything.",
+   "reason": "Como se always takes the imperfect subjunctive."
+  }
+ },
+ {
+  "id": "subjuntivo-oracao-relativa",
+  "level": 4,
+  "title": "Subjunctive in relative clauses",
+  "pattern": "procuro alguém que + subjunctive (unknown or nonexistent) · conheço alguém que + indicative",
+  "explanation": "When a relative clause describes something you're looking for, or that may not exist, its verb goes into the subjunctive. If the person or thing is known and real, use the indicative. Compare procuro um apartamento que tenha varanda (any one) with moro num apartamento que tem varanda (this one).",
+  "examples": [
+   {
+    "pt": "Procuro alguém que fale inglês.",
+    "en": "I'm looking for someone who speaks English.",
+    "highlight": [
+     "que fale"
+    ]
+   },
+   {
+    "pt": "Não há nada que eu possa fazer.",
+    "en": "There's nothing I can do.",
+    "highlight": [
+     "que eu possa"
+    ]
+   },
+   {
+    "pt": "Conheço uma pessoa que fala inglês.",
+    "en": "I know a person who speaks English.",
+    "highlight": [
+     "que fala"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Quero um carro que é barato e seguro.",
+   "right": "Quero um carro que seja barato e seguro.",
+   "en": "I want a car that's cheap and safe.",
+   "reason": "The car is not a specific one yet, so the relative clause takes the subjunctive."
+  }
+ },
+ {
+  "id": "correlacao-tempos",
+  "level": 4,
+  "title": "Sequence of tenses",
+  "pattern": "peço que venha (present → present subj.) · pedi que viesse (past → imperfect subj.)",
+  "explanation": "The tense of the main verb decides which subjunctive follows. A present or future main verb takes the present subjunctive; a past or conditional main verb takes the imperfect subjunctive. This is also how commands are reported: 'Venha!' → ele pediu que eu viesse.",
+  "examples": [
+   {
+    "pt": "Peço que você venha amanhã.",
+    "en": "I'm asking you to come tomorrow.",
+    "highlight": [
+     "Peço",
+     "venha"
+    ]
+   },
+   {
+    "pt": "Pedi que ele viesse amanhã.",
+    "en": "I asked him to come tomorrow.",
+    "highlight": [
+     "Pedi",
+     "viesse"
+    ]
+   },
+   {
+    "pt": "Seria bom que vocês ficassem mais um dia.",
+    "en": "It would be nice if you stayed one more day.",
+    "highlight": [
+     "Seria",
+     "ficassem"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Ela pediu que eu venha cedo.",
+   "right": "Ela pediu que eu viesse cedo.",
+   "en": "She asked me to come early.",
+   "reason": "After a past main verb, the subjunctive moves to the imperfect."
+  }
+ },
+ {
+  "id": "registro-formal",
+  "level": 4,
+  "title": "Formal register: o senhor, a senhora",
+  "pattern": "o senhor / a senhora + 3rd-person verb · mesóclise (far-se-á) only in very formal writing",
+  "explanation": "To address older people, clients or strangers politely, use o senhor / a senhora with a third-person verb and the possessive do senhor / da senhora. Você is neutral and tu is regional and informal. Forms like dir-se-ia or far-se-á (mesóclise) exist in legal and literary writing but are never used in Brazilian speech.",
+  "examples": [
+   {
+    "pt": "O senhor precisa de ajuda?",
+    "en": "Do you need help, sir?",
+    "highlight": [
+     "O senhor",
+     "precisa"
+    ]
+   },
+   {
+    "pt": "A senhora pode esperar um momento?",
+    "en": "Could you wait a moment, ma'am?",
+    "highlight": [
+     "A senhora",
+     "pode"
+    ]
+   },
+   {
+    "pt": "Este é o quarto do senhor.",
+    "en": "This is your room, sir.",
+    "highlight": [
+     "do senhor"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "O senhor, você quer um café?",
+   "right": "O senhor quer um café?",
+   "en": "Would you like a coffee, sir?",
+   "reason": "O senhor already means 'you'; don't add você, and use a third-person verb."
+  }
+ },
+ {
+  "id": "passiva-estar-ficar",
+  "level": 4,
+  "title": "Ser vs. estar vs. ficar + participle",
+  "pattern": "ser + participle (action) · estar + participle (resulting state) · ficar + participle (change of state)",
+  "explanation": "Ser + participle describes the action being done (a porta foi fechada às dez). Estar + participle describes the state that results (a porta está fechada). Ficar + participle describes getting into that state, often with feelings (fiquei preocupado) or outcomes (o jogo ficou adiado).",
+  "examples": [
+   {
+    "pt": "A loja foi aberta em 2010.",
+    "en": "The store was opened in 2010.",
+    "highlight": [
+     "foi aberta"
+    ]
+   },
+   {
+    "pt": "A loja está aberta até as dez.",
+    "en": "The store is open until ten.",
+    "highlight": [
+     "está aberta"
+    ]
+   },
+   {
+    "pt": "Eu fiquei preocupado com você.",
+    "en": "I got worried about you.",
+    "highlight": [
+     "fiquei preocupado"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "O banco é fechado agora.",
+   "right": "O banco está fechado agora.",
+   "en": "The bank is closed now.",
+   "reason": "A current state resulting from an action takes estar, not ser."
+  }
+ },
+ {
+  "id": "colocacao-pronominal",
+  "level": 4,
+  "title": "Pronoun placement: speech vs. formal writing",
+  "pattern": "speech: me diga, te amo · formal writing: diga-me, amo-te",
+  "explanation": "In Brazilian speech, object pronouns go before the verb, even at the start of a sentence: me diga, me liga, te vejo amanhã. Formal writing traditionally forbids starting a sentence with a pronoun and puts it after the verb with a hyphen (diga-me, encontra-se). Words like não, que and nunca pull the pronoun before the verb in both registers.",
+  "examples": [
+   {
+    "pt": "Me diga o que aconteceu.",
+    "en": "Tell me what happened.",
+    "highlight": [
+     "Me diga"
+    ]
+   },
+   {
+    "pt": "Diga-me o que aconteceu.",
+    "en": "Tell me what happened. (formal)",
+    "highlight": [
+     "Diga-me"
+    ]
+   },
+   {
+    "pt": "Ele não me disse nada.",
+    "en": "He didn't tell me anything.",
+    "highlight": [
+     "não me disse"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Ele não disse-me nada.",
+   "right": "Ele não me disse nada.",
+   "en": "He didn't tell me anything.",
+   "reason": "Não attracts the pronoun before the verb, even in formal writing."
+  }
+ },
+ {
+  "id": "marcadores-discursivos",
+  "level": 4,
+  "title": "Discourse markers",
+  "pattern": "aliás · ou seja · a propósito · de qualquer forma · pois é · enfim",
+  "explanation": "Discourse markers connect ideas and make speech sound natural. Aliás adds or corrects (by the way, actually), ou seja rephrases (in other words), a propósito changes topic (speaking of which), de qualquer forma moves on (anyway), and enfim wraps up (anyway, in short). Pois é is a very Brazilian way to agree: 'exactly' or 'yeah, right'.",
+  "examples": [
+   {
+    "pt": "Ele chega amanhã, aliás, hoje à noite.",
+    "en": "He arrives tomorrow, actually, tonight.",
+    "highlight": [
+     "aliás"
+    ]
+   },
+   {
+    "pt": "O voo foi cancelado, ou seja, vamos ficar mais um dia.",
+    "en": "The flight was canceled, in other words, we're staying one more day.",
+    "highlight": [
+     "ou seja"
+    ]
+   },
+   {
+    "pt": "De qualquer forma, obrigado pela ajuda.",
+    "en": "Anyway, thanks for the help.",
+    "highlight": [
+     "De qualquer forma"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Ele chega amanhã, ou seja, hoje à noite.",
+   "right": "Ele chega amanhã, aliás, hoje à noite.",
+   "en": "He arrives tomorrow, actually, tonight.",
+   "reason": "To correct yourself use aliás; ou seja only restates the same idea in other words."
+  }
+ },
+ {
+  "id": "frases-de-foco",
+  "level": 4,
+  "title": "Focus phrases: o problema é que, o que eu quero é",
+  "pattern": "o problema é que · o bom é que · o que + verb + é",
+  "explanation": "Phrases like o problema é que (the problem is that), o bom é que (the good thing is that) and o que eu quero é (what I want is) put an idea in focus, much like English cleft sentences. In writing you'll also see o fato de + infinitive (the fact that). These frames are common in both conversation and argument.",
+  "examples": [
+   {
+    "pt": "O problema é que ninguém sabe a resposta.",
+    "en": "The problem is that nobody knows the answer.",
+    "highlight": [
+     "O problema é que"
+    ]
+   },
+   {
+    "pt": "O bom é que amanhã é sábado.",
+    "en": "The good thing is that tomorrow is Saturday.",
+    "highlight": [
+     "O bom é que"
+    ]
+   },
+   {
+    "pt": "O que eu quero é descansar.",
+    "en": "What I want is to rest.",
+    "highlight": [
+     "O que",
+     "é"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "O problema é ninguém sabe a resposta.",
+   "right": "O problema é que ninguém sabe a resposta.",
+   "en": "The problem is that nobody knows the answer.",
+   "reason": "A full clause after é needs que, which can't be dropped like English 'that'."
+  }
+ },
+ {
+  "id": "subjuntivo-expressoes-fixas",
+  "level": 4,
+  "title": "Fixed subjunctive expressions",
+  "pattern": "seja como for · aconteça o que acontecer · quer… quer… · que eu saiba",
+  "explanation": "Some set phrases use the subjunctive and are best learned as chunks: seja como for (be that as it may), aconteça o que acontecer (whatever happens), custe o que custar (whatever it takes), que eu saiba (as far as I know), and quer… quer… (whether… or…).",
+  "examples": [
+   {
+    "pt": "Aconteça o que acontecer, eu estou com você.",
+    "en": "Whatever happens, I'm with you.",
+    "highlight": [
+     "Aconteça o que acontecer"
+    ]
+   },
+   {
+    "pt": "Que eu saiba, ela ainda mora em Recife.",
+    "en": "As far as I know, she still lives in Recife.",
+    "highlight": [
+     "Que eu saiba"
+    ]
+   },
+   {
+    "pt": "Seja como for, precisamos decidir hoje.",
+    "en": "Be that as it may, we need to decide today.",
+    "highlight": [
+     "Seja como for"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Que eu sei, ela ainda mora lá.",
+   "right": "Que eu saiba, ela ainda mora lá.",
+   "en": "As far as I know, she still lives there.",
+   "reason": "The fixed phrase que eu saiba uses the subjunctive."
+  }
+ }
+]

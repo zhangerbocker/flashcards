@@ -1,0 +1,480 @@
+[
+ {
+  "id": "b1-time-1",
+  "level": 3,
+  "topic": "Time",
+  "title": "O despertador",
+  "titleEn": "The alarm clock",
+  "sentences": [
+   {
+    "pt": "No escritório, todo mundo sabia que Marcos nunca era pontual.",
+    "en": "At the office, everyone knew that Marcos was never on time.",
+    "glosses": {
+     "todo": "all",
+     "mundo": "world (everyone)",
+     "sabia": "knew",
+     "era": "was"
+    }
+   },
+   {
+    "pt": "Ele chegava sempre dez ou quinze minutos atrasado e tinha uma desculpa diferente para cada dia.",
+    "en": "He always arrived ten or fifteen minutes late and had a different excuse for each day.",
+    "glosses": {
+     "chegava": "arrived",
+     "tinha": "had"
+    }
+   },
+   {
+    "pt": "Numa sexta-feira, a chefe, Patrícia, agendou uma reunião muito importante com um cliente de Lisboa.",
+    "en": "One Friday, the boss, Patrícia, scheduled a very important meeting with a client from Lisbon.",
+    "glosses": {
+     "numa": "on a",
+     "agendou": "scheduled"
+    }
+   },
+   {
+    "pt": "A reunião seria na segunda-feira, às oito da manhã em ponto.",
+    "en": "The meeting would be on Monday, at eight in the morning sharp.",
+    "glosses": {
+     "seria": "would be",
+     "às": "at",
+     "da": "in the",
+     "ponto": "sharp (on the dot)"
+    }
+   },
+   {
+    "pt": "\"Espero que você chegue na hora desta vez\", disse ela, brava.",
+    "en": "\"I hope you arrive on time this time,\" she said, annoyed.",
+    "glosses": {
+     "espero": "I hope",
+     "chegue": "arrive (subjunctive)",
+     "na": "on the",
+     "hora": "time (right then)",
+     "desta": "this",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "No domingo à noite, Marcos colocou o despertador do celular para tocar às seis e foi dormir cedo.",
+    "en": "On Sunday night, Marcos set the alarm on his phone to ring at six and went to bed early.",
+    "glosses": {
+     "colocou": "set",
+     "do": "of the",
+     "às": "at",
+     "foi": "went"
+    }
+   },
+   {
+    "pt": "De madrugada, no entanto, caiu uma tempestade forte, com muitos raios e trovões.",
+    "en": "In the early hours, however, a strong storm hit, with lots of lightning and thunder.",
+    "glosses": {
+     "madrugada": "early hours of the morning",
+     "caiu": "fell",
+     "trovões": "thunder"
+    }
+   },
+   {
+    "pt": "Faltou energia no bairro inteiro, e o celular, que não estava carregado, apagou.",
+    "en": "The power went out in the whole neighborhood, and the phone, which wasn't charged, died.",
+    "glosses": {
+     "faltou": "was lacking",
+     "estava": "was",
+     "apagou": "went off"
+    }
+   },
+   {
+    "pt": "Quando Marcos abriu os olhos, o sol já estava alto.",
+    "en": "When Marcos opened his eyes, the sun was already high.",
+    "glosses": {
+     "abriu": "opened",
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "Ele olhou o relógio da cozinha e viu que eram sete e quarenta.",
+    "en": "He looked at the kitchen clock and saw that it was seven forty.",
+    "glosses": {
+     "olhou": "looked at",
+     "da": "of the",
+     "viu": "saw",
+     "eram": "it was"
+    }
+   },
+   {
+    "pt": "Tomou um banho rápido, pôs a primeira roupa que encontrou e saiu correndo sem tomar café.",
+    "en": "He took a quick shower, put on the first clothes he found and ran out without having breakfast.",
+    "glosses": {
+     "tomou": "took",
+     "pôs": "put on",
+     "encontrou": "found",
+     "saiu": "left",
+     "correndo": "running",
+     "tomar": "have",
+     "café": "breakfast (coffee)"
+    }
+   },
+   {
+    "pt": "Chegou ao escritório às oito e vinte, cansado e com calor.",
+    "en": "He arrived at the office at eight twenty, tired and hot.",
+    "glosses": {
+     "chegou": "arrived",
+     "ao": "at the",
+     "às": "at",
+     "calor": "heat (hot)"
+    }
+   },
+   {
+    "pt": "Para a surpresa dele, a sala de reuniões estava vazia.",
+    "en": "To his surprise, the meeting room was empty.",
+    "glosses": {
+     "surpresa": "surprise",
+     "dele": "his",
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "A secretária explicou que o voo do cliente tinha atrasado e que a reunião tinha sido adiada para terça-feira.",
+    "en": "The secretary explained that the client's flight had been delayed and that the meeting had been postponed to Tuesday.",
+    "glosses": {
+     "explicou": "explained",
+     "do": "of the",
+     "tinha": "had",
+     "atrasado": "been delayed",
+     "sido": "been",
+     "adiada": "postponed"
+    }
+   },
+   {
+    "pt": "Patrícia tinha mandado uma mensagem no domingo à noite, mas o celular dele estava sem energia.",
+    "en": "Patrícia had sent a message on Sunday night, but his phone had no power.",
+    "glosses": {
+     "tinha": "had",
+     "mandado": "sent",
+     "dele": "his",
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "Marcos ficou aliviado, mas também um pouco envergonhado.",
+    "en": "Marcos was relieved, but also a little embarrassed.",
+    "glosses": {
+     "ficou": "became"
+    }
+   },
+   {
+    "pt": "Na terça-feira, ele chegou ao escritório às sete e meia, meia hora adiantado.",
+    "en": "On Tuesday, he arrived at the office at seven thirty, half an hour early.",
+    "glosses": {
+     "chegou": "arrived",
+     "ao": "at the",
+     "às": "at"
+    }
+   },
+   {
+    "pt": "Quando Patrícia entrou e o viu ali, ficou tão surpresa que quase deixou o café cair.",
+    "en": "When Patrícia came in and saw him there, she was so surprised she almost dropped her coffee.",
+    "glosses": {
+     "entrou": "came in",
+     "viu": "saw",
+     "ficou": "was",
+     "deixou": "let",
+     "cair": "fall"
+    }
+   },
+   {
+    "pt": "A reunião foi um sucesso, e o cliente fechou um contrato de dois anos com a empresa.",
+    "en": "The meeting was a success, and the client signed a two-year contract with the company.",
+    "glosses": {
+     "foi": "was",
+     "fechou": "closed"
+    }
+   },
+   {
+    "pt": "Desde então, Marcos usa o relógio antigo do avô, que não depende de energia nem de internet.",
+    "en": "Since then, Marcos has used his grandfather's old watch, which doesn't depend on power or the internet.",
+    "glosses": {
+     "usa": "uses",
+     "do": "of the",
+     "depende": "depends"
+    }
+   },
+   {
+    "pt": "Ele ainda chega atrasado de vez em quando, mas raramente mais de cinco minutos.",
+    "en": "He still arrives late from time to time, but rarely more than five minutes.",
+    "glosses": {
+     "chega": "arrives"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "A que horas era a reunião?",
+    "qEn": "What time was the meeting?",
+    "options": [
+     "Às nove",
+     "Às oito",
+     "Às sete e meia",
+     "Às oito e vinte"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Por que Marcos não acordou na hora?",
+    "qEn": "Why didn't Marcos wake up on time?",
+    "options": [
+     "Ele esqueceu a reunião",
+     "Ele estava doente",
+     "Ele dormiu tarde",
+     "O celular apagou"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "Por que a reunião foi adiada?",
+    "qEn": "Why was the meeting postponed?",
+    "options": [
+     "O voo do cliente atrasou",
+     "A chefe estava doente",
+     "Marcos chegou atrasado",
+     "Faltou energia"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "b1-time-2",
+  "level": 3,
+  "topic": "Time",
+  "title": "As férias adiadas",
+  "titleEn": "The postponed vacation",
+  "sentences": [
+   {
+    "pt": "Fernanda e Eduardo são casados há dez anos, mas até o ano passado nunca tinham viajado para a Europa.",
+    "en": "Fernanda and Eduardo have been married for ten years, but until last year they had never traveled to Europe.",
+    "glosses": {
+     "são": "are",
+     "casados": "married",
+     "há": "for",
+     "tinham": "had",
+     "viajado": "traveled"
+    }
+   },
+   {
+    "pt": "No começo do ano, decidiram que, a longo prazo, aquela seria a viagem mais importante da década.",
+    "en": "At the start of the year, they decided that, in the long run, that would be the most important trip of the decade.",
+    "glosses": {
+     "do": "of the",
+     "decidiram": "decided",
+     "aquela": "that",
+     "seria": "would be",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Durante o primeiro semestre, economizaram um pouco do salário todo mês.",
+    "en": "During the first half of the year, they saved a bit of their salary every month.",
+    "glosses": {
+     "economizaram": "saved",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Em fevereiro, compraram as passagens para Lisboa para a primeira quinzena de julho.",
+    "en": "In February, they bought the tickets to Lisbon for the first two weeks of July.",
+    "glosses": {
+     "compraram": "bought"
+    }
+   },
+   {
+    "pt": "Fernanda fez um roteiro com museus, praias e restaurantes típicos.",
+    "en": "Fernanda made an itinerary with museums, beaches and typical restaurants.",
+    "glosses": {
+     "fez": "made"
+    }
+   },
+   {
+    "pt": "Em abril, porém, o chefe de Eduardo deu uma notícia ruim.",
+    "en": "In April, however, Eduardo's boss gave some bad news.",
+    "glosses": {
+     "deu": "gave"
+    }
+   },
+   {
+    "pt": "A empresa tinha recebido um projeto enorme, que precisava ser entregue até o fim do terceiro trimestre.",
+    "en": "The company had received a huge project, which had to be delivered by the end of the third quarter.",
+    "glosses": {
+     "tinha": "had",
+     "recebido": "received",
+     "precisava": "needed",
+     "entregue": "delivered",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Por isso, ninguém da equipe poderia tirar férias em julho.",
+    "en": "Because of that, no one on the team could take vacation in July.",
+    "glosses": {
+     "da": "of the",
+     "poderia": "could",
+     "tirar": "take"
+    }
+   },
+   {
+    "pt": "Eduardo chegou em casa triste e contou tudo para a esposa.",
+    "en": "Eduardo came home sad and told his wife everything.",
+    "glosses": {
+     "chegou": "arrived",
+     "contou": "told"
+    }
+   },
+   {
+    "pt": "Fernanda ficou frustrada, já que tinha esperado aquela viagem durante meses.",
+    "en": "Fernanda was frustrated, since she had waited for that trip for months.",
+    "glosses": {
+     "ficou": "became",
+     "tinha": "had",
+     "esperado": "waited for",
+     "aquela": "that"
+    }
+   },
+   {
+    "pt": "\"E se a gente adiasse a viagem para setembro?\", perguntou Eduardo.",
+    "en": "\"What if we postponed the trip to September?\" asked Eduardo.",
+    "glosses": {
+     "adiasse": "postponed (subjunctive)",
+     "perguntou": "asked"
+    }
+   },
+   {
+    "pt": "Ela achou que mudar as passagens seria muito caro.",
+    "en": "She thought that changing the tickets would be very expensive.",
+    "glosses": {
+     "achou": "thought",
+     "seria": "would be"
+    }
+   },
+   {
+    "pt": "No outro dia, os dois abriram o aplicativo da empresa e pediram informações.",
+    "en": "The next day, the two of them opened the airline's app and asked for information.",
+    "glosses": {
+     "abriram": "opened",
+     "da": "of the",
+     "pediram": "asked for"
+    }
+   },
+   {
+    "pt": "Para a surpresa deles, a multa era pequena: apenas trezentos reais por pessoa.",
+    "en": "To their surprise, the fee was small: only three hundred reais per person.",
+    "glosses": {
+     "surpresa": "surprise",
+     "deles": "their",
+     "era": "was",
+     "reais": "reais (Brazilian currency)"
+    }
+   },
+   {
+    "pt": "Além disso, em setembro os hotéis seriam mais baratos e as praias estariam menos cheias.",
+    "en": "Besides that, in September the hotels would be cheaper and the beaches would be less crowded.",
+    "glosses": {
+     "seriam": "would be",
+     "estariam": "would be"
+    }
+   },
+   {
+    "pt": "O clima também seria bom, nem muito quente nem muito frio.",
+    "en": "The weather would also be good, neither too hot nor too cold.",
+    "glosses": {
+     "seria": "would be"
+    }
+   },
+   {
+    "pt": "Então eles mudaram a data e alugaram um apartamento pequeno perto do rio.",
+    "en": "So they changed the date and rented a small apartment near the river.",
+    "glosses": {
+     "mudaram": "changed",
+     "alugaram": "rented",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Eduardo trabalhou muito durante o inverno, inclusive em alguns fins de semana.",
+    "en": "Eduardo worked a lot during the winter, including on some weekends.",
+    "glosses": {
+     "trabalhou": "worked",
+     "alguns": "some",
+     "fins de semana": "weekends"
+    }
+   },
+   {
+    "pt": "O projeto foi entregue dois dias antes do prazo.",
+    "en": "The project was delivered two days before the deadline.",
+    "glosses": {
+     "foi": "was",
+     "entregue": "delivered",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Em setembro, enfim, os dois embarcaram para Lisboa.",
+    "en": "In September, at last, the two of them boarded for Lisbon.",
+    "glosses": {
+     "embarcaram": "boarded"
+    }
+   },
+   {
+    "pt": "Na primeira noite, eles jantaram num restaurante típico, com vinho e peixe assado.",
+    "en": "On the first night, they had dinner at a typical restaurant, with wine and roast fish.",
+    "glosses": {
+     "jantaram": "had dinner",
+     "num": "in a"
+    }
+   },
+   {
+    "pt": "Fernanda disse que estava feliz por ter esperado.",
+    "en": "Fernanda said that she was happy to have waited.",
+    "glosses": {
+     "disse": "said",
+     "estava": "was",
+     "ter": "having",
+     "esperado": "waited"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Para quando eram as primeiras passagens?",
+    "qEn": "When were the first tickets for?",
+    "options": [
+     "Para julho",
+     "Para setembro",
+     "Para abril",
+     "Para fevereiro"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Por que Eduardo não podia viajar em julho?",
+    "qEn": "Why couldn't Eduardo travel in July?",
+    "options": [
+     "Ele perdeu o emprego",
+     "Ele estava doente",
+     "O voo foi cancelado",
+     "Por causa de um projeto"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "Quanto custou mudar as passagens?",
+    "qEn": "How much did it cost to change the tickets?",
+    "options": [
+     "Nada",
+     "Trezentos reais por pessoa",
+     "Mil reais",
+     "Cinquenta reais"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

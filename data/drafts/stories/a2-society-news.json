@@ -1,0 +1,429 @@
+[
+ {
+  "id": "a2-society-news-1",
+  "level": 2,
+  "topic": "Society & news",
+  "title": "A greve dos ônibus",
+  "titleEn": "The bus strike",
+  "sentences": [
+   {
+    "pt": "Na segunda-feira, Ana acordou e ligou a televisão.",
+    "en": "On Monday, Ana woke up and turned on the television.",
+    "glosses": {
+     "na": "on",
+     "acordou": "woke up",
+     "ligou": "turned on"
+    }
+   },
+   {
+    "pt": "A notícia principal do jornal era sobre uma greve dos motoristas de ônibus.",
+    "en": "The main story on the news was about a bus drivers' strike.",
+    "glosses": {
+     "notícia": "story",
+     "do": "on the",
+     "jornal": "news program",
+     "era": "was",
+     "dos": "of the"
+    }
+   },
+   {
+    "pt": "Os motoristas queriam um salário melhor e mais segurança.",
+    "en": "The drivers wanted a better salary and more safety.",
+    "glosses": {
+     "queriam": "wanted"
+    }
+   },
+   {
+    "pt": "\"Hoje não vai ter ônibus na cidade\", disse a jornalista.",
+    "en": "\"Today there won't be any buses in the city,\" said the journalist.",
+    "glosses": {
+     "vai": "is going to",
+     "ter": "have (there be)",
+     "na": "in the",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Ana trabalha num escritório no centro do Recife, longe de casa.",
+    "en": "Ana works in an office in downtown Recife, far from home.",
+    "glosses": {
+     "trabalha": "works",
+     "num": "in an",
+     "centro": "downtown"
+    }
+   },
+   {
+    "pt": "Ela não tem carro, e o metrô estava muito cheio.",
+    "en": "She doesn't have a car, and the subway was very crowded.",
+    "glosses": {
+     "tem": "have",
+     "estava": "was",
+     "cheio": "crowded"
+    }
+   },
+   {
+    "pt": "Então ela decidiu ir de bicicleta.",
+    "en": "So she decided to go by bike.",
+    "glosses": {
+     "decidiu": "decided",
+     "de": "by"
+    }
+   },
+   {
+    "pt": "Na avenida principal, o trânsito estava horrível.",
+    "en": "On the main avenue, the traffic was awful.",
+    "glosses": {
+     "na": "on the",
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "Ela viu muitas pessoas andando a pé e alguns táxis.",
+    "en": "She saw many people walking and a few taxis.",
+    "glosses": {
+     "viu": "saw",
+     "andando": "walking",
+     "a": "on",
+     "pé": "foot",
+     "alguns": "a few"
+    }
+   },
+   {
+    "pt": "Perto da prefeitura, tinha uma manifestação dos motoristas.",
+    "en": "Near city hall, there was a protest by the drivers.",
+    "glosses": {
+     "da": "the",
+     "tinha": "there was",
+     "dos": "by the"
+    }
+   },
+   {
+    "pt": "Eles estavam calmos e falavam sobre a vida difícil deles.",
+    "en": "They were calm and talked about their hard life.",
+    "glosses": {
+     "estavam": "were",
+     "falavam": "talked",
+     "deles": "their"
+    }
+   },
+   {
+    "pt": "Um motorista explicou: \"O preço de tudo aumentou, mas o nosso salário não.\"",
+    "en": "A driver explained: \"The price of everything went up, but our salary didn't.\"",
+    "glosses": {
+     "explicou": "explained",
+     "aumentou": "went up"
+    }
+   },
+   {
+    "pt": "Ana concordou com ele.",
+    "en": "Ana agreed with him.",
+    "glosses": {
+     "concordou": "agreed"
+    }
+   },
+   {
+    "pt": "Ela chegou ao escritório quarenta minutos atrasada.",
+    "en": "She got to the office forty minutes late.",
+    "glosses": {
+     "chegou": "got",
+     "ao": "to the"
+    }
+   },
+   {
+    "pt": "A chefe também estava atrasada, por causa do engarrafamento.",
+    "en": "The boss was also late, because of the traffic jam.",
+    "glosses": {
+     "estava": "was",
+     "do": "the"
+    }
+   },
+   {
+    "pt": "À tarde, todos no escritório estavam lendo notícias na internet.",
+    "en": "In the afternoon, everyone in the office was reading news on the internet.",
+    "glosses": {
+     "todos": "everyone",
+     "no": "in the",
+     "estavam": "were",
+     "lendo": "reading",
+     "na": "on the"
+    }
+   },
+   {
+    "pt": "Às cinco horas, o prefeito anunciou que o salário dos motoristas ia aumentar.",
+    "en": "At five o'clock, the mayor announced that the drivers' salary was going to go up.",
+    "glosses": {
+     "às": "at",
+     "anunciou": "announced",
+     "dos": "of the",
+     "ia": "was going to",
+     "aumentar": "go up"
+    }
+   },
+   {
+    "pt": "A greve acabou, e os ônibus voltaram à noite.",
+    "en": "The strike ended, and the buses came back in the evening.",
+    "glosses": {
+     "acabou": "ended",
+     "voltaram": "came back"
+    }
+   },
+   {
+    "pt": "Ana voltou para casa de ônibus, cansada mas aliviada.",
+    "en": "Ana went back home by bus, tired but relieved.",
+    "glosses": {
+     "voltou": "went back",
+     "de": "by"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "O que os motoristas queriam?",
+    "qEn": "What did the drivers want?",
+    "options": [
+     "Um salário melhor",
+     "Mais férias",
+     "Ônibus novos",
+     "Menos trabalho"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Como Ana foi para o trabalho?",
+    "qEn": "How did Ana go to work?",
+    "options": [
+     "De carro",
+     "De bicicleta",
+     "De ônibus",
+     "De táxi"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quem anunciou a notícia às cinco horas?",
+    "qEn": "Who announced the news at five o'clock?",
+    "options": [
+     "A chefe",
+     "Um motorista",
+     "O prefeito",
+     "A jornalista"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "a2-society-news-2",
+  "level": 2,
+  "topic": "Society & news",
+  "title": "O primeiro voto da Carla",
+  "titleEn": "Carla's first vote",
+  "sentences": [
+   {
+    "pt": "Domingo foi dia de eleição no Brasil.",
+    "en": "Sunday was election day in Brazil.",
+    "glosses": {
+     "foi": "was",
+     "no": "in"
+    }
+   },
+   {
+    "pt": "Carla tem dezesseis anos e ia votar pela primeira vez.",
+    "en": "Carla is sixteen years old and was going to vote for the first time.",
+    "glosses": {
+     "tem": "is (has)",
+     "ia": "was going to",
+     "pela": "for the"
+    }
+   },
+   {
+    "pt": "No Brasil, os jovens podem votar a partir dos dezesseis anos.",
+    "en": "In Brazil, young people can vote from the age of sixteen.",
+    "glosses": {
+     "no": "in",
+     "jovens": "young people",
+     "podem": "can",
+     "dos": "the age of"
+    }
+   },
+   {
+    "pt": "Durante a semana, ela leu muitas informações na internet e nas redes sociais.",
+    "en": "During the week, she read a lot of information on the internet and on social networks.",
+    "glosses": {
+     "leu": "read",
+     "na": "on the",
+     "nas": "on the"
+    }
+   },
+   {
+    "pt": "Ela também viu o jornal na televisão todas as noites.",
+    "en": "She also watched the news on television every night.",
+    "glosses": {
+     "viu": "watched",
+     "jornal": "news program",
+     "na": "on",
+     "todas": "every"
+    }
+   },
+   {
+    "pt": "Carla e o pai, Paulo, conversaram muito sobre os problemas do país.",
+    "en": "Carla and her father, Paulo, talked a lot about the country's problems.",
+    "glosses": {
+     "conversaram": "talked",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Para ela, os problemas mais importantes são a pobreza e o meio ambiente.",
+    "en": "For her, the most important problems are poverty and the environment.",
+    "glosses": {
+     "mais": "most",
+     "são": "are"
+    }
+   },
+   {
+    "pt": "O pai acha que a economia e o desemprego são mais importantes.",
+    "en": "Her father thinks the economy and unemployment are more important.",
+    "glosses": {
+     "acha": "thinks",
+     "são": "are"
+    }
+   },
+   {
+    "pt": "Eles discordam de vez em quando, mas sempre conversam com calma.",
+    "en": "They disagree from time to time, but they always talk calmly.",
+    "glosses": {
+     "discordam": "disagree",
+     "conversam": "talk",
+     "calma": "calm (calmly)"
+    }
+   },
+   {
+    "pt": "No domingo de manhã, os dois foram a uma escola perto de casa.",
+    "en": "On Sunday morning, the two of them went to a school near home.",
+    "glosses": {
+     "no": "on",
+     "foram": "went"
+    }
+   },
+   {
+    "pt": "A escola estava cheia de gente.",
+    "en": "The school was full of people.",
+    "glosses": {
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "Carla estava um pouco nervosa e muito animada.",
+    "en": "Carla was a little nervous and very excited.",
+    "glosses": {
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "Quando chegou a vez dela, ela entrou na sala e votou.",
+    "en": "When her turn came, she went into the room and voted.",
+    "glosses": {
+     "chegou": "came",
+     "vez": "turn",
+     "dela": "her",
+     "entrou": "went",
+     "na": "into the",
+     "votou": "voted"
+    }
+   },
+   {
+    "pt": "Foi rápido e simples.",
+    "en": "It was quick and simple.",
+    "glosses": {
+     "foi": "it was"
+    }
+   },
+   {
+    "pt": "Depois, ela tirou uma foto em frente da escola.",
+    "en": "Afterwards, she took a photo in front of the school.",
+    "glosses": {
+     "tirou": "took",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Ela colocou a foto na rede social com a mensagem: \"Meu primeiro voto!\"",
+    "en": "She put the photo on social media with the message: \"My first vote!\"",
+    "glosses": {
+     "colocou": "put",
+     "na": "on the"
+    }
+   },
+   {
+    "pt": "À noite, a família viu as notícias da eleição na televisão.",
+    "en": "In the evening, the family watched the election news on television.",
+    "glosses": {
+     "viu": "watched",
+     "da": "about the",
+     "na": "on"
+    }
+   },
+   {
+    "pt": "O novo presidente falou sobre paz e trabalho para todos.",
+    "en": "The new president talked about peace and jobs for everyone.",
+    "glosses": {
+     "falou": "talked",
+     "trabalho": "jobs",
+     "todos": "everyone"
+    }
+   },
+   {
+    "pt": "Carla não sabia se o novo governo ia ser bom.",
+    "en": "Carla didn't know if the new government was going to be good.",
+    "glosses": {
+     "sabia": "knew",
+     "ia": "was going to"
+    }
+   },
+   {
+    "pt": "Mas ela estava orgulhosa: agora ela também é uma cidadã.",
+    "en": "But she was proud: now she is a citizen too.",
+    "glosses": {
+     "estava": "was",
+     "cidadã": "citizen (f)"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Quantos anos Carla tem?",
+    "qEn": "How old is Carla?",
+    "options": [
+     "Quinze",
+     "Dezesseis",
+     "Dezessete",
+     "Dezoito"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Para Carla, quais problemas são mais importantes?",
+    "qEn": "For Carla, which problems are most important?",
+    "options": [
+     "A pobreza e o meio ambiente",
+     "A economia e o desemprego",
+     "O trânsito e a segurança",
+     "Os impostos"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Onde eles votaram?",
+    "qEn": "Where did they vote?",
+    "options": [
+     "Na prefeitura",
+     "Numa escola",
+     "No shopping",
+     "Numa igreja"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

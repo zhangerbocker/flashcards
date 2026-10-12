@@ -2,6 +2,7 @@ import { z } from "zod";
 import { itemOfCard, matchingCards, type CardFilter, type Deck } from "./deck";
 import type { KeyValueStorage } from "./progress-store";
 import type { Progress } from "./srs";
+import { LevelSchema } from "./levels";
 import { TENSES } from "./verbs";
 import { TOPICS } from "./topics";
 
@@ -98,7 +99,7 @@ const SESSION_KEY = "pt.session.v1";
 const SavedSession = z.object({
   filter: z.object({
     kind: z.enum(["words", "sentences", "grammar", "verbs", "mistakes"]),
-    level: z.union([z.literal(1), z.literal(2), z.literal("all")]),
+    level: z.union([LevelSchema, z.literal("all")]),
     topic: z.union([z.enum(TOPICS), z.literal("all")]),
     face: z.enum(["r", "p"]),
     tense: z.union([z.enum(TENSES), z.literal("all")]).optional(),

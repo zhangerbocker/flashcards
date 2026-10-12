@@ -1,0 +1,450 @@
+[
+ {
+  "id": "b1-numbers-measures-1",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "title": "Os metros que faltavam",
+  "titleEn": "The missing meters",
+  "sentences": [
+   {
+    "pt": "Bruno e Larissa estavam procurando um apartamento para alugar em Curitiba fazia três meses.",
+    "en": "Bruno and Larissa had been looking for an apartment to rent in Curitiba for three months.",
+    "glosses": {
+     "estavam": "had been",
+     "procurando": "looking for",
+     "fazia": "for (time)"
+    }
+   },
+   {
+    "pt": "Um dia, encontraram no aplicativo de uma imobiliária um apartamento que parecia ótimo.",
+    "en": "One day, they found an apartment that seemed great on a real estate agency's app.",
+    "glosses": {
+     "encontraram": "found",
+     "parecia": "seemed"
+    }
+   },
+   {
+    "pt": "O apartamento tinha dois quartos, sessenta metros quadrados e ficava a cinco quarteirões do metrô.",
+    "en": "The apartment had two bedrooms, sixty square meters, and was five blocks from the subway.",
+    "glosses": {
+     "tinha": "had",
+     "ficava": "was located",
+     "do": "from the"
+    }
+   },
+   {
+    "pt": "O aluguel era de dois mil reais por mês, mais trezentos de condomínio.",
+    "en": "The rent was two thousand reais a month, plus three hundred for building fees.",
+    "glosses": {
+     "era": "was",
+     "reais": "reais (currency)",
+     "condomínio": "building fees"
+    }
+   },
+   {
+    "pt": "Embora fosse um pouco caro, os dois decidiram fazer uma visita no sábado.",
+    "en": "Although it was a bit expensive, the two decided to visit on Saturday.",
+    "glosses": {
+     "fosse": "was (subjunctive)",
+     "decidiram": "decided"
+    }
+   },
+   {
+    "pt": "Larissa, que é engenheira, levou o celular com um aplicativo para medir, como sempre fazia.",
+    "en": "Larissa, who is an engineer, took her phone with a measuring app, as she always did.",
+    "glosses": {
+     "é": "is",
+     "levou": "took",
+     "fazia": "did"
+    }
+   },
+   {
+    "pt": "O apartamento era claro e bonito, mas parecia menor do que nas fotos.",
+    "en": "The apartment was bright and pretty, but it seemed smaller than in the photos.",
+    "glosses": {
+     "era": "was",
+     "parecia": "seemed",
+     "menor": "smaller",
+     "nas": "in the"
+    }
+   },
+   {
+    "pt": "Enquanto o moço da imobiliária falava sem parar, Larissa mediu a sala, os quartos, a cozinha e o banheiro.",
+    "en": "While the real estate agent talked nonstop, Larissa measured the living room, the bedrooms, the kitchen and the bathroom.",
+    "glosses": {
+     "da": "of the",
+     "falava": "talked",
+     "mediu": "measured"
+    }
+   },
+   {
+    "pt": "A sala tinha quatro metros de comprimento e quatro de largura, ou seja, dezesseis metros quadrados.",
+    "en": "The living room was four meters long and four wide, that is, sixteen square meters.",
+    "glosses": {
+     "tinha": "had"
+    }
+   },
+   {
+    "pt": "Os dois quartos tinham dez metros quadrados cada, a cozinha, sete, e o banheiro, cinco.",
+    "en": "The two bedrooms were ten square meters each, the kitchen seven, and the bathroom five.",
+    "glosses": {
+     "tinham": "had"
+    }
+   },
+   {
+    "pt": "No total, a soma dava apenas quarenta e oito metros quadrados.",
+    "en": "In total, the sum came to only forty-eight square meters.",
+    "glosses": {
+     "dava": "came to"
+    }
+   },
+   {
+    "pt": "Bruno fez o cálculo no celular: faltavam doze metros, ou seja, vinte por cento do total.",
+    "en": "Bruno did the math on his phone: twelve meters were missing, that is, twenty percent of the total.",
+    "glosses": {
+     "fez": "did",
+     "faltavam": "were missing",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "\"Desculpe, mas a informação do aplicativo está errada\", disse Larissa ao moço, mostrando os números.",
+    "en": "\"Sorry, but the information in the app is wrong,\" Larissa told the young man, showing the numbers.",
+    "glosses": {
+     "desculpe": "sorry",
+     "está": "is",
+     "disse": "said",
+     "ao": "to the",
+     "mostrando": "showing"
+    }
+   },
+   {
+    "pt": "O moço ficou vermelho e ligou para o proprietário.",
+    "en": "The young man turned red and called the owner.",
+    "glosses": {
+     "ficou": "turned",
+     "ligou": "called"
+    }
+   },
+   {
+    "pt": "O proprietário admitiu que nunca tinha medido o apartamento e que tinha usado o número de outro prédio.",
+    "en": "The owner admitted that he had never measured the apartment and had used the number from another building.",
+    "glosses": {
+     "admitiu": "admitted",
+     "tinha": "had",
+     "medido": "measured",
+     "usado": "used"
+    }
+   },
+   {
+    "pt": "Larissa explicou que, se o apartamento era vinte por cento menor, o aluguel também devia ser menor.",
+    "en": "Larissa explained that if the apartment was twenty percent smaller, the rent should also be lower.",
+    "glosses": {
+     "explicou": "explained",
+     "era": "was",
+     "menor": "smaller",
+     "devia": "should"
+    }
+   },
+   {
+    "pt": "Depois de meia hora de conversa, o proprietário concordou em reduzir o aluguel para 1.600 reais.",
+    "en": "After half an hour of conversation, the owner agreed to reduce the rent to 1,600 reais.",
+    "glosses": {
+     "conversa": "conversation",
+     "concordou": "agreed"
+    }
+   },
+   {
+    "pt": "Com a economia de 400 reais por mês, eles vão economizar quase cinco mil reais por ano.",
+    "en": "With the savings of 400 reais a month, they'll save almost five thousand reais a year.",
+    "glosses": {
+     "economia": "savings",
+     "vão": "are going to",
+     "economizar": "save"
+    }
+   },
+   {
+    "pt": "Bruno e Larissa assinaram o contrato na mesma semana.",
+    "en": "Bruno and Larissa signed the contract the same week.",
+    "glosses": {
+     "assinaram": "signed",
+     "na": "in the"
+    }
+   },
+   {
+    "pt": "Hoje, quando os amigos procuram apartamento, sempre pedem que Larissa vá medir tudo antes.",
+    "en": "Today, when their friends look for an apartment, they always ask Larissa to go and measure everything first.",
+    "glosses": {
+     "procuram": "look for",
+     "pedem": "ask",
+     "vá": "go (subjunctive)"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Qual era o tamanho do apartamento no aplicativo?",
+    "qEn": "What was the size of the apartment in the app?",
+    "options": [
+     "Quarenta e oito metros quadrados",
+     "Cem metros quadrados",
+     "Doze metros quadrados",
+     "Sessenta metros quadrados"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "Qual é a profissão de Larissa?",
+    "qEn": "What is Larissa's profession?",
+    "options": [
+     "Médica",
+     "Engenheira",
+     "Professora",
+     "Advogada"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quanto é o aluguel agora?",
+    "qEn": "How much is the rent now?",
+    "options": [
+     "2.000 reais",
+     "1.200 reais",
+     "1.600 reais",
+     "2.300 reais"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "b1-numbers-measures-2",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "title": "A conta do Carnaval",
+  "titleEn": "The Carnival bill",
+  "sentences": [
+   {
+    "pt": "Em outubro, cinco amigos decidiram alugar uma casa em Florianópolis para passar o Carnaval.",
+    "en": "In October, five friends decided to rent a house in Florianópolis to spend Carnival.",
+    "glosses": {
+     "decidiram": "decided"
+    }
+   },
+   {
+    "pt": "A casa ficava a duzentos metros da praia e custava seis mil reais por cinco noites.",
+    "en": "The house was two hundred meters from the beach and cost six thousand reais for five nights.",
+    "glosses": {
+     "ficava": "was located",
+     "da": "from the",
+     "custava": "cost"
+    }
+   },
+   {
+    "pt": "Gabriel, que adora números, fez uma planilha com todos os gastos.",
+    "en": "Gabriel, who loves numbers, made a spreadsheet with all the expenses.",
+    "glosses": {
+     "adora": "loves",
+     "fez": "made",
+     "gastos": "expenses"
+    }
+   },
+   {
+    "pt": "Dividindo o total por cinco, cada um pagaria 1.200 reais, além da comida e da gasolina.",
+    "en": "Dividing the total by five, each one would pay 1,200 reais, plus food and gas.",
+    "glosses": {
+     "dividindo": "dividing",
+     "pagaria": "would pay",
+     "da": "the"
+    }
+   },
+   {
+    "pt": "Os amigos pagaram metade em outubro e iam pagar a outra metade em janeiro.",
+    "en": "The friends paid half in October and were going to pay the other half in January.",
+    "glosses": {
+     "pagaram": "paid",
+     "iam": "were going to"
+    }
+   },
+   {
+    "pt": "Uma semana antes da viagem, no entanto, Lucas mandou uma mensagem triste para os outros.",
+    "en": "A week before the trip, however, Lucas sent a sad message to the others.",
+    "glosses": {
+     "da": "of the",
+     "mandou": "sent"
+    }
+   },
+   {
+    "pt": "Ele tinha conseguido um emprego novo e não poderia tirar férias em fevereiro.",
+    "en": "He had gotten a new job and wouldn't be able to take time off in February.",
+    "glosses": {
+     "tinha": "had",
+     "conseguido": "gotten",
+     "poderia": "could"
+    }
+   },
+   {
+    "pt": "Sem ele, a parte de cada um aumentaria de 1.200 para 1.500 reais.",
+    "en": "Without him, each person's share would go up from 1,200 to 1,500 reais.",
+    "glosses": {
+     "parte": "share",
+     "aumentaria": "would increase"
+    }
+   },
+   {
+    "pt": "Carla ficou preocupada, porque já tinha usado quase todo o salário de janeiro.",
+    "en": "Carla got worried, because she had already used almost all of her January salary.",
+    "glosses": {
+     "ficou": "got",
+     "tinha": "had",
+     "usado": "used"
+    }
+   },
+   {
+    "pt": "\"Talvez a gente encontre outra pessoa para o quarto do Lucas\", disse Júlia.",
+    "en": "\"Maybe we'll find someone else for Lucas's room,\" said Júlia.",
+    "glosses": {
+     "encontre": "find (subjunctive)",
+     "do": "of",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Ela ligou para uma colega do trabalho, Maria, que aceitou na hora.",
+    "en": "She called a coworker, Maria, who accepted right away.",
+    "glosses": {
+     "ligou": "called",
+     "do": "from",
+     "aceitou": "accepted",
+     "na": "on the",
+     "hora": "time (right then)"
+    }
+   },
+   {
+    "pt": "Enquanto isso, Gabriel verificou a planilha de novo e encontrou um erro.",
+    "en": "Meanwhile, Gabriel checked the spreadsheet again and found a mistake.",
+    "glosses": {
+     "enquanto": "while",
+     "isso": "that (meanwhile)",
+     "verificou": "checked",
+     "novo": "again",
+     "encontrou": "found"
+    }
+   },
+   {
+    "pt": "Ele tinha somado o preço da faxina duas vezes, ou seja, cada um ia pagar trezentos reais a mais.",
+    "en": "He had added the cleaning cost twice, that is, each person was going to pay three hundred reais too much.",
+    "glosses": {
+     "tinha": "had",
+     "somado": "added",
+     "da": "of the",
+     "faxina": "cleaning",
+     "vezes": "times",
+     "ia": "was going to",
+     "mais": "extra (too much)"
+    }
+   },
+   {
+    "pt": "Na verdade, o total da casa era 4.500 reais, e não seis mil.",
+    "en": "In fact, the total for the house was 4,500 reais, not six thousand.",
+    "glosses": {
+     "da": "of the",
+     "era": "was"
+    }
+   },
+   {
+    "pt": "Com Maria no grupo, cada um pagaria apenas 900 reais.",
+    "en": "With Maria in the group, each one would pay only 900 reais.",
+    "glosses": {
+     "no": "in the",
+     "pagaria": "would pay"
+    }
+   },
+   {
+    "pt": "Como todos já tinham pago 600, faltavam só 300 reais por pessoa.",
+    "en": "Since everyone had already paid 600, only 300 reais per person were left.",
+    "glosses": {
+     "tinham": "had",
+     "pago": "paid",
+     "faltavam": "were missing"
+    }
+   },
+   {
+    "pt": "Carla ficou tão aliviada que mandou dez mensagens seguidas no celular.",
+    "en": "Carla was so relieved that she sent ten messages in a row.",
+    "glosses": {
+     "ficou": "was",
+     "mandou": "sent",
+     "seguidas": "in a row",
+     "no": "on the"
+    }
+   },
+   {
+    "pt": "Os amigos brincaram que Gabriel devia pagar a cerveja, já que o erro tinha sido dele.",
+    "en": "The friends joked that Gabriel should pay for the beer, since the mistake had been his.",
+    "glosses": {
+     "brincaram": "joked",
+     "devia": "should",
+     "tinha": "had",
+     "sido": "been",
+     "dele": "his"
+    }
+   },
+   {
+    "pt": "Ele concordou, mas disse que seriam no máximo doze garrafas por dia.",
+    "en": "He agreed, but said it would be twelve bottles a day at most.",
+    "glosses": {
+     "concordou": "agreed",
+     "disse": "said",
+     "seriam": "would be"
+    }
+   },
+   {
+    "pt": "O Carnaval foi ótimo, e Lucas disse que no ano que vem vai também, aconteça o que acontecer.",
+    "en": "Carnival was great, and Lucas said that next year he'll go too, no matter what happens.",
+    "glosses": {
+     "foi": "was",
+     "disse": "said",
+     "vai": "will go",
+     "aconteça": "happen (subjunctive)",
+     "acontecer": "happen (whatever happens)"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Por que Lucas não foi viajar?",
+    "qEn": "Why didn't Lucas go on the trip?",
+    "options": [
+     "Ele ficou doente",
+     "Ele perdeu o voo",
+     "Ele não tinha dinheiro",
+     "Ele conseguiu um emprego novo"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "Qual foi o erro de Gabriel?",
+    "qEn": "What was Gabriel's mistake?",
+    "options": [
+     "Mudou a data",
+     "Somou a faxina duas vezes",
+     "Esqueceu a gasolina",
+     "Dividiu por quatro"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quanto cada um pagou no total?",
+    "qEn": "How much did each person pay in total?",
+    "options": [
+     "600 reais",
+     "1.200 reais",
+     "1.500 reais",
+     "900 reais"
+    ],
+    "answer": 3
+   }
+  ]
+ }
+]

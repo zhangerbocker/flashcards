@@ -1,0 +1,568 @@
+[
+ {
+  "id": "b1-body-health-1",
+  "level": 3,
+  "topic": "Body & health",
+  "title": "A dor nas costas",
+  "titleEn": "The back pain",
+  "sentences": [
+   {
+    "pt": "Rodrigo trabalha em um escritório no centro de São Paulo e passa oito horas por dia sentado, usando o computador.",
+    "en": "Rodrigo works in an office in downtown São Paulo and spends eight hours a day sitting down, using the computer.",
+    "glosses": {
+     "trabalha": "works",
+     "no": "in",
+     "passa": "spends",
+     "sentado": "sitting"
+    }
+   },
+   {
+    "pt": "Há algumas semanas, ele começou a sentir uma dor forte nas costas.",
+    "en": "A few weeks ago, he started to feel a strong pain in his back.",
+    "glosses": {
+     "Há": "ago",
+     "começou": "started",
+     "nas": "in the"
+    }
+   },
+   {
+    "pt": "No começo, achou que a dor ia passar sozinha.",
+    "en": "At first, he thought the pain would go away by itself.",
+    "glosses": {
+     "No": "at the",
+     "achou": "he thought",
+     "ia": "was going to",
+     "passar": "go away",
+     "sozinha": "on its own"
+    }
+   },
+   {
+    "pt": "Tomou alguns comprimidos e continuou trabalhando como sempre.",
+    "en": "He took some pills and kept working as usual.",
+    "glosses": {
+     "Tomou": "he took",
+     "continuou": "kept",
+     "trabalhando": "working"
+    }
+   },
+   {
+    "pt": "No entanto, a dor piorou, e um dia ele mal conseguiu levantar da cama.",
+    "en": "However, the pain got worse, and one day he could barely get out of bed.",
+    "glosses": {
+     "piorou": "got worse",
+     "mal": "barely",
+     "conseguiu": "managed",
+     "levantar": "get up",
+     "da": "from the"
+    }
+   },
+   {
+    "pt": "A esposa dele, Fernanda, ficou preocupada.",
+    "en": "His wife, Fernanda, got worried.",
+    "glosses": {
+     "dele": "his",
+     "ficou": "became"
+    }
+   },
+   {
+    "pt": "— Você precisa ir ao médico. É importante que você cuide da sua saúde.",
+    "en": "\"You need to go to the doctor. It's important that you take care of your health.\"",
+    "glosses": {
+     "precisa": "need",
+     "ao": "to the",
+     "É": "it is",
+     "cuide": "take care",
+     "da": "of"
+    }
+   },
+   {
+    "pt": "Rodrigo agendou uma consulta para quinta-feira.",
+    "en": "Rodrigo booked an appointment for Thursday.",
+    "glosses": {
+     "agendou": "booked"
+    }
+   },
+   {
+    "pt": "A médica fez muitas perguntas e pediu alguns exames.",
+    "en": "The doctor asked many questions and ordered some tests.",
+    "glosses": {
+     "médica": "doctor (woman)",
+     "fez": "asked",
+     "pediu": "ordered"
+    }
+   },
+   {
+    "pt": "Depois dos exames, ela explicou o diagnóstico.",
+    "en": "After the tests, she explained the diagnosis.",
+    "glosses": {
+     "dos": "the",
+     "explicou": "explained"
+    }
+   },
+   {
+    "pt": "— Os seus ossos estão bem, mas os músculos das costas estão muito fracos.",
+    "en": "\"Your bones are fine, but your back muscles are very weak.\"",
+    "glosses": {
+     "estão": "are",
+     "das": "of the"
+    }
+   },
+   {
+    "pt": "— O senhor fica sentado o dia inteiro e quase não faz exercício.",
+    "en": "\"You sit the whole day and hardly exercise.\"",
+    "glosses": {
+     "senhor": "you (formal)",
+     "fica sentado": "stay seated",
+     "quase não": "hardly",
+     "faz": "do"
+    }
+   },
+   {
+    "pt": "Ela disse que ele deveria andar pelo menos trinta minutos por dia.",
+    "en": "She said he should walk at least thirty minutes a day.",
+    "glosses": {
+     "disse": "said",
+     "deveria": "should"
+    }
+   },
+   {
+    "pt": "Também explicou que ele precisava levantar da cadeira de hora em hora.",
+    "en": "She also explained that he needed to get up from his chair every hour.",
+    "glosses": {
+     "explicou": "explained",
+     "precisava": "needed",
+     "levantar": "get up",
+     "da": "from the",
+     "de hora em hora": "every hour"
+    }
+   },
+   {
+    "pt": "Rodrigo voltou para casa um pouco decepcionado, porque esperava um remédio mais fácil.",
+    "en": "Rodrigo went back home a little disappointed, because he was hoping for an easier remedy.",
+    "glosses": {
+     "voltou": "went back",
+     "esperava": "was hoping for"
+    }
+   },
+   {
+    "pt": "Mesmo assim, decidiu seguir o tratamento.",
+    "en": "Even so, he decided to follow the treatment.",
+    "glosses": {
+     "Mesmo assim": "even so",
+     "decidiu": "he decided"
+    }
+   },
+   {
+    "pt": "Nas primeiras semanas, foi difícil.",
+    "en": "In the first weeks, it was hard.",
+    "glosses": {
+     "Nas": "in the",
+     "foi": "it was"
+    }
+   },
+   {
+    "pt": "Ele estava sempre cansado e às vezes esquecia de levantar da cadeira.",
+    "en": "He was always tired and sometimes forgot to get up from his chair.",
+    "glosses": {
+     "estava": "was",
+     "às vezes": "sometimes",
+     "esquecia": "forgot",
+     "da": "from the"
+    }
+   },
+   {
+    "pt": "Então Fernanda passou a mandar uma mensagem para ele a cada hora.",
+    "en": "So Fernanda started sending him a message every hour.",
+    "glosses": {
+     "passou a": "started",
+     "a cada": "every"
+    }
+   },
+   {
+    "pt": "Aos poucos, os músculos ficaram mais fortes e a dor diminuiu.",
+    "en": "Little by little, the muscles got stronger and the pain went down.",
+    "glosses": {
+     "ficaram": "became",
+     "diminuiu": "decreased"
+    }
+   },
+   {
+    "pt": "Depois de dois meses, Rodrigo já andava cinco quilômetros todos os dias.",
+    "en": "After two months, Rodrigo was already walking five kilometers every day.",
+    "glosses": {
+     "andava": "was walking",
+     "todos os dias": "every day"
+    }
+   },
+   {
+    "pt": "Ele até perdeu quatro quilos e passou a dormir melhor.",
+    "en": "He even lost four kilos and started sleeping better.",
+    "glosses": {
+     "até": "even",
+     "perdeu": "lost",
+     "passou a": "started"
+    }
+   },
+   {
+    "pt": "Na última consulta, a médica ficou satisfeita com o desempenho dele.",
+    "en": "At the last appointment, the doctor was pleased with his progress.",
+    "glosses": {
+     "Na": "at the",
+     "ficou": "was",
+     "desempenho": "progress",
+     "dele": "his"
+    }
+   },
+   {
+    "pt": "— Espero que o senhor continue com os exercícios.",
+    "en": "\"I hope you keep up the exercises.\"",
+    "glosses": {
+     "Espero": "I hope",
+     "senhor": "you (formal)",
+     "continue": "keep up"
+    }
+   },
+   {
+    "pt": "Rodrigo respondeu que agora não conseguia mais ficar sem andar.",
+    "en": "Rodrigo answered that now he couldn't go without walking anymore.",
+    "glosses": {
+     "respondeu": "answered",
+     "conseguia": "could",
+     "não ... mais": "no longer",
+     "ficar sem": "go without"
+    }
+   },
+   {
+    "pt": "Afinal, tinha aprendido que precisava cuidar do corpo todos os dias.",
+    "en": "After all, he had learned that he needed to take care of his body every day.",
+    "glosses": {
+     "tinha aprendido": "had learned",
+     "precisava": "needed",
+     "do": "of the"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Onde Rodrigo sentia dor?",
+    "qEn": "Where did Rodrigo feel pain?",
+    "options": [
+     "Na cabeça",
+     "Nas costas",
+     "No joelho",
+     "Na barriga"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "O que a médica disse sobre os músculos dele?",
+    "qEn": "What did the doctor say about his muscles?",
+    "options": [
+     "Estavam fracos",
+     "Estavam fortes",
+     "Estavam inchados",
+     "Estavam machucados"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Como Fernanda ajudou Rodrigo?",
+    "qEn": "How did Fernanda help Rodrigo?",
+    "options": [
+     "Cozinhava para ele",
+     "Mandava mensagens",
+     "Andava com ele",
+     "Comprava remédios"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "b1-body-health-2",
+  "level": 3,
+  "topic": "Body & health",
+  "title": "A gripe antes da viagem",
+  "titleEn": "The flu before the trip",
+  "sentences": [
+   {
+    "pt": "Camila ia viajar para Salvador com duas amigas no sábado.",
+    "en": "Camila was going to travel to Salvador with two friends on Saturday.",
+    "glosses": {
+     "ia": "was going to",
+     "no": "on"
+    }
+   },
+   {
+    "pt": "Elas tinham comprado as passagens três meses antes.",
+    "en": "They had bought the tickets three months before.",
+    "glosses": {
+     "tinham comprado": "had bought"
+    }
+   },
+   {
+    "pt": "Na quarta-feira, porém, Camila acordou com dor de garganta e uma tosse forte.",
+    "en": "On Wednesday, however, Camila woke up with a sore throat and a bad cough.",
+    "glosses": {
+     "Na": "on",
+     "acordou": "woke up",
+     "dor de garganta": "sore throat",
+     "forte": "bad"
+    }
+   },
+   {
+    "pt": "À tarde, ela começou a sentir frio, apesar do calor que fazia em Recife, onde morava.",
+    "en": "In the afternoon, she started to feel cold, despite the heat in Recife, where she lived.",
+    "glosses": {
+     "À tarde": "in the afternoon",
+     "começou": "started",
+     "do": "the",
+     "fazia": "there was",
+     "morava": "she lived"
+    }
+   },
+   {
+    "pt": "Mediu a temperatura e viu que estava com 39 graus de febre.",
+    "en": "She took her temperature and saw that she had a fever of 39 degrees.",
+    "glosses": {
+     "Mediu": "she took",
+     "viu": "saw",
+     "estava com": "had"
+    }
+   },
+   {
+    "pt": "— Acho que é só um resfriado — disse para a mãe pelo telefone.",
+    "en": "\"I think it's just a cold,\" she told her mother on the phone.",
+    "glosses": {
+     "Acho": "I think",
+     "é": "it's",
+     "disse": "she said",
+     "pelo": "on the"
+    }
+   },
+   {
+    "pt": "A mãe, Dona Lúcia, não concordou.",
+    "en": "Her mother, Dona Lúcia, didn't agree.",
+    "glosses": {
+     "concordou": "agreed"
+    }
+   },
+   {
+    "pt": "— Talvez seja gripe, filha. É melhor que você vá ao médico hoje mesmo.",
+    "en": "\"Maybe it's the flu, dear. You'd better go to the doctor today.\"",
+    "glosses": {
+     "seja": "it is",
+     "filha": "dear (daughter)",
+     "É melhor que": "it's better that",
+     "vá": "go",
+     "ao": "to the",
+     "hoje mesmo": "this very day"
+    }
+   },
+   {
+    "pt": "Camila foi ao hospital do bairro naquela tarde.",
+    "en": "Camila went to the neighborhood hospital that afternoon.",
+    "glosses": {
+     "foi": "went",
+     "ao": "to the",
+     "do": "of the",
+     "naquela": "that"
+    }
+   },
+   {
+    "pt": "O médico ouviu a respiração dela e olhou a garganta.",
+    "en": "The doctor listened to her breathing and looked at her throat.",
+    "glosses": {
+     "ouviu": "listened to",
+     "dela": "her",
+     "olhou": "looked at"
+    }
+   },
+   {
+    "pt": "— É gripe, sim. A senhora precisa ficar em casa e descansar pelo menos cinco dias.",
+    "en": "\"It is the flu. You need to stay home and rest for at least five days.\"",
+    "glosses": {
+     "É": "it is",
+     "sim": "indeed",
+     "senhora": "you (formal)",
+     "precisa": "need"
+    }
+   },
+   {
+    "pt": "Camila ficou chateada e disse que ia viajar no sábado.",
+    "en": "Camila got upset and said she was going to travel on Saturday.",
+    "glosses": {
+     "ficou": "got",
+     "disse": "said",
+     "ia": "was going to",
+     "no": "on"
+    }
+   },
+   {
+    "pt": "— Com febre, a viagem não vai ser divertida, e a senhora pode passar a gripe para as suas amigas.",
+    "en": "\"With a fever, the trip won't be fun, and you could give the flu to your friends.\"",
+    "glosses": {
+     "vai ser": "is going to be",
+     "senhora": "you (formal)",
+     "pode": "could",
+     "passar": "pass on"
+    }
+   },
+   {
+    "pt": "Ele deu uma receita de remédios para a febre e para a tosse.",
+    "en": "He gave her a prescription for medicine for the fever and the cough.",
+    "glosses": {
+     "deu": "gave",
+     "receita": "prescription"
+    }
+   },
+   {
+    "pt": "Na farmácia, Camila comprou os remédios e voltou para casa.",
+    "en": "At the pharmacy, Camila bought the medicine and went back home.",
+    "glosses": {
+     "Na": "at the",
+     "comprou": "bought",
+     "voltou": "went back"
+    }
+   },
+   {
+    "pt": "Depois, ligou para as amigas, Júlia e Mariana, e contou tudo.",
+    "en": "Then she called her friends, Júlia and Mariana, and told them everything.",
+    "glosses": {
+     "ligou": "called",
+     "contou": "told"
+    }
+   },
+   {
+    "pt": "Elas entenderam e disseram que também iam adiar a viagem.",
+    "en": "They understood and said they would also postpone the trip.",
+    "glosses": {
+     "entenderam": "understood",
+     "disseram": "said",
+     "iam": "were going to"
+    }
+   },
+   {
+    "pt": "— A gente não quer ir sem você — disse Júlia.",
+    "en": "\"We don't want to go without you,\" said Júlia.",
+    "glosses": {
+     "A gente": "we",
+     "quer": "want",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Durante cinco dias, Camila dormiu muito, bebeu muita água e tomou sopa.",
+    "en": "For five days, Camila slept a lot, drank a lot of water and had soup.",
+    "glosses": {
+     "dormiu": "slept",
+     "bebeu": "drank",
+     "tomou": "had"
+    }
+   },
+   {
+    "pt": "A mãe vinha todos os dias e trazia caldo de frango feito em casa.",
+    "en": "Her mother came every day and brought homemade chicken broth.",
+    "glosses": {
+     "vinha": "came",
+     "todos os dias": "every day",
+     "trazia": "brought",
+     "feito em casa": "homemade"
+    }
+   },
+   {
+    "pt": "No começo, Camila se sentia triste e entediada.",
+    "en": "At first, Camila felt sad and bored.",
+    "glosses": {
+     "No": "at the",
+     "se sentia": "felt"
+    }
+   },
+   {
+    "pt": "Aos poucos, porém, a febre passou e a tosse diminuiu.",
+    "en": "Little by little, however, the fever went away and the cough eased.",
+    "glosses": {
+     "passou": "went away",
+     "diminuiu": "decreased"
+    }
+   },
+   {
+    "pt": "Uma semana depois, ela já se sentia bem melhor.",
+    "en": "A week later, she already felt much better.",
+    "glosses": {
+     "depois": "later",
+     "se sentia": "felt",
+     "bem": "much"
+    }
+   },
+   {
+    "pt": "As três amigas trocaram as passagens para o mês que vem.",
+    "en": "The three friends changed the tickets to next month.",
+    "glosses": {
+     "trocaram": "changed",
+     "o mês que vem": "next month"
+    }
+   },
+   {
+    "pt": "Elas pagaram uma pequena multa, mas ninguém reclamou.",
+    "en": "They paid a small fee, but nobody complained.",
+    "glosses": {
+     "pagaram": "paid",
+     "multa": "fee",
+     "reclamou": "complained"
+    }
+   },
+   {
+    "pt": "Camila aprendeu que a saúde deve vir em primeiro lugar.",
+    "en": "Camila learned that health must come first.",
+    "glosses": {
+     "aprendeu": "learned",
+     "deve": "must",
+     "em primeiro lugar": "first"
+    }
+   },
+   {
+    "pt": "Agora ela já agendou a vacina contra a gripe para o próximo inverno.",
+    "en": "Now she has already booked her flu vaccine for next winter.",
+    "glosses": {
+     "agendou": "has booked"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Qual era a temperatura de Camila?",
+    "qEn": "What was Camila's temperature?",
+    "options": [
+     "37 graus",
+     "38 graus",
+     "39 graus",
+     "40 graus"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "O que o médico disse para Camila?",
+    "qEn": "What did the doctor tell Camila?",
+    "options": [
+     "Para viajar logo",
+     "Para ficar em casa",
+     "Para ir à praia",
+     "Para trabalhar menos"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "O que as amigas fizeram?",
+    "qEn": "What did her friends do?",
+    "options": [
+     "Viajaram sem ela",
+     "Adiaram a viagem",
+     "Ficaram doentes",
+     "Perderam as passagens"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

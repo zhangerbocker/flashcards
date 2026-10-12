@@ -1,0 +1,618 @@
+[
+ {
+  "pt": "conseguir",
+  "pos": "v.",
+  "english": "to manage to, to be able to; to get",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Finalmente consegui falar com o gerente.",
+   "en": "I finally managed to speak with the manager."
+  }
+ },
+ {
+  "pt": "evitar",
+  "pos": "v.",
+  "english": "to avoid",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Tento evitar o trânsito saindo mais cedo.",
+   "en": "I try to avoid traffic by leaving earlier."
+  }
+ },
+ {
+  "pt": "aproveitar",
+  "pos": "v.",
+  "english": "to make the most of, to enjoy",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Aproveitem as férias!",
+   "en": "Enjoy your vacation!"
+  }
+ },
+ {
+  "pt": "depender",
+  "pos": "v.",
+  "english": "to depend",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Isso depende do preço.",
+   "en": "That depends on the price."
+  }
+ },
+ {
+  "pt": "desenvolver",
+  "pos": "v.",
+  "english": "to develop",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "A empresa desenvolveu um aplicativo novo.",
+   "en": "The company developed a new app."
+  }
+ },
+ {
+  "pt": "resolver",
+  "pos": "v.",
+  "english": "to solve, to sort out; to decide",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Precisamos resolver esse problema hoje.",
+   "en": "We need to solve this problem today."
+  }
+ },
+ {
+  "pt": "perceber",
+  "pos": "v.",
+  "english": "to notice, to realize",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Só percebi o erro depois de enviar o e-mail.",
+   "en": "I only noticed the mistake after sending the email."
+  }
+ },
+ {
+  "pt": "tentar",
+  "pos": "v.",
+  "english": "to try",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Vou tentar chegar antes das oito.",
+   "en": "I'll try to arrive before eight."
+  }
+ },
+ {
+  "pt": "alcançar",
+  "pos": "v.",
+  "english": "to reach, to achieve",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ela alcançou todos os objetivos do ano.",
+   "en": "She achieved all her goals for the year."
+  }
+ },
+ {
+  "pt": "aumentar",
+  "pos": "v.",
+  "english": "to increase, to raise",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "O preço da gasolina aumentou de novo.",
+   "en": "The price of gas went up again."
+  }
+ },
+ {
+  "pt": "diminuir",
+  "pos": "v.",
+  "english": "to decrease, to reduce",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "O número de acidentes diminuiu este ano.",
+   "en": "The number of accidents decreased this year."
+  }
+ },
+ {
+  "pt": "reduzir",
+  "pos": "v.",
+  "english": "to reduce",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Precisamos reduzir os gastos.",
+   "en": "We need to reduce our spending."
+  }
+ },
+ {
+  "pt": "melhorar",
+  "pos": "v.",
+  "english": "to improve, to get better",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Meu português melhorou muito este ano.",
+   "en": "My Portuguese improved a lot this year."
+  }
+ },
+ {
+  "pt": "piorar",
+  "pos": "v.",
+  "english": "to get worse, to make worse",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "O trânsito piorou depois da obra.",
+   "en": "Traffic got worse after the roadwork."
+  }
+ },
+ {
+  "pt": "substituir",
+  "pos": "v.",
+  "english": "to replace, to substitute",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Você pode substituir o açúcar por mel.",
+   "en": "You can replace the sugar with honey."
+  }
+ },
+ {
+  "pt": "permitir",
+  "pos": "v.",
+  "english": "to allow, to permit",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "A escola não permite celular na sala.",
+   "en": "The school doesn't allow phones in class."
+  }
+ },
+ {
+  "pt": "proibir",
+  "pos": "v.",
+  "english": "to forbid, to ban",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "A lei proibiu sacolas plásticas nos mercados.",
+   "en": "The law banned plastic bags in supermarkets."
+  }
+ },
+ {
+  "pt": "impedir",
+  "pos": "v.",
+  "english": "to prevent, to stop (someone from)",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "A chuva impediu o jogo de continuar.",
+   "en": "The rain prevented the game from continuing."
+  }
+ },
+ {
+  "pt": "garantir",
+  "pos": "v.",
+  "english": "to guarantee, to ensure",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu garanto que você vai gostar do filme.",
+   "en": "I guarantee you'll like the movie."
+  }
+ },
+ {
+  "pt": "oferecer",
+  "pos": "v.",
+  "english": "to offer",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eles me ofereceram um café.",
+   "en": "They offered me a coffee."
+  }
+ },
+ {
+  "pt": "entregar",
+  "pos": "v.",
+  "english": "to deliver, to hand in",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Preciso entregar o relatório até sexta.",
+   "en": "I need to hand in the report by Friday."
+  }
+ },
+ {
+  "pt": "devolver",
+  "pos": "v.",
+  "english": "to give back, to return",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Você já devolveu o livro à biblioteca?",
+   "en": "Have you returned the book to the library yet?"
+  }
+ },
+ {
+  "pt": "emprestar",
+  "pos": "v.",
+  "english": "to lend",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Você pode me emprestar sua caneta?",
+   "en": "Can you lend me your pen?"
+  }
+ },
+ {
+  "pt": "compartilhar",
+  "pos": "v.",
+  "english": "to share",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ela compartilhou a notícia nas redes sociais.",
+   "en": "She shared the news on social media."
+  }
+ },
+ {
+  "pt": "dividir",
+  "pos": "v.",
+  "english": "to divide, to split, to share",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Vamos dividir a conta?",
+   "en": "Shall we split the bill?"
+  }
+ },
+ {
+  "pt": "juntar",
+  "pos": "v.",
+  "english": "to put together, to gather; to save up",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Estou juntando dinheiro para viajar.",
+   "en": "I'm saving up money to travel."
+  }
+ },
+ {
+  "pt": "separar",
+  "pos": "v.",
+  "english": "to separate",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Separe o lixo reciclável do lixo orgânico.",
+   "en": "Separate the recyclable trash from the organic trash."
+  }
+ },
+ {
+  "pt": "misturar",
+  "pos": "v.",
+  "english": "to mix",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Misture a farinha com os ovos.",
+   "en": "Mix the flour with the eggs."
+  }
+ },
+ {
+  "pt": "guardar",
+  "pos": "v.",
+  "english": "to keep, to put away, to store",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Onde você guardou as chaves?",
+   "en": "Where did you put the keys?"
+  }
+ },
+ {
+  "pt": "esconder",
+  "pos": "v.",
+  "english": "to hide",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "As crianças se esconderam atrás da porta.",
+   "en": "The children hid behind the door."
+  }
+ },
+ {
+  "pt": "avisar",
+  "pos": "v.",
+  "english": "to let know, to warn",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Me avise quando chegar em casa.",
+   "en": "Let me know when you get home."
+  }
+ },
+ {
+  "pt": "convencer",
+  "pos": "v.",
+  "english": "to convince",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ela me convenceu a ir à festa.",
+   "en": "She convinced me to go to the party."
+  }
+ },
+ {
+  "pt": "insistir",
+  "pos": "v.",
+  "english": "to insist",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ele insistiu em pagar o jantar.",
+   "en": "He insisted on paying for dinner."
+  }
+ },
+ {
+  "pt": "desistir",
+  "pos": "v.",
+  "english": "to give up",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Não desista agora, você está quase lá!",
+   "en": "Don't give up now, you're almost there!"
+  }
+ },
+ {
+  "pt": "interromper",
+  "pos": "v.",
+  "english": "to interrupt",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Desculpe interromper, mas é urgente.",
+   "en": "Sorry to interrupt, but it's urgent."
+  }
+ },
+ {
+  "pt": "cumprir",
+  "pos": "v.",
+  "english": "to fulfill, to keep (a promise), to meet (a deadline)",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ele sempre cumpre o que promete.",
+   "en": "He always keeps his promises."
+  }
+ },
+ {
+  "pt": "realizar",
+  "pos": "v.",
+  "english": "to carry out, to hold; to fulfill (a dream)",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ela realizou o sonho de morar no exterior.",
+   "en": "She fulfilled her dream of living abroad."
+  }
+ },
+ {
+  "pt": "criar",
+  "pos": "v.",
+  "english": "to create; to raise (children)",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ele criou a empresa sozinho.",
+   "en": "He created the company on his own."
+  }
+ },
+ {
+  "pt": "construir",
+  "pos": "v.",
+  "english": "to build",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Estão construindo um hospital novo no bairro.",
+   "en": "They're building a new hospital in the neighborhood."
+  }
+ },
+ {
+  "pt": "destruir",
+  "pos": "v.",
+  "english": "to destroy",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "O incêndio destruiu a fábrica inteira.",
+   "en": "The fire destroyed the entire factory."
+  }
+ },
+ {
+  "pt": "consertar",
+  "pos": "v.",
+  "english": "to fix, to repair",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "O técnico consertou a máquina de lavar.",
+   "en": "The technician fixed the washing machine."
+  }
+ },
+ {
+  "pt": "quebrar",
+  "pos": "v.",
+  "english": "to break",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Quebrei o celular de novo.",
+   "en": "I broke my phone again."
+  }
+ },
+ {
+  "pt": "estragar",
+  "pos": "v.",
+  "english": "to ruin, to spoil; to break down",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "A chuva estragou o nosso piquenique.",
+   "en": "The rain ruined our picnic."
+  }
+ },
+ {
+  "pt": "verificar",
+  "pos": "v.",
+  "english": "to check, to verify",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Verifique se a porta está trancada.",
+   "en": "Check whether the door is locked."
+  }
+ },
+ {
+  "pt": "comparar",
+  "pos": "v.",
+  "english": "to compare",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Sempre comparo os preços antes de comprar.",
+   "en": "I always compare prices before buying."
+  }
+ },
+ {
+  "pt": "lidar",
+  "pos": "v.",
+  "english": "to deal with, to cope with (+ com)",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ele não sabe lidar com críticas.",
+   "en": "He doesn't know how to deal with criticism."
+  }
+ },
+ {
+  "pt": "enfrentar",
+  "pos": "v.",
+  "english": "to face, to confront",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "O país está enfrentando uma crise econômica.",
+   "en": "The country is facing an economic crisis."
+  }
+ },
+ {
+  "pt": "superar",
+  "pos": "v.",
+  "english": "to overcome, to get over; to exceed",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ela superou o medo de avião.",
+   "en": "She got over her fear of flying."
+  }
+ },
+ {
+  "pt": "arriscar",
+  "pos": "v.",
+  "english": "to risk, to take a chance",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Não quero arriscar perder o voo.",
+   "en": "I don't want to risk missing the flight."
+  }
+ },
+ {
+  "pt": "merecer",
+  "pos": "v.",
+  "english": "to deserve",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Você trabalhou muito e merece descansar.",
+   "en": "You worked hard and deserve to rest."
+  }
+ },
+ {
+  "pt": "ignorar",
+  "pos": "v.",
+  "english": "to ignore",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ele ignorou todas as minhas mensagens.",
+   "en": "He ignored all my messages."
+  }
+ },
+ {
+  "pt": "arrumar",
+  "pos": "v.",
+  "english": "to tidy up; to fix; to get (a job etc.)",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Preciso arrumar o quarto antes da visita chegar.",
+   "en": "I need to tidy up my room before the guest arrives."
+  }
+ },
+ {
+  "pt": "adiar",
+  "pos": "v.",
+  "english": "to postpone",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "A reunião foi adiada para segunda-feira.",
+   "en": "The meeting was postponed to Monday."
+  }
+ },
+ {
+  "pt": "cancelar",
+  "pos": "v.",
+  "english": "to cancel",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Cancelaram o voo por causa da tempestade.",
+   "en": "They canceled the flight because of the storm."
+  }
+ },
+ {
+  "pt": "reclamar",
+  "pos": "v.",
+  "english": "to complain",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ele reclama de tudo.",
+   "en": "He complains about everything."
+  }
+ },
+ {
+  "pt": "reagir",
+  "pos": "v.",
+  "english": "to react",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Como ela reagiu quando soube da notícia?",
+   "en": "How did she react when she heard the news?"
+  }
+ }
+]

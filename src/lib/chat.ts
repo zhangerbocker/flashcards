@@ -3,7 +3,8 @@ import { itemKey, type Mistake } from "./deck";
 import type { KeyValueStorage } from "./progress-store";
 import type { Progress } from "./srs";
 import type { Topic } from "./topics";
-import { withArticle, type Level, type Word } from "./words";
+import { LEVEL_NAMES, LevelSchema, type Level } from "./levels";
+import { withArticle, type Word } from "./words";
 
 export interface Scenario {
   id: string;
@@ -107,7 +108,7 @@ const MAX_TARGET_WORDS = 15;
 export const CONTEXT_MESSAGES = 10;
 
 export const ChatRequest = z.object({
-  level: z.union([z.literal(1), z.literal(2)]),
+  level: LevelSchema,
   scenario: z.string().refine((id) => findScenario(id) !== undefined, "unknown scenario"),
   targetWordIds: z.array(z.number().int()).max(MAX_TARGET_WORDS),
   history: z
@@ -143,16 +144,22 @@ export function chooseTargetWords(progress: Progress, words: readonly Word[], le
   return chosen;
 }
 
-const CEFR: Record<Level, string> = { 1: "A1", 2: "A2" };
+/** What the partner may use at each level. */
+const LEVEL_GRAMMAR: Record<Level, string> = {
+  1: "the present, ir + infinitive for the future, and the simple past (pretérito perfeito)",
+  2: "the present, ir + infinitive, the pretérito perfeito and imperfeito, and simple commands",
+  3: "everything up to A2 plus the simple future, the conditional, the present subjunctive (espero que, talvez) and the compound past (tinha feito)",
+  4: "any tense, including the imperfect and future subjunctive (se eu tivesse, quando você puder) and the personal infinitive",
+};
 
 export function systemPrompt(level: Level, scenario: Scenario, allowedWords: readonly string[], targetWords: readonly string[]): string {
-  return `You are a friendly conversation partner for an adult English speaker learning Brazilian Portuguese at CEFR ${CEFR[level]}.
+  return `You are a friendly conversation partner for an adult English speaker learning Brazilian Portuguese at CEFR ${LEVEL_NAMES[level]}.
 
 Scenario: ${scenario.setting}
 
 Your reply:
 - Brazilian Portuguese only (você, not tu; Brazilian vocabulary and word order), 1-3 short sentences, warm and natural, usually ending with one follow-up question. Stay in the scenario.
-- Keep to the allowed words and their inflected forms (conjugations, plurals, feminines); names, numbers and punctuation are fine. Use only the tenses an ${CEFR[level]} learner knows: ${level === 1 ? "the present, ir + infinitive for the future, and the simple past (pretérito perfeito)" : "the present, ir + infinitive, the pretérito perfeito and imperfeito, and simple commands"}. Work in the target words when they fit naturally.
+- Keep to the allowed words and their inflected forms (conjugations, plurals, feminines); names, numbers and punctuation are fine. Use only the grammar a ${LEVEL_NAMES[level]} learner knows: ${LEVEL_GRAMMAR[level]}. Work in the target words when they fit naturally.
 - Never explain grammar or mention mistakes in the reply; the correction is shown separately.
 
 Checking the learner's message:
@@ -199,7 +206,7 @@ export interface Conversation {
 const CHAT_KEY = "pt.chat.v1";
 
 const SavedConversation = z.object({
-  level: z.union([z.literal(1), z.literal(2)]),
+  level: LevelSchema,
   scenario: z.string().refine((id) => findScenario(id) !== undefined),
   messages: z.array(ChatMessage),
   ended: z.boolean().optional(),

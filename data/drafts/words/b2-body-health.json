@@ -1,0 +1,803 @@
+[
+ {
+  "pt": "diagnóstico",
+  "pos": "n.",
+  "english": "diagnosis",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "diagnósticos"
+  ],
+  "example": {
+   "pt": "O diagnóstico precoce aumenta muito as chances de cura.",
+   "en": "Early diagnosis greatly increases the chances of a cure."
+  }
+ },
+ {
+  "pt": "diagnosticar",
+  "pos": "v.",
+  "english": "to diagnose",
+  "level": 4,
+  "topic": "Body & health",
+  "example": {
+   "pt": "O médico diagnosticou uma infecção no ouvido.",
+   "en": "The doctor diagnosed an ear infection."
+  }
+ },
+ {
+  "pt": "prevenção",
+  "pos": "n.",
+  "english": "prevention",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "prevenções"
+  ],
+  "example": {
+   "pt": "A prevenção ainda é o melhor remédio.",
+   "en": "Prevention is still the best medicine."
+  }
+ },
+ {
+  "pt": "sedentarismo",
+  "pos": "n.",
+  "english": "sedentary lifestyle, physical inactivity",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "m",
+  "example": {
+   "pt": "O sedentarismo é um fator de risco para doenças do coração.",
+   "en": "A sedentary lifestyle is a risk factor for heart disease."
+  }
+ },
+ {
+  "pt": "sedentário",
+  "pos": "adj.",
+  "english": "sedentary",
+  "level": 4,
+  "topic": "Body & health",
+  "forms": [
+   "sedentária",
+   "sedentários",
+   "sedentárias"
+  ],
+  "example": {
+   "pt": "Quem tem um trabalho sedentário precisa se exercitar fora do expediente.",
+   "en": "People with a sedentary job need to exercise outside working hours."
+  }
+ },
+ {
+  "pt": "crônico",
+  "pos": "adj.",
+  "english": "chronic",
+  "level": 4,
+  "topic": "Body & health",
+  "forms": [
+   "crônica",
+   "crônicos",
+   "crônicas"
+  ],
+  "example": {
+   "pt": "Ela sofre de dor crônica nas costas há anos.",
+   "en": "She has suffered from chronic back pain for years."
+  }
+ },
+ {
+  "pt": "internação",
+  "pos": "n.",
+  "english": "hospitalization, admission to hospital",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "internações"
+  ],
+  "example": {
+   "pt": "A internação durou dez dias.",
+   "en": "The hospital stay lasted ten days."
+  }
+ },
+ {
+  "pt": "internar",
+  "pos": "v.",
+  "english": "to admit (to hospital), to hospitalize",
+  "level": 4,
+  "topic": "Body & health",
+  "example": {
+   "pt": "Tiveram que internar meu avô às pressas.",
+   "en": "They had to rush my grandfather into hospital."
+  }
+ },
+ {
+  "pt": "efeito colateral",
+  "pos": "n.",
+  "english": "side effect",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "efeitos colaterais"
+  ],
+  "example": {
+   "pt": "Esse remédio pode causar sonolência como efeito colateral.",
+   "en": "This medicine can cause drowsiness as a side effect."
+  }
+ },
+ {
+  "pt": "imunidade",
+  "pos": "n.",
+  "english": "immunity",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "imunidades"
+  ],
+  "example": {
+   "pt": "Dormir bem ajuda a fortalecer a imunidade.",
+   "en": "Sleeping well helps strengthen immunity."
+  }
+ },
+ {
+  "pt": "sistema imunológico",
+  "pos": "n.",
+  "english": "immune system",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "sistemas imunológicos"
+  ],
+  "example": {
+   "pt": "O estresse prolongado enfraquece o sistema imunológico.",
+   "en": "Prolonged stress weakens the immune system."
+  }
+ },
+ {
+  "pt": "vacinação",
+  "pos": "n.",
+  "english": "vaccination",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "vacinações"
+  ],
+  "example": {
+   "pt": "A campanha de vacinação começa na segunda-feira.",
+   "en": "The vaccination campaign starts on Monday."
+  }
+ },
+ {
+  "pt": "contágio",
+  "pos": "n.",
+  "english": "contagion, transmission (of disease)",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "contágios"
+  ],
+  "example": {
+   "pt": "O risco de contágio é maior em lugares fechados.",
+   "en": "The risk of transmission is higher in enclosed spaces."
+  }
+ },
+ {
+  "pt": "contagioso",
+  "pos": "adj.",
+  "english": "contagious",
+  "level": 4,
+  "topic": "Body & health",
+  "forms": [
+   "contagiosa",
+   "contagiosos",
+   "contagiosas"
+  ],
+  "example": {
+   "pt": "A catapora é muito contagiosa entre crianças.",
+   "en": "Chickenpox is very contagious among children."
+  }
+ },
+ {
+  "pt": "surto",
+  "pos": "n.",
+  "english": "outbreak; (mental) breakdown",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "surtos"
+  ],
+  "example": {
+   "pt": "As autoridades confirmaram um surto de dengue na cidade.",
+   "en": "The authorities confirmed a dengue outbreak in the city."
+  }
+ },
+ {
+  "pt": "epidemia",
+  "pos": "n.",
+  "english": "epidemic",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "epidemias"
+  ],
+  "example": {
+   "pt": "A cidade enfrenta uma epidemia de gripe.",
+   "en": "The city is facing a flu epidemic."
+  }
+ },
+ {
+  "pt": "pandemia",
+  "pos": "n.",
+  "english": "pandemic",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "pandemias"
+  ],
+  "example": {
+   "pt": "A pandemia mudou a forma como trabalhamos.",
+   "en": "The pandemic changed the way we work."
+  }
+ },
+ {
+  "pt": "quarentena",
+  "pos": "n.",
+  "english": "quarantine",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "quarentenas"
+  ],
+  "example": {
+   "pt": "Os passageiros ficaram em quarentena por duas semanas.",
+   "en": "The passengers were in quarantine for two weeks."
+  }
+ },
+ {
+  "pt": "assintomático",
+  "pos": "adj.",
+  "english": "asymptomatic",
+  "level": 4,
+  "topic": "Body & health",
+  "forms": [
+   "assintomática",
+   "assintomáticos",
+   "assintomáticas"
+  ],
+  "example": {
+   "pt": "Muitas pessoas infectadas são assintomáticas.",
+   "en": "Many infected people are asymptomatic."
+  }
+ },
+ {
+  "pt": "sequela",
+  "pos": "n.",
+  "english": "after-effect, lasting damage",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "sequelas"
+  ],
+  "example": {
+   "pt": "O acidente deixou sequelas na perna dele.",
+   "en": "The accident left lasting damage to his leg."
+  }
+ },
+ {
+  "pt": "inflamação",
+  "pos": "n.",
+  "english": "inflammation",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "inflamações"
+  ],
+  "example": {
+   "pt": "O gelo ajuda a reduzir a inflamação.",
+   "en": "Ice helps reduce inflammation."
+  }
+ },
+ {
+  "pt": "inchado",
+  "pos": "adj.",
+  "english": "swollen",
+  "level": 4,
+  "topic": "Body & health",
+  "forms": [
+   "inchada",
+   "inchados",
+   "inchadas"
+  ],
+  "example": {
+   "pt": "Acordei com o tornozelo inchado.",
+   "en": "I woke up with a swollen ankle."
+  }
+ },
+ {
+  "pt": "hipertensão",
+  "pos": "n.",
+  "english": "hypertension, high blood pressure",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "f",
+  "example": {
+   "pt": "A hipertensão muitas vezes não apresenta sintomas.",
+   "en": "Hypertension often has no symptoms."
+  }
+ },
+ {
+  "pt": "obesidade",
+  "pos": "n.",
+  "english": "obesity",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "f",
+  "example": {
+   "pt": "A obesidade infantil cresceu na última década.",
+   "en": "Childhood obesity has grown over the last decade."
+  }
+ },
+ {
+  "pt": "desnutrição",
+  "pos": "n.",
+  "english": "malnutrition",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "f",
+  "example": {
+   "pt": "A desnutrição ainda afeta milhões de crianças.",
+   "en": "Malnutrition still affects millions of children."
+  }
+ },
+ {
+  "pt": "insônia",
+  "pos": "n.",
+  "english": "insomnia",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "f",
+  "example": {
+   "pt": "Ela tem insônia sempre que fica ansiosa.",
+   "en": "She has insomnia whenever she gets anxious."
+  }
+ },
+ {
+  "pt": "enxaqueca",
+  "pos": "n.",
+  "english": "migraine",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "enxaquecas"
+  ],
+  "example": {
+   "pt": "A luz forte piora a minha enxaqueca.",
+   "en": "Bright light makes my migraine worse."
+  }
+ },
+ {
+  "pt": "tontura",
+  "pos": "n.",
+  "english": "dizziness",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "tonturas"
+  ],
+  "example": {
+   "pt": "Senti uma tontura quando levantei rápido.",
+   "en": "I felt dizzy when I stood up quickly."
+  }
+ },
+ {
+  "pt": "náusea",
+  "pos": "n.",
+  "english": "nausea",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "náuseas"
+  ],
+  "example": {
+   "pt": "O remédio pode provocar náuseas.",
+   "en": "The medicine can cause nausea."
+  }
+ },
+ {
+  "pt": "fôlego",
+  "pos": "n.",
+  "english": "breath, stamina",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "fôlegos"
+  ],
+  "example": {
+   "pt": "Subi a ladeira correndo e fiquei sem fôlego.",
+   "en": "I ran up the hill and got out of breath."
+  }
+ },
+ {
+  "pt": "tornozelo",
+  "pos": "n.",
+  "english": "ankle",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "tornozelos"
+  ],
+  "example": {
+   "pt": "Ele torceu o tornozelo jogando futebol.",
+   "en": "He sprained his ankle playing football."
+  }
+ },
+ {
+  "pt": "quadril",
+  "pos": "n.",
+  "english": "hip",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "quadris"
+  ],
+  "example": {
+   "pt": "Minha avó vai fazer uma cirurgia no quadril.",
+   "en": "My grandmother is going to have hip surgery."
+  }
+ },
+ {
+  "pt": "articulação",
+  "pos": "n.",
+  "english": "joint",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "articulações"
+  ],
+  "example": {
+   "pt": "O frio deixa as articulações doloridas.",
+   "en": "The cold makes your joints ache."
+  }
+ },
+ {
+  "pt": "fratura",
+  "pos": "n.",
+  "english": "fracture",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "fraturas"
+  ],
+  "example": {
+   "pt": "O raio-x mostrou uma fratura no braço.",
+   "en": "The X-ray showed a fracture in the arm."
+  }
+ },
+ {
+  "pt": "hematoma",
+  "pos": "n.",
+  "english": "bruise",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "hematomas"
+  ],
+  "example": {
+   "pt": "Ficou um hematoma roxo onde ele bateu.",
+   "en": "A purple bruise was left where he hit himself."
+  }
+ },
+ {
+  "pt": "cicatriz",
+  "pos": "n.",
+  "english": "scar",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "cicatrizes"
+  ],
+  "example": {
+   "pt": "Ela tem uma cicatriz pequena na testa.",
+   "en": "She has a small scar on her forehead."
+  }
+ },
+ {
+  "pt": "curativo",
+  "pos": "n.",
+  "english": "dressing, bandage",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "curativos"
+  ],
+  "example": {
+   "pt": "A enfermeira trocou o curativo do machucado.",
+   "en": "The nurse changed the dressing on the wound."
+  }
+ },
+ {
+  "pt": "pronto-socorro",
+  "pos": "n.",
+  "english": "emergency room",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "prontos-socorros"
+  ],
+  "example": {
+   "pt": "Levamos ele direto para o pronto-socorro.",
+   "en": "We took him straight to the emergency room."
+  }
+ },
+ {
+  "pt": "plano de saúde",
+  "pos": "n.",
+  "english": "health insurance (plan)",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "planos de saúde"
+  ],
+  "example": {
+   "pt": "O plano de saúde não cobre esse exame.",
+   "en": "The health insurance doesn't cover this test."
+  }
+ },
+ {
+  "pt": "plantão",
+  "pos": "n.",
+  "english": "(on-call) shift",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "plantões"
+  ],
+  "example": {
+   "pt": "O médico de plantão atendeu a gente rapidamente.",
+   "en": "The doctor on duty saw us quickly."
+  }
+ },
+ {
+  "pt": "prescrever",
+  "pos": "v.",
+  "english": "to prescribe",
+  "level": 4,
+  "topic": "Body & health",
+  "example": {
+   "pt": "A médica prescreveu antibióticos por sete dias.",
+   "en": "The doctor prescribed antibiotics for seven days."
+  }
+ },
+ {
+  "pt": "agravar",
+  "pos": "v.",
+  "english": "to worsen, to aggravate",
+  "level": 4,
+  "topic": "Body & health",
+  "example": {
+   "pt": "A falta de tratamento pode agravar o quadro.",
+   "en": "Lack of treatment can worsen the condition."
+  }
+ },
+ {
+  "pt": "aliviar",
+  "pos": "v.",
+  "english": "to relieve, to ease",
+  "level": 4,
+  "topic": "Body & health",
+  "example": {
+   "pt": "Esse chá ajuda a aliviar a dor de estômago.",
+   "en": "This tea helps relieve stomachache."
+  }
+ },
+ {
+  "pt": "contrair",
+  "pos": "v.",
+  "english": "to contract (an illness)",
+  "level": 4,
+  "topic": "Body & health",
+  "example": {
+   "pt": "Ele contraiu malária durante a viagem.",
+   "en": "He contracted malaria during the trip."
+  }
+ },
+ {
+  "pt": "debilitado",
+  "pos": "adj.",
+  "english": "weakened, frail",
+  "level": 4,
+  "topic": "Body & health",
+  "forms": [
+   "debilitada",
+   "debilitados",
+   "debilitadas"
+  ],
+  "example": {
+   "pt": "Depois da cirurgia, ela ficou muito debilitada.",
+   "en": "After the surgery, she was very weak."
+  }
+ },
+ {
+  "pt": "hereditário",
+  "pos": "adj.",
+  "english": "hereditary",
+  "level": 4,
+  "topic": "Body & health",
+  "forms": [
+   "hereditária",
+   "hereditários",
+   "hereditárias"
+  ],
+  "example": {
+   "pt": "Essa doença tem um componente hereditário.",
+   "en": "This disease has a hereditary component."
+  }
+ },
+ {
+  "pt": "transtorno",
+  "pos": "n.",
+  "english": "disorder; inconvenience",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "transtornos"
+  ],
+  "example": {
+   "pt": "Ele foi diagnosticado com transtorno de ansiedade.",
+   "en": "He was diagnosed with an anxiety disorder."
+  }
+ },
+ {
+  "pt": "esgotamento",
+  "pos": "n.",
+  "english": "exhaustion, burnout",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "esgotamentos"
+  ],
+  "example": {
+   "pt": "O excesso de trabalho levou ao esgotamento.",
+   "en": "Overwork led to burnout."
+  }
+ },
+ {
+  "pt": "bem-estar",
+  "pos": "n.",
+  "english": "well-being",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "m",
+  "example": {
+   "pt": "A meditação contribui para o bem-estar emocional.",
+   "en": "Meditation contributes to emotional well-being."
+  }
+ },
+ {
+  "pt": "mal-estar",
+  "pos": "n.",
+  "english": "malaise, feeling unwell",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "mal-estares"
+  ],
+  "example": {
+   "pt": "Ela saiu mais cedo porque sentiu um mal-estar.",
+   "en": "She left early because she felt unwell."
+  }
+ },
+ {
+  "pt": "expectativa de vida",
+  "pos": "n.",
+  "english": "life expectancy",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "expectativas de vida"
+  ],
+  "example": {
+   "pt": "A expectativa de vida no Brasil aumentou nas últimas décadas.",
+   "en": "Life expectancy in Brazil has increased in recent decades."
+  }
+ },
+ {
+  "pt": "fisioterapia",
+  "pos": "n.",
+  "english": "physiotherapy",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "fisioterapias"
+  ],
+  "example": {
+   "pt": "Depois da fratura, ele fez três meses de fisioterapia.",
+   "en": "After the fracture, he did three months of physiotherapy."
+  }
+ },
+ {
+  "pt": "anestesia",
+  "pos": "n.",
+  "english": "anesthesia",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "anestesias"
+  ],
+  "example": {
+   "pt": "A cirurgia foi feita com anestesia local.",
+   "en": "The surgery was done under local anesthesia."
+  }
+ },
+ {
+  "pt": "gestante",
+  "pos": "n.",
+  "english": "pregnant woman",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "gestantes"
+  ],
+  "example": {
+   "pt": "As gestantes têm prioridade na fila.",
+   "en": "Pregnant women have priority in the line."
+  }
+ },
+ {
+  "pt": "amamentar",
+  "pos": "v.",
+  "english": "to breastfeed",
+  "level": 4,
+  "topic": "Body & health",
+  "example": {
+   "pt": "Ela amamentou o filho até os seis meses.",
+   "en": "She breastfed her son until six months."
+  }
+ },
+ {
+  "pt": "coceira",
+  "pos": "n.",
+  "english": "itching",
+  "level": 4,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "coceiras"
+  ],
+  "example": {
+   "pt": "A picada do mosquito deu uma coceira enorme.",
+   "en": "The mosquito bite caused terrible itching."
+  }
+ }
+]

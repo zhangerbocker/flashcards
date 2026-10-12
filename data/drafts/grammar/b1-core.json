@@ -1,0 +1,563 @@
+[
+ {
+  "id": "futuro-simples-vs-ir",
+  "level": 3,
+  "title": "Simple future vs. ir + infinitive",
+  "pattern": "vou viajar (speech) · viajarei (writing, formal)",
+  "explanation": "In everyday Brazilian speech the future is almost always ir + infinitive: vou viajar, vamos ver. The simple future (viajarei, faremos) sounds formal and appears mostly in writing, news and speeches. Learn to recognize it, but use ir + infinitive in conversation.",
+  "examples": [
+   {
+    "pt": "Amanhã eu vou trabalhar em casa.",
+    "en": "Tomorrow I'm going to work from home.",
+    "highlight": [
+     "vou trabalhar"
+    ]
+   },
+   {
+    "pt": "O presidente falará com os jornalistas amanhã.",
+    "en": "The president will speak to the journalists tomorrow.",
+    "highlight": [
+     "falará"
+    ]
+   },
+   {
+    "pt": "Faremos tudo para ajudar.",
+    "en": "We will do everything to help.",
+    "highlight": [
+     "Faremos"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Amanhã eu vou a trabalhar em casa.",
+   "right": "Amanhã eu vou trabalhar em casa.",
+   "en": "Tomorrow I'm going to work from home.",
+   "reason": "Ir + infinitive takes no preposition in between, unlike English 'going to'."
+  }
+ },
+ {
+  "id": "condicional-polidez",
+  "level": 3,
+  "title": "Conditional for politeness and hypotheticals",
+  "pattern": "infinitive + -ia: gostaria, poderia, seria · faria, diria, traria",
+  "explanation": "The conditional (would) softens requests: Eu gostaria de…, Você poderia…? sound more polite than quero or pode. It also expresses what would happen in an imagined situation. In casual speech Brazilians often swap it for the imperfect (eu gostava de…, podia…).",
+  "examples": [
+   {
+    "pt": "Eu gostaria de um café, por favor.",
+    "en": "I would like a coffee, please.",
+    "highlight": [
+     "gostaria"
+    ]
+   },
+   {
+    "pt": "Você poderia fechar a janela?",
+    "en": "Could you close the window?",
+    "highlight": [
+     "poderia"
+    ]
+   },
+   {
+    "pt": "Com mais dinheiro, eu compraria uma casa.",
+    "en": "With more money, I'd buy a house.",
+    "highlight": [
+     "compraria"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Eu fazeria isso.",
+   "right": "Eu faria isso.",
+   "en": "I would do that.",
+   "reason": "Fazer, dizer and trazer drop -ze- in the conditional: faria, diria, traria."
+  }
+ },
+ {
+  "id": "presente-subjuntivo-formacao",
+  "level": 3,
+  "title": "Forming the present subjunctive",
+  "pattern": "eu form of present − o + opposite vowel: falo → fale · como → coma · faço → faça",
+  "explanation": "Take the eu form of the present, drop the -o, and add the 'opposite' endings: -ar verbs take -e (fale, falem), -er/-ir verbs take -a (coma, abra). Irregular eu forms carry over (tenho → tenha, faço → faça, digo → diga). A few verbs are fully irregular: seja, esteja, vá, dê, saiba, queira, haja.",
+  "examples": [
+   {
+    "pt": "Quero que você fale com ela.",
+    "en": "I want you to talk to her.",
+    "highlight": [
+     "fale"
+    ]
+   },
+   {
+    "pt": "É melhor que eles façam isso hoje.",
+    "en": "It's better for them to do that today.",
+    "highlight": [
+     "façam"
+    ]
+   },
+   {
+    "pt": "Espero que seja fácil.",
+    "en": "I hope it's easy.",
+    "highlight": [
+     "seja"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Quero que você faz isso.",
+   "right": "Quero que você faça isso.",
+   "en": "I want you to do that.",
+   "reason": "After querer que the verb goes into the subjunctive, built from the eu form faço."
+  }
+ },
+ {
+  "id": "subjuntivo-desejo-duvida-emocao",
+  "level": 3,
+  "title": "Subjunctive after wishes, doubt and feelings",
+  "pattern": "espero que / quero que / duvido que / que bom que + present subjunctive",
+  "explanation": "When the main clause expresses a wish, request, doubt or emotion about someone else's action, the verb after que goes into the subjunctive. If the subject stays the same, use the infinitive instead: quero sair, not quero que eu saia.",
+  "examples": [
+   {
+    "pt": "Espero que você goste do presente.",
+    "en": "I hope you like the gift.",
+    "highlight": [
+     "Espero que",
+     "goste"
+    ]
+   },
+   {
+    "pt": "Duvido que ele chegue a tempo.",
+    "en": "I doubt he'll arrive on time.",
+    "highlight": [
+     "Duvido que",
+     "chegue"
+    ]
+   },
+   {
+    "pt": "Que bom que vocês estejam aqui!",
+    "en": "How nice that you're here!",
+    "highlight": [
+     "Que bom que",
+     "estejam"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Espero que você está bem.",
+   "right": "Espero que você esteja bem.",
+   "en": "I hope you're well.",
+   "reason": "Esperar que expresses a wish, so it takes the subjunctive."
+  }
+ },
+ {
+  "id": "subjuntivo-expressoes-impessoais",
+  "level": 3,
+  "title": "Subjunctive after impersonal expressions",
+  "pattern": "é importante / é necessário / é melhor / pode ser + que + subjunctive",
+  "explanation": "Expressions like é importante que, é preciso que, é melhor que and pode ser que are followed by the subjunctive when they have a specific subject. Without a subject they take a plain infinitive: é importante estudar. Expressions of certainty (é claro que, é certo que) take the indicative.",
+  "examples": [
+   {
+    "pt": "É importante que você durma bem.",
+    "en": "It's important that you sleep well.",
+    "highlight": [
+     "É importante que",
+     "durma"
+    ]
+   },
+   {
+    "pt": "Pode ser que chova amanhã.",
+    "en": "It might rain tomorrow.",
+    "highlight": [
+     "Pode ser que",
+     "chova"
+    ]
+   },
+   {
+    "pt": "É claro que ele sabe a resposta.",
+    "en": "Of course he knows the answer.",
+    "highlight": [
+     "É claro que",
+     "sabe"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "É necessário que nós saímos cedo.",
+   "right": "É necessário que nós saiamos cedo.",
+   "en": "We need to leave early.",
+   "reason": "É necessário que expresses necessity, so the verb goes into the subjunctive."
+  }
+ },
+ {
+  "id": "talvez-subjuntivo",
+  "level": 3,
+  "title": "Talvez + subjunctive",
+  "pattern": "talvez + present subjunctive (before the verb)",
+  "explanation": "Talvez (maybe) before the verb is followed by the subjunctive, because it expresses uncertainty. If talvez comes after the verb, the indicative is used: ele vem, talvez. Similar words like provavelmente and acho que take the indicative.",
+  "examples": [
+   {
+    "pt": "Talvez eu vá à festa.",
+    "en": "Maybe I'll go to the party.",
+    "highlight": [
+     "Talvez",
+     "vá"
+    ]
+   },
+   {
+    "pt": "Talvez ela não saiba o endereço.",
+    "en": "Maybe she doesn't know the address.",
+    "highlight": [
+     "Talvez",
+     "saiba"
+    ]
+   },
+   {
+    "pt": "Talvez a gente tenha tempo amanhã.",
+    "en": "Maybe we'll have time tomorrow.",
+    "highlight": [
+     "Talvez",
+     "tenha"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Talvez ele está em casa.",
+   "right": "Talvez ele esteja em casa.",
+   "en": "Maybe he's at home.",
+   "reason": "Talvez before the verb expresses doubt, so it takes the subjunctive."
+  }
+ },
+ {
+  "id": "acho-que-indicativo",
+  "level": 3,
+  "title": "Acho que vs. não acho que",
+  "pattern": "acho que + indicative · não acho que + subjunctive",
+  "explanation": "Acho que, penso que and acredito que present something as your belief, so they take the indicative. Negated, they express doubt and take the subjunctive: não acho que seja… The same goes for tenho certeza que (indicative) vs. não tenho certeza que (subjunctive).",
+  "examples": [
+   {
+    "pt": "Acho que ele está cansado.",
+    "en": "I think he's tired.",
+    "highlight": [
+     "Acho que",
+     "está"
+    ]
+   },
+   {
+    "pt": "Não acho que ele esteja cansado.",
+    "en": "I don't think he's tired.",
+    "highlight": [
+     "Não acho que",
+     "esteja"
+    ]
+   },
+   {
+    "pt": "Acredito que vai dar certo.",
+    "en": "I believe it's going to work out.",
+    "highlight": [
+     "Acredito que",
+     "vai"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Acho que ele seja brasileiro.",
+   "right": "Acho que ele é brasileiro.",
+   "en": "I think he's Brazilian.",
+   "reason": "Acho que states a belief, so it takes the indicative."
+  }
+ },
+ {
+  "id": "mais-que-perfeito-composto",
+  "level": 3,
+  "title": "Past perfect: tinha feito",
+  "pattern": "tinha / tinham + past participle",
+  "explanation": "To say something had already happened before another past event, use the imperfect of ter + the past participle: eu tinha saído. This is the normal form in speech. A one-word form (saíra) exists but appears only in literary writing.",
+  "examples": [
+   {
+    "pt": "Quando cheguei, o filme já tinha começado.",
+    "en": "When I arrived, the movie had already started.",
+    "highlight": [
+     "tinha começado"
+    ]
+   },
+   {
+    "pt": "Ela nunca tinha visto o mar.",
+    "en": "She had never seen the sea.",
+    "highlight": [
+     "tinha visto"
+    ]
+   },
+   {
+    "pt": "Nós tínhamos comido antes da festa.",
+    "en": "We had eaten before the party.",
+    "highlight": [
+     "tínhamos comido"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Eu tinha fazido o trabalho.",
+   "right": "Eu tinha feito o trabalho.",
+   "en": "I had done the work.",
+   "reason": "Fazer has an irregular participle: feito (also dito, visto, escrito, aberto, posto)."
+  }
+ },
+ {
+  "id": "pronomes-relativos",
+  "level": 3,
+  "title": "Relative pronouns: que, quem, onde, o que, cujo",
+  "pattern": "que (who/which/that) · preposition + quem (people) · onde (places) · o que (what) · cujo (whose)",
+  "explanation": "Que is the all-purpose relative for people and things. After a preposition, use quem for people (a pessoa com quem falei). Onde refers to places, o que means 'what' or 'which' referring to a whole idea, and cujo (whose) agrees with the thing owned: o homem cuja casa…. Cujo is mostly written; in speech people rephrase.",
+  "examples": [
+   {
+    "pt": "O livro que eu li era ótimo.",
+    "en": "The book I read was great.",
+    "highlight": [
+     "que"
+    ]
+   },
+   {
+    "pt": "Essa é a amiga com quem eu moro.",
+    "en": "This is the friend I live with.",
+    "highlight": [
+     "com quem"
+    ]
+   },
+   {
+    "pt": "Esta é a cidade onde eu nasci.",
+    "en": "This is the city where I was born.",
+    "highlight": [
+     "onde"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "A pessoa que eu falei com é minha irmã.",
+   "right": "A pessoa com quem eu falei é minha irmã.",
+   "en": "The person I spoke with is my sister.",
+   "reason": "Portuguese never leaves a preposition at the end; it moves before the relative pronoun."
+  }
+ },
+ {
+  "id": "embora-apesar-de",
+  "level": 3,
+  "title": "Embora, apesar de, mesmo que",
+  "pattern": "embora / mesmo que + subjunctive · apesar de + noun or infinitive",
+  "explanation": "Embora (although) is always followed by the subjunctive, even for facts. Mesmo que (even if) also takes the subjunctive. Apesar de (despite) takes a noun or an infinitive; to use a full clause, say apesar de que + indicative.",
+  "examples": [
+   {
+    "pt": "Embora esteja cansada, ela vai sair.",
+    "en": "Although she's tired, she's going out.",
+    "highlight": [
+     "Embora",
+     "esteja"
+    ]
+   },
+   {
+    "pt": "Apesar da chuva, nós fomos à praia.",
+    "en": "Despite the rain, we went to the beach.",
+    "highlight": [
+     "Apesar da"
+    ]
+   },
+   {
+    "pt": "Vou terminar hoje, mesmo que seja tarde.",
+    "en": "I'll finish today, even if it's late.",
+    "highlight": [
+     "mesmo que",
+     "seja"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Embora ele é rico, ele não é feliz.",
+   "right": "Embora ele seja rico, ele não é feliz.",
+   "en": "Although he's rich, he isn't happy.",
+   "reason": "Embora always takes the subjunctive."
+  }
+ },
+ {
+  "id": "voz-passiva-ser",
+  "level": 3,
+  "title": "Passive voice with ser",
+  "pattern": "ser + participle (agreeing) + por",
+  "explanation": "The passive is formed with ser + past participle, and the participle agrees with the subject: a casa foi construída, os livros foram escritos. The doer is introduced with por (pelo, pela). It is common in news and writing; in speech people often prefer the active voice.",
+  "examples": [
+   {
+    "pt": "A casa foi construída em 1950.",
+    "en": "The house was built in 1950.",
+    "highlight": [
+     "foi construída"
+    ]
+   },
+   {
+    "pt": "Os livros foram escritos por uma brasileira.",
+    "en": "The books were written by a Brazilian woman.",
+    "highlight": [
+     "foram escritos",
+     "por"
+    ]
+   },
+   {
+    "pt": "O jogo será visto por muitas pessoas.",
+    "en": "The game will be watched by many people.",
+    "highlight": [
+     "será visto",
+     "por"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "A carta foi escrito pelo João.",
+   "right": "A carta foi escrita pelo João.",
+   "en": "The letter was written by João.",
+   "reason": "In the passive, the participle agrees in gender and number with the subject."
+  }
+ },
+ {
+  "id": "se-indeterminado",
+  "level": 3,
+  "title": "Impersonal se: vende-se, aluga-se",
+  "pattern": "verb + -se (signs, writing) · speech: a gente / você / 3rd plural",
+  "explanation": "Verb + se makes a sentence impersonal or passive: vende-se (for sale), aluga-se (for rent), fala-se português. It is typical of signs and writing. In everyday Brazilian speech the same idea is usually expressed with a gente, você or a plain third-person plural: aqui a gente fala inglês, falam que….",
+  "examples": [
+   {
+    "pt": "Aluga-se apartamento.",
+    "en": "Apartment for rent.",
+    "highlight": [
+     "Aluga-se"
+    ]
+   },
+   {
+    "pt": "Aqui se fala português.",
+    "en": "Portuguese is spoken here.",
+    "highlight": [
+     "se fala"
+    ]
+   },
+   {
+    "pt": "Dizem que o restaurante é muito bom.",
+    "en": "They say the restaurant is very good.",
+    "highlight": [
+     "Dizem"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Aluga-se apartamentos.",
+   "right": "Alugam-se apartamentos.",
+   "en": "Apartments for rent.",
+   "reason": "In careful writing the verb agrees with the plural noun, though aluga-se is common on real signs."
+  }
+ },
+ {
+  "id": "discurso-indireto",
+  "level": 3,
+  "title": "Reported speech basics",
+  "pattern": "disse que + tense shift: vou → ia · estou → estava · fiz → tinha feito",
+  "explanation": "When you report what someone said in the past, the verb usually shifts back one step: present becomes imperfect, preterite becomes past perfect, and vou fazer becomes ia fazer. Pronouns and place words shift too (eu → ele, aqui → lá). Commands become que + imperfect subjunctive, which you'll learn at B2.",
+  "examples": [
+   {
+    "pt": "Ela disse que estava cansada.",
+    "en": "She said she was tired.",
+    "highlight": [
+     "disse que",
+     "estava"
+    ]
+   },
+   {
+    "pt": "Ele falou que ia chegar tarde.",
+    "en": "He said he was going to arrive late.",
+    "highlight": [
+     "falou que",
+     "ia chegar"
+    ]
+   },
+   {
+    "pt": "Eles disseram que tinham visto o filme.",
+    "en": "They said they had seen the movie.",
+    "highlight": [
+     "disseram que",
+     "tinham visto"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Ela disse que ela vai vir ontem.",
+   "right": "Ela disse que ia vir ontem.",
+   "en": "She said she was going to come yesterday.",
+   "reason": "In reported past speech, vai + infinitive shifts back to ia + infinitive."
+  }
+ },
+ {
+  "id": "ficar-usos",
+  "level": 3,
+  "title": "Ficar: become, stay, be located",
+  "pattern": "ficar + adjective (become) · ficar + gerund (keep doing) · ficar em (be located)",
+  "explanation": "Ficar is one of the most useful Brazilian verbs. With an adjective it means 'become' or 'get' (fiquei triste). With a gerund it means 'keep doing' or 'spend time doing' (ficou falando). It also means 'stay' and, for places, 'be located' (onde fica o banco?).",
+  "examples": [
+   {
+    "pt": "Ela ficou muito feliz com a notícia.",
+    "en": "She got very happy with the news.",
+    "highlight": [
+     "ficou",
+     "feliz"
+    ]
+   },
+   {
+    "pt": "Ele ficou falando a noite toda.",
+    "en": "He kept talking all night.",
+    "highlight": [
+     "ficou falando"
+    ]
+   },
+   {
+    "pt": "Onde fica a estação?",
+    "en": "Where is the station?",
+    "highlight": [
+     "fica"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Ela tornou triste quando ouviu.",
+   "right": "Ela ficou triste quando ouviu.",
+   "en": "She got sad when she heard.",
+   "reason": "For becoming a feeling or state, Brazilians use ficar + adjective."
+  }
+ },
+ {
+  "id": "verbos-com-preposicao",
+  "level": 3,
+  "title": "Verbs with fixed prepositions",
+  "pattern": "precisar de · pensar em · depender de · casar com · lembrar de · confiar em",
+  "explanation": "Many verbs require a specific preposition before their object, and it often differs from English: pensar em (think about), depender de (depend on), casar com (marry), confiar em (trust), precisar de (need). The preposition contracts with articles: penso no trabalho, depende do tempo. Before an infinitive, Brazilians usually drop the de of precisar: preciso sair.",
+  "examples": [
+   {
+    "pt": "Eu penso muito na minha família.",
+    "en": "I think a lot about my family.",
+    "highlight": [
+     "penso",
+     "na"
+    ]
+   },
+   {
+    "pt": "Isso depende do tempo.",
+    "en": "That depends on the weather.",
+    "highlight": [
+     "depende do"
+    ]
+   },
+   {
+    "pt": "Ela vai casar com o Pedro.",
+    "en": "She's going to marry Pedro.",
+    "highlight": [
+     "casar com"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Eu preciso um carro novo.",
+   "right": "Eu preciso de um carro novo.",
+   "en": "I need a new car.",
+   "reason": "Precisar takes de before a noun."
+  }
+ }
+]

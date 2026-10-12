@@ -1,0 +1,460 @@
+[
+ {
+  "id": "a2-time-1",
+  "level": 2,
+  "topic": "Time",
+  "title": "Sempre atrasado",
+  "titleEn": "Always late",
+  "sentences": [
+   {
+    "pt": "Lucas é um bom estudante, mas tem um problema: ele está sempre atrasado.",
+    "en": "Lucas is a good student, but he has a problem: he is always late.",
+    "glosses": {
+     "é": "is",
+     "tem": "has",
+     "está": "is"
+    }
+   },
+   {
+    "pt": "Antigamente, a mãe dele acordava o filho todos os dias às seis horas.",
+    "en": "In the old days, his mother woke her son every day at six o'clock.",
+    "glosses": {
+     "dele": "his",
+     "acordava": "woke",
+     "todos os dias": "every day",
+     "às": "at"
+    }
+   },
+   {
+    "pt": "Mas agora Lucas mora sozinho em Porto Alegre, perto da universidade.",
+    "en": "But now Lucas lives alone in Porto Alegre, near the university.",
+    "glosses": {
+     "mora": "lives",
+     "da": "the"
+    }
+   },
+   {
+    "pt": "Na semana passada, ele chegou atrasado à aula três vezes.",
+    "en": "Last week, he was late to class three times.",
+    "glosses": {
+     "na semana passada": "last week",
+     "chegou atrasado": "was late",
+     "à": "to"
+    }
+   },
+   {
+    "pt": "Na segunda-feira, ele perdeu o ônibus das sete e quinze.",
+    "en": "On Monday, he missed the seven-fifteen bus.",
+    "glosses": {
+     "na": "on",
+     "perdeu": "missed",
+     "das": "at"
+    }
+   },
+   {
+    "pt": "Na quarta-feira, dormiu até as nove, porque esqueceu o celular na sala.",
+    "en": "On Wednesday, he slept until nine, because he left his phone in the living room.",
+    "glosses": {
+     "na": "in the",
+     "dormiu": "slept",
+     "esqueceu": "left (forgot)"
+    }
+   },
+   {
+    "pt": "E, na sexta-feira, chegou meia hora depois do começo de uma prova!",
+    "en": "And on Friday, he arrived half an hour after the start of a test!",
+    "glosses": {
+     "na": "on",
+     "chegou": "arrived",
+     "do": "the"
+    }
+   },
+   {
+    "pt": "A professora ficou irritada e disse: — Lucas, você precisa ser mais pontual.",
+    "en": "The teacher got annoyed and said, \"Lucas, you need to be more punctual.\"",
+    "glosses": {
+     "professora": "teacher",
+     "ficou": "got",
+     "disse": "said",
+     "precisa": "need"
+    }
+   },
+   {
+    "pt": "No sábado, ele foi a uma loja e comprou um despertador antigo e muito barulhento.",
+    "en": "On Saturday, he went to a store and bought an old, very loud alarm clock.",
+    "glosses": {
+     "no": "on",
+     "foi": "went",
+     "comprou": "bought",
+     "barulhento": "loud"
+    }
+   },
+   {
+    "pt": "Ele colocou o despertador longe da cama, perto da porta do quarto.",
+    "en": "He put the alarm clock far from the bed, near the bedroom door.",
+    "glosses": {
+     "colocou": "put",
+     "da": "the",
+     "do quarto": "bedroom"
+    }
+   },
+   {
+    "pt": "Assim, todas as manhãs, ele precisa levantar para apagar o despertador.",
+    "en": "That way, every morning, he has to get up to turn off the alarm clock.",
+    "glosses": {
+     "assim": "that way",
+     "todas as manhãs": "every morning",
+     "precisa": "has to",
+     "apagar": "to turn off"
+    }
+   },
+   {
+    "pt": "Na outra segunda-feira, o despertador tocou às seis e meia.",
+    "en": "The next Monday, the alarm clock rang at six thirty.",
+    "glosses": {
+     "na outra": "the next",
+     "tocou": "rang",
+     "às": "at",
+     "meia": "thirty"
+    }
+   },
+   {
+    "pt": "Lucas levantou, tomou banho e tomou café da manhã com calma.",
+    "en": "Lucas got up, took a shower and had breakfast calmly.",
+    "glosses": {
+     "levantou": "got up",
+     "tomou": "had",
+     "com calma": "calmly"
+    }
+   },
+   {
+    "pt": "Ele chegou à universidade dez minutos antes da aula.",
+    "en": "He got to the university ten minutes before class.",
+    "glosses": {
+     "chegou": "got",
+     "à": "to the",
+     "da": "the"
+    }
+   },
+   {
+    "pt": "A professora olhou para o relógio e ficou surpresa.",
+    "en": "The teacher looked at the clock and was surprised.",
+    "glosses": {
+     "professora": "teacher",
+     "olhou para": "looked at",
+     "ficou": "was"
+    }
+   },
+   {
+    "pt": "— Lucas, você chegou cedo hoje! O que aconteceu?",
+    "en": "\"Lucas, you got here early today! What happened?\"",
+    "glosses": {
+     "chegou": "got here",
+     "aconteceu": "happened"
+    }
+   },
+   {
+    "pt": "— Comprei um despertador novo — ele respondeu, orgulhoso.",
+    "en": "\"I bought a new alarm clock,\" he answered proudly.",
+    "glosses": {
+     "comprei": "I bought",
+     "respondeu": "answered",
+     "orgulhoso": "proudly"
+    }
+   },
+   {
+    "pt": "Desde esse dia, Lucas nunca mais chegou atrasado.",
+    "en": "Since that day, Lucas has never been late again.",
+    "glosses": {
+     "esse": "that",
+     "nunca mais": "never again",
+     "chegou atrasado": "has been late"
+    }
+   },
+   {
+    "pt": "Mas os vizinhos dele não estão tão felizes, porque o despertador é muito barulhento.",
+    "en": "But his neighbors aren't so happy, because the alarm clock is very loud.",
+    "glosses": {
+     "dele": "his",
+     "estão": "are",
+     "tão": "so",
+     "é": "is",
+     "barulhento": "loud"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Onde Lucas mora agora?",
+    "qEn": "Where does Lucas live now?",
+    "options": [
+     "Em Porto Alegre",
+     "Em Curitiba",
+     "Com a mãe",
+     "Em São Paulo"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "O que aconteceu na sexta-feira?",
+    "qEn": "What happened on Friday?",
+    "options": [
+     "Ele perdeu o ônibus",
+     "Ele dormiu até as nove",
+     "Ele chegou atrasado a uma prova",
+     "Ele ficou doente"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Onde Lucas colocou o despertador?",
+    "qEn": "Where did Lucas put the alarm clock?",
+    "options": [
+     "Embaixo da cama",
+     "Perto da porta do quarto",
+     "Na cozinha",
+     "Em cima da mesa"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "a2-time-2",
+  "level": 2,
+  "topic": "Time",
+  "title": "Dez anos depois",
+  "titleEn": "Ten years later",
+  "sentences": [
+   {
+    "pt": "Gabriel e Sofia se conheceram em Paraty, em um feriado de novembro.",
+    "en": "Gabriel and Sofia met in Paraty, on a November holiday.",
+    "glosses": {
+     "se conheceram": "met"
+    }
+   },
+   {
+    "pt": "Isso aconteceu há quase uma década.",
+    "en": "That happened almost a decade ago.",
+    "glosses": {
+     "isso": "that",
+     "aconteceu": "happened",
+     "há": "ago"
+    }
+   },
+   {
+    "pt": "Daqui a duas semanas, eles vão fazer dez anos de casados.",
+    "en": "In two weeks, they will have been married for ten years.",
+    "glosses": {
+     "daqui a": "in",
+     "vão fazer dez anos de casados": "will have been married ten years"
+    }
+   },
+   {
+    "pt": "Gabriel quer voltar a Paraty com Sofia nesse dia.",
+    "en": "Gabriel wants to go back to Paraty with Sofia on that day.",
+    "glosses": {
+     "quer": "wants",
+     "voltar": "to go back",
+     "nesse": "on that"
+    }
+   },
+   {
+    "pt": "Ele olhou o calendário: o dia 15 é uma sexta-feira e também é feriado.",
+    "en": "He looked at the calendar: the 15th is a Friday and also a holiday.",
+    "glosses": {
+     "olhou": "looked at",
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Ótimo! Eles podem passar três dias lá.",
+    "en": "Great! They can spend three days there.",
+    "glosses": {
+     "podem": "can",
+     "passar": "spend"
+    }
+   },
+   {
+    "pt": "Mas Sofia é enfermeira, e o horário dela muda toda semana.",
+    "en": "But Sofia is a nurse, and her schedule changes every week.",
+    "glosses": {
+     "é": "is",
+     "enfermeira": "nurse",
+     "dela": "her",
+     "muda": "changes",
+     "toda": "every"
+    }
+   },
+   {
+    "pt": "Então Gabriel ligou para a irmã dela, Carla, para pedir ajuda.",
+    "en": "So Gabriel called her sister, Carla, to ask for help.",
+    "glosses": {
+     "ligou": "called",
+     "irmã": "sister",
+     "dela": "her",
+     "pedir": "to ask for",
+     "ajuda": "help"
+    }
+   },
+   {
+    "pt": "Carla trabalha no mesmo hospital e conhece o horário de todo mundo.",
+    "en": "Carla works at the same hospital and knows everyone's schedule.",
+    "glosses": {
+     "trabalha": "works",
+     "no": "at the",
+     "conhece": "knows",
+     "de todo mundo": "everyone's"
+    }
+   },
+   {
+    "pt": "— Ela vai trabalhar na quinta-feira até as dez da noite — disse Carla.",
+    "en": "\"She is going to work on Thursday until ten at night,\" said Carla.",
+    "glosses": {
+     "vai trabalhar": "is going to work",
+     "na": "on",
+     "da noite": "at night",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "— Mas está livre de sexta-feira até domingo.",
+    "en": "\"But she's free from Friday to Sunday.\"",
+    "glosses": {
+     "está": "she's",
+     "de": "from",
+     "até": "to"
+    }
+   },
+   {
+    "pt": "Gabriel comprou as passagens de ônibus e escolheu um hotel pequeno perto do mar.",
+    "en": "Gabriel bought the bus tickets and chose a small hotel near the sea.",
+    "glosses": {
+     "comprou": "bought",
+     "passagens": "tickets",
+     "escolheu": "chose",
+     "do": "the"
+    }
+   },
+   {
+    "pt": "Ele não disse nada para Sofia durante duas semanas.",
+    "en": "He didn't say anything to Sofia for two weeks.",
+    "glosses": {
+     "disse": "say",
+     "nada": "anything",
+     "durante": "for"
+    }
+   },
+   {
+    "pt": "Foi difícil, porque ela sempre pergunta o que eles vão fazer no fim de semana.",
+    "en": "It was hard, because she always asks what they are going to do on the weekend.",
+    "glosses": {
+     "foi": "it was",
+     "pergunta": "asks",
+     "vão fazer": "are going to do",
+     "no": "on the"
+    }
+   },
+   {
+    "pt": "Na quinta-feira à noite, Sofia chegou em casa muito cansada.",
+    "en": "On Thursday night, Sofia got home very tired.",
+    "glosses": {
+     "na": "on",
+     "à noite": "night",
+     "chegou em casa": "got home"
+    }
+   },
+   {
+    "pt": "Gabriel estava esperando na sala com duas malas.",
+    "en": "Gabriel was waiting in the living room with two suitcases.",
+    "glosses": {
+     "estava esperando": "was waiting",
+     "na": "in the"
+    }
+   },
+   {
+    "pt": "— Arrume a sua roupa, a gente sai amanhã às seis da manhã! — disse ele.",
+    "en": "\"Pack your clothes, we're leaving tomorrow at six in the morning!\" he said.",
+    "glosses": {
+     "arrume": "pack",
+     "a gente": "we",
+     "sai": "are leaving",
+     "às": "at",
+     "da manhã": "in the morning",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "— Para onde? — perguntou Sofia, surpresa.",
+    "en": "\"Where to?\" asked Sofia, surprised.",
+    "glosses": {
+     "para onde": "where to",
+     "perguntou": "asked"
+    }
+   },
+   {
+    "pt": "— Para o lugar onde tudo começou — ele respondeu.",
+    "en": "\"To the place where it all began,\" he answered.",
+    "glosses": {
+     "tudo": "it all",
+     "começou": "began",
+     "respondeu": "answered"
+    }
+   },
+   {
+    "pt": "Sofia entendeu logo e ficou muito feliz.",
+    "en": "Sofia understood right away and was very happy.",
+    "glosses": {
+     "entendeu": "understood",
+     "logo": "right away",
+     "ficou": "was"
+    }
+   },
+   {
+    "pt": "Dez anos depois, Paraty ainda era linda, como antigamente.",
+    "en": "Ten years later, Paraty was still beautiful, like in the old days.",
+    "glosses": {
+     "depois": "later",
+     "ainda": "still",
+     "era": "was",
+     "como": "like"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Onde Gabriel e Sofia se conheceram?",
+    "qEn": "Where did Gabriel and Sofia meet?",
+    "options": [
+     "Em Paraty",
+     "No hospital",
+     "Em Salvador",
+     "No ônibus"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Quem ajudou Gabriel?",
+    "qEn": "Who helped Gabriel?",
+    "options": [
+     "A mãe de Sofia",
+     "Carla, a irmã de Sofia",
+     "Um amigo",
+     "O chefe de Sofia"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quando eles saem para a viagem?",
+    "qEn": "When do they leave for the trip?",
+    "options": [
+     "Na quinta-feira à noite",
+     "Na sexta-feira de manhã",
+     "No sábado",
+     "No domingo"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

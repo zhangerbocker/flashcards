@@ -1,0 +1,780 @@
+[
+ {
+  "pt": "abrangente",
+  "pos": "adj.",
+  "english": "comprehensive, wide-ranging",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "abrangentes"
+  ],
+  "example": {
+   "pt": "O relatório faz uma análise abrangente do problema.",
+   "en": "The report makes a comprehensive analysis of the problem."
+  }
+ },
+ {
+  "pt": "minucioso",
+  "pos": "adj.",
+  "english": "thorough, meticulous, detailed",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "minuciosa",
+   "minuciosos",
+   "minuciosas"
+  ],
+  "example": {
+   "pt": "A polícia fez uma busca minuciosa na casa.",
+   "en": "The police made a thorough search of the house."
+  }
+ },
+ {
+  "pt": "meticuloso",
+  "pos": "adj.",
+  "english": "meticulous",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "meticulosa",
+   "meticulosos",
+   "meticulosas"
+  ],
+  "example": {
+   "pt": "Ele é meticuloso com as contas da casa.",
+   "en": "He is meticulous about the household accounts."
+  }
+ },
+ {
+  "pt": "ambíguo",
+  "pos": "adj.",
+  "english": "ambiguous",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "ambígua",
+   "ambíguos",
+   "ambíguas"
+  ],
+  "example": {
+   "pt": "A resposta do ministro foi bastante ambígua.",
+   "en": "The minister's answer was rather ambiguous."
+  }
+ },
+ {
+  "pt": "inviável",
+  "pos": "adj.",
+  "english": "unfeasible, unworkable",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "inviáveis"
+  ],
+  "example": {
+   "pt": "O projeto se mostrou inviável por falta de verba.",
+   "en": "The project proved unfeasible due to lack of funds."
+  }
+ },
+ {
+  "pt": "viável",
+  "pos": "adj.",
+  "english": "feasible, viable",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "viáveis"
+  ],
+  "example": {
+   "pt": "Precisamos encontrar uma solução viável.",
+   "en": "We need to find a viable solution."
+  }
+ },
+ {
+  "pt": "coerente",
+  "pos": "adj.",
+  "english": "coherent, consistent",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "coerentes"
+  ],
+  "example": {
+   "pt": "O discurso dele não é coerente com suas atitudes.",
+   "en": "His speech isn't consistent with his actions."
+  }
+ },
+ {
+  "pt": "incoerente",
+  "pos": "adj.",
+  "english": "incoherent, inconsistent",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "incoerentes"
+  ],
+  "example": {
+   "pt": "É incoerente pedir economia e gastar tanto.",
+   "en": "It's inconsistent to ask for savings and spend so much."
+  }
+ },
+ {
+  "pt": "precário",
+  "pos": "adj.",
+  "english": "precarious, poor, inadequate",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "precária",
+   "precários",
+   "precárias"
+  ],
+  "example": {
+   "pt": "Muitas escolas funcionam em condições precárias.",
+   "en": "Many schools operate in poor conditions."
+  }
+ },
+ {
+  "pt": "sucinto",
+  "pos": "adj.",
+  "english": "succinct, brief",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "sucinta",
+   "sucintos",
+   "sucintas"
+  ],
+  "example": {
+   "pt": "Seja sucinto: temos só cinco minutos.",
+   "en": "Be brief: we only have five minutes."
+  }
+ },
+ {
+  "pt": "exaustivo",
+  "pos": "adj.",
+  "english": "exhausting; exhaustive",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "exaustiva",
+   "exaustivos",
+   "exaustivas"
+  ],
+  "example": {
+   "pt": "Foi uma semana exaustiva de reuniões.",
+   "en": "It was an exhausting week of meetings."
+  }
+ },
+ {
+  "pt": "crucial",
+  "pos": "adj.",
+  "english": "crucial",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "cruciais"
+  ],
+  "example": {
+   "pt": "Os próximos dias serão cruciais para a negociação.",
+   "en": "The next few days will be crucial for the negotiation."
+  }
+ },
+ {
+  "pt": "primordial",
+  "pos": "adj.",
+  "english": "essential, fundamental",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "primordiais"
+  ],
+  "example": {
+   "pt": "A segurança é primordial nesse tipo de obra.",
+   "en": "Safety is essential in this kind of construction work."
+  }
+ },
+ {
+  "pt": "imprescindível",
+  "pos": "adj.",
+  "english": "indispensable, essential",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "imprescindíveis"
+  ],
+  "example": {
+   "pt": "A presença de todos é imprescindível.",
+   "en": "Everyone's presence is essential."
+  }
+ },
+ {
+  "pt": "dispensável",
+  "pos": "adj.",
+  "english": "unnecessary, dispensable",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "dispensáveis"
+  ],
+  "example": {
+   "pt": "Esse comentário era totalmente dispensável.",
+   "en": "That comment was totally unnecessary."
+  }
+ },
+ {
+  "pt": "pertinente",
+  "pos": "adj.",
+  "english": "relevant, pertinent",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "pertinentes"
+  ],
+  "example": {
+   "pt": "A pergunta da aluna foi muito pertinente.",
+   "en": "The student's question was very pertinent."
+  }
+ },
+ {
+  "pt": "irrelevante",
+  "pos": "adj.",
+  "english": "irrelevant",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "irrelevantes"
+  ],
+  "example": {
+   "pt": "Esse detalhe é irrelevante para a discussão.",
+   "en": "That detail is irrelevant to the discussion."
+  }
+ },
+ {
+  "pt": "eficaz",
+  "pos": "adj.",
+  "english": "effective",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "eficazes"
+  ],
+  "example": {
+   "pt": "A vacina se mostrou eficaz contra o vírus.",
+   "en": "The vaccine proved effective against the virus."
+  }
+ },
+ {
+  "pt": "ineficaz",
+  "pos": "adj.",
+  "english": "ineffective",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "ineficazes"
+  ],
+  "example": {
+   "pt": "As medidas foram ineficazes contra a inflação.",
+   "en": "The measures were ineffective against inflation."
+  }
+ },
+ {
+  "pt": "consistente",
+  "pos": "adj.",
+  "english": "solid, well-founded; consistent",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "consistentes"
+  ],
+  "example": {
+   "pt": "Ela apresentou argumentos consistentes.",
+   "en": "She presented solid arguments."
+  }
+ },
+ {
+  "pt": "frágil",
+  "pos": "adj.",
+  "english": "fragile, weak",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "frágeis"
+  ],
+  "example": {
+   "pt": "A economia do país ainda está frágil.",
+   "en": "The country's economy is still fragile."
+  }
+ },
+ {
+  "pt": "robusto",
+  "pos": "adj.",
+  "english": "robust, sturdy",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "robusta",
+   "robustos",
+   "robustas"
+  ],
+  "example": {
+   "pt": "O estudo se baseia em dados robustos.",
+   "en": "The study is based on robust data."
+  }
+ },
+ {
+  "pt": "sutil",
+  "pos": "adj.",
+  "english": "subtle",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "sutis"
+  ],
+  "example": {
+   "pt": "Houve uma mudança sutil no tom do discurso.",
+   "en": "There was a subtle change in the tone of the speech."
+  }
+ },
+ {
+  "pt": "explícito",
+  "pos": "adj.",
+  "english": "explicit",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "explícita",
+   "explícitos",
+   "explícitas"
+  ],
+  "example": {
+   "pt": "O filme tem cenas de violência explícita.",
+   "en": "The film has scenes of explicit violence."
+  }
+ },
+ {
+  "pt": "implícito",
+  "pos": "adj.",
+  "english": "implicit",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "implícita",
+   "implícitos",
+   "implícitas"
+  ],
+  "example": {
+   "pt": "Havia uma crítica implícita no comentário dele.",
+   "en": "There was an implicit criticism in his comment."
+  }
+ },
+ {
+  "pt": "notório",
+  "pos": "adj.",
+  "english": "well-known, notorious",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "notória",
+   "notórios",
+   "notórias"
+  ],
+  "example": {
+   "pt": "É notório que o trânsito piorou.",
+   "en": "It's well known that traffic has got worse."
+  }
+ },
+ {
+  "pt": "considerável",
+  "pos": "adj.",
+  "english": "considerable",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "consideráveis"
+  ],
+  "example": {
+   "pt": "Houve uma queda considerável nas vendas.",
+   "en": "There was a considerable drop in sales."
+  }
+ },
+ {
+  "pt": "exorbitante",
+  "pos": "adj.",
+  "english": "exorbitant",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "exorbitantes"
+  ],
+  "example": {
+   "pt": "Os preços dos aluguéis estão exorbitantes.",
+   "en": "Rent prices are exorbitant."
+  }
+ },
+ {
+  "pt": "ínfimo",
+  "pos": "adj.",
+  "english": "tiny, minimal",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "ínfima",
+   "ínfimos",
+   "ínfimas"
+  ],
+  "example": {
+   "pt": "A chance de erro é ínfima.",
+   "en": "The chance of error is minimal."
+  }
+ },
+ {
+  "pt": "escasso",
+  "pos": "adj.",
+  "english": "scarce",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "escassa",
+   "escassos",
+   "escassas"
+  ],
+  "example": {
+   "pt": "Os recursos para a pesquisa são escassos.",
+   "en": "Funds for research are scarce."
+  }
+ },
+ {
+  "pt": "vasto",
+  "pos": "adj.",
+  "english": "vast, extensive",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "vasta",
+   "vastos",
+   "vastas"
+  ],
+  "example": {
+   "pt": "Ela tem um vasto conhecimento de história.",
+   "en": "She has a vast knowledge of history."
+  }
+ },
+ {
+  "pt": "peculiar",
+  "pos": "adj.",
+  "english": "peculiar, distinctive",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "peculiares"
+  ],
+  "example": {
+   "pt": "A cidade tem um sotaque peculiar.",
+   "en": "The city has a distinctive accent."
+  }
+ },
+ {
+  "pt": "inusitado",
+  "pos": "adj.",
+  "english": "unusual, unexpected",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "inusitada",
+   "inusitados",
+   "inusitadas"
+  ],
+  "example": {
+   "pt": "O filme tem um final inusitado.",
+   "en": "The film has an unexpected ending."
+  }
+ },
+ {
+  "pt": "inédito",
+  "pos": "adj.",
+  "english": "unprecedented; unpublished, never seen before",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "inédita",
+   "inéditos",
+   "inéditas"
+  ],
+  "example": {
+   "pt": "A banda lançou três músicas inéditas.",
+   "en": "The band released three new, never-heard songs."
+  }
+ },
+ {
+  "pt": "corriqueiro",
+  "pos": "adj.",
+  "english": "commonplace, everyday",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "corriqueira",
+   "corriqueiros",
+   "corriqueiras"
+  ],
+  "example": {
+   "pt": "Atrasos no metrô se tornaram corriqueiros.",
+   "en": "Delays on the subway have become commonplace."
+  }
+ },
+ {
+  "pt": "banal",
+  "pos": "adj.",
+  "english": "trivial, banal",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "banais"
+  ],
+  "example": {
+   "pt": "Brigaram por um motivo banal.",
+   "en": "They fought over something trivial."
+  }
+ },
+ {
+  "pt": "rudimentar",
+  "pos": "adj.",
+  "english": "rudimentary, basic",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "rudimentares"
+  ],
+  "example": {
+   "pt": "Eles usavam ferramentas rudimentares.",
+   "en": "They used rudimentary tools."
+  }
+ },
+ {
+  "pt": "sofisticado",
+  "pos": "adj.",
+  "english": "sophisticated",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "sofisticada",
+   "sofisticados",
+   "sofisticadas"
+  ],
+  "example": {
+   "pt": "O restaurante tem uma decoração sofisticada.",
+   "en": "The restaurant has sophisticated décor."
+  }
+ },
+ {
+  "pt": "obsoleto",
+  "pos": "adj.",
+  "english": "obsolete",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "obsoleta",
+   "obsoletos",
+   "obsoletas"
+  ],
+  "example": {
+   "pt": "Os equipamentos do hospital estão obsoletos.",
+   "en": "The hospital's equipment is obsolete."
+  }
+ },
+ {
+  "pt": "vigente",
+  "pos": "adj.",
+  "english": "in force, current (law, rule)",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "vigentes"
+  ],
+  "example": {
+   "pt": "De acordo com a legislação vigente, isso é proibido.",
+   "en": "According to current legislation, this is prohibited."
+  }
+ },
+ {
+  "pt": "efêmero",
+  "pos": "adj.",
+  "english": "ephemeral, short-lived",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "efêmera",
+   "efêmeros",
+   "efêmeras"
+  ],
+  "example": {
+   "pt": "O sucesso da música foi efêmero.",
+   "en": "The song's success was short-lived."
+  }
+ },
+ {
+  "pt": "duradouro",
+  "pos": "adj.",
+  "english": "lasting, enduring",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "duradoura",
+   "duradouros",
+   "duradouras"
+  ],
+  "example": {
+   "pt": "Eles construíram uma amizade duradoura.",
+   "en": "They built a lasting friendship."
+  }
+ },
+ {
+  "pt": "ousado",
+  "pos": "adj.",
+  "english": "bold, daring",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "ousada",
+   "ousados",
+   "ousadas"
+  ],
+  "example": {
+   "pt": "O arquiteto apresentou um projeto ousado.",
+   "en": "The architect presented a bold design."
+  }
+ },
+ {
+  "pt": "displicente",
+  "pos": "adj.",
+  "english": "careless, offhand",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "displicentes"
+  ],
+  "example": {
+   "pt": "Ele foi displicente e esqueceu o documento.",
+   "en": "He was careless and forgot the document."
+  }
+ },
+ {
+  "pt": "ríspido",
+  "pos": "adj.",
+  "english": "curt, harsh (in manner)",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "ríspida",
+   "ríspidos",
+   "ríspidas"
+  ],
+  "example": {
+   "pt": "A atendente foi ríspida com os clientes.",
+   "en": "The attendant was curt with the customers."
+  }
+ },
+ {
+  "pt": "cordial",
+  "pos": "adj.",
+  "english": "cordial, friendly",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "cordiais"
+  ],
+  "example": {
+   "pt": "Fomos recebidos de forma muito cordial.",
+   "en": "We were received in a very cordial way."
+  }
+ },
+ {
+  "pt": "prepotente",
+  "pos": "adj.",
+  "english": "overbearing, arrogant",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "prepotentes"
+  ],
+  "example": {
+   "pt": "O chefe novo é prepotente e não ouve ninguém.",
+   "en": "The new boss is overbearing and doesn't listen to anyone."
+  }
+ },
+ {
+  "pt": "perspicaz",
+  "pos": "adj.",
+  "english": "perceptive, shrewd",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "perspicazes"
+  ],
+  "example": {
+   "pt": "Ela é uma observadora perspicaz da política.",
+   "en": "She is a shrewd observer of politics."
+  }
+ },
+ {
+  "pt": "sensato",
+  "pos": "adj.",
+  "english": "sensible, reasonable",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "sensata",
+   "sensatos",
+   "sensatas"
+  ],
+  "example": {
+   "pt": "Acho que foi uma decisão sensata.",
+   "en": "I think it was a sensible decision."
+  }
+ },
+ {
+  "pt": "ingênuo",
+  "pos": "adj.",
+  "english": "naive",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "ingênua",
+   "ingênuos",
+   "ingênuas"
+  ],
+  "example": {
+   "pt": "Fui ingênuo de acreditar nessa promessa.",
+   "en": "I was naive to believe that promise."
+  }
+ },
+ {
+  "pt": "hesitante",
+  "pos": "adj.",
+  "english": "hesitant",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "hesitantes"
+  ],
+  "example": {
+   "pt": "Ela respondeu com a voz hesitante.",
+   "en": "She answered in a hesitant voice."
+  }
+ },
+ {
+  "pt": "espontâneo",
+  "pos": "adj.",
+  "english": "spontaneous",
+  "level": 4,
+  "topic": "Descriptions",
+  "forms": [
+   "espontânea",
+   "espontâneos",
+   "espontâneas"
+  ],
+  "example": {
+   "pt": "As crianças são naturalmente espontâneas.",
+   "en": "Children are naturally spontaneous."
+  }
+ }
+]

@@ -3,7 +3,7 @@ import type { CardFilter, CardSetKind } from "@/lib/deck";
 import { SESSION_SIZES, type SessionSize } from "@/lib/session";
 import { TOPICS, type Topic } from "@/lib/topics";
 import { TENSE_NAMES, TENSES, type Tense } from "@/lib/verbs";
-import { LEVEL_NAMES, LEVELS, type Level } from "@/lib/words";
+import { LEVEL_NAMES, type Level } from "@/lib/words";
 
 const KINDS: { kind: CardSetKind; label: string }[] = [
   { kind: "words", label: "Words" },
@@ -32,6 +32,8 @@ function Chip({ active, onClick, children }: { active: boolean; onClick: () => v
 }
 
 interface SessionSetupProps {
+  /** The levels switched on. */
+  levels: readonly Level[];
   initialFilter: CardFilter;
   initialSize: SessionSize;
   /** Cards available for a filter, shown next to "All". */
@@ -42,7 +44,7 @@ interface SessionSetupProps {
 }
 
 /** The "New session" screen: what to study and how many cards. */
-export function SessionSetup({ initialFilter, initialSize, countFor, onCancel, onStart }: SessionSetupProps) {
+export function SessionSetup({ levels, initialFilter, initialSize, countFor, onCancel, onStart }: SessionSetupProps) {
   const [filter, setFilter] = useState<CardFilter>(initialFilter);
   const [size, setSize] = useState<SessionSize>(initialSize);
   const available = countFor(filter);
@@ -72,8 +74,10 @@ export function SessionSetup({ initialFilter, initialSize, countFor, onCancel, o
               }
               className={selectClass}
             >
-              <option value="all">All levels</option>
-              {LEVELS.map((l) => (
+              <option value="all">
+                {levels.map((l) => LEVEL_NAMES[l]).join(" + ")}
+              </option>
+              {levels.map((l) => (
                 <option key={l} value={l}>
                   {LEVEL_NAMES[l]}
                 </option>
@@ -109,18 +113,30 @@ export function SessionSetup({ initialFilter, initialSize, countFor, onCancel, o
                     </option>
                   ))}
                 </select>
-                <button
-                  type="button"
-                  onClick={() => setFilter({ ...filter, face: filter.face === "r" ? "p" : "r" })}
-                  className={selectClass}
-                >
-                  {filter.face === "r" ? "Português → English" : "English → Português"}
-                </button>
               </>
             )}
           </div>
         )}
       </section>
+
+      {hasTopics && (
+        <section className="flex flex-col gap-2">
+          <h3 className="text-xs font-medium uppercase tracking-wide text-stone-500">Direction</h3>
+          <div className="flex flex-wrap gap-1">
+            <Chip active={filter.face === "r"} onClick={() => setFilter({ ...filter, face: "r" })}>
+              Português → English
+            </Chip>
+            <Chip active={filter.face === "p"} onClick={() => setFilter({ ...filter, face: "p" })}>
+              English → Português
+            </Chip>
+          </div>
+          <p className="text-xs text-stone-500">
+            {filter.face === "r"
+              ? "See the Portuguese, recall what it means."
+              : "See the meaning, recall the Portuguese (turn on “Type answers” in settings to type it)."}
+          </p>
+        </section>
+      )}
 
       <section className="flex flex-col gap-2">
         <h3 className="text-xs font-medium uppercase tracking-wide text-stone-500">Cards</h3>

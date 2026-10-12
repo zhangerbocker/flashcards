@@ -1,0 +1,325 @@
+[
+ {
+  "id": "a1-weather-colors-1",
+  "level": 1,
+  "topic": "Weather & colors",
+  "title": "Um domingo cinza",
+  "titleEn": "A gray Sunday",
+  "sentences": [
+   {
+    "pt": "Hoje é domingo em Curitiba.",
+    "en": "Today is Sunday in Curitiba.",
+    "glosses": {
+     "é": "is"
+    }
+   },
+   {
+    "pt": "O céu está cinza e nublado.",
+    "en": "The sky is gray and cloudy.",
+    "glosses": {
+     "está": "is"
+    }
+   },
+   {
+    "pt": "Está frio e tem muito vento.",
+    "en": "It's cold and very windy.",
+    "glosses": {
+     "Está": "it is",
+     "tem muito vento": "it's very windy"
+    }
+   },
+   {
+    "pt": "Beatriz vai passear com o namorado, Rafael.",
+    "en": "Beatriz is going for a walk with her boyfriend, Rafael.",
+    "glosses": {
+     "vai": "is going",
+     "passear": "to go for a walk"
+    }
+   },
+   {
+    "pt": "Ela procura uma roupa quente.",
+    "en": "She looks for warm clothes.",
+    "glosses": {
+     "procura": "looks for",
+     "roupa": "clothes",
+     "quente": "warm"
+    }
+   },
+   {
+    "pt": "Ela coloca uma calça preta e uma camisa azul.",
+    "en": "She puts on black pants and a blue shirt.",
+    "glosses": {
+     "coloca": "puts on",
+     "calça": "pants",
+     "preta": "black"
+    }
+   },
+   {
+    "pt": "Rafael chega com uma flor amarela.",
+    "en": "Rafael arrives with a yellow flower.",
+    "glosses": {
+     "chega": "arrives",
+     "amarela": "yellow"
+    }
+   },
+   {
+    "pt": "\"Uma flor amarela em um dia cinza!\", diz Beatriz.",
+    "en": "\"A yellow flower on a gray day!\" says Beatriz.",
+    "glosses": {
+     "em": "on",
+     "diz": "says"
+    }
+   },
+   {
+    "pt": "Eles vão para o parque.",
+    "en": "They go to the park.",
+    "glosses": {
+     "vão": "go"
+    }
+   },
+   {
+    "pt": "De tarde, a chuva começa.",
+    "en": "In the afternoon, the rain starts.",
+    "glosses": {
+     "De tarde": "in the afternoon",
+     "começa": "starts"
+    }
+   },
+   {
+    "pt": "Eles entram em um café.",
+    "en": "They go into a café.",
+    "glosses": {
+     "entram": "go into",
+     "café": "café"
+    }
+   },
+   {
+    "pt": "Beatriz toma um chocolate quente, e Rafael toma um café.",
+    "en": "Beatriz has a hot chocolate, and Rafael has a coffee.",
+    "glosses": {
+     "toma": "has",
+     "café": "coffee"
+    }
+   },
+   {
+    "pt": "Depois de uma hora, a chuva para.",
+    "en": "After an hour, the rain stops.",
+    "glosses": {
+     "Depois de": "after",
+     "para": "stops"
+    }
+   },
+   {
+    "pt": "O sol sai, e o céu fica azul.",
+    "en": "The sun comes out, and the sky turns blue.",
+    "glosses": {
+     "sai": "comes out",
+     "fica": "turns"
+    }
+   },
+   {
+    "pt": "\"Agora o dia está lindo!\", diz Rafael.",
+    "en": "\"Now the day is beautiful!\" says Rafael.",
+    "glosses": {
+     "está": "is",
+     "diz": "says"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Como está o céu antes da chuva?",
+    "qEn": "What is the sky like before the rain?",
+    "options": [
+     "Azul",
+     "Cinza e nublado",
+     "Com sol",
+     "Com estrelas"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "De que cor é a flor?",
+    "qEn": "What color is the flower?",
+    "options": [
+     "Vermelha",
+     "Branca",
+     "Amarela",
+     "Rosa"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "O que Beatriz toma no café?",
+    "qEn": "What does Beatriz have at the café?",
+    "options": [
+     "Chocolate quente",
+     "Suco",
+     "Chá",
+     "Cerveja"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "a1-weather-colors-2",
+  "level": 1,
+  "topic": "Weather & colors",
+  "title": "Cores na feira",
+  "titleEn": "Colors at the market",
+  "sentences": [
+   {
+    "pt": "Em Salvador, o verão é muito quente.",
+    "en": "In Salvador, the summer is very hot.",
+    "glosses": {
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Hoje está ensolarado, e não tem nenhuma nuvem no céu.",
+    "en": "Today it's sunny, and there isn't a single cloud in the sky.",
+    "glosses": {
+     "está": "it is",
+     "não tem": "there isn't",
+     "no": "in the"
+    }
+   },
+   {
+    "pt": "Gabriel vai à feira com o filho, Lucas.",
+    "en": "Gabriel goes to the street market with his son, Lucas.",
+    "glosses": {
+     "vai": "goes",
+     "à": "to the",
+     "feira": "street market"
+    }
+   },
+   {
+    "pt": "Lucas tem seis anos e adora cores.",
+    "en": "Lucas is six years old and loves colors.",
+    "glosses": {
+     "tem seis anos": "is six years old",
+     "adora": "loves"
+    }
+   },
+   {
+    "pt": "Na feira, tem muitas frutas diferentes.",
+    "en": "At the market, there are lots of different fruits.",
+    "glosses": {
+     "Na": "at the",
+     "tem": "there are"
+    }
+   },
+   {
+    "pt": "\"Pai, a banana é amarela, e a laranja é laranja!\"",
+    "en": "\"Dad, the banana is yellow, and the orange is orange!\"",
+    "glosses": {
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Gabriel ri.",
+    "en": "Gabriel laughs.",
+    "glosses": {
+     "ri": "laughs"
+    }
+   },
+   {
+    "pt": "Eles compram tomates vermelhos e maçãs verdes.",
+    "en": "They buy red tomatoes and green apples.",
+    "glosses": {
+     "compram": "buy"
+    }
+   },
+   {
+    "pt": "Lucas também quer uma flor roxa para a mãe.",
+    "en": "Lucas also wants a purple flower for his mom.",
+    "glosses": {
+     "quer": "wants",
+     "roxa": "purple"
+    }
+   },
+   {
+    "pt": "Depois, eles tomam um sorvete de chocolate.",
+    "en": "Then they have a chocolate ice cream.",
+    "glosses": {
+     "tomam": "have"
+    }
+   },
+   {
+    "pt": "O sorvete é marrom, e a boca de Lucas também fica marrom!",
+    "en": "The ice cream is brown, and Lucas's mouth turns brown too!",
+    "glosses": {
+     "é": "is",
+     "fica": "turns"
+    }
+   },
+   {
+    "pt": "De tarde, o céu fica escuro.",
+    "en": "In the afternoon, the sky gets dark.",
+    "glosses": {
+     "De tarde": "in the afternoon",
+     "fica": "gets"
+    }
+   },
+   {
+    "pt": "Começa a chover muito.",
+    "en": "It starts to rain a lot.",
+    "glosses": {
+     "Começa": "it starts"
+    }
+   },
+   {
+    "pt": "Gabriel e Lucas correm para casa.",
+    "en": "Gabriel and Lucas run home.",
+    "glosses": {
+     "correm": "run",
+     "para casa": "home"
+    }
+   },
+   {
+    "pt": "A mãe recebe a flor e fica muito feliz.",
+    "en": "Mom gets the flower and is very happy.",
+    "glosses": {
+     "recebe": "gets",
+     "fica": "is"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Com quem Gabriel vai à feira?",
+    "qEn": "Who does Gabriel go to the market with?",
+    "options": [
+     "Com a esposa",
+     "Com o pai",
+     "Com o filho",
+     "Com um amigo"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "De que cor é a flor para a mãe?",
+    "qEn": "What color is the flower for Mom?",
+    "options": [
+     "Roxa",
+     "Amarela",
+     "Vermelha",
+     "Branca"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "O que acontece de tarde?",
+    "qEn": "What happens in the afternoon?",
+    "options": [
+     "Faz muito sol",
+     "Começa a chover",
+     "Tem neve",
+     "Tem uma festa"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

@@ -4,6 +4,7 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 import { Flashcard } from "./Flashcard";
 import { SessionSetup } from "./SessionSetup";
 import { SettingsPanel } from "./SettingsPanel";
+import { useActiveLevels, useSettings } from "../useSettings";
 import { cardContent } from "@/lib/card-content";
 import { itemKey, itemOfCard, matchingCards, type CardFilter, type Deck } from "@/lib/deck";
 import { GRAMMAR } from "@/lib/grammar";
@@ -12,11 +13,8 @@ import {
   loadMistakes,
   loadProgress,
   loadReviews,
-  loadSettings,
   localDay,
   saveProgress,
-  saveSettings,
-  type Settings,
 } from "@/lib/progress-store";
 import {
   loadSession,
@@ -32,7 +30,7 @@ import { speakPortuguese } from "@/lib/speech";
 import { gradeItem, Rating, type Grade, type Progress } from "@/lib/srs";
 import { reviewedOn, streak } from "@/lib/stats";
 import { VERBS } from "@/lib/verbs";
-import { LEVEL_NAMES, LEVELS, WORDS, type Level } from "@/lib/words";
+import { LEVEL_NAMES, WORDS, type Level } from "@/lib/words";
 
 const DEFAULT_FILTER: CardFilter = { kind: "words", level: "all", topic: "all", face: "r" };
 const DEFAULT_SIZE: SessionSize = 20;
@@ -44,10 +42,21 @@ function isTypingTarget(target: EventTarget | null): boolean {
 export function CardsApp() {
   // Rendered client-only (see CardsLoader), so browser storage is available at init.
   const [progress, setProgress] = useState<Progress>(() => loadProgress(window.localStorage));
-  const [settings, setSettings] = useState<Settings>(() => loadSettings(window.localStorage));
+  const [settings, updateSettings] = useSettings();
+  const levels = useActiveLevels();
   const [reviews, setReviews] = useState(() => loadReviews(window.localStorage));
   const [mistakes] = useState(() => loadMistakes(window.localStorage));
-  const deck: Deck = useMemo(() => ({ words: WORDS, grammar: GRAMMAR, verbs: VERBS, mistakes }), [mistakes]);
+  // Only the levels switched on; cards of other levels stay out of new sessions.
+  const deck: Deck = useMemo(
+    () => ({
+      levels,
+      words: WORDS.filter((w) => levels.includes(w.level)),
+      grammar: GRAMMAR.filter((g) => levels.includes(g.level)),
+      verbs: VERBS,
+      mistakes,
+    }),
+    [levels, mistakes],
+  );
   const [session, setSession] = useState<Session | null>(() => {
     const saved = loadSession(window.localStorage);
     // Drop cards whose content has since been removed.
@@ -125,11 +134,6 @@ export function CardsApp() {
     return () => window.removeEventListener("keydown", onKey);
   }, [card, revealed, know, dontKnow, reveal]);
 
-  function updateSettings(next: Settings) {
-    saveSettings(window.localStorage, next);
-    setSettings(next);
-  }
-
   const learned = (level: Level) =>
     WORDS.filter((w) => w.level === level && progress.items[itemKey("word", w.id)]?.state === "review").length;
   const total = (level: Level) => WORDS.filter((w) => w.level === level).length;
@@ -180,7 +184,8 @@ export function CardsApp() {
 
       {showSetup ? (
         <SessionSetup
-          initialFilter={session?.filter ?? DEFAULT_FILTER}
+          levels={levels}
+          initialFilter={session && (session.filter.level === "all" || levels.includes(session.filter.level)) ? session.filter : DEFAULT_FILTER}
           initialSize={session?.size ?? DEFAULT_SIZE}
           countFor={(filter) => matchingCards(deck, filter).length}
           onCancel={session && session.queue.length > 0 ? () => setShowSetup(false) : undefined}
@@ -226,7 +231,7 @@ export function CardsApp() {
       ) : null}
 
       <footer className="mt-auto flex flex-wrap items-center justify-between gap-2 text-xs text-stone-500">
-        <span>Known: {LEVELS.map((l) => `${LEVEL_NAMES[l]} ${learned(l)}/${total(l)}`).join(" · ")}</span>
+        <span>Known: {levels.map((l) => `${LEVEL_NAMES[l]} ${learned(l)}/${total(l)}`).join(" · ")}</span>
         <span>
           {streak(reviews, today)}-day streak · {reviewedOn(reviews, today)} answered today
         </span>

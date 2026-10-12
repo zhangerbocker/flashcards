@@ -20,7 +20,7 @@ const word = (id: number): Word => ({
   forms: [],
   example: { pt: "", en: "" },
 });
-const DECK: Deck = { words: [1, 2, 3, 4, 5, 6].map(word), grammar: [], verbs: [], mistakes: [] };
+const DECK: Deck = { levels: [1, 2], words: [1, 2, 3, 4, 5, 6].map(word), grammar: [], verbs: [], mistakes: [] };
 
 class MemoryStorage {
   private items = new Map<string, string>();

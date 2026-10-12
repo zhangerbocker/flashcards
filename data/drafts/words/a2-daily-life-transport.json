@@ -1,0 +1,481 @@
+[
+ {
+  "pt": "passagem",
+  "pos": "n.",
+  "english": "ticket, fare",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "passagens"
+  ],
+  "example": {
+   "pt": "Comprei a passagem de ônibus pela internet.",
+   "en": "I bought the bus ticket online."
+  }
+ },
+ {
+  "pt": "rodoviária",
+  "pos": "n.",
+  "english": "bus station",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "rodoviárias"
+  ],
+  "example": {
+   "pt": "O ônibus sai da rodoviária às sete.",
+   "en": "The bus leaves from the bus station at seven."
+  }
+ },
+ {
+  "pt": "embarcar",
+  "pos": "v.",
+  "english": "to board",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Os passageiros já embarcaram no avião.",
+   "en": "The passengers have already boarded the plane."
+  }
+ },
+ {
+  "pt": "atrasado",
+  "pos": "adj.",
+  "english": "late, delayed",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "forms": [
+   "atrasada",
+   "atrasados",
+   "atrasadas"
+  ],
+  "example": {
+   "pt": "O trem está atrasado.",
+   "en": "The train is late."
+  }
+ },
+ {
+  "pt": "metrô",
+  "pos": "n.",
+  "english": "subway, metro",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "metrôs"
+  ],
+  "example": {
+   "pt": "Vou para o trabalho de metrô.",
+   "en": "I go to work by subway."
+  }
+ },
+ {
+  "pt": "estação",
+  "pos": "n.",
+  "english": "station; season",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "estações"
+  ],
+  "example": {
+   "pt": "Desça na próxima estação.",
+   "en": "Get off at the next station."
+  }
+ },
+ {
+  "pt": "ponto de ônibus",
+  "pos": "n.",
+  "english": "bus stop",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "pontos de ônibus"
+  ],
+  "example": {
+   "pt": "Espero você no ponto de ônibus.",
+   "en": "I'll wait for you at the bus stop."
+  }
+ },
+ {
+  "pt": "motorista",
+  "pos": "n.",
+  "english": "driver",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "gender": "mf",
+  "forms": [
+   "motoristas"
+  ],
+  "example": {
+   "pt": "O motorista do táxi foi muito simpático.",
+   "en": "The taxi driver was very friendly."
+  }
+ },
+ {
+  "pt": "passageiro",
+  "pos": "n.",
+  "english": "passenger",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "passageira",
+   "passageiros",
+   "passageiras"
+  ],
+  "example": {
+   "pt": "O ônibus tinha poucos passageiros.",
+   "en": "The bus had few passengers."
+  }
+ },
+ {
+  "pt": "bagagem",
+  "pos": "n.",
+  "english": "luggage, baggage",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "bagagens"
+  ],
+  "example": {
+   "pt": "Onde eu pego a minha bagagem?",
+   "en": "Where do I get my luggage?"
+  }
+ },
+ {
+  "pt": "mala",
+  "pos": "n.",
+  "english": "suitcase",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "malas"
+  ],
+  "example": {
+   "pt": "Você já fez a mala?",
+   "en": "Have you packed your suitcase yet?"
+  }
+ },
+ {
+  "pt": "voo",
+  "pos": "n.",
+  "english": "flight",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "voos"
+  ],
+  "example": {
+   "pt": "O nosso voo sai às dez.",
+   "en": "Our flight leaves at ten."
+  }
+ },
+ {
+  "pt": "portão",
+  "pos": "n.",
+  "english": "gate",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "portões"
+  ],
+  "example": {
+   "pt": "O embarque é no portão cinco.",
+   "en": "Boarding is at gate five."
+  }
+ },
+ {
+  "pt": "pegar",
+  "pos": "v.",
+  "english": "to take (a bus etc.); to catch; to get",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Eu pego o ônibus na esquina.",
+   "en": "I take the bus at the corner."
+  }
+ },
+ {
+  "pt": "descer",
+  "pos": "v.",
+  "english": "to get off; to go down",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Vamos descer no próximo ponto.",
+   "en": "Let's get off at the next stop."
+  }
+ },
+ {
+  "pt": "subir",
+  "pos": "v.",
+  "english": "to get on; to go up",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Suba no ônibus pela porta da frente.",
+   "en": "Get on the bus through the front door."
+  }
+ },
+ {
+  "pt": "trânsito",
+  "pos": "n.",
+  "english": "traffic",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "trânsitos"
+  ],
+  "example": {
+   "pt": "O trânsito está horrível hoje.",
+   "en": "The traffic is terrible today."
+  }
+ },
+ {
+  "pt": "engarrafamento",
+  "pos": "n.",
+  "english": "traffic jam",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "engarrafamentos"
+  ],
+  "example": {
+   "pt": "Ficamos uma hora no engarrafamento.",
+   "en": "We were stuck in the traffic jam for an hour."
+  }
+ },
+ {
+  "pt": "caminhão",
+  "pos": "n.",
+  "english": "truck",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "caminhões"
+  ],
+  "example": {
+   "pt": "Um caminhão bloqueou a rua.",
+   "en": "A truck blocked the street."
+  }
+ },
+ {
+  "pt": "estrada",
+  "pos": "n.",
+  "english": "road, highway",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "estradas"
+  ],
+  "example": {
+   "pt": "A estrada para a praia é bonita.",
+   "en": "The road to the beach is beautiful."
+  }
+ },
+ {
+  "pt": "dirigir",
+  "pos": "v.",
+  "english": "to drive",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Você sabe dirigir?",
+   "en": "Do you know how to drive?"
+  }
+ },
+ {
+  "pt": "estacionar",
+  "pos": "v.",
+  "english": "to park",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Não pode estacionar aqui.",
+   "en": "You can't park here."
+  }
+ },
+ {
+  "pt": "alugar",
+  "pos": "v.",
+  "english": "to rent",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Vamos alugar um carro na viagem.",
+   "en": "We're going to rent a car on the trip."
+  }
+ },
+ {
+  "pt": "acordar",
+  "pos": "v.",
+  "english": "to wake up",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Eu acordei às seis hoje.",
+   "en": "I woke up at six today."
+  }
+ },
+ {
+  "pt": "levantar",
+  "pos": "v.",
+  "english": "to get up; to lift",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Ela se levanta cedo para trabalhar.",
+   "en": "She gets up early to work."
+  }
+ },
+ {
+  "pt": "tomar banho",
+  "pos": "expr.",
+  "english": "to take a shower, to bathe",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Vou tomar banho antes do jantar.",
+   "en": "I'm going to take a shower before dinner."
+  }
+ },
+ {
+  "pt": "escovar",
+  "pos": "v.",
+  "english": "to brush",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Escove os dentes antes de dormir.",
+   "en": "Brush your teeth before going to bed."
+  }
+ },
+ {
+  "pt": "lavar",
+  "pos": "v.",
+  "english": "to wash",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Eu lavo a roupa no sábado.",
+   "en": "I do the laundry on Saturday."
+  }
+ },
+ {
+  "pt": "limpar",
+  "pos": "v.",
+  "english": "to clean",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Limpamos a casa toda ontem.",
+   "en": "We cleaned the whole house yesterday."
+  }
+ },
+ {
+  "pt": "arrumar",
+  "pos": "v.",
+  "english": "to tidy, to arrange; to pack",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Arrume o seu quarto, por favor.",
+   "en": "Tidy your room, please."
+  }
+ },
+ {
+  "pt": "despertador",
+  "pos": "n.",
+  "english": "alarm clock",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "despertadores"
+  ],
+  "example": {
+   "pt": "O despertador tocou às seis.",
+   "en": "The alarm clock went off at six."
+  }
+ },
+ {
+  "pt": "chave",
+  "pos": "n.",
+  "english": "key",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "chaves"
+  ],
+  "example": {
+   "pt": "Esqueci a chave de casa.",
+   "en": "I forgot my house key."
+  }
+ },
+ {
+  "pt": "lixo",
+  "pos": "n.",
+  "english": "trash, garbage",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "lixos"
+  ],
+  "example": {
+   "pt": "Você pode levar o lixo para fora?",
+   "en": "Can you take the trash out?"
+  }
+ },
+ {
+  "pt": "louça",
+  "pos": "n.",
+  "english": "dishes",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "louças"
+  ],
+  "example": {
+   "pt": "Quem vai lavar a louça hoje?",
+   "en": "Who's going to wash the dishes today?"
+  }
+ },
+ {
+  "pt": "fazer compras",
+  "pos": "expr.",
+  "english": "to go shopping",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Vou fazer compras no supermercado.",
+   "en": "I'm going to go shopping at the supermarket."
+  }
+ },
+ {
+  "pt": "ida e volta",
+  "pos": "expr.",
+  "english": "round trip",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Quero uma passagem de ida e volta.",
+   "en": "I want a round-trip ticket."
+  }
+ }
+]

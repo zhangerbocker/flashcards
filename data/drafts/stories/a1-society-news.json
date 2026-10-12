@@ -1,0 +1,359 @@
+[
+ {
+  "id": "a1-society-news-1",
+  "level": 1,
+  "topic": "Society & news",
+  "title": "Notícias na padaria",
+  "titleEn": "News at the bakery",
+  "sentences": [
+   {
+    "pt": "Eduardo toma café todo dia na padaria do bairro.",
+    "en": "Eduardo has coffee every day at the neighborhood bakery.",
+    "glosses": {
+     "toma": "has",
+     "todo": "every",
+     "na": "at the",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Ele sempre lê o jornal lá.",
+    "en": "He always reads the newspaper there.",
+    "glosses": {
+     "lê": "reads"
+    }
+   },
+   {
+    "pt": "Hoje tem uma notícia importante.",
+    "en": "Today there's an important piece of news.",
+    "glosses": {
+     "tem": "there is",
+     "notícia": "piece of news"
+    }
+   },
+   {
+    "pt": "No domingo, tem eleição para presidente.",
+    "en": "On Sunday, there's a presidential election.",
+    "glosses": {
+     "No": "on",
+     "tem": "there is",
+     "para presidente": "for president"
+    }
+   },
+   {
+    "pt": "Na padaria, todos falam sobre a eleição.",
+    "en": "At the bakery, everybody is talking about the election.",
+    "glosses": {
+     "Na": "at the",
+     "todos": "everybody",
+     "falam": "talk"
+    }
+   },
+   {
+    "pt": "O garçom acha que o governo é bom.",
+    "en": "The waiter thinks the government is good.",
+    "glosses": {
+     "acha": "thinks",
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Uma cliente acha que o governo é ruim.",
+    "en": "A customer thinks the government is bad.",
+    "glosses": {
+     "cliente": "customer",
+     "acha": "thinks",
+     "é": "is"
+    }
+   },
+   {
+    "pt": "\"Os preços estão muito altos\", ela diz.",
+    "en": "\"Prices are very high,\" she says.",
+    "glosses": {
+     "estão": "are",
+     "altos": "high",
+     "diz": "says"
+    }
+   },
+   {
+    "pt": "\"O pão está caro, e o salário é pequeno.\"",
+    "en": "\"Bread is expensive, and wages are low.\"",
+    "glosses": {
+     "está": "is",
+     "é": "is",
+     "pequeno": "low"
+    }
+   },
+   {
+    "pt": "Eduardo escuta, mas não fala muito.",
+    "en": "Eduardo listens but doesn't say much.",
+    "glosses": {
+     "escuta": "listens",
+     "fala": "say"
+    }
+   },
+   {
+    "pt": "Ele pensa sobre o país e as pessoas pobres.",
+    "en": "He thinks about the country and the poor people.",
+    "glosses": {
+     "pensa": "thinks"
+    }
+   },
+   {
+    "pt": "No domingo, ele vai à escola do bairro para a eleição.",
+    "en": "On Sunday, he goes to the neighborhood school for the election.",
+    "glosses": {
+     "No": "on",
+     "vai": "goes",
+     "à": "to the",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Lá, ele espera meia hora.",
+    "en": "There, he waits half an hour.",
+    "glosses": {
+     "Lá": "there",
+     "espera": "waits",
+     "meia": "half"
+    }
+   },
+   {
+    "pt": "À noite, ele assiste às notícias na televisão.",
+    "en": "At night, he watches the news on TV.",
+    "glosses": {
+     "À noite": "at night",
+     "assiste às": "watches the",
+     "na": "on"
+    }
+   },
+   {
+    "pt": "O novo presidente vai mudar algumas leis.",
+    "en": "The new president is going to change some laws.",
+    "glosses": {
+     "vai": "is going",
+     "algumas": "some"
+    }
+   },
+   {
+    "pt": "\"Vamos ver\", diz Eduardo.",
+    "en": "\"We'll see,\" says Eduardo.",
+    "glosses": {
+     "Vamos ver": "we'll see",
+     "diz": "says"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Onde Eduardo lê o jornal?",
+    "qEn": "Where does Eduardo read the newspaper?",
+    "options": [
+     "Em casa",
+     "Na padaria",
+     "No escritório",
+     "No ônibus"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quando é a eleição?",
+    "qEn": "When is the election?",
+    "options": [
+     "No sábado",
+     "Na segunda-feira",
+     "No domingo",
+     "Amanhã"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "O que a cliente acha?",
+    "qEn": "What does the customer think?",
+    "options": [
+     "Os preços estão altos",
+     "O pão está barato",
+     "O governo é bom",
+     "O salário é grande"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "a1-society-news-2",
+  "level": 1,
+  "topic": "Society & news",
+  "title": "Uma estação nova",
+  "titleEn": "A new station",
+  "sentences": [
+   {
+    "pt": "Juliana é enfermeira em Recife.",
+    "en": "Juliana is a nurse in Recife.",
+    "glosses": {
+     "é": "is",
+     "enfermeira": "nurse"
+    }
+   },
+   {
+    "pt": "Ela trabalha em um hospital no centro da cidade.",
+    "en": "She works at a hospital downtown.",
+    "glosses": {
+     "trabalha": "works",
+     "em": "at",
+     "no centro da cidade": "downtown"
+    }
+   },
+   {
+    "pt": "Todo dia, ela pega dois ônibus para o trabalho.",
+    "en": "Every day, she takes two buses to work.",
+    "glosses": {
+     "Todo": "every",
+     "pega": "takes"
+    }
+   },
+   {
+    "pt": "O trânsito é ruim, e ela demora uma hora e meia.",
+    "en": "The traffic is bad, and it takes her an hour and a half.",
+    "glosses": {
+     "é": "is",
+     "demora": "takes (time)",
+     "meia": "half"
+    }
+   },
+   {
+    "pt": "Hoje, ela lê uma notícia na internet.",
+    "en": "Today she reads a news story on the internet.",
+    "glosses": {
+     "lê": "reads",
+     "notícia": "news story",
+     "na": "on the"
+    }
+   },
+   {
+    "pt": "A cidade vai ter uma estação de metrô nova perto do bairro dela.",
+    "en": "The city is going to have a new subway station near her neighborhood.",
+    "glosses": {
+     "vai ter": "is going to have",
+     "perto do": "near the",
+     "dela": "her"
+    }
+   },
+   {
+    "pt": "A estação vai abrir em março.",
+    "en": "The station is going to open in March.",
+    "glosses": {
+     "vai": "is going"
+    }
+   },
+   {
+    "pt": "Juliana conta a notícia para os colegas.",
+    "en": "Juliana tells her coworkers the news.",
+    "glosses": {
+     "conta": "tells",
+     "colegas": "coworkers"
+    }
+   },
+   {
+    "pt": "Um colega diz: \"Que bom! Menos carros na rua.\"",
+    "en": "A coworker says: \"Great! Fewer cars on the street.\"",
+    "glosses": {
+     "diz": "says",
+     "Que bom": "great",
+     "Menos": "fewer",
+     "na": "on the"
+    }
+   },
+   {
+    "pt": "Outro colega não acha a notícia boa.",
+    "en": "Another coworker doesn't think the news is good.",
+    "glosses": {
+     "Outro": "another",
+     "acha": "think",
+     "boa": "good"
+    }
+   },
+   {
+    "pt": "\"A passagem do metrô vai ser cara\", ele diz.",
+    "en": "\"The subway fare is going to be expensive,\" he says.",
+    "glosses": {
+     "passagem": "fare",
+     "do": "of the",
+     "vai ser": "is going to be",
+     "diz": "says"
+    }
+   },
+   {
+    "pt": "Juliana acha que o metrô é melhor para todos.",
+    "en": "Juliana thinks the subway is better for everyone.",
+    "glosses": {
+     "acha": "thinks",
+     "é": "is",
+     "todos": "everyone"
+    }
+   },
+   {
+    "pt": "À noite, ela liga para a mãe.",
+    "en": "At night, she calls her mother.",
+    "glosses": {
+     "À noite": "at night",
+     "liga para": "calls"
+    }
+   },
+   {
+    "pt": "A mãe também mora no bairro e fica muito feliz.",
+    "en": "Her mother also lives in the neighborhood and is very happy.",
+    "glosses": {
+     "mora": "lives",
+     "no": "in the",
+     "fica": "is"
+    }
+   },
+   {
+    "pt": "\"Agora você vai chegar mais rápido ao trabalho, filha!\"",
+    "en": "\"Now you're going to get to work faster, sweetheart!\"",
+    "glosses": {
+     "vai chegar": "are going to get",
+     "mais rápido": "faster",
+     "ao": "to",
+     "filha": "sweetheart"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Qual é a profissão de Juliana?",
+    "qEn": "What is Juliana's job?",
+    "options": [
+     "Médica",
+     "Professora",
+     "Enfermeira",
+     "Advogada"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Quantos ônibus Juliana pega para o trabalho?",
+    "qEn": "How many buses does Juliana take to work?",
+    "options": [
+     "Um",
+     "Dois",
+     "Três",
+     "Quatro"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quando a estação vai abrir?",
+    "qEn": "When is the station going to open?",
+    "options": [
+     "Em março",
+     "Em maio",
+     "Em dezembro",
+     "Amanhã"
+    ],
+    "answer": 0
+   }
+  ]
+ }
+]

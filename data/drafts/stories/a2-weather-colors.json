@@ -1,0 +1,413 @@
+[
+ {
+  "id": "a2-weather-colors-1",
+  "level": 2,
+  "topic": "Weather & colors",
+  "title": "Um sábado de chuva",
+  "titleEn": "A rainy Saturday",
+  "sentences": [
+   {
+    "pt": "No sábado de manhã, o céu de São Paulo estava cinza.",
+    "en": "On Saturday morning, the sky over São Paulo was gray.",
+    "glosses": {
+     "no": "on",
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "Larissa olhou pela janela e viu muitas nuvens escuras.",
+    "en": "Larissa looked out the window and saw many dark clouds.",
+    "glosses": {
+     "olhou": "looked",
+     "pela": "through the",
+     "viu": "saw"
+    }
+   },
+   {
+    "pt": "Ela queria passear no parque com o namorado, Diego.",
+    "en": "She wanted to go for a walk in the park with her boyfriend, Diego.",
+    "glosses": {
+     "queria": "wanted",
+     "no": "in the"
+    }
+   },
+   {
+    "pt": "A previsão do tempo dizia: chuva forte à tarde e temperatura de 15 graus.",
+    "en": "The weather forecast said: heavy rain in the afternoon and a temperature of 15 degrees.",
+    "glosses": {
+     "dizia": "said",
+     "forte": "heavy"
+    }
+   },
+   {
+    "pt": "\"Que pena!\", disse Larissa.",
+    "en": "\"What a pity!\" said Larissa.",
+    "glosses": {
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Diego respondeu: \"Não tem problema. A gente pode ir ao museu.\"",
+    "en": "Diego answered: \"No problem. We can go to the museum.\"",
+    "glosses": {
+     "respondeu": "answered",
+     "tem": "there is",
+     "pode": "can",
+     "ao": "to the"
+    }
+   },
+   {
+    "pt": "Eles pegaram o metrô e chegaram ao museu antes da chuva.",
+    "en": "They took the subway and got to the museum before the rain.",
+    "glosses": {
+     "pegaram": "took",
+     "chegaram": "got",
+     "ao": "to the",
+     "da": "the"
+    }
+   },
+   {
+    "pt": "Lá, eles viram uma exposição muito colorida.",
+    "en": "There, they saw a very colorful exhibition.",
+    "glosses": {
+     "viram": "saw"
+    }
+   },
+   {
+    "pt": "Os quadros tinham flores vermelhas, céus azuis e praias douradas.",
+    "en": "The pictures had red flowers, blue skies and golden beaches.",
+    "glosses": {
+     "quadros": "pictures",
+     "tinham": "had"
+    }
+   },
+   {
+    "pt": "Larissa gostou de um quadro com um mar verde e um sol laranja.",
+    "en": "Larissa liked a picture with a green sea and an orange sun.",
+    "glosses": {
+     "gostou": "liked",
+     "quadro": "picture"
+    }
+   },
+   {
+    "pt": "Enquanto eles olhavam os quadros, começou a chover muito.",
+    "en": "While they were looking at the pictures, it started to rain hard.",
+    "glosses": {
+     "olhavam": "were looking at",
+     "quadros": "pictures",
+     "começou": "started",
+     "muito": "hard"
+    }
+   },
+   {
+    "pt": "Eles ouviram trovões e viram relâmpagos pela janela.",
+    "en": "They heard thunder and saw lightning through the window.",
+    "glosses": {
+     "ouviram": "heard",
+     "trovões": "thunder",
+     "viram": "saw",
+     "relâmpagos": "lightning",
+     "pela": "through the"
+    }
+   },
+   {
+    "pt": "Depois de uma hora, a tempestade passou.",
+    "en": "After an hour, the storm passed.",
+    "glosses": {
+     "passou": "passed"
+    }
+   },
+   {
+    "pt": "Quando eles saíram, a rua estava molhada e o ar estava frio.",
+    "en": "When they left, the street was wet and the air was cold.",
+    "glosses": {
+     "saíram": "left",
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "Mas o sol voltou entre as nuvens.",
+    "en": "But the sun came back between the clouds.",
+    "glosses": {
+     "voltou": "came back"
+    }
+   },
+   {
+    "pt": "No fim da tarde, o céu ficou claro e rosa.",
+    "en": "At the end of the afternoon, the sky turned bright and pink.",
+    "glosses": {
+     "no": "at the",
+     "da": "of the",
+     "ficou": "turned"
+    }
+   },
+   {
+    "pt": "Diego tirou uma foto de Larissa na calçada.",
+    "en": "Diego took a photo of Larissa on the sidewalk.",
+    "glosses": {
+     "tirou": "took",
+     "na": "on the"
+    }
+   },
+   {
+    "pt": "\"No fim, foi um dia lindo\", disse ela.",
+    "en": "\"In the end, it was a beautiful day,\" she said.",
+    "glosses": {
+     "no": "in the",
+     "fim": "end",
+     "foi": "was",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "\"Com chuva ou com sol, eu adoro passear com você\", respondeu Diego.",
+    "en": "\"Rain or shine, I love going out with you,\" answered Diego.",
+    "glosses": {
+     "adoro": "love",
+     "respondeu": "answered"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Como estava o céu no sábado de manhã?",
+    "qEn": "What was the sky like on Saturday morning?",
+    "options": [
+     "Azul",
+     "Cinza",
+     "Rosa",
+     "Amarelo"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Onde Larissa e Diego passaram a tarde?",
+    "qEn": "Where did Larissa and Diego spend the afternoon?",
+    "options": [
+     "No parque",
+     "Na praia",
+     "No museu",
+     "No cinema"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Como estava a rua depois da tempestade?",
+    "qEn": "What was the street like after the storm?",
+    "options": [
+     "Seca",
+     "Molhada",
+     "Cheia de neve",
+     "Suja"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "a2-weather-colors-2",
+  "level": 2,
+  "topic": "Weather & colors",
+  "title": "Inverno no sul",
+  "titleEn": "Winter in the south",
+  "sentences": [
+   {
+    "pt": "Gustavo mora em Fortaleza, onde faz calor o ano todo.",
+    "en": "Gustavo lives in Fortaleza, where it's hot all year.",
+    "glosses": {
+     "mora": "lives",
+     "faz": "it's (makes)",
+     "calor": "hot (heat)",
+     "todo": "all"
+    }
+   },
+   {
+    "pt": "Em julho, ele foi visitar a prima Aline em Porto Alegre.",
+    "en": "In July, he went to visit his cousin Aline in Porto Alegre.",
+    "glosses": {
+     "foi": "went",
+     "prima": "cousin (f)"
+    }
+   },
+   {
+    "pt": "No avião, ele estava animado, mas também um pouco preocupado.",
+    "en": "On the plane, he was excited, but also a little worried.",
+    "glosses": {
+     "no": "on the",
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "\"No sul, o inverno é muito frio\", Aline disse no telefone.",
+    "en": "\"In the south, winter is very cold,\" Aline said on the phone.",
+    "glosses": {
+     "no": "in the",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Quando Gustavo chegou, a temperatura era de 8 graus.",
+    "en": "When Gustavo arrived, the temperature was 8 degrees.",
+    "glosses": {
+     "chegou": "arrived",
+     "era": "was"
+    }
+   },
+   {
+    "pt": "Ele só tinha roupas leves e uma calça fina.",
+    "en": "He only had light clothes and thin pants.",
+    "glosses": {
+     "tinha": "had"
+    }
+   },
+   {
+    "pt": "Aline riu e emprestou roupas quentes do irmão dela.",
+    "en": "Aline laughed and lent him warm clothes from her brother.",
+    "glosses": {
+     "riu": "laughed",
+     "emprestou": "lent",
+     "do": "from the",
+     "dela": "her"
+    }
+   },
+   {
+    "pt": "Na primeira manhã, a cidade estava com neblina.",
+    "en": "On the first morning, the city was foggy.",
+    "glosses": {
+     "na": "on the",
+     "estava": "was",
+     "com": "with"
+    }
+   },
+   {
+    "pt": "Gustavo não conseguia ver os prédios do outro lado da rua.",
+    "en": "Gustavo couldn't see the buildings on the other side of the street.",
+    "glosses": {
+     "conseguia": "could",
+     "do": "on the",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "À tarde, ventou muito e o céu ficou cinza.",
+    "en": "In the afternoon, it was very windy and the sky turned gray.",
+    "glosses": {
+     "ventou": "was windy",
+     "ficou": "turned"
+    }
+   },
+   {
+    "pt": "Gustavo ficou em casa e tomou chá quente o dia todo.",
+    "en": "Gustavo stayed home and drank hot tea all day.",
+    "glosses": {
+     "ficou": "stayed",
+     "tomou": "drank",
+     "todo": "all"
+    }
+   },
+   {
+    "pt": "No terceiro dia, o tempo mudou.",
+    "en": "On the third day, the weather changed.",
+    "glosses": {
+     "no": "on the",
+     "mudou": "changed"
+    }
+   },
+   {
+    "pt": "O céu ficou azul e claro, sem nenhuma nuvem.",
+    "en": "The sky turned blue and clear, without a single cloud.",
+    "glosses": {
+     "ficou": "turned",
+     "nenhuma": "a single"
+    }
+   },
+   {
+    "pt": "Ainda estava frio, mas o sol era lindo e dourado.",
+    "en": "It was still cold, but the sun was beautiful and golden.",
+    "glosses": {
+     "estava": "it was",
+     "era": "was"
+    }
+   },
+   {
+    "pt": "Os dois passearam no centro e viram árvores com folhas amarelas e marrons.",
+    "en": "The two of them strolled downtown and saw trees with yellow and brown leaves.",
+    "glosses": {
+     "passearam": "strolled",
+     "centro": "downtown",
+     "viram": "saw"
+    }
+   },
+   {
+    "pt": "\"Aqui o inverno é diferente, mas é bonito\", disse Gustavo.",
+    "en": "\"Winter here is different, but it's pretty,\" said Gustavo.",
+    "glosses": {
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Quando voltou para Fortaleza, ele sentiu calor no aeroporto.",
+    "en": "When he went back to Fortaleza, he felt hot at the airport.",
+    "glosses": {
+     "voltou": "went back",
+     "sentiu": "felt",
+     "calor": "hot (heat)",
+     "no": "at the"
+    }
+   },
+   {
+    "pt": "Ele tirou a roupa quente e riu.",
+    "en": "He took off the warm clothes and laughed.",
+    "glosses": {
+     "tirou": "took off",
+     "riu": "laughed"
+    }
+   },
+   {
+    "pt": "\"Agora eu tenho saudade do frio!\", ele escreveu numa mensagem para Aline.",
+    "en": "\"Now I miss the cold!\" he wrote in a message to Aline.",
+    "glosses": {
+     "tenho": "I have",
+     "saudade": "longing (miss)",
+     "escreveu": "wrote",
+     "numa": "in a"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Onde mora a prima do Gustavo?",
+    "qEn": "Where does Gustavo's cousin live?",
+    "options": [
+     "Em Fortaleza",
+     "Em Porto Alegre",
+     "Em Manaus",
+     "Em Salvador"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Como estava a cidade na primeira manhã?",
+    "qEn": "What was the city like on the first morning?",
+    "options": [
+     "Com neblina",
+     "Com neve",
+     "Com muito sol",
+     "Com calor"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Quando o céu ficou azul?",
+    "qEn": "When did the sky turn blue?",
+    "options": [
+     "No primeiro dia",
+     "No segundo dia",
+     "No terceiro dia",
+     "No último dia"
+    ],
+    "answer": 2
+   }
+  ]
+ }
+]

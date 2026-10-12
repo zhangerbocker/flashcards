@@ -1,0 +1,926 @@
+[
+ {
+  "pt": "o",
+  "pos": "art.",
+  "english": "the (masc.)",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "a",
+   "os",
+   "as"
+  ],
+  "example": {
+   "pt": "O café está quente.",
+   "en": "The coffee is hot."
+  }
+ },
+ {
+  "pt": "um",
+  "pos": "art.",
+  "english": "a, an; one",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "uma",
+   "uns",
+   "umas"
+  ],
+  "example": {
+   "pt": "Eu tenho um livro novo.",
+   "en": "I have a new book."
+  }
+ },
+ {
+  "pt": "de",
+  "pos": "prep.",
+  "english": "of, from",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "do",
+   "da",
+   "dos",
+   "das"
+  ],
+  "example": {
+   "pt": "Ela é de São Paulo.",
+   "en": "She is from São Paulo."
+  }
+ },
+ {
+  "pt": "em",
+  "pos": "prep.",
+  "english": "in, on, at",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "no",
+   "na",
+   "nos",
+   "nas",
+   "num",
+   "numa"
+  ],
+  "example": {
+   "pt": "Nós moramos no Rio.",
+   "en": "We live in Rio."
+  }
+ },
+ {
+  "pt": "e",
+  "pos": "conj.",
+  "english": "and",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu gosto de café e pão.",
+   "en": "I like coffee and bread."
+  }
+ },
+ {
+  "pt": "não",
+  "pos": "adv.",
+  "english": "no, not",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu não falo inglês.",
+   "en": "I don't speak English."
+  }
+ },
+ {
+  "pt": "com",
+  "pos": "prep.",
+  "english": "with",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ele mora com a família.",
+   "en": "He lives with his family."
+  }
+ },
+ {
+  "pt": "para",
+  "pos": "prep.",
+  "english": "for, to",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "pra"
+  ],
+  "example": {
+   "pt": "Este café é para você.",
+   "en": "This coffee is for you."
+  }
+ },
+ {
+  "pt": "eu",
+  "pos": "pron.",
+  "english": "I",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu sou estudante.",
+   "en": "I am a student."
+  }
+ },
+ {
+  "pt": "você",
+  "pos": "pron.",
+  "english": "you",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "vocês"
+  ],
+  "example": {
+   "pt": "Você fala português?",
+   "en": "Do you speak Portuguese?"
+  }
+ },
+ {
+  "pt": "ele",
+  "pos": "pron.",
+  "english": "he, it",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "ela",
+   "eles",
+   "elas"
+  ],
+  "example": {
+   "pt": "Ela trabalha numa escola.",
+   "en": "She works at a school."
+  }
+ },
+ {
+  "pt": "nós",
+  "pos": "pron.",
+  "english": "we",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Nós vamos à praia amanhã.",
+   "en": "We are going to the beach tomorrow."
+  }
+ },
+ {
+  "pt": "muito",
+  "pos": "adv./adj.",
+  "english": "very; a lot, many",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "muita",
+   "muitos",
+   "muitas"
+  ],
+  "example": {
+   "pt": "Obrigado, gostei muito.",
+   "en": "Thanks, I liked it a lot."
+  }
+ },
+ {
+  "pt": "também",
+  "pos": "adv.",
+  "english": "also, too",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu também gosto de praia.",
+   "en": "I like the beach too."
+  }
+ },
+ {
+  "pt": "aqui",
+  "pos": "adv.",
+  "english": "here",
+  "level": 1,
+  "topic": "Places & directions",
+  "forms": [
+   "daqui"
+  ],
+  "example": {
+   "pt": "A escola é aqui perto.",
+   "en": "The school is near here."
+  }
+ },
+ {
+  "pt": "dois",
+  "pos": "num.",
+  "english": "two",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "forms": [
+   "duas"
+  ],
+  "example": {
+   "pt": "Eu tenho dois irmãos.",
+   "en": "I have two brothers."
+  }
+ },
+ {
+  "pt": "três",
+  "pos": "num.",
+  "english": "three",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "Ela bebe três cafés por dia.",
+   "en": "She drinks three coffees a day."
+  }
+ },
+ {
+  "pt": "família",
+  "pos": "n.",
+  "english": "family",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "f",
+  "forms": [
+   "famílias"
+  ],
+  "example": {
+   "pt": "Minha família é grande.",
+   "en": "My family is big."
+  }
+ },
+ {
+  "pt": "mãe",
+  "pos": "n.",
+  "english": "mother",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "f",
+  "forms": [
+   "mães"
+  ],
+  "example": {
+   "pt": "Minha mãe mora em Salvador.",
+   "en": "My mother lives in Salvador."
+  }
+ },
+ {
+  "pt": "pai",
+  "pos": "n.",
+  "english": "father",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "pais"
+  ],
+  "example": {
+   "pt": "O pai dela é professor.",
+   "en": "Her father is a teacher."
+  }
+ },
+ {
+  "pt": "amigo",
+  "pos": "n.",
+  "english": "friend",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "amiga",
+   "amigos",
+   "amigas"
+  ],
+  "example": {
+   "pt": "Ana é minha amiga.",
+   "en": "Ana is my friend."
+  }
+ },
+ {
+  "pt": "meu",
+  "pos": "poss.",
+  "english": "my",
+  "level": 1,
+  "topic": "People & family",
+  "forms": [
+   "minha",
+   "meus",
+   "minhas"
+  ],
+  "example": {
+   "pt": "Meu irmão mora em Boston.",
+   "en": "My brother lives in Boston."
+  }
+ },
+ {
+  "pt": "irmão",
+  "pos": "n.",
+  "english": "brother",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "irmã",
+   "irmãos",
+   "irmãs"
+  ],
+  "example": {
+   "pt": "Eu tenho uma irmã.",
+   "en": "I have a sister."
+  }
+ },
+ {
+  "pt": "casa",
+  "pos": "n.",
+  "english": "house, home",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "casas"
+  ],
+  "example": {
+   "pt": "A casa é pequena.",
+   "en": "The house is small."
+  }
+ },
+ {
+  "pt": "cidade",
+  "pos": "n.",
+  "english": "city",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "cidades"
+  ],
+  "example": {
+   "pt": "São Paulo é uma cidade grande.",
+   "en": "São Paulo is a big city."
+  }
+ },
+ {
+  "pt": "praia",
+  "pos": "n.",
+  "english": "beach",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "praias"
+  ],
+  "example": {
+   "pt": "A praia está bonita hoje.",
+   "en": "The beach looks beautiful today."
+  }
+ },
+ {
+  "pt": "restaurante",
+  "pos": "n.",
+  "english": "restaurant",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "restaurantes"
+  ],
+  "example": {
+   "pt": "O restaurante é muito bom.",
+   "en": "The restaurant is very good."
+  }
+ },
+ {
+  "pt": "hoje",
+  "pos": "adv.",
+  "english": "today",
+  "level": 1,
+  "topic": "Time",
+  "example": {
+   "pt": "Hoje eu não vou trabalhar.",
+   "en": "I'm not going to work today."
+  }
+ },
+ {
+  "pt": "amanhã",
+  "pos": "adv.",
+  "english": "tomorrow",
+  "level": 1,
+  "topic": "Time",
+  "example": {
+   "pt": "Amanhã eu vou à praia.",
+   "en": "Tomorrow I'm going to the beach."
+  }
+ },
+ {
+  "pt": "ontem",
+  "pos": "adv.",
+  "english": "yesterday",
+  "level": 1,
+  "topic": "Time",
+  "example": {
+   "pt": "Ontem eu comi pão de queijo.",
+   "en": "Yesterday I ate pão de queijo."
+  }
+ },
+ {
+  "pt": "dia",
+  "pos": "n.",
+  "english": "day",
+  "level": 1,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "dias"
+  ],
+  "example": {
+   "pt": "Bom dia! Tudo bem?",
+   "en": "Good morning! How are you?"
+  }
+ },
+ {
+  "pt": "semana",
+  "pos": "n.",
+  "english": "week",
+  "level": 1,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "semanas"
+  ],
+  "example": {
+   "pt": "Eu trabalho cinco dias por semana.",
+   "en": "I work five days a week."
+  }
+ },
+ {
+  "pt": "fim de semana",
+  "pos": "n.",
+  "english": "weekend",
+  "level": 1,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "fins de semana"
+  ],
+  "example": {
+   "pt": "O que você fez no fim de semana?",
+   "en": "What did you do on the weekend?"
+  }
+ },
+ {
+  "pt": "café",
+  "pos": "n.",
+  "english": "coffee; café",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "cafés"
+  ],
+  "example": {
+   "pt": "Um café, por favor.",
+   "en": "A coffee, please."
+  }
+ },
+ {
+  "pt": "água",
+  "pos": "n.",
+  "english": "water",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "águas"
+  ],
+  "example": {
+   "pt": "Eu bebo muita água.",
+   "en": "I drink a lot of water."
+  }
+ },
+ {
+  "pt": "pão",
+  "pos": "n.",
+  "english": "bread",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "pães"
+  ],
+  "example": {
+   "pt": "O pão está quente.",
+   "en": "The bread is warm."
+  }
+ },
+ {
+  "pt": "por favor",
+  "pos": "expr.",
+  "english": "please",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Uma água, por favor.",
+   "en": "A water, please."
+  }
+ },
+ {
+  "pt": "obrigado",
+  "pos": "expr.",
+  "english": "thank you",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "forms": [
+   "obrigada"
+  ],
+  "example": {
+   "pt": "Obrigada pelo café!",
+   "en": "Thanks for the coffee!"
+  }
+ },
+ {
+  "pt": "escola",
+  "pos": "n.",
+  "english": "school",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "escolas"
+  ],
+  "example": {
+   "pt": "A escola fica perto da praia.",
+   "en": "The school is near the beach."
+  }
+ },
+ {
+  "pt": "trabalho",
+  "pos": "n.",
+  "english": "work, job",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "trabalhos"
+  ],
+  "example": {
+   "pt": "Meu trabalho é aqui perto.",
+   "en": "My job is near here."
+  }
+ },
+ {
+  "pt": "professor",
+  "pos": "n.",
+  "english": "teacher",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "professora",
+   "professores",
+   "professoras"
+  ],
+  "example": {
+   "pt": "A professora é muito boa.",
+   "en": "The teacher is very good."
+  }
+ },
+ {
+  "pt": "estudante",
+  "pos": "n.",
+  "english": "student",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "mf",
+  "forms": [
+   "estudantes"
+  ],
+  "example": {
+   "pt": "Eu sou estudante de português.",
+   "en": "I am a student of Portuguese."
+  }
+ },
+ {
+  "pt": "livro",
+  "pos": "n.",
+  "english": "book",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "livros"
+  ],
+  "example": {
+   "pt": "Este livro é muito bom.",
+   "en": "This book is very good."
+  }
+ },
+ {
+  "pt": "quente",
+  "pos": "adj.",
+  "english": "hot, warm",
+  "level": 1,
+  "topic": "Weather & colors",
+  "forms": [
+   "quentes"
+  ],
+  "example": {
+   "pt": "Hoje está muito quente.",
+   "en": "It's very hot today."
+  }
+ },
+ {
+  "pt": "bom",
+  "pos": "adj.",
+  "english": "good",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "boa",
+   "bons",
+   "boas"
+  ],
+  "example": {
+   "pt": "O café daqui é bom.",
+   "en": "The coffee here is good."
+  }
+ },
+ {
+  "pt": "grande",
+  "pos": "adj.",
+  "english": "big",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "grandes"
+  ],
+  "example": {
+   "pt": "A praia é grande e bonita.",
+   "en": "The beach is big and beautiful."
+  }
+ },
+ {
+  "pt": "pequeno",
+  "pos": "adj.",
+  "english": "small",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "pequena",
+   "pequenos",
+   "pequenas"
+  ],
+  "example": {
+   "pt": "Minha casa é pequena.",
+   "en": "My house is small."
+  }
+ },
+ {
+  "pt": "bonito",
+  "pos": "adj.",
+  "english": "beautiful, pretty",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "bonita",
+   "bonitos",
+   "bonitas"
+  ],
+  "example": {
+   "pt": "O Rio é uma cidade bonita.",
+   "en": "Rio is a beautiful city."
+  }
+ },
+ {
+  "pt": "novo",
+  "pos": "adj.",
+  "english": "new; young",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "nova",
+   "novos",
+   "novas"
+  ],
+  "example": {
+   "pt": "Eu tenho um amigo novo.",
+   "en": "I have a new friend."
+  }
+ },
+ {
+  "pt": "onde",
+  "pos": "adv.",
+  "english": "where",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Onde você mora?",
+   "en": "Where do you live?"
+  }
+ },
+ {
+  "pt": "quem",
+  "pos": "pron.",
+  "english": "who",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Quem é ela?",
+   "en": "Who is she?"
+  }
+ },
+ {
+  "pt": "que",
+  "pos": "pron./conj.",
+  "english": "what; that",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "O que você faz?",
+   "en": "What do you do?"
+  }
+ },
+ {
+  "pt": "mas",
+  "pos": "conj.",
+  "english": "but",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu gosto de café, mas não bebo muito.",
+   "en": "I like coffee, but I don't drink much."
+  }
+ },
+ {
+  "pt": "português",
+  "pos": "n./adj.",
+  "english": "Portuguese",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "portuguesa",
+   "portugueses",
+   "portuguesas"
+  ],
+  "example": {
+   "pt": "Eu estudo português.",
+   "en": "I study Portuguese."
+  }
+ },
+ {
+  "pt": "pão de queijo",
+  "pos": "n.",
+  "english": "cheese bread",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "pães de queijo"
+  ],
+  "example": {
+   "pt": "Um pão de queijo, por favor.",
+   "en": "A cheese bread, please."
+  }
+ },
+ {
+  "pt": "perto",
+  "pos": "adv.",
+  "english": "near, close",
+  "level": 1,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "O restaurante fica perto daqui.",
+   "en": "The restaurant is close to here."
+  }
+ },
+ {
+  "pt": "ser",
+  "pos": "v.",
+  "english": "to be (permanent)",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu sou de Boston.",
+   "en": "I am from Boston."
+  }
+ },
+ {
+  "pt": "estar",
+  "pos": "v.",
+  "english": "to be (temporary)",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Como você está?",
+   "en": "How are you?"
+  }
+ },
+ {
+  "pt": "ter",
+  "pos": "v.",
+  "english": "to have",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Você tem irmãos?",
+   "en": "Do you have siblings?"
+  }
+ },
+ {
+  "pt": "ir",
+  "pos": "v.",
+  "english": "to go",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu vou para casa.",
+   "en": "I'm going home."
+  }
+ },
+ {
+  "pt": "fazer",
+  "pos": "v.",
+  "english": "to do, to make",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "O que você faz no fim de semana?",
+   "en": "What do you do on the weekend?"
+  }
+ },
+ {
+  "pt": "falar",
+  "pos": "v.",
+  "english": "to speak, to talk",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ela fala português e inglês.",
+   "en": "She speaks Portuguese and English."
+  }
+ },
+ {
+  "pt": "comer",
+  "pos": "v.",
+  "english": "to eat",
+  "level": 1,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Nós comemos no restaurante.",
+   "en": "We eat at the restaurant."
+  }
+ },
+ {
+  "pt": "beber",
+  "pos": "v.",
+  "english": "to drink",
+  "level": 1,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Você bebe café?",
+   "en": "Do you drink coffee?"
+  }
+ },
+ {
+  "pt": "morar",
+  "pos": "v.",
+  "english": "to live (reside)",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Onde você mora?",
+   "en": "Where do you live?"
+  }
+ },
+ {
+  "pt": "trabalhar",
+  "pos": "v.",
+  "english": "to work",
+  "level": 1,
+  "topic": "School & work",
+  "example": {
+   "pt": "Ele trabalha num restaurante.",
+   "en": "He works at a restaurant."
+  }
+ },
+ {
+  "pt": "gostar",
+  "pos": "v.",
+  "english": "to like (gostar de)",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu gosto muito de café.",
+   "en": "I really like coffee."
+  }
+ },
+ {
+  "pt": "ficar",
+  "pos": "v.",
+  "english": "to stay; to be located",
+  "level": 1,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "A escola fica perto daqui.",
+   "en": "The school is near here."
+  }
+ }
+]

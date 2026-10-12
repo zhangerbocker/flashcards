@@ -1,0 +1,326 @@
+[
+ {
+  "id": "a1-daily-life-transport-1",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "title": "O ônibus das sete",
+  "titleEn": "The seven o'clock bus",
+  "sentences": [
+   {
+    "pt": "Marcos mora em Belo Horizonte e trabalha no centro.",
+    "en": "Marcos lives in Belo Horizonte and works downtown.",
+    "glosses": {
+     "mora": "lives",
+     "trabalha": "works",
+     "no": "in the",
+     "centro": "downtown"
+    }
+   },
+   {
+    "pt": "Ele acorda às seis horas todo dia.",
+    "en": "He wakes up at six o'clock every day.",
+    "glosses": {
+     "acorda": "wakes up",
+     "às": "at",
+     "todo": "every"
+    }
+   },
+   {
+    "pt": "Ele toma banho, escova os dentes e toma café.",
+    "en": "He takes a shower, brushes his teeth and has breakfast.",
+    "glosses": {
+     "toma": "takes / has",
+     "escova": "brushes",
+     "banho": "shower",
+     "café": "breakfast"
+    }
+   },
+   {
+    "pt": "Às sete, ele espera o ônibus na esquina.",
+    "en": "At seven, he waits for the bus on the corner.",
+    "glosses": {
+     "às": "at",
+     "espera": "waits for",
+     "na": "on the"
+    }
+   },
+   {
+    "pt": "Mas hoje o ônibus está atrasado.",
+    "en": "But today the bus is late.",
+    "glosses": {
+     "está": "is"
+    }
+   },
+   {
+    "pt": "Dez minutos, quinze minutos... nada!",
+    "en": "Ten minutes, fifteen minutes... nothing!",
+    "glosses": {}
+   },
+   {
+    "pt": "Está chovendo e Marcos está com frio.",
+    "en": "It's raining and Marcos is cold.",
+    "glosses": {
+     "está": "is",
+     "chovendo": "raining",
+     "com frio": "cold"
+    }
+   },
+   {
+    "pt": "Então ele pega um táxi.",
+    "en": "So he takes a taxi.",
+    "glosses": {
+     "pega": "takes",
+     "então": "so"
+    }
+   },
+   {
+    "pt": "O táxi é caro: quarenta reais!",
+    "en": "The taxi is expensive: forty reais!",
+    "glosses": {
+     "é": "is"
+    }
+   },
+   {
+    "pt": "O motorista é simpático e conversa muito.",
+    "en": "The driver is friendly and talks a lot.",
+    "glosses": {
+     "é": "is",
+     "conversa": "talks",
+     "muito": "a lot"
+    }
+   },
+   {
+    "pt": "Mas o trânsito está horrível.",
+    "en": "But the traffic is terrible.",
+    "glosses": {
+     "está": "is"
+    }
+   },
+   {
+    "pt": "Marcos chega ao escritório às oito e meia.",
+    "en": "Marcos gets to the office at eight thirty.",
+    "glosses": {
+     "chega": "gets",
+     "ao": "to the",
+     "às": "at",
+     "meia": "half (past)"
+    }
+   },
+   {
+    "pt": "No escritório, um colega diz: \"O ônibus chegou às sete e vinte.\"",
+    "en": "At the office, a coworker says: \"The bus came at seven twenty.\"",
+    "glosses": {
+     "no": "at the",
+     "diz": "says",
+     "chegou": "came",
+     "às": "at"
+    }
+   },
+   {
+    "pt": "Marcos ri: \"Amanhã eu vou de metrô!\"",
+    "en": "Marcos laughs: \"Tomorrow I'm going by subway!\"",
+    "glosses": {
+     "ri": "laughs",
+     "vou": "I'm going",
+     "de": "by"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "A que horas Marcos acorda?",
+    "qEn": "What time does Marcos wake up?",
+    "options": [
+     "Às cinco",
+     "Às sete",
+     "Às oito",
+     "Às seis"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "Quanto custa o táxi?",
+    "qEn": "How much does the taxi cost?",
+    "options": [
+     "Vinte reais",
+     "Quarenta reais",
+     "Dez reais",
+     "Cem reais"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Como Marcos quer ir amanhã?",
+    "qEn": "How does Marcos want to go tomorrow?",
+    "options": [
+     "De metrô",
+     "De ônibus",
+     "De táxi",
+     "De carro"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "a1-daily-life-transport-2",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "title": "A bicicleta nova",
+  "titleEn": "The new bike",
+  "sentences": [
+   {
+    "pt": "Letícia mora em Florianópolis, perto da praia.",
+    "en": "Letícia lives in Florianópolis, near the beach.",
+    "glosses": {
+     "mora": "lives",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Ela não tem carro.",
+    "en": "She doesn't have a car.",
+    "glosses": {
+     "tem": "has"
+    }
+   },
+   {
+    "pt": "Todo dia, ela vai para a faculdade de ônibus.",
+    "en": "Every day, she goes to college by bus.",
+    "glosses": {
+     "vai": "goes",
+     "todo": "every",
+     "de": "by",
+     "faculdade": "college"
+    }
+   },
+   {
+    "pt": "Mas o ônibus é lento e sempre está cheio.",
+    "en": "But the bus is slow and is always full.",
+    "glosses": {
+     "é": "is",
+     "está": "is"
+    }
+   },
+   {
+    "pt": "No sábado, ela compra uma bicicleta azul.",
+    "en": "On Saturday, she buys a blue bike.",
+    "glosses": {
+     "no": "on",
+     "compra": "buys"
+    }
+   },
+   {
+    "pt": "A bicicleta custa quinhentos reais.",
+    "en": "The bike costs five hundred reais.",
+    "glosses": {
+     "custa": "costs"
+    }
+   },
+   {
+    "pt": "Na segunda-feira, ela vai para a faculdade de bicicleta.",
+    "en": "On Monday, she goes to college by bike.",
+    "glosses": {
+     "na": "on",
+     "vai": "goes",
+     "de": "by",
+     "faculdade": "college"
+    }
+   },
+   {
+    "pt": "Ela sai de casa às sete e quinze.",
+    "en": "She leaves home at seven fifteen.",
+    "glosses": {
+     "sai": "leaves",
+     "às": "at",
+     "de": "(from)"
+    }
+   },
+   {
+    "pt": "O dia está bonito e não tem muito vento.",
+    "en": "The day is beautiful and there isn't much wind.",
+    "glosses": {
+     "está": "is",
+     "tem": "there is",
+     "muito": "much"
+    }
+   },
+   {
+    "pt": "Ela passa pela praia e vê o mar.",
+    "en": "She goes past the beach and sees the sea.",
+    "glosses": {
+     "passa": "goes past",
+     "pela": "by the",
+     "vê": "sees"
+    }
+   },
+   {
+    "pt": "Em vinte minutos, ela chega à faculdade.",
+    "en": "In twenty minutes, she gets to college.",
+    "glosses": {
+     "chega": "gets",
+     "à": "to",
+     "faculdade": "college"
+    }
+   },
+   {
+    "pt": "De ônibus, ela demora quarenta minutos!",
+    "en": "By bus, it takes her forty minutes!",
+    "glosses": {
+     "demora": "takes",
+     "de": "by"
+    }
+   },
+   {
+    "pt": "Letícia está muito feliz com a bicicleta.",
+    "en": "Letícia is very happy with the bike.",
+    "glosses": {
+     "está": "is"
+    }
+   },
+   {
+    "pt": "Agora ela faz exercício e não espera o ônibus.",
+    "en": "Now she gets exercise and doesn't wait for the bus.",
+    "glosses": {
+     "faz": "does, gets",
+     "espera": "waits for"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "De que cor é a bicicleta?",
+    "qEn": "What color is the bike?",
+    "options": [
+     "Vermelha",
+     "Azul",
+     "Verde",
+     "Preta"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quanto custa a bicicleta?",
+    "qEn": "How much does the bike cost?",
+    "options": [
+     "Cem reais",
+     "Cinquenta reais",
+     "Quinhentos reais",
+     "Mil reais"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Quantos minutos ela demora de bicicleta?",
+    "qEn": "How many minutes does it take her by bike?",
+    "options": [
+     "Vinte",
+     "Quarenta",
+     "Quinze",
+     "Dez"
+    ],
+    "answer": 0
+   }
+  ]
+ }
+]

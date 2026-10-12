@@ -1,0 +1,461 @@
+[
+ {
+  "id": "b1-food-drink-1",
+  "level": 3,
+  "topic": "Food & drink",
+  "title": "O bolo da Dona Lúcia",
+  "titleEn": "Dona Lúcia's cake",
+  "sentences": [
+   {
+    "pt": "No sábado, Dona Lúcia ia fazer setenta anos, e o neto Rafael queria fazer o almoço sozinho.",
+    "en": "On Saturday, Dona Lúcia was turning seventy, and her grandson Rafael wanted to make lunch by himself.",
+    "glosses": {
+     "ia": "was going to",
+     "fazer": "turn (age)",
+     "queria": "wanted"
+    }
+   },
+   {
+    "pt": "Ele nunca tinha cozinhado para muitas pessoas, mas estava animado.",
+    "en": "He had never cooked for a lot of people, but he was excited.",
+    "glosses": {
+     "tinha": "had",
+     "cozinhado": "cooked",
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "Na sexta-feira à noite, foi ao supermercado com a receita no celular.",
+    "en": "On Friday night, he went to the supermarket with the recipe on his phone.",
+    "glosses": {
+     "foi": "went",
+     "ao": "to the",
+     "no": "on the"
+    }
+   },
+   {
+    "pt": "Comprou frango, batatas, cebola, alho, tomates e farinha para o bolo de laranja.",
+    "en": "He bought chicken, potatoes, onion, garlic, tomatoes and flour for the orange cake.",
+    "glosses": {
+     "comprou": "bought"
+    }
+   },
+   {
+    "pt": "No sábado, acordou às sete e começou pelo frango.",
+    "en": "On Saturday, he woke up at seven and started with the chicken.",
+    "glosses": {
+     "acordou": "woke up",
+     "às": "at",
+     "começou": "started",
+     "pelo": "with the"
+    }
+   },
+   {
+    "pt": "Temperou a carne com sal, alho, pimenta e um pouco de vinho branco.",
+    "en": "He seasoned the meat with salt, garlic, pepper and a little white wine.",
+    "glosses": {
+     "temperou": "seasoned"
+    }
+   },
+   {
+    "pt": "Depois descascou as batatas, cortou a cebola em fatias e colocou tudo no forno.",
+    "en": "Then he peeled the potatoes, cut the onion into slices and put everything in the oven.",
+    "glosses": {
+     "descascou": "peeled",
+     "cortou": "cut",
+     "colocou": "put",
+     "no": "in the"
+    }
+   },
+   {
+    "pt": "Enquanto o frango assava, ele começou a fazer o bolo, seguindo a receita da avó.",
+    "en": "While the chicken was roasting, he started making the cake, following his grandmother's recipe.",
+    "glosses": {
+     "assava": "was roasting",
+     "começou": "started",
+     "seguindo": "following",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Misturou os ovos, o açúcar, o suco de laranja, o leite e três xícaras de farinha.",
+    "en": "He mixed the eggs, the sugar, the orange juice, the milk and three cups of flour.",
+    "glosses": {
+     "misturou": "mixed"
+    }
+   },
+   {
+    "pt": "Meia hora depois, no entanto, percebeu que o bolo não tinha crescido nada.",
+    "en": "Half an hour later, however, he noticed that the cake hadn't risen at all.",
+    "glosses": {
+     "percebeu": "noticed",
+     "tinha": "had",
+     "crescido": "risen"
+    }
+   },
+   {
+    "pt": "Ele olhou o fermento e viu que estava vencido desde março.",
+    "en": "He looked at the baking powder and saw that it had been expired since March.",
+    "glosses": {
+     "olhou": "looked at",
+     "fermento": "baking powder",
+     "viu": "saw",
+     "estava": "was",
+     "vencido": "expired"
+    }
+   },
+   {
+    "pt": "Faltava apenas uma hora para a chegada dos convidados, e as padarias do bairro estavam fechadas.",
+    "en": "There was only one hour left before the guests arrived, and the bakeries in the neighborhood were closed.",
+    "glosses": {
+     "faltava": "was left",
+     "chegada": "arrival",
+     "dos": "of the",
+     "convidados": "guests",
+     "estavam": "were"
+    }
+   },
+   {
+    "pt": "Rafael ficou muito preocupado e ligou para a tia Fernanda.",
+    "en": "Rafael got very worried and called his aunt Fernanda.",
+    "glosses": {
+     "ficou": "got",
+     "ligou": "called"
+    }
+   },
+   {
+    "pt": "\"Calma\", disse ela. \"Corte o bolo em quadrados pequenos e coloque em tigelas com sorvete e chocolate.\"",
+    "en": "\"Calm down,\" she said. \"Cut the cake into small squares and put it in bowls with ice cream and chocolate.\"",
+    "glosses": {
+     "calma": "calm down",
+     "disse": "said",
+     "corte": "cut",
+     "quadrados": "squares",
+     "coloque": "put"
+    }
+   },
+   {
+    "pt": "Ela mesma trouxe o sorvete, porque morava a dois quarteirões dali.",
+    "en": "She brought the ice cream herself, because she lived two blocks away.",
+    "glosses": {
+     "mesma": "herself",
+     "trouxe": "brought",
+     "morava": "lived",
+     "dali": "from there"
+    }
+   },
+   {
+    "pt": "Ao meio-dia, a família toda chegou com flores e presentes.",
+    "en": "At noon, the whole family arrived with flowers and presents.",
+    "glosses": {
+     "ao": "at",
+     "chegou": "arrived"
+    }
+   },
+   {
+    "pt": "O frango estava gostoso, e as batatas, douradas e macias.",
+    "en": "The chicken was tasty, and the potatoes golden and soft.",
+    "glosses": {
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "Na hora da sobremesa, Rafael trouxe o bolo em tigelas, com sorvete e chocolate.",
+    "en": "At dessert time, Rafael brought the cake in bowls, with ice cream and chocolate.",
+    "glosses": {
+     "trouxe": "brought"
+    }
+   },
+   {
+    "pt": "Dona Lúcia provou e perguntou qual era a receita daquela sobremesa nova.",
+    "en": "Dona Lúcia tasted it and asked what the recipe for that new dessert was.",
+    "glosses": {
+     "provou": "tasted",
+     "perguntou": "asked",
+     "era": "was",
+     "daquela": "of that"
+    }
+   },
+   {
+    "pt": "Rafael riu e contou o que tinha acontecido.",
+    "en": "Rafael laughed and told her what had happened.",
+    "glosses": {
+     "riu": "laughed",
+     "contou": "told",
+     "tinha": "had",
+     "acontecido": "happened"
+    }
+   },
+   {
+    "pt": "Todos riram, e a avó disse que era a melhor sobremesa dos seus setenta anos.",
+    "en": "Everyone laughed, and his grandmother said it was the best dessert of her seventy years.",
+    "glosses": {
+     "riram": "laughed",
+     "disse": "said",
+     "era": "was",
+     "dos": "of the"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Quantos anos Dona Lúcia fez?",
+    "qEn": "How old did Dona Lúcia turn?",
+    "options": [
+     "Cinquenta",
+     "Sessenta",
+     "Oitenta",
+     "Setenta"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "Qual era o problema do bolo?",
+    "qEn": "What was the problem with the cake?",
+    "options": [
+     "Não cresceu",
+     "Ficou salgado",
+     "Ficou duro",
+     "Ficou amargo"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Quem ajudou Rafael?",
+    "qEn": "Who helped Rafael?",
+    "options": [
+     "O pai",
+     "A avó",
+     "A tia Fernanda",
+     "A vizinha"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "b1-food-drink-2",
+  "level": 3,
+  "topic": "Food & drink",
+  "title": "O prato errado",
+  "titleEn": "The wrong dish",
+  "sentences": [
+   {
+    "pt": "Gustavo e Larissa trabalhavam no mesmo escritório e almoçavam no centro toda sexta-feira.",
+    "en": "Gustavo and Larissa worked in the same office and had lunch downtown every Friday.",
+    "glosses": {
+     "trabalhavam": "worked",
+     "no": "in the",
+     "almoçavam": "had lunch"
+    }
+   },
+   {
+    "pt": "Naquela semana, decidiram conhecer um restaurante novo que tinha aberto perto da Avenida Paulista.",
+    "en": "That week, they decided to try a new restaurant that had opened near Paulista Avenue.",
+    "glosses": {
+     "naquela": "that",
+     "decidiram": "decided",
+     "tinha": "had",
+     "aberto": "opened",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Larissa é vegetariana há cinco anos, por isso sempre lê o cardápio com cuidado.",
+    "en": "Larissa has been vegetarian for five years, so she always reads the menu carefully.",
+    "glosses": {
+     "é": "is",
+     "há": "for",
+     "lê": "reads",
+     "cuidado": "care (carefully)"
+    }
+   },
+   {
+    "pt": "O garçom, um moço muito educado, disse que o melhor prato era o macarrão com legumes, o prato do dia.",
+    "en": "The waiter, a very polite young man, said the best dish was the pasta with vegetables, the dish of the day.",
+    "glosses": {
+     "disse": "said",
+     "era": "was",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Gustavo pediu um peixe assado com arroz e salada.",
+    "en": "Gustavo ordered a baked fish with rice and salad.",
+    "glosses": {
+     "pediu": "ordered"
+    }
+   },
+   {
+    "pt": "Para beber, os dois escolheram suco de laranja, já que iam voltar para o trabalho.",
+    "en": "To drink, the two of them chose orange juice, since they were going back to work.",
+    "glosses": {
+     "escolheram": "chose",
+     "iam": "were going"
+    }
+   },
+   {
+    "pt": "O restaurante estava lotado, e a comida demorou quase quarenta minutos para chegar.",
+    "en": "The restaurant was packed, and the food took almost forty minutes to arrive.",
+    "glosses": {
+     "estava": "was",
+     "demorou": "took"
+    }
+   },
+   {
+    "pt": "Quando o macarrão chegou, Larissa provou e sentiu um sabor estranho.",
+    "en": "When the pasta arrived, Larissa tasted it and noticed a strange flavor.",
+    "glosses": {
+     "chegou": "arrived",
+     "provou": "tasted",
+     "sentiu": "felt"
+    }
+   },
+   {
+    "pt": "Embora estivesse com fome, ela parou de comer e olhou o prato com cuidado.",
+    "en": "Although she was hungry, she stopped eating and looked at the dish carefully.",
+    "glosses": {
+     "estivesse": "she was (subjunctive)",
+     "parou": "stopped",
+     "olhou": "looked at",
+     "cuidado": "care (carefully)"
+    }
+   },
+   {
+    "pt": "Tinha presunto no meio do macarrão.",
+    "en": "There was ham in the middle of the pasta.",
+    "glosses": {
+     "tinha": "there was",
+     "no": "in the",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Gustavo chamou o garçom e explicou o problema.",
+    "en": "Gustavo called the waiter and explained the problem.",
+    "glosses": {
+     "chamou": "called",
+     "explicou": "explained"
+    }
+   },
+   {
+    "pt": "O garçom pediu desculpa muitas vezes e levou o prato para a cozinha.",
+    "en": "The waiter apologized many times and took the dish to the kitchen.",
+    "glosses": {
+     "pediu": "asked for",
+     "desculpa": "forgiveness (apologized)",
+     "vezes": "times",
+     "levou": "took"
+    }
+   },
+   {
+    "pt": "Alguns minutos depois, o cozinheiro veio até a mesa.",
+    "en": "A few minutes later, the cook came to the table.",
+    "glosses": {
+     "alguns": "a few",
+     "veio": "came"
+    }
+   },
+   {
+    "pt": "Ele explicou que o prato do dia tinha mudado, mas que ninguém tinha avisado o garçom.",
+    "en": "He explained that the dish of the day had changed, but no one had told the waiter.",
+    "glosses": {
+     "explicou": "explained",
+     "tinha": "had",
+     "mudado": "changed",
+     "avisado": "warned"
+    }
+   },
+   {
+    "pt": "Ele ofereceu fazer um prato novo, só com legumes, azeite e queijo.",
+    "en": "He offered to make a new dish, with only vegetables, olive oil and cheese.",
+    "glosses": {
+     "ofereceu": "offered"
+    }
+   },
+   {
+    "pt": "Larissa concordou, apesar de já estar um pouco atrasada.",
+    "en": "Larissa agreed, despite already being a little late.",
+    "glosses": {
+     "concordou": "agreed",
+     "estar": "being"
+    }
+   },
+   {
+    "pt": "O novo macarrão estava muito gostoso, e Larissa não precisou pagar o almoço.",
+    "en": "The new pasta was very tasty, and Larissa didn't have to pay for lunch.",
+    "glosses": {
+     "estava": "was",
+     "precisou": "had to"
+    }
+   },
+   {
+    "pt": "Além disso, o cozinheiro mandou duas fatias de bolo de chocolate como sobremesa.",
+    "en": "Besides that, the cook sent two slices of chocolate cake as dessert.",
+    "glosses": {
+     "mandou": "sent"
+    }
+   },
+   {
+    "pt": "Na hora de pagar a conta, Gustavo deixou uma boa gorjeta para o garçom.",
+    "en": "When it was time to pay the bill, Gustavo left a good tip for the waiter.",
+    "glosses": {
+     "deixou": "left"
+    }
+   },
+   {
+    "pt": "\"Afinal, o erro não foi dele\", disse.",
+    "en": "\"After all, the mistake wasn't his,\" he said.",
+    "glosses": {
+     "foi": "was",
+     "dele": "his",
+     "disse": "he said"
+    }
+   },
+   {
+    "pt": "Larissa concordou e disse que eles voltariam na próxima sexta-feira.",
+    "en": "Larissa agreed and said they would come back next Friday.",
+    "glosses": {
+     "concordou": "agreed",
+     "disse": "said",
+     "voltariam": "would return"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Por que Larissa não come presunto?",
+    "qEn": "Why doesn't Larissa eat ham?",
+    "options": [
+     "Ela está de dieta",
+     "Ela tem alergia a presunto",
+     "Ela é vegetariana",
+     "Ela não gosta de sal"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "O que Gustavo pediu?",
+    "qEn": "What did Gustavo order?",
+    "options": [
+     "Macarrão",
+     "Frango frito",
+     "Peixe assado",
+     "Sopa"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "O que o cozinheiro mandou para a mesa?",
+    "qEn": "What did the cook send to the table?",
+    "options": [
+     "Sorvete",
+     "Vinho",
+     "Bolo de chocolate",
+     "Café"
+    ],
+    "answer": 2
+   }
+  ]
+ }
+]

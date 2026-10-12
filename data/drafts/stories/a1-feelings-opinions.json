@@ -1,0 +1,333 @@
+[
+ {
+  "id": "a1-feelings-opinions-1",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "title": "A prova de matemática",
+  "titleEn": "The math test",
+  "sentences": [
+   {
+    "pt": "Hoje Lucas tem prova de matemática.",
+    "en": "Today Lucas has a math test.",
+    "glosses": {
+     "tem": "has"
+    }
+   },
+   {
+    "pt": "Ele está muito nervoso.",
+    "en": "He is very nervous.",
+    "glosses": {
+     "está": "is"
+    }
+   },
+   {
+    "pt": "Lucas acha matemática difícil e chata.",
+    "en": "Lucas thinks math is hard and boring.",
+    "glosses": {
+     "acha": "thinks",
+     "chata": "boring"
+    }
+   },
+   {
+    "pt": "Ele prefere inglês e português.",
+    "en": "He prefers English and Portuguese.",
+    "glosses": {
+     "prefere": "prefers"
+    }
+   },
+   {
+    "pt": "De manhã, ele não quer comer nada.",
+    "en": "In the morning, he doesn't want to eat anything.",
+    "glosses": {
+     "De manhã": "in the morning",
+     "quer": "want",
+     "nada": "anything"
+    }
+   },
+   {
+    "pt": "A mãe diz: \"Calma, filho. Você estudou muito.\"",
+    "en": "His mom says: \"Calm down, son. You studied a lot.\"",
+    "glosses": {
+     "diz": "says",
+     "Calma": "calm down",
+     "estudou": "studied"
+    }
+   },
+   {
+    "pt": "Na escola, a amiga dele, Sofia, está calma.",
+    "en": "At school, his friend Sofia is calm.",
+    "glosses": {
+     "Na": "at",
+     "amiga": "friend",
+     "dele": "his",
+     "está": "is"
+    }
+   },
+   {
+    "pt": "Sofia adora matemática e acha a prova fácil.",
+    "en": "Sofia loves math and thinks the test is easy.",
+    "glosses": {
+     "adora": "loves",
+     "acha": "thinks"
+    }
+   },
+   {
+    "pt": "A prova começa às nove.",
+    "en": "The test starts at nine.",
+    "glosses": {
+     "começa": "starts",
+     "às": "at"
+    }
+   },
+   {
+    "pt": "Lucas lê as perguntas e pensa muito.",
+    "en": "Lucas reads the questions and thinks hard.",
+    "glosses": {
+     "lê": "reads",
+     "pensa": "thinks",
+     "muito": "hard"
+    }
+   },
+   {
+    "pt": "Algumas perguntas são difíceis, mas ele responde tudo.",
+    "en": "Some questions are hard, but he answers everything.",
+    "glosses": {
+     "Algumas": "some",
+     "são": "are",
+     "responde": "answers"
+    }
+   },
+   {
+    "pt": "Uma semana depois, o professor mostra as notas.",
+    "en": "A week later, the teacher shows the grades.",
+    "glosses": {
+     "depois": "later",
+     "mostra": "shows",
+     "notas": "grades"
+    }
+   },
+   {
+    "pt": "A nota de Lucas é oito!",
+    "en": "Lucas's grade is an eight!",
+    "glosses": {
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Ele está muito feliz.",
+    "en": "He is very happy.",
+    "glosses": {
+     "está": "is"
+    }
+   },
+   {
+    "pt": "\"Agora eu acho matemática um pouco mais legal\", diz Lucas.",
+    "en": "\"Now I think math is a bit cooler,\" says Lucas.",
+    "glosses": {
+     "acho": "think",
+     "um pouco mais legal": "a bit cooler",
+     "diz": "says"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Como Lucas está antes da prova?",
+    "qEn": "How is Lucas before the test?",
+    "options": [
+     "Feliz",
+     "Nervoso",
+     "Bravo",
+     "Calmo"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "O que Sofia acha da prova?",
+    "qEn": "What does Sofia think of the test?",
+    "options": [
+     "Difícil",
+     "Chata",
+     "Fácil",
+     "Horrível"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Qual é a nota de Lucas?",
+    "qEn": "What is Lucas's grade?",
+    "options": [
+     "Oito",
+     "Cinco",
+     "Seis",
+     "Dez"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "a1-feelings-opinions-2",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "title": "Uma noite no cinema",
+  "titleEn": "A night at the movies",
+  "sentences": [
+   {
+    "pt": "Ricardo e Patrícia são casados.",
+    "en": "Ricardo and Patrícia are married.",
+    "glosses": {
+     "são": "are"
+    }
+   },
+   {
+    "pt": "Na sexta-feira à noite, eles vão ao cinema.",
+    "en": "On Friday night, they go to the movies.",
+    "glosses": {
+     "Na": "on",
+     "à noite": "at night",
+     "vão": "go",
+     "ao cinema": "to the movies"
+    }
+   },
+   {
+    "pt": "Ricardo quer ver um filme americano.",
+    "en": "Ricardo wants to see an American movie.",
+    "glosses": {
+     "quer": "wants"
+    }
+   },
+   {
+    "pt": "Patrícia prefere um filme brasileiro.",
+    "en": "Patrícia prefers a Brazilian movie.",
+    "glosses": {
+     "prefere": "prefers"
+    }
+   },
+   {
+    "pt": "No fim, eles assistem ao filme brasileiro.",
+    "en": "In the end, they watch the Brazilian movie.",
+    "glosses": {
+     "No fim": "in the end",
+     "assistem ao": "watch the"
+    }
+   },
+   {
+    "pt": "O filme é longo, mas é muito interessante.",
+    "en": "The movie is long, but it's very interesting.",
+    "glosses": {
+     "é": "is"
+    }
+   },
+   {
+    "pt": "É a história de uma família pobre no Recife.",
+    "en": "It's the story of a poor family in Recife.",
+    "glosses": {
+     "É": "it is",
+     "no": "in"
+    }
+   },
+   {
+    "pt": "No fim do filme, Patrícia chora.",
+    "en": "At the end of the movie, Patrícia cries.",
+    "glosses": {
+     "No fim do": "at the end of the",
+     "chora": "cries"
+    }
+   },
+   {
+    "pt": "\"Que filme lindo!\", ela diz.",
+    "en": "\"What a beautiful movie!\" she says.",
+    "glosses": {
+     "Que": "what a",
+     "diz": "says"
+    }
+   },
+   {
+    "pt": "Ricardo acha o filme lento e um pouco triste.",
+    "en": "Ricardo thinks the movie is slow and a bit sad.",
+    "glosses": {
+     "acha": "thinks",
+     "um pouco": "a bit"
+    }
+   },
+   {
+    "pt": "\"Eu prefiro filmes engraçados\", ele diz.",
+    "en": "\"I prefer funny movies,\" he says.",
+    "glosses": {
+     "prefiro": "prefer",
+     "diz": "says"
+    }
+   },
+   {
+    "pt": "Depois, eles comem em um restaurante perto do cinema.",
+    "en": "Afterwards, they eat at a restaurant near the movie theater.",
+    "glosses": {
+     "comem": "eat",
+     "em": "at",
+     "perto do": "near the",
+     "cinema": "movie theater"
+    }
+   },
+   {
+    "pt": "Eles conversam muito sobre o filme.",
+    "en": "They talk a lot about the movie.",
+    "glosses": {
+     "conversam": "talk"
+    }
+   },
+   {
+    "pt": "Mas os dois adoram a pizza do restaurante!",
+    "en": "But they both love the restaurant's pizza!",
+    "glosses": {
+     "os dois": "both",
+     "adoram": "love",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Na próxima semana, eles vão ver um filme americano.",
+    "en": "Next week, they're going to see an American movie.",
+    "glosses": {
+     "Na próxima semana": "next week",
+     "vão": "are going"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Que filme eles assistem?",
+    "qEn": "Which movie do they watch?",
+    "options": [
+     "Um filme americano",
+     "Um filme brasileiro",
+     "Um filme inglês",
+     "Um filme de Portugal"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Como Ricardo acha o filme?",
+    "qEn": "What does Ricardo think of the movie?",
+    "options": [
+     "Engraçado",
+     "Curto",
+     "Lento e um pouco triste",
+     "Incrível"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "O que os dois adoram no restaurante?",
+    "qEn": "What do they both love at the restaurant?",
+    "options": [
+     "A sopa",
+     "O peixe",
+     "A salada",
+     "A pizza"
+    ],
+    "answer": 3
+   }
+  ]
+ }
+]

@@ -48,7 +48,7 @@ export function draftWordCount(draft: StoryDraft): number {
 }
 
 /** Story length in words per level. */
-export const LENGTH_RANGE: Record<Level, [number, number]> = { 1: [90, 160], 2: [160, 260] };
+export const LENGTH_RANGE: Record<Level, [number, number]> = { 1: [90, 160], 2: [160, 260], 3: [250, 400], 4: [350, 550] };
 
 interface ValidationContext {
   level: Level;

@@ -1,0 +1,425 @@
+[
+ {
+  "id": "a2-body-health-1",
+  "level": 2,
+  "topic": "Body & health",
+  "title": "O joelho do Seu Antônio",
+  "titleEn": "Mr. Antônio's knee",
+  "sentences": [
+   {
+    "pt": "Seu Antônio é aposentado e mora em Belo Horizonte.",
+    "en": "Mr. Antônio is retired and lives in Belo Horizonte.",
+    "glosses": {
+     "mora": "lives"
+    }
+   },
+   {
+    "pt": "Todas as manhãs, ele anda no parque perto de casa.",
+    "en": "Every morning, he walks in the park near his home.",
+    "glosses": {
+     "todas": "every",
+     "manhãs": "mornings",
+     "anda": "walks",
+     "no": "in the"
+    }
+   },
+   {
+    "pt": "Mas na semana passada, o joelho dele começou a doer.",
+    "en": "But last week, his knee started to hurt.",
+    "glosses": {
+     "na": "in the",
+     "dele": "his",
+     "começou": "started"
+    }
+   },
+   {
+    "pt": "No começo, ele não ficou preocupado.",
+    "en": "At first, he didn't get worried.",
+    "glosses": {
+     "no": "at",
+     "começo": "the beginning",
+     "ficou": "got"
+    }
+   },
+   {
+    "pt": "Ele tomou um comprimido e descansou no sofá.",
+    "en": "He took a pill and rested on the sofa.",
+    "glosses": {
+     "tomou": "took",
+     "descansou": "rested",
+     "no": "on the"
+    }
+   },
+   {
+    "pt": "Dois dias depois, a dor ainda estava forte.",
+    "en": "Two days later, the pain was still strong.",
+    "glosses": {
+     "depois": "later",
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "Ele não conseguia subir a escada do prédio.",
+    "en": "He couldn't climb the stairs of the building.",
+    "glosses": {
+     "conseguia": "could",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Então a filha dele, Patrícia, ligou para o médico.",
+    "en": "So his daughter, Patrícia, called the doctor.",
+    "glosses": {
+     "filha": "daughter",
+     "dele": "his",
+     "ligou": "called"
+    }
+   },
+   {
+    "pt": "Na quinta-feira, os dois foram ao hospital de ônibus.",
+    "en": "On Thursday, the two of them went to the hospital by bus.",
+    "glosses": {
+     "na": "on",
+     "foram": "went",
+     "ao": "to the",
+     "de": "by"
+    }
+   },
+   {
+    "pt": "O médico perguntou: \"O senhor caiu ou machucou a perna?\"",
+    "en": "The doctor asked: \"Did you fall or hurt your leg, sir?\"",
+    "glosses": {
+     "perguntou": "asked",
+     "senhor": "you (sir)",
+     "caiu": "fell",
+     "machucou": "hurt"
+    }
+   },
+   {
+    "pt": "\"Não, eu não caí\", respondeu Seu Antônio.",
+    "en": "\"No, I didn't fall,\" answered Mr. Antônio.",
+    "glosses": {
+     "caí": "fell",
+     "respondeu": "answered"
+    }
+   },
+   {
+    "pt": "O médico olhou o joelho e pediu um exame dos ossos.",
+    "en": "The doctor looked at the knee and asked for a bone test.",
+    "glosses": {
+     "olhou": "looked at",
+     "pediu": "asked for",
+     "dos": "of the"
+    }
+   },
+   {
+    "pt": "O exame mostrou que o osso estava bem.",
+    "en": "The test showed that the bone was fine.",
+    "glosses": {
+     "mostrou": "showed",
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "\"O senhor precisa descansar a perna por uma semana\", explicou o médico.",
+    "en": "\"You need to rest your leg for a week, sir,\" explained the doctor.",
+    "glosses": {
+     "senhor": "you (sir)",
+     "precisa": "need",
+     "explicou": "explained"
+    }
+   },
+   {
+    "pt": "Ele também deu uma receita para um remédio contra a dor.",
+    "en": "He also gave a prescription for a medicine for the pain.",
+    "glosses": {
+     "deu": "gave",
+     "receita": "prescription",
+     "contra": "against"
+    }
+   },
+   {
+    "pt": "Patrícia comprou o remédio na farmácia da esquina.",
+    "en": "Patrícia bought the medicine at the pharmacy on the corner.",
+    "glosses": {
+     "comprou": "bought",
+     "na": "at the",
+     "da": "on the"
+    }
+   },
+   {
+    "pt": "Durante a semana, Seu Antônio ficou em casa, lendo o jornal e vendo televisão.",
+    "en": "During the week, Mr. Antônio stayed at home, reading the newspaper and watching television.",
+    "glosses": {
+     "ficou": "stayed",
+     "lendo": "reading",
+     "vendo": "watching"
+    }
+   },
+   {
+    "pt": "Ele achou a semana muito chata, mas o joelho melhorou.",
+    "en": "He found the week very boring, but his knee got better.",
+    "glosses": {
+     "achou": "found",
+     "melhorou": "got better"
+    }
+   },
+   {
+    "pt": "Uma semana depois, ele voltou ao parque, feliz e com o joelho bom.",
+    "en": "A week later, he went back to the park, happy and with a good knee.",
+    "glosses": {
+     "depois": "later",
+     "voltou": "went back",
+     "ao": "to the"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "O que começou a doer?",
+    "qEn": "What started to hurt?",
+    "options": [
+     "A cabeça",
+     "O joelho",
+     "A barriga",
+     "O braço"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quem ligou para o médico?",
+    "qEn": "Who called the doctor?",
+    "options": [
+     "A esposa",
+     "O vizinho",
+     "A filha",
+     "O neto"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "O que o médico disse?",
+    "qEn": "What did the doctor say?",
+    "options": [
+     "Descansar a perna",
+     "Correr mais",
+     "Comer menos",
+     "Nadar no mar"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "a2-body-health-2",
+  "level": 2,
+  "topic": "Body & health",
+  "title": "A alergia da Camila",
+  "titleEn": "Camila's allergy",
+  "sentences": [
+   {
+    "pt": "Camila é professora e mora em Curitiba.",
+    "en": "Camila is a teacher and lives in Curitiba.",
+    "glosses": {
+     "professora": "teacher (f)",
+     "mora": "lives"
+    }
+   },
+   {
+    "pt": "Na primavera, ela sempre tem problemas com alergia.",
+    "en": "In spring, she always has problems with allergies.",
+    "glosses": {
+     "na": "in the",
+     "tem": "has"
+    }
+   },
+   {
+    "pt": "Este ano, a alergia começou em setembro.",
+    "en": "This year, the allergy started in September.",
+    "glosses": {
+     "começou": "started"
+    }
+   },
+   {
+    "pt": "Ela acordava todos os dias com o nariz e os olhos vermelhos.",
+    "en": "She woke up every day with a red nose and red eyes.",
+    "glosses": {
+     "acordava": "would wake up",
+     "todos": "every",
+     "dias": "day"
+    }
+   },
+   {
+    "pt": "Na sala de aula, ela espirrava o tempo todo.",
+    "en": "In the classroom, she sneezed all the time.",
+    "glosses": {
+     "na": "in the",
+     "espirrava": "sneezed",
+     "tempo": "time",
+     "todo": "all"
+    }
+   },
+   {
+    "pt": "Os alunos achavam engraçado e diziam: \"Saúde, professora!\"",
+    "en": "The students thought it was funny and said: \"Bless you, teacher!\"",
+    "glosses": {
+     "achavam": "thought",
+     "diziam": "said",
+     "saúde": "bless you (health)"
+    }
+   },
+   {
+    "pt": "Mas Camila não achava nada engraçado.",
+    "en": "But Camila didn't find it funny at all.",
+    "glosses": {
+     "achava": "found",
+     "nada": "not at all"
+    }
+   },
+   {
+    "pt": "Ela também tinha dor de garganta e um pouco de tosse.",
+    "en": "She also had a sore throat and a bit of a cough.",
+    "glosses": {
+     "tinha": "had",
+     "dor": "sore",
+     "garganta": "throat"
+    }
+   },
+   {
+    "pt": "Uma colega disse: \"Você precisa ir ao médico.\"",
+    "en": "A colleague said: \"You need to go to the doctor.\"",
+    "glosses": {
+     "disse": "said",
+     "precisa": "need",
+     "ao": "to the"
+    }
+   },
+   {
+    "pt": "Na sexta-feira à tarde, Camila foi a uma consulta.",
+    "en": "On Friday afternoon, Camila went to an appointment.",
+    "glosses": {
+     "na": "on",
+     "foi": "went"
+    }
+   },
+   {
+    "pt": "A médica perguntou sobre os sintomas e olhou a garganta dela.",
+    "en": "The doctor asked about the symptoms and looked at her throat.",
+    "glosses": {
+     "médica": "doctor (f)",
+     "perguntou": "asked",
+     "olhou": "looked at",
+     "dela": "her"
+    }
+   },
+   {
+    "pt": "\"Não é gripe nem resfriado, é alergia às flores\", ela explicou.",
+    "en": "\"It isn't the flu or a cold, it's an allergy to flowers,\" she explained.",
+    "glosses": {
+     "nem": "or",
+     "às": "to the",
+     "explicou": "explained"
+    }
+   },
+   {
+    "pt": "A médica deu uma receita e disse: \"Beba muita água e descanse no fim de semana.\"",
+    "en": "The doctor gave a prescription and said: \"Drink a lot of water and rest on the weekend.\"",
+    "glosses": {
+     "deu": "gave",
+     "receita": "prescription",
+     "beba": "drink",
+     "descanse": "rest",
+     "no": "on the"
+    }
+   },
+   {
+    "pt": "Camila foi à farmácia e comprou os comprimidos.",
+    "en": "Camila went to the pharmacy and bought the pills.",
+    "glosses": {
+     "foi": "went",
+     "à": "to the",
+     "comprou": "bought"
+    }
+   },
+   {
+    "pt": "No sábado, ela ficou em casa com as janelas fechadas.",
+    "en": "On Saturday, she stayed home with the windows closed.",
+    "glosses": {
+     "no": "on",
+     "ficou": "stayed"
+    }
+   },
+   {
+    "pt": "Ela tomou chá, leu um livro e dormiu muito.",
+    "en": "She drank tea, read a book and slept a lot.",
+    "glosses": {
+     "tomou": "drank",
+     "leu": "read",
+     "dormiu": "slept"
+    }
+   },
+   {
+    "pt": "Na segunda-feira, ela respirava melhor e não espirrava mais.",
+    "en": "On Monday, she was breathing better and wasn't sneezing anymore.",
+    "glosses": {
+     "na": "on",
+     "respirava": "was breathing",
+     "espirrava": "was sneezing",
+     "mais": "anymore"
+    }
+   },
+   {
+    "pt": "Os alunos ficaram surpresos: \"A senhora está ótima hoje!\"",
+    "en": "The students were surprised: \"You look great today, ma'am!\"",
+    "glosses": {
+     "ficaram": "were",
+     "senhora": "you (ma'am)",
+     "está": "are"
+    }
+   },
+   {
+    "pt": "Camila riu e começou a aula muito feliz.",
+    "en": "Camila laughed and started the class very happy.",
+    "glosses": {
+     "riu": "laughed",
+     "começou": "started"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Em que mês a alergia começou?",
+    "qEn": "In what month did the allergy start?",
+    "options": [
+     "Em maio",
+     "Em setembro",
+     "Em dezembro",
+     "Em julho"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Qual era o problema da Camila?",
+    "qEn": "What was Camila's problem?",
+    "options": [
+     "Uma gripe",
+     "Um resfriado",
+     "Uma alergia",
+     "Uma dor no pé"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "O que Camila fez no sábado?",
+    "qEn": "What did Camila do on Saturday?",
+    "options": [
+     "Foi à praia",
+     "Trabalhou na escola",
+     "Ficou em casa",
+     "Viajou para o Rio"
+    ],
+    "answer": 2
+   }
+  ]
+ }
+]

@@ -1,0 +1,548 @@
+[
+ {
+  "pt": "avô",
+  "pos": "n.",
+  "english": "grandfather",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "avôs"
+  ],
+  "example": {
+   "pt": "Meu avô tem oitenta anos.",
+   "en": "My grandfather is eighty years old."
+  }
+ },
+ {
+  "pt": "avó",
+  "pos": "n.",
+  "english": "grandmother",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "f",
+  "forms": [
+   "avós"
+  ],
+  "example": {
+   "pt": "A minha avó faz um bolo delicioso.",
+   "en": "My grandmother makes a delicious cake."
+  }
+ },
+ {
+  "pt": "neto",
+  "pos": "n.",
+  "english": "grandson; (pl.) grandchildren",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "neta",
+   "netos",
+   "netas"
+  ],
+  "example": {
+   "pt": "Ela tem três netos.",
+   "en": "She has three grandchildren."
+  }
+ },
+ {
+  "pt": "tio",
+  "pos": "n.",
+  "english": "uncle (tia: aunt)",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "tia",
+   "tios",
+   "tias"
+  ],
+  "example": {
+   "pt": "Meu tio mora em Salvador.",
+   "en": "My uncle lives in Salvador."
+  }
+ },
+ {
+  "pt": "primo",
+  "pos": "n.",
+  "english": "cousin",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "prima",
+   "primos",
+   "primas"
+  ],
+  "example": {
+   "pt": "Eu passei as férias com a minha prima.",
+   "en": "I spent the vacation with my cousin."
+  }
+ },
+ {
+  "pt": "sobrinho",
+  "pos": "n.",
+  "english": "nephew (sobrinha: niece)",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "sobrinha",
+   "sobrinhos",
+   "sobrinhas"
+  ],
+  "example": {
+   "pt": "Meu sobrinho começou a andar.",
+   "en": "My nephew started walking."
+  }
+ },
+ {
+  "pt": "sogro",
+  "pos": "n.",
+  "english": "father-in-law (sogra: mother-in-law)",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "sogra",
+   "sogros",
+   "sogras"
+  ],
+  "example": {
+   "pt": "A minha sogra vem jantar hoje.",
+   "en": "My mother-in-law is coming to dinner today."
+  }
+ },
+ {
+  "pt": "cunhado",
+  "pos": "n.",
+  "english": "brother-in-law (cunhada: sister-in-law)",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "cunhada",
+   "cunhados",
+   "cunhadas"
+  ],
+  "example": {
+   "pt": "Meu cunhado trabalha num banco.",
+   "en": "My brother-in-law works at a bank."
+  }
+ },
+ {
+  "pt": "marido",
+  "pos": "n.",
+  "english": "husband",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "maridos"
+  ],
+  "example": {
+   "pt": "O marido dela é professor.",
+   "en": "Her husband is a teacher."
+  }
+ },
+ {
+  "pt": "esposa",
+  "pos": "n.",
+  "english": "wife",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "f",
+  "forms": [
+   "esposas"
+  ],
+  "example": {
+   "pt": "Ele foi ao cinema com a esposa.",
+   "en": "He went to the movies with his wife."
+  }
+ },
+ {
+  "pt": "casal",
+  "pos": "n.",
+  "english": "couple",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "casais"
+  ],
+  "example": {
+   "pt": "Eles são um casal muito simpático.",
+   "en": "They are a very nice couple."
+  }
+ },
+ {
+  "pt": "namorado",
+  "pos": "n.",
+  "english": "boyfriend (namorada: girlfriend)",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "namorada",
+   "namorados",
+   "namoradas"
+  ],
+  "example": {
+   "pt": "A minha namorada é de Recife.",
+   "en": "My girlfriend is from Recife."
+  }
+ },
+ {
+  "pt": "noivo",
+  "pos": "n.",
+  "english": "fiancé; groom (noiva: fiancée; bride)",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "noiva",
+   "noivos",
+   "noivas"
+  ],
+  "example": {
+   "pt": "A noiva estava linda no casamento.",
+   "en": "The bride looked beautiful at the wedding."
+  }
+ },
+ {
+  "pt": "parente",
+  "pos": "n.",
+  "english": "relative",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "parentes"
+  ],
+  "example": {
+   "pt": "Todos os parentes vieram para o Natal.",
+   "en": "All the relatives came for Christmas."
+  }
+ },
+ {
+  "pt": "vizinho",
+  "pos": "n.",
+  "english": "neighbor",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "vizinha",
+   "vizinhos",
+   "vizinhas"
+  ],
+  "example": {
+   "pt": "A vizinha do lado tem um cachorro.",
+   "en": "The next-door neighbor has a dog."
+  }
+ },
+ {
+  "pt": "colega",
+  "pos": "n.",
+  "english": "colleague, classmate",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "mf",
+  "forms": [
+   "colegas"
+  ],
+  "example": {
+   "pt": "Almocei com um colega do trabalho.",
+   "en": "I had lunch with a colleague from work."
+  }
+ },
+ {
+  "pt": "bebê",
+  "pos": "n.",
+  "english": "baby",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "bebês"
+  ],
+  "example": {
+   "pt": "O bebê está dormindo.",
+   "en": "The baby is sleeping."
+  }
+ },
+ {
+  "pt": "adolescente",
+  "pos": "n.",
+  "english": "teenager",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "mf",
+  "forms": [
+   "adolescentes"
+  ],
+  "example": {
+   "pt": "Os adolescentes gostam de música alta.",
+   "en": "Teenagers like loud music."
+  }
+ },
+ {
+  "pt": "jovem",
+  "pos": "n./adj.",
+  "english": "young; young person",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "mf",
+  "forms": [
+   "jovens"
+  ],
+  "example": {
+   "pt": "Ela é muito jovem para dirigir.",
+   "en": "She is too young to drive."
+  }
+ },
+ {
+  "pt": "adulto",
+  "pos": "n./adj.",
+  "english": "adult",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "adulta",
+   "adultos",
+   "adultas"
+  ],
+  "example": {
+   "pt": "O ingresso para adultos custa trinta reais.",
+   "en": "The ticket for adults costs thirty reais."
+  }
+ },
+ {
+  "pt": "idoso",
+  "pos": "n./adj.",
+  "english": "elderly (person)",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "idosa",
+   "idosos",
+   "idosas"
+  ],
+  "example": {
+   "pt": "O ônibus tem lugares para idosos.",
+   "en": "The bus has seats for the elderly."
+  }
+ },
+ {
+  "pt": "solteiro",
+  "pos": "adj.",
+  "english": "single, unmarried",
+  "level": 2,
+  "topic": "People & family",
+  "forms": [
+   "solteira",
+   "solteiros",
+   "solteiras"
+  ],
+  "example": {
+   "pt": "Meu irmão ainda está solteiro.",
+   "en": "My brother is still single."
+  }
+ },
+ {
+  "pt": "casado",
+  "pos": "adj.",
+  "english": "married",
+  "level": 2,
+  "topic": "People & family",
+  "forms": [
+   "casada",
+   "casados",
+   "casadas"
+  ],
+  "example": {
+   "pt": "Eles estão casados há dez anos.",
+   "en": "They have been married for ten years."
+  }
+ },
+ {
+  "pt": "divorciado",
+  "pos": "adj.",
+  "english": "divorced",
+  "level": 2,
+  "topic": "People & family",
+  "forms": [
+   "divorciada",
+   "divorciados",
+   "divorciadas"
+  ],
+  "example": {
+   "pt": "Os pais dela são divorciados.",
+   "en": "Her parents are divorced."
+  }
+ },
+ {
+  "pt": "nascer",
+  "pos": "v.",
+  "english": "to be born",
+  "level": 2,
+  "topic": "People & family",
+  "example": {
+   "pt": "Eu nasci em Belo Horizonte.",
+   "en": "I was born in Belo Horizonte."
+  }
+ },
+ {
+  "pt": "crescer",
+  "pos": "v.",
+  "english": "to grow (up)",
+  "level": 2,
+  "topic": "People & family",
+  "example": {
+   "pt": "Ela cresceu no interior.",
+   "en": "She grew up in the countryside."
+  }
+ },
+ {
+  "pt": "casar",
+  "pos": "v.",
+  "english": "to marry, to get married",
+  "level": 2,
+  "topic": "People & family",
+  "example": {
+   "pt": "Eles vão casar em dezembro.",
+   "en": "They are going to get married in December."
+  }
+ },
+ {
+  "pt": "morrer",
+  "pos": "v.",
+  "english": "to die",
+  "level": 2,
+  "topic": "People & family",
+  "example": {
+   "pt": "O avô dele morreu no ano passado.",
+   "en": "His grandfather died last year."
+  }
+ },
+ {
+  "pt": "sobrenome",
+  "pos": "n.",
+  "english": "surname, last name",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "sobrenomes"
+  ],
+  "example": {
+   "pt": "Qual é o seu sobrenome?",
+   "en": "What is your last name?"
+  }
+ },
+ {
+  "pt": "apelido",
+  "pos": "n.",
+  "english": "nickname",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "apelidos"
+  ],
+  "example": {
+   "pt": "O apelido dele é Zé.",
+   "en": "His nickname is Zé."
+  }
+ },
+ {
+  "pt": "parecido",
+  "pos": "adj.",
+  "english": "similar, alike",
+  "level": 2,
+  "topic": "People & family",
+  "forms": [
+   "parecida",
+   "parecidos",
+   "parecidas"
+  ],
+  "example": {
+   "pt": "Você é muito parecida com a sua mãe.",
+   "en": "You look a lot like your mother."
+  }
+ },
+ {
+  "pt": "gêmeo",
+  "pos": "n./adj.",
+  "english": "twin",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "gêmea",
+   "gêmeos",
+   "gêmeas"
+  ],
+  "example": {
+   "pt": "Elas são irmãs gêmeas.",
+   "en": "They are twin sisters."
+  }
+ },
+ {
+  "pt": "padrinho",
+  "pos": "n.",
+  "english": "godfather (madrinha: godmother)",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "padrinha",
+   "padrinhos",
+   "padrinhas"
+  ],
+  "example": {
+   "pt": "Meu padrinho me deu um presente.",
+   "en": "My godfather gave me a present."
+  }
+ },
+ {
+  "pt": "geração",
+  "pos": "n.",
+  "english": "generation",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "f",
+  "forms": [
+   "gerações"
+  ],
+  "example": {
+   "pt": "A nova geração usa muito o celular.",
+   "en": "The new generation uses their phones a lot."
+  }
+ },
+ {
+  "pt": "cuidar",
+  "pos": "v.",
+  "english": "to take care (of)",
+  "level": 2,
+  "topic": "People & family",
+  "example": {
+   "pt": "Eu cuido do meu irmão mais novo.",
+   "en": "I take care of my younger brother."
+  }
+ },
+ {
+  "pt": "parecer",
+  "pos": "v.",
+  "english": "to seem; to look like",
+  "level": 2,
+  "topic": "People & family",
+  "example": {
+   "pt": "Ele parece cansado hoje.",
+   "en": "He seems tired today."
+  }
+ }
+]

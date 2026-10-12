@@ -1,0 +1,1179 @@
+[
+ {
+  "pt": "de",
+  "pos": "prep.",
+  "english": "of, from",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "do",
+   "da",
+   "dos",
+   "das",
+   "dele",
+   "dela",
+   "deles",
+   "delas",
+   "deste",
+   "desta",
+   "destes",
+   "destas",
+   "disto",
+   "desse",
+   "dessa",
+   "desses",
+   "dessas",
+   "disso",
+   "daquele",
+   "daquela",
+   "daqueles",
+   "daquelas",
+   "daquilo",
+   "daqui",
+   "dali",
+   "daí",
+   "dum",
+   "duma"
+  ],
+  "example": {
+   "pt": "O livro dela é novo.",
+   "en": "Her book is new."
+  }
+ },
+ {
+  "pt": "em",
+  "pos": "prep.",
+  "english": "in, on, at",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "no",
+   "na",
+   "nos",
+   "nas",
+   "num",
+   "numa",
+   "nuns",
+   "numas",
+   "nele",
+   "nela",
+   "neles",
+   "nelas",
+   "neste",
+   "nesta",
+   "nestes",
+   "nestas",
+   "nisto",
+   "nesse",
+   "nessa",
+   "nesses",
+   "nessas",
+   "nisso",
+   "naquele",
+   "naquela",
+   "naqueles",
+   "naquelas",
+   "naquilo"
+  ],
+  "example": {
+   "pt": "Eu moro nesta rua.",
+   "en": "I live on this street."
+  }
+ },
+ {
+  "pt": "a",
+  "pos": "prep.",
+  "english": "to, at",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "ao",
+   "aos",
+   "à",
+   "às",
+   "àquele",
+   "àquela",
+   "àquilo"
+  ],
+  "example": {
+   "pt": "Nós vamos ao mercado.",
+   "en": "We are going to the market."
+  }
+ },
+ {
+  "pt": "por",
+  "pos": "prep.",
+  "english": "by, through, for, per",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "pelo",
+   "pela",
+   "pelos",
+   "pelas"
+  ],
+  "example": {
+   "pt": "Nós passamos pela praça.",
+   "en": "We went through the square."
+  }
+ },
+ {
+  "pt": "para",
+  "pos": "prep.",
+  "english": "for, to",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "pra",
+   "pro",
+   "pros",
+   "pras"
+  ],
+  "example": {
+   "pt": "Eu vou pra casa agora.",
+   "en": "I'm going home now."
+  }
+ },
+ {
+  "pt": "sem",
+  "pos": "prep.",
+  "english": "without",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu tomo café sem açúcar.",
+   "en": "I drink coffee without sugar."
+  }
+ },
+ {
+  "pt": "até",
+  "pos": "prep.",
+  "english": "until, up to; even",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Até amanhã!",
+   "en": "See you tomorrow!"
+  }
+ },
+ {
+  "pt": "entre",
+  "pos": "prep.",
+  "english": "between, among",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "A farmácia fica entre o banco e a padaria.",
+   "en": "The pharmacy is between the bank and the bakery."
+  }
+ },
+ {
+  "pt": "sobre",
+  "pos": "prep.",
+  "english": "about; on, over",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "O livro é sobre o Brasil.",
+   "en": "The book is about Brazil."
+  }
+ },
+ {
+  "pt": "desde",
+  "pos": "prep.",
+  "english": "since",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu moro aqui desde janeiro.",
+   "en": "I have lived here since January."
+  }
+ },
+ {
+  "pt": "contra",
+  "pos": "prep.",
+  "english": "against",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "O Brasil joga contra a Argentina hoje.",
+   "en": "Brazil plays against Argentina today."
+  }
+ },
+ {
+  "pt": "perto de",
+  "pos": "prep.",
+  "english": "near, close to",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "perto do",
+   "perto da",
+   "perto dos",
+   "perto das",
+   "perto dele",
+   "perto dela",
+   "perto deles",
+   "perto delas",
+   "perto disso",
+   "perto daqui",
+   "perto dali"
+  ],
+  "example": {
+   "pt": "O hotel fica perto da praia.",
+   "en": "The hotel is near the beach."
+  }
+ },
+ {
+  "pt": "longe de",
+  "pos": "prep.",
+  "english": "far from",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "longe do",
+   "longe da",
+   "longe dos",
+   "longe das",
+   "longe dele",
+   "longe dela",
+   "longe deles",
+   "longe delas",
+   "longe disso",
+   "longe daqui",
+   "longe dali"
+  ],
+  "example": {
+   "pt": "Minha casa fica longe do centro.",
+   "en": "My house is far from downtown."
+  }
+ },
+ {
+  "pt": "antes de",
+  "pos": "prep.",
+  "english": "before",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "antes do",
+   "antes da",
+   "antes dos",
+   "antes das",
+   "antes dele",
+   "antes dela",
+   "antes deles",
+   "antes delas",
+   "antes disso",
+   "antes daqui",
+   "antes dali"
+  ],
+  "example": {
+   "pt": "Eu tomo café antes de sair.",
+   "en": "I have coffee before going out."
+  }
+ },
+ {
+  "pt": "depois de",
+  "pos": "prep.",
+  "english": "after",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "depois do",
+   "depois da",
+   "depois dos",
+   "depois das",
+   "depois dele",
+   "depois dela",
+   "depois deles",
+   "depois delas",
+   "depois disso",
+   "depois daqui",
+   "depois dali"
+  ],
+  "example": {
+   "pt": "Depois do jantar, nós vemos um filme.",
+   "en": "After dinner, we watch a movie."
+  }
+ },
+ {
+  "pt": "em frente de",
+  "pos": "prep.",
+  "english": "in front of, across from",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "em frente do",
+   "em frente da",
+   "em frente dos",
+   "em frente das",
+   "em frente dele",
+   "em frente dela",
+   "em frente deles",
+   "em frente delas",
+   "em frente disso",
+   "em frente daqui",
+   "em frente dali"
+  ],
+  "example": {
+   "pt": "O ônibus para em frente da escola.",
+   "en": "The bus stops in front of the school."
+  }
+ },
+ {
+  "pt": "atrás de",
+  "pos": "prep.",
+  "english": "behind",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "atrás do",
+   "atrás da",
+   "atrás dos",
+   "atrás das",
+   "atrás dele",
+   "atrás dela",
+   "atrás deles",
+   "atrás delas",
+   "atrás disso",
+   "atrás daqui",
+   "atrás dali"
+  ],
+  "example": {
+   "pt": "O parque fica atrás do museu.",
+   "en": "The park is behind the museum."
+  }
+ },
+ {
+  "pt": "ao lado de",
+  "pos": "prep.",
+  "english": "next to, beside",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "ao lado do",
+   "ao lado da",
+   "ao lado dos",
+   "ao lado das",
+   "ao lado dele",
+   "ao lado dela",
+   "ao lado deles",
+   "ao lado delas",
+   "ao lado disso",
+   "ao lado daqui",
+   "ao lado dali"
+  ],
+  "example": {
+   "pt": "A padaria fica ao lado do banco.",
+   "en": "The bakery is next to the bank."
+  }
+ },
+ {
+  "pt": "dentro de",
+  "pos": "prep.",
+  "english": "inside, within",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "dentro do",
+   "dentro da",
+   "dentro dos",
+   "dentro das",
+   "dentro dele",
+   "dentro dela",
+   "dentro deles",
+   "dentro delas",
+   "dentro disso",
+   "dentro daqui",
+   "dentro dali"
+  ],
+  "example": {
+   "pt": "O celular está dentro da bolsa.",
+   "en": "The phone is inside the bag."
+  }
+ },
+ {
+  "pt": "fora de",
+  "pos": "prep.",
+  "english": "outside, out of",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "fora do",
+   "fora da",
+   "fora dos",
+   "fora das",
+   "fora dele",
+   "fora dela",
+   "fora deles",
+   "fora delas",
+   "fora disso",
+   "fora daqui",
+   "fora dali"
+  ],
+  "example": {
+   "pt": "Eles moram fora da cidade.",
+   "en": "They live outside the city."
+  }
+ },
+ {
+  "pt": "a gente",
+  "pos": "pron.",
+  "english": "we (informal)",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "A gente vai ao cinema hoje.",
+   "en": "We're going to the movies today."
+  }
+ },
+ {
+  "pt": "me",
+  "pos": "pron.",
+  "english": "me, myself",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Você me ajuda?",
+   "en": "Will you help me?"
+  }
+ },
+ {
+  "pt": "te",
+  "pos": "pron.",
+  "english": "you (object)",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu te ligo amanhã.",
+   "en": "I'll call you tomorrow."
+  }
+ },
+ {
+  "pt": "se",
+  "pos": "pron./conj.",
+  "english": "oneself; if",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Se você quiser, a gente vai à praia.",
+   "en": "If you want, we'll go to the beach."
+  }
+ },
+ {
+  "pt": "lhe",
+  "pos": "pron.",
+  "english": "to him, to her, to you",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "lhes"
+  ],
+  "example": {
+   "pt": "Eu lhe dou o livro amanhã.",
+   "en": "I'll give you the book tomorrow."
+  }
+ },
+ {
+  "pt": "nos",
+  "pos": "pron.",
+  "english": "us, ourselves",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ela nos visita todo domingo.",
+   "en": "She visits us every Sunday."
+  }
+ },
+ {
+  "pt": "mim",
+  "pos": "pron.",
+  "english": "me (after prepositions)",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Este presente é para mim?",
+   "en": "Is this gift for me?"
+  }
+ },
+ {
+  "pt": "comigo",
+  "pos": "pron.",
+  "english": "with me",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Você vai comigo ao mercado?",
+   "en": "Are you going to the market with me?"
+  }
+ },
+ {
+  "pt": "contigo",
+  "pos": "pron.",
+  "english": "with you",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu vou contigo.",
+   "en": "I'll go with you."
+  }
+ },
+ {
+  "pt": "conosco",
+  "pos": "pron.",
+  "english": "with us",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Vocês querem jantar conosco?",
+   "en": "Do you want to have dinner with us?"
+  }
+ },
+ {
+  "pt": "seu",
+  "pos": "pron.",
+  "english": "your; his, her, their",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "sua",
+   "seus",
+   "suas"
+  ],
+  "example": {
+   "pt": "Qual é o seu nome?",
+   "en": "What is your name?"
+  }
+ },
+ {
+  "pt": "nosso",
+  "pos": "pron.",
+  "english": "our",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "nossa",
+   "nossos",
+   "nossas"
+  ],
+  "example": {
+   "pt": "Nossa casa é pequena.",
+   "en": "Our house is small."
+  }
+ },
+ {
+  "pt": "este",
+  "pos": "pron.",
+  "english": "this",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "esta",
+   "estes",
+   "estas"
+  ],
+  "example": {
+   "pt": "Esta rua é muito bonita.",
+   "en": "This street is very pretty."
+  }
+ },
+ {
+  "pt": "esse",
+  "pos": "pron.",
+  "english": "that, this",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "essa",
+   "esses",
+   "essas"
+  ],
+  "example": {
+   "pt": "Quanto custa essa camisa?",
+   "en": "How much is that shirt?"
+  }
+ },
+ {
+  "pt": "aquele",
+  "pos": "pron.",
+  "english": "that (over there)",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "aquela",
+   "aqueles",
+   "aquelas"
+  ],
+  "example": {
+   "pt": "Aquele prédio é um hotel.",
+   "en": "That building over there is a hotel."
+  }
+ },
+ {
+  "pt": "isto",
+  "pos": "pron.",
+  "english": "this (thing)",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "O que é isto?",
+   "en": "What is this?"
+  }
+ },
+ {
+  "pt": "isso",
+  "pos": "pron.",
+  "english": "that (thing)",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Isso é muito bom!",
+   "en": "That's very good!"
+  }
+ },
+ {
+  "pt": "aquilo",
+  "pos": "pron.",
+  "english": "that (thing over there)",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "O que é aquilo?",
+   "en": "What is that over there?"
+  }
+ },
+ {
+  "pt": "o que",
+  "pos": "pron.",
+  "english": "what",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "O que você quer comer?",
+   "en": "What do you want to eat?"
+  }
+ },
+ {
+  "pt": "quando",
+  "pos": "adv./conj.",
+  "english": "when",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Quando você chega?",
+   "en": "When do you arrive?"
+  }
+ },
+ {
+  "pt": "como",
+  "pos": "adv./conj.",
+  "english": "how; like, as",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Como você se chama?",
+   "en": "What's your name?"
+  }
+ },
+ {
+  "pt": "quanto",
+  "pos": "adv./pron.",
+  "english": "how much, how many",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "quanta",
+   "quantos",
+   "quantas"
+  ],
+  "example": {
+   "pt": "Quantos anos você tem?",
+   "en": "How old are you?"
+  }
+ },
+ {
+  "pt": "qual",
+  "pos": "pron.",
+  "english": "which, what",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "quais"
+  ],
+  "example": {
+   "pt": "Qual é o seu telefone?",
+   "en": "What is your phone number?"
+  }
+ },
+ {
+  "pt": "por que",
+  "pos": "adv.",
+  "english": "why (in questions)",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Por que você está triste?",
+   "en": "Why are you sad?"
+  }
+ },
+ {
+  "pt": "porque",
+  "pos": "conj.",
+  "english": "because",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu não vou porque estou cansado.",
+   "en": "I'm not going because I'm tired."
+  }
+ },
+ {
+  "pt": "por quê",
+  "pos": "adv.",
+  "english": "why (at end of sentence)",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Você não vem? Por quê?",
+   "en": "You're not coming? Why?"
+  }
+ },
+ {
+  "pt": "ou",
+  "pos": "conj.",
+  "english": "or",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Você quer café ou chá?",
+   "en": "Do you want coffee or tea?"
+  }
+ },
+ {
+  "pt": "então",
+  "pos": "adv./conj.",
+  "english": "so, then",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Está chovendo, então eu vou de táxi.",
+   "en": "It's raining, so I'm going by taxi."
+  }
+ },
+ {
+  "pt": "sim",
+  "pos": "adv.",
+  "english": "yes",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Sim, eu falo português.",
+   "en": "Yes, I speak Portuguese."
+  }
+ },
+ {
+  "pt": "pouco",
+  "pos": "adv./adj.",
+  "english": "little, a little; few",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "pouca",
+   "poucos",
+   "poucas"
+  ],
+  "example": {
+   "pt": "Eu falo um pouco de português.",
+   "en": "I speak a little Portuguese."
+  }
+ },
+ {
+  "pt": "mais",
+  "pos": "adv.",
+  "english": "more; most",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu quero mais água, por favor.",
+   "en": "I want more water, please."
+  }
+ },
+ {
+  "pt": "menos",
+  "pos": "adv.",
+  "english": "less, fewer; minus",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu como menos carne agora.",
+   "en": "I eat less meat now."
+  }
+ },
+ {
+  "pt": "bem",
+  "pos": "adv.",
+  "english": "well; fine",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu estou bem, obrigado.",
+   "en": "I'm fine, thank you."
+  }
+ },
+ {
+  "pt": "mal",
+  "pos": "adv.",
+  "english": "badly, poorly",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu dormi mal ontem.",
+   "en": "I slept badly yesterday."
+  }
+ },
+ {
+  "pt": "já",
+  "pos": "adv.",
+  "english": "already; now, right away",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu já comi.",
+   "en": "I already ate."
+  }
+ },
+ {
+  "pt": "ainda",
+  "pos": "adv.",
+  "english": "still, yet",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ela ainda mora com os pais.",
+   "en": "She still lives with her parents."
+  }
+ },
+ {
+  "pt": "sempre",
+  "pos": "adv.",
+  "english": "always",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu sempre tomo café de manhã.",
+   "en": "I always have coffee in the morning."
+  }
+ },
+ {
+  "pt": "nunca",
+  "pos": "adv.",
+  "english": "never",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu nunca como carne.",
+   "en": "I never eat meat."
+  }
+ },
+ {
+  "pt": "só",
+  "pos": "adv.",
+  "english": "only, just",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu só falo um pouco de português.",
+   "en": "I only speak a little Portuguese."
+  }
+ },
+ {
+  "pt": "aí",
+  "pos": "adv.",
+  "english": "there (near you)",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Você está aí?",
+   "en": "Are you there?"
+  }
+ },
+ {
+  "pt": "ali",
+  "pos": "adv.",
+  "english": "there (nearby)",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "O banheiro é ali.",
+   "en": "The bathroom is over there."
+  }
+ },
+ {
+  "pt": "lá",
+  "pos": "adv.",
+  "english": "there (far)",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu morei lá dois anos.",
+   "en": "I lived there for two years."
+  }
+ },
+ {
+  "pt": "agora",
+  "pos": "adv.",
+  "english": "now",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu estou ocupado agora.",
+   "en": "I'm busy now."
+  }
+ },
+ {
+  "pt": "depois",
+  "pos": "adv.",
+  "english": "after, later, afterwards",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "A gente conversa depois.",
+   "en": "We'll talk later."
+  }
+ },
+ {
+  "pt": "antes",
+  "pos": "adv.",
+  "english": "before",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu nunca estive aqui antes.",
+   "en": "I've never been here before."
+  }
+ },
+ {
+  "pt": "assim",
+  "pos": "adv.",
+  "english": "like this, this way",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Você faz assim.",
+   "en": "You do it like this."
+  }
+ },
+ {
+  "pt": "tão",
+  "pos": "adv.",
+  "english": "so, such",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "O Rio é tão bonito!",
+   "en": "Rio is so beautiful!"
+  }
+ },
+ {
+  "pt": "todo",
+  "pos": "adj./pron.",
+  "english": "all, every, whole",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "toda",
+   "todos",
+   "todas"
+  ],
+  "example": {
+   "pt": "Eu trabalho todos os dias.",
+   "en": "I work every day."
+  }
+ },
+ {
+  "pt": "tudo",
+  "pos": "pron.",
+  "english": "everything",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Tudo bem com você?",
+   "en": "Is everything OK with you?"
+  }
+ },
+ {
+  "pt": "nada",
+  "pos": "pron.",
+  "english": "nothing",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu não comprei nada.",
+   "en": "I didn't buy anything."
+  }
+ },
+ {
+  "pt": "algo",
+  "pos": "pron.",
+  "english": "something",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Você quer algo para beber?",
+   "en": "Do you want something to drink?"
+  }
+ },
+ {
+  "pt": "alguém",
+  "pos": "pron.",
+  "english": "someone, anyone",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Alguém fala inglês aqui?",
+   "en": "Does anyone speak English here?"
+  }
+ },
+ {
+  "pt": "ninguém",
+  "pos": "pron.",
+  "english": "no one, nobody",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ninguém está em casa.",
+   "en": "Nobody is at home."
+  }
+ },
+ {
+  "pt": "algum",
+  "pos": "adj./pron.",
+  "english": "some, any",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "alguma",
+   "alguns",
+   "algumas"
+  ],
+  "example": {
+   "pt": "Eu tenho alguns amigos no Brasil.",
+   "en": "I have some friends in Brazil."
+  }
+ },
+ {
+  "pt": "nenhum",
+  "pos": "adj./pron.",
+  "english": "no, none, not any",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "nenhuma"
+  ],
+  "example": {
+   "pt": "Eu não tenho nenhuma pergunta.",
+   "en": "I don't have any questions."
+  }
+ },
+ {
+  "pt": "outro",
+  "pos": "adj./pron.",
+  "english": "other, another",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "outra",
+   "outros",
+   "outras"
+  ],
+  "example": {
+   "pt": "Eu quero outro café.",
+   "en": "I want another coffee."
+  }
+ },
+ {
+  "pt": "mesmo",
+  "pos": "adj./adv.",
+  "english": "same; really, even",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "mesma",
+   "mesmos",
+   "mesmas"
+  ],
+  "example": {
+   "pt": "Nós moramos na mesma rua.",
+   "en": "We live on the same street."
+  }
+ },
+ {
+  "pt": "cada",
+  "pos": "adj.",
+  "english": "each, every",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Cada aula tem uma hora.",
+   "en": "Each class is one hour long."
+  }
+ },
+ {
+  "pt": "muito obrigado",
+  "pos": "expr.",
+  "english": "thank you very much",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "muito obrigada"
+  ],
+  "example": {
+   "pt": "Muito obrigada pela ajuda!",
+   "en": "Thank you very much for the help!"
+  }
+ },
+ {
+  "pt": "quase",
+  "pos": "adv.",
+  "english": "almost",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Já são quase dez horas.",
+   "en": "It's almost ten o'clock."
+  }
+ },
+ {
+  "pt": "também não",
+  "pos": "expr.",
+  "english": "not either, neither",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu também não sei.",
+   "en": "I don't know either."
+  }
+ },
+ {
+  "pt": "durante",
+  "pos": "prep.",
+  "english": "during",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu durmo durante a viagem.",
+   "en": "I sleep during the trip."
+  }
+ },
+ {
+  "pt": "nem",
+  "pos": "conj.",
+  "english": "nor, not even",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu não bebo café nem chá.",
+   "en": "I don't drink coffee or tea."
+  }
+ }
+]

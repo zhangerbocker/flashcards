@@ -1,0 +1,434 @@
+[
+ {
+  "id": "a2-school-work-1",
+  "level": 2,
+  "topic": "School & work",
+  "title": "A primeira entrevista",
+  "titleEn": "The first interview",
+  "sentences": [
+   {
+    "pt": "Aline tem vinte e dois anos e acabou de terminar a faculdade.",
+    "en": "Aline is twenty-two and has just finished college.",
+    "glosses": {
+     "tem": "is",
+     "acabou de": "has just"
+    }
+   },
+   {
+    "pt": "Ela quer trabalhar como engenheira em uma empresa grande.",
+    "en": "She wants to work as an engineer at a big company.",
+    "glosses": {
+     "quer": "wants",
+     "como": "as",
+     "engenheira": "engineer",
+     "em": "at"
+    }
+   },
+   {
+    "pt": "Durante um mês, ela enviou o currículo para muitas empresas.",
+    "en": "For a month, she sent her résumé to many companies.",
+    "glosses": {
+     "durante": "for",
+     "enviou": "sent"
+    }
+   },
+   {
+    "pt": "Mas ninguém respondeu, e ela começou a ficar triste.",
+    "en": "But nobody answered, and she started to feel sad.",
+    "glosses": {
+     "respondeu": "answered",
+     "começou": "started",
+     "ficar": "to feel"
+    }
+   },
+   {
+    "pt": "Um dia, ela recebeu um e-mail de uma empresa em São Paulo.",
+    "en": "One day, she got an email from a company in São Paulo.",
+    "glosses": {
+     "recebeu": "got"
+    }
+   },
+   {
+    "pt": "Eles tinham uma vaga de estágio e queriam fazer uma entrevista com ela.",
+    "en": "They had an internship opening and wanted to interview her.",
+    "glosses": {
+     "tinham": "had",
+     "vaga de estágio": "internship opening",
+     "queriam": "wanted",
+     "fazer uma entrevista com": "to interview"
+    }
+   },
+   {
+    "pt": "Aline ficou muito animada, mas também ansiosa.",
+    "en": "Aline was very excited, but also anxious.",
+    "glosses": {
+     "ficou": "was"
+    }
+   },
+   {
+    "pt": "Na noite antes da entrevista, ela quase não dormiu.",
+    "en": "The night before the interview, she hardly slept.",
+    "glosses": {
+     "na": "the",
+     "da": "the",
+     "quase não": "hardly",
+     "dormiu": "slept"
+    }
+   },
+   {
+    "pt": "Ela escolheu uma roupa simples e chegou ao escritório meia hora antes.",
+    "en": "She chose a simple outfit and got to the office half an hour early.",
+    "glosses": {
+     "escolheu": "chose",
+     "roupa": "outfit",
+     "chegou": "got",
+     "ao": "to the",
+     "antes": "early"
+    }
+   },
+   {
+    "pt": "A chefe era uma mulher simpática chamada Fernanda.",
+    "en": "The boss was a friendly woman named Fernanda.",
+    "glosses": {
+     "era": "was",
+     "chamada": "named"
+    }
+   },
+   {
+    "pt": "Ela fez muitas perguntas sobre a faculdade e os projetos de Aline.",
+    "en": "She asked many questions about college and Aline's projects.",
+    "glosses": {
+     "fez": "asked"
+    }
+   },
+   {
+    "pt": "— Você tem experiência de trabalho? — perguntou Fernanda.",
+    "en": "\"Do you have work experience?\" asked Fernanda.",
+    "glosses": {
+     "tem": "have",
+     "perguntou": "asked"
+    }
+   },
+   {
+    "pt": "— Ainda não, mas eu aprendo rápido e trabalho muito — respondeu Aline.",
+    "en": "\"Not yet, but I learn fast and I work hard,\" answered Aline.",
+    "glosses": {
+     "ainda não": "not yet",
+     "aprendo": "learn",
+     "rápido": "fast",
+     "trabalho": "work",
+     "muito": "hard",
+     "respondeu": "answered"
+    }
+   },
+   {
+    "pt": "Fernanda explicou que o estágio durava seis meses e que o salário era de 2 mil reais.",
+    "en": "Fernanda explained that the internship lasted six months and that the pay was 2 thousand reais.",
+    "glosses": {
+     "explicou": "explained",
+     "durava": "lasted",
+     "salário": "pay",
+     "era de": "was"
+    }
+   },
+   {
+    "pt": "Uma semana depois, o telefone tocou.",
+    "en": "A week later, the phone rang.",
+    "glosses": {
+     "depois": "later",
+     "tocou": "rang"
+    }
+   },
+   {
+    "pt": "Era Fernanda, com uma ótima notícia: a empresa queria contratar Aline!",
+    "en": "It was Fernanda, with great news: the company wanted to hire Aline!",
+    "glosses": {
+     "era": "it was",
+     "notícia": "news",
+     "queria": "wanted"
+    }
+   },
+   {
+    "pt": "Na segunda-feira, Aline assinou o contrato.",
+    "en": "On Monday, Aline signed the contract.",
+    "glosses": {
+     "na": "on",
+     "assinou": "signed"
+    }
+   },
+   {
+    "pt": "Ela ligou para os pais e contou tudo.",
+    "en": "She called her parents and told them everything.",
+    "glosses": {
+     "ligou": "called",
+     "pais": "parents",
+     "contou": "told (them)"
+    }
+   },
+   {
+    "pt": "A mãe chorou de alegria, e o pai ficou muito orgulhoso.",
+    "en": "Her mother cried with joy, and her father was very proud.",
+    "glosses": {
+     "chorou": "cried",
+     "de": "with",
+     "ficou": "was"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "O que Aline enviou para muitas empresas?",
+    "qEn": "What did Aline send to many companies?",
+    "options": [
+     "Uma foto",
+     "O currículo",
+     "Um presente",
+     "Um livro"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quanto tempo dura o estágio?",
+    "qEn": "How long does the internship last?",
+    "options": [
+     "Três meses",
+     "Seis meses",
+     "Um ano",
+     "Duas semanas"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Como o pai de Aline ficou?",
+    "qEn": "How did Aline's father feel?",
+    "options": [
+     "Triste",
+     "Bravo",
+     "Orgulhoso",
+     "Preocupado"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "a2-school-work-2",
+  "level": 2,
+  "topic": "School & work",
+  "title": "O projeto da turma",
+  "titleEn": "The class project",
+  "sentences": [
+   {
+    "pt": "Marcos é professor de história em uma escola de Brasília.",
+    "en": "Marcos is a history teacher at a school in Brasília.",
+    "glosses": {
+     "é": "is",
+     "professor de história": "history teacher",
+     "em": "at",
+     "de": "in"
+    }
+   },
+   {
+    "pt": "Ele ensina uma turma de trinta alunos de catorze anos.",
+    "en": "He teaches a class of thirty fourteen-year-old students.",
+    "glosses": {
+     "ensina": "teaches",
+     "de catorze anos": "fourteen-year-old"
+    }
+   },
+   {
+    "pt": "A turma é inteligente, mas muito barulhenta.",
+    "en": "The class is smart, but very noisy.",
+    "glosses": {
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Em março, ele pediu um projeto sobre a história de Brasília.",
+    "en": "In March, he asked for a project about the history of Brasília.",
+    "glosses": {
+     "pediu": "asked for"
+    }
+   },
+   {
+    "pt": "O prazo era de um mês.",
+    "en": "The deadline was one month.",
+    "glosses": {
+     "era de": "was"
+    }
+   },
+   {
+    "pt": "Júlia é uma aluna muito boa e adora a matéria.",
+    "en": "Júlia is a very good student and loves the subject.",
+    "glosses": {
+     "é": "is",
+     "aluna": "student",
+     "boa": "good",
+     "adora": "loves"
+    }
+   },
+   {
+    "pt": "Ela foi à biblioteca, leu muitos livros e conversou com os avós sobre a cidade antiga.",
+    "en": "She went to the library, read many books and talked with her grandparents about the old city.",
+    "glosses": {
+     "foi": "went",
+     "à": "to the",
+     "leu": "read",
+     "conversou": "talked",
+     "avós": "grandparents"
+    }
+   },
+   {
+    "pt": "Os avós dela chegaram a Brasília na década de sessenta, quando a cidade era nova.",
+    "en": "Her grandparents arrived in Brasília in the sixties, when the city was new.",
+    "glosses": {
+     "avós": "grandparents",
+     "dela": "her",
+     "chegaram": "arrived",
+     "a": "in",
+     "na década de sessenta": "in the sixties",
+     "era": "was"
+    }
+   },
+   {
+    "pt": "Eles contaram muitas histórias e mostraram fotos daquela época.",
+    "en": "They told many stories and showed photos from that time.",
+    "glosses": {
+     "contaram": "told",
+     "histórias": "stories",
+     "mostraram": "showed",
+     "daquela": "from that"
+    }
+   },
+   {
+    "pt": "Júlia escreveu tudo no caderno e desenhou um mapa da cidade.",
+    "en": "Júlia wrote everything in her notebook and drew a map of the city.",
+    "glosses": {
+     "escreveu": "wrote",
+     "no": "in her",
+     "desenhou": "drew",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Mas, na última semana, ela ficou doente, com gripe.",
+    "en": "But in the last week, she got sick with the flu.",
+    "glosses": {
+     "na": "in the",
+     "ficou": "got",
+     "com": "with"
+    }
+   },
+   {
+    "pt": "Ela ficou preocupada, porque não ia terminar o projeto a tempo.",
+    "en": "She got worried, because she wasn't going to finish the project in time.",
+    "glosses": {
+     "ficou": "got",
+     "ia terminar": "was going to finish"
+    }
+   },
+   {
+    "pt": "Então mandou uma mensagem para o professor e explicou o problema.",
+    "en": "So she sent a message to the teacher and explained the problem.",
+    "glosses": {
+     "mandou": "sent",
+     "explicou": "explained"
+    }
+   },
+   {
+    "pt": "Marcos respondeu logo: — Tudo bem, Júlia. Descanse e termine o projeto na próxima semana.",
+    "en": "Marcos answered right away: \"That's OK, Júlia. Rest and finish the project next week.\"",
+    "glosses": {
+     "respondeu": "answered",
+     "logo": "right away",
+     "tudo bem": "that's OK",
+     "descanse": "rest",
+     "termine": "finish",
+     "na próxima semana": "next week"
+    }
+   },
+   {
+    "pt": "Uma semana depois, Júlia mostrou o projeto para a turma.",
+    "en": "A week later, Júlia showed the project to the class.",
+    "glosses": {
+     "depois": "later",
+     "mostrou": "showed"
+    }
+   },
+   {
+    "pt": "Os colegas gostaram muito das histórias dos avós dela.",
+    "en": "Her classmates really liked her grandparents' stories.",
+    "glosses": {
+     "colegas": "classmates",
+     "gostaram muito das": "really liked the",
+     "histórias": "stories",
+     "dos avós dela": "her grandparents'"
+    }
+   },
+   {
+    "pt": "Marcos corrigiu o trabalho e encontrou apenas dois erros pequenos.",
+    "en": "Marcos marked the work and found only two small mistakes.",
+    "glosses": {
+     "corrigiu": "marked",
+     "encontrou": "found"
+    }
+   },
+   {
+    "pt": "Júlia recebeu a nota mais alta da turma: nove e meio.",
+    "en": "Júlia got the highest grade in the class: nine and a half.",
+    "glosses": {
+     "recebeu": "got",
+     "mais alta": "highest",
+     "da": "in the",
+     "meio": "a half"
+    }
+   },
+   {
+    "pt": "No fim da aula, ela disse: — Obrigada, professor! Agora eu quero estudar história na faculdade.",
+    "en": "At the end of class, she said, \"Thank you, teacher! Now I want to study history in college.\"",
+    "glosses": {
+     "no fim da": "at the end of",
+     "disse": "said",
+     "obrigada": "thank you",
+     "quero": "want",
+     "na": "in"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Qual é a matéria de Marcos?",
+    "qEn": "What subject does Marcos teach?",
+    "options": [
+     "Matemática",
+     "Inglês",
+     "História",
+     "Português"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Por que Júlia não terminou o projeto a tempo?",
+    "qEn": "Why didn't Júlia finish the project in time?",
+    "options": [
+     "Ela ficou doente",
+     "Ela viajou",
+     "Ela perdeu o caderno",
+     "Ela esqueceu o prazo"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Qual foi a nota de Júlia?",
+    "qEn": "What was Júlia's grade?",
+    "options": [
+     "Sete",
+     "Oito",
+     "Nove e meio",
+     "Dez"
+    ],
+    "answer": 2
+   }
+  ]
+ }
+]

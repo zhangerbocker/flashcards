@@ -1,0 +1,401 @@
+[
+ {
+  "pt": "feliz",
+  "pos": "adj.",
+  "english": "happy",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "felizes"
+  ],
+  "example": {
+   "pt": "Eu estou muito feliz hoje.",
+   "en": "I am very happy today."
+  }
+ },
+ {
+  "pt": "triste",
+  "pos": "adj.",
+  "english": "sad",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "tristes"
+  ],
+  "example": {
+   "pt": "Por que você está triste?",
+   "en": "Why are you sad?"
+  }
+ },
+ {
+  "pt": "cansado",
+  "pos": "adj.",
+  "english": "tired",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "cansada",
+   "cansados",
+   "cansadas"
+  ],
+  "example": {
+   "pt": "Estou cansada depois do trabalho.",
+   "en": "I am tired after work."
+  }
+ },
+ {
+  "pt": "alegre",
+  "pos": "adj.",
+  "english": "cheerful, joyful",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "alegres"
+  ],
+  "example": {
+   "pt": "Ela é uma pessoa alegre.",
+   "en": "She is a cheerful person."
+  }
+ },
+ {
+  "pt": "nervoso",
+  "pos": "adj.",
+  "english": "nervous; upset",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "nervosa",
+   "nervosos",
+   "nervosas"
+  ],
+  "example": {
+   "pt": "Estou nervoso com a prova.",
+   "en": "I'm nervous about the test."
+  }
+ },
+ {
+  "pt": "preocupado",
+  "pos": "adj.",
+  "english": "worried",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "preocupada",
+   "preocupados",
+   "preocupadas"
+  ],
+  "example": {
+   "pt": "Minha mãe está preocupada.",
+   "en": "My mother is worried."
+  }
+ },
+ {
+  "pt": "bravo",
+  "pos": "adj.",
+  "english": "angry, mad",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "brava",
+   "bravos",
+   "bravas"
+  ],
+  "example": {
+   "pt": "Meu pai ficou bravo.",
+   "en": "My father got angry."
+  }
+ },
+ {
+  "pt": "calmo",
+  "pos": "adj.",
+  "english": "calm",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "calma",
+   "calmos",
+   "calmas"
+  ],
+  "example": {
+   "pt": "O mar está calmo hoje.",
+   "en": "The sea is calm today."
+  }
+ },
+ {
+  "pt": "com fome",
+  "pos": "expr.",
+  "english": "(estar com fome) to be hungry",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Eu estou com fome.",
+   "en": "I am hungry."
+  }
+ },
+ {
+  "pt": "com sede",
+  "pos": "expr.",
+  "english": "(estar com sede) to be thirsty",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Você está com sede?",
+   "en": "Are you thirsty?"
+  }
+ },
+ {
+  "pt": "com sono",
+  "pos": "expr.",
+  "english": "(estar com sono) to be sleepy",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "As crianças estão com sono.",
+   "en": "The children are sleepy."
+  }
+ },
+ {
+  "pt": "com medo",
+  "pos": "expr.",
+  "english": "(estar com medo) to be afraid",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Ela está com medo do cachorro.",
+   "en": "She is afraid of the dog."
+  }
+ },
+ {
+  "pt": "medo",
+  "pos": "n.",
+  "english": "fear",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "gender": "m",
+  "forms": [
+   "medos"
+  ],
+  "example": {
+   "pt": "Eu tenho medo de avião.",
+   "en": "I am afraid of planes."
+  }
+ },
+ {
+  "pt": "amor",
+  "pos": "n.",
+  "english": "love",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "gender": "m",
+  "forms": [
+   "amores"
+  ],
+  "example": {
+   "pt": "O amor é lindo.",
+   "en": "Love is beautiful."
+  }
+ },
+ {
+  "pt": "amar",
+  "pos": "v.",
+  "english": "to love",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Eu amo a minha família.",
+   "en": "I love my family."
+  }
+ },
+ {
+  "pt": "achar",
+  "pos": "v.",
+  "english": "to think (opinion); to find",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Eu acho que o filme é bom.",
+   "en": "I think the movie is good."
+  }
+ },
+ {
+  "pt": "preferir",
+  "pos": "v.",
+  "english": "to prefer",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Eu prefiro chá.",
+   "en": "I prefer tea."
+  }
+ },
+ {
+  "pt": "adorar",
+  "pos": "v.",
+  "english": "to love, to adore",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Eu adoro música brasileira.",
+   "en": "I love Brazilian music."
+  }
+ },
+ {
+  "pt": "sentir",
+  "pos": "v.",
+  "english": "to feel",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Eu sinto falta de casa.",
+   "en": "I miss home."
+  }
+ },
+ {
+  "pt": "chorar",
+  "pos": "v.",
+  "english": "to cry",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "O bebê está chorando.",
+   "en": "The baby is crying."
+  }
+ },
+ {
+  "pt": "rir",
+  "pos": "v.",
+  "english": "to laugh",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Nós rimos muito.",
+   "en": "We laughed a lot."
+  }
+ },
+ {
+  "pt": "legal",
+  "pos": "adj.",
+  "english": "cool, nice",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "legais"
+  ],
+  "example": {
+   "pt": "A festa foi muito legal.",
+   "en": "The party was really cool."
+  }
+ },
+ {
+  "pt": "chato",
+  "pos": "adj.",
+  "english": "boring; annoying",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "chata",
+   "chatos",
+   "chatas"
+  ],
+  "example": {
+   "pt": "A aula foi chata.",
+   "en": "The class was boring."
+  }
+ },
+ {
+  "pt": "ótimo",
+  "pos": "adj.",
+  "english": "great, excellent",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "ótima",
+   "ótimos",
+   "ótimas"
+  ],
+  "example": {
+   "pt": "Ótima ideia!",
+   "en": "Great idea!"
+  }
+ },
+ {
+  "pt": "interessante",
+  "pos": "adj.",
+  "english": "interesting",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "interessantes"
+  ],
+  "example": {
+   "pt": "O livro é interessante.",
+   "en": "The book is interesting."
+  }
+ },
+ {
+  "pt": "incrível",
+  "pos": "adj.",
+  "english": "incredible, amazing",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "incríveis"
+  ],
+  "example": {
+   "pt": "A vista é incrível.",
+   "en": "The view is amazing."
+  }
+ },
+ {
+  "pt": "horrível",
+  "pos": "adj.",
+  "english": "horrible, awful",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "horríveis"
+  ],
+  "example": {
+   "pt": "O tempo está horrível.",
+   "en": "The weather is awful."
+  }
+ },
+ {
+  "pt": "favorito",
+  "pos": "adj.",
+  "english": "favorite",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "favorita",
+   "favoritos",
+   "favoritas"
+  ],
+  "example": {
+   "pt": "Qual é o seu filme favorito?",
+   "en": "What is your favorite movie?"
+  }
+ },
+ {
+  "pt": "talvez",
+  "pos": "adv.",
+  "english": "maybe, perhaps",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Talvez eu vá amanhã.",
+   "en": "Maybe I'll go tomorrow."
+  }
+ },
+ {
+  "pt": "que pena",
+  "pos": "expr.",
+  "english": "what a pity, too bad",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Você não vem? Que pena!",
+   "en": "You're not coming? Too bad!"
+  }
+ }
+]

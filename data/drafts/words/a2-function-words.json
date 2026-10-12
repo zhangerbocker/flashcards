@@ -1,0 +1,428 @@
+[
+ {
+  "pt": "além de",
+  "pos": "prep.",
+  "english": "besides, in addition to",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Além de inglês, ela fala espanhol.",
+   "en": "Besides English, she speaks Spanish."
+  }
+ },
+ {
+  "pt": "através de",
+  "pos": "prep.",
+  "english": "through",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu soube da notícia através de um amigo.",
+   "en": "I heard the news through a friend."
+  }
+ },
+ {
+  "pt": "durante",
+  "pos": "prep.",
+  "english": "during",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ele dormiu durante o filme.",
+   "en": "He slept during the movie."
+  }
+ },
+ {
+  "pt": "enquanto",
+  "pos": "conj.",
+  "english": "while",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu leio enquanto espero o ônibus.",
+   "en": "I read while I wait for the bus."
+  }
+ },
+ {
+  "pt": "quase",
+  "pos": "adv.",
+  "english": "almost",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Já são quase dez horas.",
+   "en": "It's almost ten o'clock."
+  }
+ },
+ {
+  "pt": "apenas",
+  "pos": "adv.",
+  "english": "only, just",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu tenho apenas cinco reais.",
+   "en": "I only have five reais."
+  }
+ },
+ {
+  "pt": "cerca de",
+  "pos": "prep.",
+  "english": "about, around (approximately)",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "A viagem dura cerca de duas horas.",
+   "en": "The trip takes about two hours."
+  }
+ },
+ {
+  "pt": "desde",
+  "pos": "prep.",
+  "english": "since",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Moro aqui desde 2020.",
+   "en": "I've lived here since 2020."
+  }
+ },
+ {
+  "pt": "até",
+  "pos": "prep.",
+  "english": "until, up to; even",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "A loja fica aberta até as oito.",
+   "en": "The store is open until eight."
+  }
+ },
+ {
+  "pt": "entre",
+  "pos": "prep.",
+  "english": "between, among",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "O banco fica entre a farmácia e a padaria.",
+   "en": "The bank is between the pharmacy and the bakery."
+  }
+ },
+ {
+  "pt": "sobre",
+  "pos": "prep.",
+  "english": "about; on, over",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Nós conversamos sobre o trabalho.",
+   "en": "We talked about work."
+  }
+ },
+ {
+  "pt": "sem",
+  "pos": "prep.",
+  "english": "without",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu tomo café sem açúcar.",
+   "en": "I drink coffee without sugar."
+  }
+ },
+ {
+  "pt": "contra",
+  "pos": "prep.",
+  "english": "against",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "O Brasil jogou contra a Argentina ontem.",
+   "en": "Brazil played against Argentina yesterday."
+  }
+ },
+ {
+  "pt": "ninguém",
+  "pos": "pron.",
+  "english": "nobody, no one",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ninguém atendeu o telefone.",
+   "en": "Nobody answered the phone."
+  }
+ },
+ {
+  "pt": "alguém",
+  "pos": "pron.",
+  "english": "somebody, someone",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Alguém deixou uma mensagem para você.",
+   "en": "Someone left a message for you."
+  }
+ },
+ {
+  "pt": "nada",
+  "pos": "pron.",
+  "english": "nothing, anything",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu não comprei nada na feira.",
+   "en": "I didn't buy anything at the market."
+  }
+ },
+ {
+  "pt": "algo",
+  "pos": "pron.",
+  "english": "something",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Você quer algo para beber?",
+   "en": "Do you want something to drink?"
+  }
+ },
+ {
+  "pt": "nenhum",
+  "pos": "pron.",
+  "english": "no, none, not any",
+  "level": 2,
+  "topic": "Function words",
+  "forms": [
+   "nenhuma",
+   "nenhuns",
+   "nenhumas"
+  ],
+  "example": {
+   "pt": "Não tenho nenhuma ideia.",
+   "en": "I have no idea."
+  }
+ },
+ {
+  "pt": "qualquer",
+  "pos": "pron.",
+  "english": "any, whichever",
+  "level": 2,
+  "topic": "Function words",
+  "forms": [
+   "quaisquer"
+  ],
+  "example": {
+   "pt": "Pode sentar em qualquer lugar.",
+   "en": "You can sit anywhere."
+  }
+ },
+ {
+  "pt": "cada",
+  "pos": "pron.",
+  "english": "each, every",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Cada aluno tem um livro.",
+   "en": "Each student has a book."
+  }
+ },
+ {
+  "pt": "próprio",
+  "pos": "adj.",
+  "english": "own; proper",
+  "level": 2,
+  "topic": "Function words",
+  "forms": [
+   "própria",
+   "próprios",
+   "próprias"
+  ],
+  "example": {
+   "pt": "Ela tem o próprio carro.",
+   "en": "She has her own car."
+  }
+ },
+ {
+  "pt": "mesmo",
+  "pos": "adj./adv.",
+  "english": "same; even; really",
+  "level": 2,
+  "topic": "Function words",
+  "forms": [
+   "mesma",
+   "mesmos",
+   "mesmas"
+  ],
+  "example": {
+   "pt": "Nós estudamos na mesma escola.",
+   "en": "We studied at the same school."
+  }
+ },
+ {
+  "pt": "nem",
+  "pos": "conj.",
+  "english": "nor, not even",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ele não come carne nem peixe.",
+   "en": "He doesn't eat meat or fish."
+  }
+ },
+ {
+  "pt": "por isso",
+  "pos": "expr.",
+  "english": "that's why, so",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Choveu muito, por isso ficamos em casa.",
+   "en": "It rained a lot, so we stayed home."
+  }
+ },
+ {
+  "pt": "por causa de",
+  "pos": "prep.",
+  "english": "because of",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "O voo atrasou por causa da chuva.",
+   "en": "The flight was delayed because of the rain."
+  },
+  "forms": [
+   "por causa do",
+   "por causa da",
+   "por causa dos",
+   "por causa das"
+  ]
+ },
+ {
+  "pt": "em vez de",
+  "pos": "prep.",
+  "english": "instead of",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Vou tomar chá em vez de café.",
+   "en": "I'm going to have tea instead of coffee."
+  }
+ },
+ {
+  "pt": "se",
+  "pos": "conj.",
+  "english": "if, whether",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Se chover, vamos ficar em casa.",
+   "en": "If it rains, we're going to stay home."
+  }
+ },
+ {
+  "pt": "então",
+  "pos": "adv.",
+  "english": "so, then",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Estou cansado, então vou dormir cedo.",
+   "en": "I'm tired, so I'm going to sleep early."
+  }
+ },
+ {
+  "pt": "ainda",
+  "pos": "adv.",
+  "english": "still, yet",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ele ainda mora com os pais.",
+   "en": "He still lives with his parents."
+  }
+ },
+ {
+  "pt": "já",
+  "pos": "adv.",
+  "english": "already; ever; right away",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Você já almoçou?",
+   "en": "Have you had lunch already?"
+  }
+ },
+ {
+  "pt": "talvez",
+  "pos": "adv.",
+  "english": "maybe, perhaps",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Talvez eu viaje no fim do ano.",
+   "en": "Maybe I'll travel at the end of the year."
+  }
+ },
+ {
+  "pt": "pois",
+  "pos": "conj.",
+  "english": "because, since, as",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Fiquei em casa, pois estava doente.",
+   "en": "I stayed home because I was sick."
+  }
+ },
+ {
+  "pt": "a partir de",
+  "pos": "prep.",
+  "english": "from, starting from",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "A loja abre a partir das nove.",
+   "en": "The store opens from nine o'clock."
+  },
+  "forms": [
+   "a partir do",
+   "a partir da",
+   "a partir dos",
+   "a partir das"
+  ]
+ },
+ {
+  "pt": "junto com",
+  "pos": "prep.",
+  "english": "together with",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ela veio junto com a irmã.",
+   "en": "She came together with her sister."
+  }
+ },
+ {
+  "pt": "assim",
+  "pos": "adv.",
+  "english": "like this, this way, so",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Não faça assim, faça desse jeito.",
+   "en": "Don't do it like that, do it this way."
+  }
+ },
+ {
+  "pt": "como",
+  "pos": "conj.",
+  "english": "since, as (reason)",
+  "level": 2,
+  "topic": "Function words",
+  "example": {
+   "pt": "Como estava frio, eu fiquei em casa.",
+   "en": "Since it was cold, I stayed home."
+  }
+ }
+]

@@ -1,0 +1,536 @@
+[
+ {
+  "id": "b2-numbers-measures-1",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "title": "As contas da padaria",
+  "titleEn": "The bakery's accounts",
+  "sentences": [
+   {
+    "pt": "Fernanda herdou do pai uma padaria pequena num bairro da zona norte de Recife.",
+    "en": "Fernanda inherited a small bakery in a neighborhood in the north of Recife from her father.",
+    "glosses": {
+     "herdou": "inherited",
+     "do": "from the",
+     "num": "in a",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Durante trinta anos, ele cuidou das contas num caderno, sem planilha nem computador.",
+    "en": "For thirty years, he kept the accounts in a notebook, without a spreadsheet or a computer.",
+    "glosses": {
+     "cuidou": "took care",
+     "das": "of the",
+     "num": "in a",
+     "nem": "nor"
+    }
+   },
+   {
+    "pt": "Quando ela abriu o caderno pela primeira vez, ficou assustada.",
+    "en": "When she opened the notebook for the first time, she got scared.",
+    "glosses": {
+     "abriu": "opened",
+     "pela": "for the",
+     "ficou": "got"
+    }
+   },
+   {
+    "pt": "Os números estavam todos ali, mas fazia anos que ninguém somava nada.",
+    "en": "The numbers were all there, but nobody had added anything up in years.",
+    "glosses": {
+     "estavam": "were",
+     "fazia anos": "for years",
+     "somava": "added up"
+    }
+   },
+   {
+    "pt": "Então ela passou um fim de semana inteiro na cozinha, com uma xícara de café e o celular.",
+    "en": "So she spent a whole weekend in the kitchen, with a cup of coffee and her phone.",
+    "glosses": {
+     "passou": "spent",
+     "na": "in the"
+    }
+   },
+   {
+    "pt": "As contas não eram nada boas.",
+    "en": "The accounts weren't good at all.",
+    "glosses": {
+     "eram": "were",
+     "nada": "at all"
+    }
+   },
+   {
+    "pt": "Ao todo, o faturamento da padaria tinha caído cerca de vinte por cento em dois anos.",
+    "en": "Altogether, the bakery's revenue had fallen about twenty percent in two years.",
+    "glosses": {
+     "da": "of the",
+     "tinha caído": "had fallen"
+    }
+   },
+   {
+    "pt": "Em contrapartida, o preço da farinha quase tinha duplicado no mesmo período.",
+    "en": "On the other hand, the price of flour had almost doubled in the same period.",
+    "glosses": {
+     "da": "of the",
+     "tinha duplicado": "had doubled"
+    }
+   },
+   {
+    "pt": "Além disso, a conta de luz tinha subido muito por causa do forno antigo.",
+    "en": "Besides, the electricity bill had gone up a lot because of the old oven.",
+    "glosses": {
+     "tinha subido": "had gone up",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "O saldo do mês, quando ela arredondou os centavos, era de apenas trezentos reais.",
+    "en": "The month's net result, when she rounded off the cents, was just three hundred reais.",
+    "glosses": {
+     "do": "of the",
+     "arredondou": "rounded",
+     "era": "was"
+    }
+   },
+   {
+    "pt": "Fernanda ligou para o primo Marcos, que trabalha num banco em Fortaleza.",
+    "en": "Fernanda called her cousin Marcos, who works at a bank in Fortaleza.",
+    "glosses": {
+     "ligou": "called",
+     "trabalha": "works",
+     "num": "at a"
+    }
+   },
+   {
+    "pt": "\"Não fique nervosa\", disse ele. \"Vamos olhar os dados com calma.\"",
+    "en": "\"Don't get nervous,\" he said. \"Let's look at the data calmly.\"",
+    "glosses": {
+     "fique": "get",
+     "disse": "said",
+     "Vamos olhar": "let's look",
+     "com calma": "calmly"
+    }
+   },
+   {
+    "pt": "Marcos pediu uma amostra do faturamento de três meses, dia por dia.",
+    "en": "Marcos asked for a sample of three months of revenue, day by day.",
+    "glosses": {
+     "pediu": "asked for",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Ele percebeu que quase todo o dinheiro vinha do pão, ao passo que os bolos davam um lucro irrisório.",
+    "en": "He noticed that almost all the money came from bread, whereas the cakes brought a negligible profit.",
+    "glosses": {
+     "percebeu": "noticed",
+     "vinha": "came",
+     "do": "from the",
+     "davam": "gave"
+    }
+   },
+   {
+    "pt": "\"Cada bolo leva meio quilo de manteiga e uma dúzia de ovos, e você cobra quase o mesmo que um pão\", explicou.",
+    "en": "\"Each cake takes half a kilo of butter and a dozen eggs, and you charge almost the same as a bread roll,\" he explained.",
+    "glosses": {
+     "leva": "takes",
+     "cobra": "charge",
+     "explicou": "he explained"
+    }
+   },
+   {
+    "pt": "Depois, ele fez uma estimativa para os próximos seis meses.",
+    "en": "Then he made an estimate for the next six months.",
+    "glosses": {
+     "fez": "made"
+    }
+   },
+   {
+    "pt": "Se ela trocasse o forno por um mais eficiente, a conta de luz cairia mais ou menos um terço.",
+    "en": "If she replaced the oven with a more efficient one, the electricity bill would fall by roughly a third.",
+    "glosses": {
+     "trocasse": "replaced (subjunctive)",
+     "um": "one",
+     "cairia": "would fall"
+    }
+   },
+   {
+    "pt": "O problema era o preço do forno novo: doze mil reais.",
+    "en": "The problem was the price of the new oven: twelve thousand reais.",
+    "glosses": {
+     "era": "was",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "\"O banco pode parcelar o montante em vinte e quatro vezes\", disse Marcos.",
+    "en": "\"The bank can split the amount into twenty-four installments,\" Marcos said.",
+    "glosses": {
+     "pode": "can",
+     "vezes": "installments",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "\"A taxa de juros é baixa, de modo que cada parcela ficaria em torno de 600 reais.\"",
+    "en": "\"The interest rate is low, so each installment would be around 600 reais.\"",
+    "glosses": {
+     "é": "is",
+     "ficaria": "would be"
+    }
+   },
+   {
+    "pt": "Fernanda fez as contas de novo e constatou que a economia na conta de luz pagaria quase toda a prestação.",
+    "en": "Fernanda did the math again and found that the savings on the electricity bill would pay almost the entire installment.",
+    "glosses": {
+     "fez as contas": "did the math",
+     "de novo": "again",
+     "constatou": "found",
+     "na": "on the",
+     "pagaria": "would pay"
+    }
+   },
+   {
+    "pt": "Mesmo assim, ela passou uma semana inteira sem decidir.",
+    "en": "Even so, she spent a whole week without deciding.",
+    "glosses": {
+     "passou": "spent"
+    }
+   },
+   {
+    "pt": "O pai nunca tinha ficado endividado, e ela tinha medo de ser a primeira.",
+    "en": "Her father had never gotten into debt, and she was afraid of being the first.",
+    "glosses": {
+     "tinha ficado": "had gotten",
+     "tinha medo": "was afraid"
+    }
+   },
+   {
+    "pt": "Por fim, decidiu assinar o contrato, mas com uma mudança: os bolos teriam um acréscimo de quinze por cento no preço.",
+    "en": "In the end, she decided to sign the contract, but with one change: the cakes would get a fifteen percent price increase.",
+    "glosses": {
+     "Por fim": "in the end",
+     "decidiu": "decided",
+     "teriam": "would have"
+    }
+   },
+   {
+    "pt": "Seis meses depois, o saldo mensal já tinha passado de mil reais.",
+    "en": "Six months later, the monthly net result had already gone past a thousand reais.",
+    "glosses": {
+     "tinha passado": "had gone past"
+    }
+   },
+   {
+    "pt": "Fernanda ainda guarda o caderno do pai no escritório, mas agora as contas ficam numa planilha.",
+    "en": "Fernanda still keeps her father's notebook in the office, but now the accounts are in a spreadsheet.",
+    "glosses": {
+     "guarda": "keeps",
+     "do": "of the",
+     "ficam": "are",
+     "numa": "in a"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Quanto o faturamento tinha caído?",
+    "qEn": "How much had revenue fallen?",
+    "options": [
+     "Cerca de um terço",
+     "Quase a metade",
+     "Cerca de cinco por cento",
+     "Cerca de vinte por cento"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "Qual era o problema dos bolos?",
+    "qEn": "What was the problem with the cakes?",
+    "options": [
+     "Ninguém comprava bolos",
+     "Davam um lucro muito pequeno",
+     "Eram muito pequenos",
+     "Levavam pouca manteiga"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Por que o forno novo era uma boa escolha?",
+    "qEn": "Why was the new oven a good choice?",
+    "options": [
+     "Reduziria a conta de luz",
+     "Era muito barato",
+     "Fazia mais bolos",
+     "O pai queria um forno novo"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "b2-numbers-measures-2",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "title": "A pesquisa do bairro",
+  "titleEn": "The neighborhood survey",
+  "sentences": [
+   {
+    "pt": "Mariana é estatística e trabalha para a prefeitura de Belo Horizonte.",
+    "en": "Mariana is a statistician and works for the Belo Horizonte city hall.",
+    "glosses": {
+     "é": "is",
+     "estatística": "statistician",
+     "trabalha": "works"
+    }
+   },
+   {
+    "pt": "Em janeiro, recebeu uma tarefa que parecia simples: estimar quantas pessoas usam o transporte público num bairro da periferia.",
+    "en": "In January, she received a task that seemed simple: to estimate how many people use public transport in a neighborhood on the outskirts.",
+    "glosses": {
+     "recebeu": "received",
+     "parecia": "seemed",
+     "quantas": "how many",
+     "usam": "use",
+     "num": "in a",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "O bairro tem cerca de quarenta mil moradores e uma extensão de quase cinco quilômetros.",
+    "en": "The neighborhood has about forty thousand residents and stretches almost five kilometers.",
+    "glosses": {
+     "tem": "has"
+    }
+   },
+   {
+    "pt": "Como seria impossível falar com todos, a equipe dela escolheu uma amostra de mil e duzentas pessoas.",
+    "en": "Since it would be impossible to talk to everyone, her team chose a sample of one thousand two hundred people.",
+    "glosses": {
+     "Como": "since",
+     "seria": "would be",
+     "dela": "her",
+     "escolheu": "chose"
+    }
+   },
+   {
+    "pt": "As perguntas eram curtas: quanto tempo leva o deslocamento até o trabalho, quantas baldeações faz e quanto custa por mês.",
+    "en": "The questions were short: how long the commute to work takes, how many transfers one makes and how much it costs per month.",
+    "glosses": {
+     "eram": "were",
+     "leva": "takes",
+     "quantas": "how many",
+     "faz": "makes",
+     "custa": "costs"
+    }
+   },
+   {
+    "pt": "Depois de três semanas, os dados começaram a chegar.",
+    "en": "After three weeks, the data started to arrive.",
+    "glosses": {
+     "começaram": "started"
+    }
+   },
+   {
+    "pt": "Os primeiros números deixaram até a própria Mariana surpresa.",
+    "en": "The first numbers left even Mariana herself surprised.",
+    "glosses": {
+     "deixaram": "left",
+     "própria": "herself"
+    }
+   },
+   {
+    "pt": "Em média, cada morador passava duas horas e quarenta minutos por dia dentro de ônibus.",
+    "en": "On average, each resident spent two hours and forty minutes a day on buses.",
+    "glosses": {
+     "passava": "spent"
+    }
+   },
+   {
+    "pt": "Uma minoria considerável, isto é, dezoito por cento, fazia três baldeações ou mais.",
+    "en": "A considerable minority, that is, eighteen percent, made three or more transfers.",
+    "glosses": {
+     "fazia": "made"
+    }
+   },
+   {
+    "pt": "Além disso, o gasto com passagem equivalia a quase um quarto do salário mínimo.",
+    "en": "In addition, spending on fares was equivalent to almost a quarter of the minimum wage.",
+    "glosses": {
+     "gasto": "spending",
+     "equivalia": "was equivalent",
+     "quarto": "quarter",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Mariana comparou esses dados com os de um bairro nobre, situado a apenas oito quilômetros dali.",
+    "en": "Mariana compared this data with that of an upscale neighborhood located just eight kilometers from there.",
+    "glosses": {
+     "comparou": "compared",
+     "os": "those",
+     "situado": "located",
+     "dali": "from there"
+    }
+   },
+   {
+    "pt": "Lá, o deslocamento levava, em média, menos de quarenta minutos, e quase todos iam de carro.",
+    "en": "There, the commute took, on average, less than forty minutes, and almost everyone went by car.",
+    "glosses": {
+     "levava": "took",
+     "iam": "went"
+    }
+   },
+   {
+    "pt": "Ela fez um gráfico simples, em azul e vermelho.",
+    "en": "She made a simple chart, in blue and red.",
+    "glosses": {
+     "fez": "made"
+    }
+   },
+   {
+    "pt": "Os dois bairros eram tão diferentes que o gráfico nem precisava de palavras.",
+    "en": "The two neighborhoods were so different that the chart didn't even need words.",
+    "glosses": {
+     "eram": "were",
+     "precisava": "needed"
+    }
+   },
+   {
+    "pt": "Na reunião com o secretário responsável pelo transporte público, no entanto, ninguém aplaudiu.",
+    "en": "At the meeting with the secretary in charge of public transport, however, no one applauded.",
+    "glosses": {
+     "Na": "at the",
+     "pelo": "for the",
+     "aplaudiu": "applauded"
+    }
+   },
+   {
+    "pt": "\"Essa amostra é muito pequena; não prova nada\", disse ele.",
+    "en": "\"That sample is very small; it doesn't prove anything,\" he said.",
+    "glosses": {
+     "é": "is",
+     "prova": "proves",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Mariana já esperava essa crítica e sabia o que responder.",
+    "en": "Mariana already expected that criticism and knew what to answer.",
+    "glosses": {
+     "esperava": "expected",
+     "sabia": "knew"
+    }
+   },
+   {
+    "pt": "\"Com mil e duzentas pessoas, a margem de erro é de apenas três por cento, para mais ou para menos\", explicou ela.",
+    "en": "\"With one thousand two hundred people, the margin of error is only three percent, plus or minus,\" she explained.",
+    "glosses": {
+     "é": "is",
+     "para mais ou para menos": "plus or minus",
+     "explicou": "explained"
+    }
+   },
+   {
+    "pt": "\"Mesmo que os dados tivessem um erro desse tamanho, os dois bairros continuariam muito diferentes.\"",
+    "en": "\"Even if the data had an error of that size, the two neighborhoods would remain very different.\"",
+    "glosses": {
+     "tivessem": "had (subjunctive)",
+     "desse": "of that",
+     "continuariam": "would remain"
+    }
+   },
+   {
+    "pt": "O secretário ficou em silêncio e olhou o gráfico de novo.",
+    "en": "The secretary was silent and looked at the chart again.",
+    "glosses": {
+     "ficou em silêncio": "was silent",
+     "olhou": "looked at",
+     "de novo": "again"
+    }
+   },
+   {
+    "pt": "Por fim, pediu que ela calculasse o custo de um ônibus que fosse do bairro até o centro sem baldeação.",
+    "en": "Finally, he asked her to calculate the cost of a bus that would go from the neighborhood to the center without transfers.",
+    "glosses": {
+     "Por fim": "finally",
+     "pediu": "asked",
+     "calculasse": "calculate (subjunctive)",
+     "fosse": "would go"
+    }
+   },
+   {
+    "pt": "Mariana fez a conta em dois dias: o índice de baldeações cairia pela metade, e o tempo dentro do ônibus, cerca de quarenta por cento.",
+    "en": "Mariana did the math in two days: the transfer rate would fall by half, and the time on the bus by about forty percent.",
+    "glosses": {
+     "fez a conta": "did the math",
+     "cairia": "would fall",
+     "pela": "by"
+    }
+   },
+   {
+    "pt": "O novo ônibus começou a passar pelo bairro em agosto, ainda de forma provisória.",
+    "en": "The new bus started running through the neighborhood in August, still on a provisional basis.",
+    "glosses": {
+     "começou": "started",
+     "passar": "pass",
+     "pelo": "through the",
+     "de forma provisória": "provisionally"
+    }
+   },
+   {
+    "pt": "Inúmeros moradores mandaram mensagens à prefeitura para dizer obrigado.",
+    "en": "Countless residents sent messages to the city hall to say thank you.",
+    "glosses": {
+     "mandaram": "sent",
+     "à": "to the"
+    }
+   },
+   {
+    "pt": "Para Mariana, foi a prova de que números, quando bem usados, também podem contar histórias.",
+    "en": "For Mariana, it was proof that numbers, when used well, can also tell stories.",
+    "glosses": {
+     "foi": "was",
+     "usados": "used",
+     "podem": "can"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Quantas pessoas a equipe ouviu?",
+    "qEn": "How many people did the team hear from?",
+    "options": [
+     "1.200",
+     "40.000",
+     "800",
+     "3.000"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "O que o secretário disse sobre a amostra?",
+    "qEn": "What did the secretary say about the sample?",
+    "options": [
+     "Que era muito cara",
+     "Que era ótima",
+     "Que era muito pequena",
+     "Que era antiga"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "O que o novo ônibus mudou?",
+    "qEn": "What did the new bus change?",
+    "options": [
+     "Aumentou o preço da passagem",
+     "Reduziu as baldeações e o tempo",
+     "Fechou o centro",
+     "Levou mais carros ao bairro"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

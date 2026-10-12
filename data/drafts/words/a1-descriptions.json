@@ -1,0 +1,757 @@
+[
+ {
+  "pt": "velho",
+  "pos": "adj.",
+  "english": "old",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "velha",
+   "velhos",
+   "velhas"
+  ],
+  "example": {
+   "pt": "Meu carro é muito velho.",
+   "en": "My car is very old."
+  }
+ },
+ {
+  "pt": "jovem",
+  "pos": "adj.",
+  "english": "young",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "jovens"
+  ],
+  "example": {
+   "pt": "Ela é uma mulher jovem.",
+   "en": "She is a young woman."
+  }
+ },
+ {
+  "pt": "mau",
+  "pos": "adj.",
+  "english": "bad, evil",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "má",
+   "maus",
+   "más"
+  ],
+  "example": {
+   "pt": "Ele não é um homem mau.",
+   "en": "He is not a bad man."
+  }
+ },
+ {
+  "pt": "ruim",
+  "pos": "adj.",
+  "english": "bad",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "ruins"
+  ],
+  "example": {
+   "pt": "O filme foi ruim.",
+   "en": "The movie was bad."
+  }
+ },
+ {
+  "pt": "alto",
+  "pos": "adj.",
+  "english": "tall; high; loud",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "alta",
+   "altos",
+   "altas"
+  ],
+  "example": {
+   "pt": "Meu irmão é muito alto.",
+   "en": "My brother is very tall."
+  }
+ },
+ {
+  "pt": "baixo",
+  "pos": "adj.",
+  "english": "short; low",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "baixa",
+   "baixos",
+   "baixas"
+  ],
+  "example": {
+   "pt": "Ela é baixa e simpática.",
+   "en": "She is short and nice."
+  }
+ },
+ {
+  "pt": "caro",
+  "pos": "adj.",
+  "english": "expensive",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "cara",
+   "caros",
+   "caras"
+  ],
+  "example": {
+   "pt": "Este restaurante é caro.",
+   "en": "This restaurant is expensive."
+  }
+ },
+ {
+  "pt": "barato",
+  "pos": "adj.",
+  "english": "cheap",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "barata",
+   "baratos",
+   "baratas"
+  ],
+  "example": {
+   "pt": "A camisa é barata.",
+   "en": "The shirt is cheap."
+  }
+ },
+ {
+  "pt": "fácil",
+  "pos": "adj.",
+  "english": "easy",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "fáceis"
+  ],
+  "example": {
+   "pt": "Português não é fácil.",
+   "en": "Portuguese is not easy."
+  }
+ },
+ {
+  "pt": "difícil",
+  "pos": "adj.",
+  "english": "difficult, hard",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "difíceis"
+  ],
+  "example": {
+   "pt": "A prova foi difícil.",
+   "en": "The test was difficult."
+  }
+ },
+ {
+  "pt": "feio",
+  "pos": "adj.",
+  "english": "ugly",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "feia",
+   "feios",
+   "feias"
+  ],
+  "example": {
+   "pt": "O tempo está feio hoje.",
+   "en": "The weather is ugly today."
+  }
+ },
+ {
+  "pt": "lindo",
+  "pos": "adj.",
+  "english": "beautiful, lovely",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "linda",
+   "lindos",
+   "lindas"
+  ],
+  "example": {
+   "pt": "Que dia lindo!",
+   "en": "What a beautiful day!"
+  }
+ },
+ {
+  "pt": "gordo",
+  "pos": "adj.",
+  "english": "fat",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "gorda",
+   "gordos",
+   "gordas"
+  ],
+  "example": {
+   "pt": "O gato está gordo.",
+   "en": "The cat is fat."
+  }
+ },
+ {
+  "pt": "magro",
+  "pos": "adj.",
+  "english": "thin, slim",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "magra",
+   "magros",
+   "magras"
+  ],
+  "example": {
+   "pt": "Ele é alto e magro.",
+   "en": "He is tall and thin."
+  }
+ },
+ {
+  "pt": "forte",
+  "pos": "adj.",
+  "english": "strong",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "fortes"
+  ],
+  "example": {
+   "pt": "Meu pai é muito forte.",
+   "en": "My father is very strong."
+  }
+ },
+ {
+  "pt": "fraco",
+  "pos": "adj.",
+  "english": "weak",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "fraca",
+   "fracos",
+   "fracas"
+  ],
+  "example": {
+   "pt": "O café está fraco.",
+   "en": "The coffee is weak."
+  }
+ },
+ {
+  "pt": "rápido",
+  "pos": "adj.",
+  "english": "fast, quick",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "rápida",
+   "rápidos",
+   "rápidas"
+  ],
+  "example": {
+   "pt": "O trem é rápido.",
+   "en": "The train is fast."
+  }
+ },
+ {
+  "pt": "lento",
+  "pos": "adj.",
+  "english": "slow",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "lenta",
+   "lentos",
+   "lentas"
+  ],
+  "example": {
+   "pt": "A internet está lenta hoje.",
+   "en": "The internet is slow today."
+  }
+ },
+ {
+  "pt": "longo",
+  "pos": "adj.",
+  "english": "long",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "longa",
+   "longos",
+   "longas"
+  ],
+  "example": {
+   "pt": "Foi um dia longo.",
+   "en": "It was a long day."
+  }
+ },
+ {
+  "pt": "comprido",
+  "pos": "adj.",
+  "english": "long (length)",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "comprida",
+   "compridos",
+   "compridas"
+  ],
+  "example": {
+   "pt": "Ela tem cabelo comprido.",
+   "en": "She has long hair."
+  }
+ },
+ {
+  "pt": "curto",
+  "pos": "adj.",
+  "english": "short (length)",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "curta",
+   "curtos",
+   "curtas"
+  ],
+  "example": {
+   "pt": "O filme é curto.",
+   "en": "The movie is short."
+  }
+ },
+ {
+  "pt": "cheio",
+  "pos": "adj.",
+  "english": "full; crowded",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "cheia",
+   "cheios",
+   "cheias"
+  ],
+  "example": {
+   "pt": "O ônibus está cheio.",
+   "en": "The bus is full."
+  }
+ },
+ {
+  "pt": "vazio",
+  "pos": "adj.",
+  "english": "empty",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "vazia",
+   "vazios",
+   "vazias"
+  ],
+  "example": {
+   "pt": "A garrafa está vazia.",
+   "en": "The bottle is empty."
+  }
+ },
+ {
+  "pt": "limpo",
+  "pos": "adj.",
+  "english": "clean",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "limpa",
+   "limpos",
+   "limpas"
+  ],
+  "example": {
+   "pt": "A cozinha está limpa.",
+   "en": "The kitchen is clean."
+  }
+ },
+ {
+  "pt": "sujo",
+  "pos": "adj.",
+  "english": "dirty",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "suja",
+   "sujos",
+   "sujas"
+  ],
+  "example": {
+   "pt": "Minha camisa está suja.",
+   "en": "My shirt is dirty."
+  }
+ },
+ {
+  "pt": "antigo",
+  "pos": "adj.",
+  "english": "old, ancient; former",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "antiga",
+   "antigos",
+   "antigas"
+  ],
+  "example": {
+   "pt": "Ouro Preto é uma cidade antiga.",
+   "en": "Ouro Preto is an old city."
+  }
+ },
+ {
+  "pt": "moderno",
+  "pos": "adj.",
+  "english": "modern",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "moderna",
+   "modernos",
+   "modernas"
+  ],
+  "example": {
+   "pt": "O prédio é muito moderno.",
+   "en": "The building is very modern."
+  }
+ },
+ {
+  "pt": "rico",
+  "pos": "adj.",
+  "english": "rich",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "rica",
+   "ricos",
+   "ricas"
+  ],
+  "example": {
+   "pt": "Ele é um homem rico.",
+   "en": "He is a rich man."
+  }
+ },
+ {
+  "pt": "pobre",
+  "pos": "adj.",
+  "english": "poor",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "pobres"
+  ],
+  "example": {
+   "pt": "A família é pobre.",
+   "en": "The family is poor."
+  }
+ },
+ {
+  "pt": "importante",
+  "pos": "adj.",
+  "english": "important",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "importantes"
+  ],
+  "example": {
+   "pt": "Esta reunião é importante.",
+   "en": "This meeting is important."
+  }
+ },
+ {
+  "pt": "diferente",
+  "pos": "adj.",
+  "english": "different",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "diferentes"
+  ],
+  "example": {
+   "pt": "As duas casas são diferentes.",
+   "en": "The two houses are different."
+  }
+ },
+ {
+  "pt": "igual",
+  "pos": "adj.",
+  "english": "the same, equal",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "iguais"
+  ],
+  "example": {
+   "pt": "Nossos carros são iguais.",
+   "en": "Our cars are the same."
+  }
+ },
+ {
+  "pt": "certo",
+  "pos": "adj.",
+  "english": "right, correct; certain",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "certa",
+   "certos",
+   "certas"
+  ],
+  "example": {
+   "pt": "A resposta está certa.",
+   "en": "The answer is right."
+  }
+ },
+ {
+  "pt": "errado",
+  "pos": "adj.",
+  "english": "wrong",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "errada",
+   "errados",
+   "erradas"
+  ],
+  "example": {
+   "pt": "Desculpe, número errado.",
+   "en": "Sorry, wrong number."
+  }
+ },
+ {
+  "pt": "simples",
+  "pos": "adj.",
+  "english": "simple",
+  "level": 1,
+  "topic": "Descriptions",
+  "example": {
+   "pt": "A receita é simples.",
+   "en": "The recipe is simple."
+  }
+ },
+ {
+  "pt": "pesado",
+  "pos": "adj.",
+  "english": "heavy",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "pesada",
+   "pesados",
+   "pesadas"
+  ],
+  "example": {
+   "pt": "A mala está pesada.",
+   "en": "The suitcase is heavy."
+  }
+ },
+ {
+  "pt": "leve",
+  "pos": "adj.",
+  "english": "light (weight)",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "leves"
+  ],
+  "example": {
+   "pt": "A bolsa é leve.",
+   "en": "The bag is light."
+  }
+ },
+ {
+  "pt": "perigoso",
+  "pos": "adj.",
+  "english": "dangerous",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "perigosa",
+   "perigosos",
+   "perigosas"
+  ],
+  "example": {
+   "pt": "Essa rua é perigosa à noite.",
+   "en": "That street is dangerous at night."
+  }
+ },
+ {
+  "pt": "seguro",
+  "pos": "adj.",
+  "english": "safe; sure",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "segura",
+   "seguros",
+   "seguras"
+  ],
+  "example": {
+   "pt": "O bairro é seguro.",
+   "en": "The neighborhood is safe."
+  }
+ },
+ {
+  "pt": "famoso",
+  "pos": "adj.",
+  "english": "famous",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "famosa",
+   "famosos",
+   "famosas"
+  ],
+  "example": {
+   "pt": "Ele é um cantor famoso.",
+   "en": "He is a famous singer."
+  }
+ },
+ {
+  "pt": "simpático",
+  "pos": "adj.",
+  "english": "nice, friendly",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "simpática",
+   "simpáticos",
+   "simpáticas"
+  ],
+  "example": {
+   "pt": "Os brasileiros são simpáticos.",
+   "en": "Brazilians are friendly."
+  }
+ },
+ {
+  "pt": "inteligente",
+  "pos": "adj.",
+  "english": "intelligent, smart",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "inteligentes"
+  ],
+  "example": {
+   "pt": "Sua filha é muito inteligente.",
+   "en": "Your daughter is very smart."
+  }
+ },
+ {
+  "pt": "engraçado",
+  "pos": "adj.",
+  "english": "funny",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "engraçada",
+   "engraçados",
+   "engraçadas"
+  ],
+  "example": {
+   "pt": "Meu tio é muito engraçado.",
+   "en": "My uncle is very funny."
+  }
+ },
+ {
+  "pt": "ocupado",
+  "pos": "adj.",
+  "english": "busy",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "ocupada",
+   "ocupados",
+   "ocupadas"
+  ],
+  "example": {
+   "pt": "Hoje eu estou muito ocupado.",
+   "en": "Today I am very busy."
+  }
+ },
+ {
+  "pt": "livre",
+  "pos": "adj.",
+  "english": "free (not busy)",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "livres"
+  ],
+  "example": {
+   "pt": "Você está livre amanhã?",
+   "en": "Are you free tomorrow?"
+  }
+ },
+ {
+  "pt": "aberto",
+  "pos": "adj.",
+  "english": "open",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "aberta",
+   "abertos",
+   "abertas"
+  ],
+  "example": {
+   "pt": "O banco está aberto?",
+   "en": "Is the bank open?"
+  }
+ },
+ {
+  "pt": "fechado",
+  "pos": "adj.",
+  "english": "closed",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "fechada",
+   "fechados",
+   "fechadas"
+  ],
+  "example": {
+   "pt": "A loja está fechada no domingo.",
+   "en": "The store is closed on Sunday."
+  }
+ },
+ {
+  "pt": "próximo",
+  "pos": "adj.",
+  "english": "next; near",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "próxima",
+   "próximos",
+   "próximas"
+  ],
+  "example": {
+   "pt": "O próximo ônibus chega às dez.",
+   "en": "The next bus arrives at ten."
+  }
+ },
+ {
+  "pt": "último",
+  "pos": "adj.",
+  "english": "last",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "última",
+   "últimos",
+   "últimas"
+  ],
+  "example": {
+   "pt": "Esta é a última aula.",
+   "en": "This is the last class."
+  }
+ }
+]

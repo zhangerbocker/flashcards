@@ -1,0 +1,785 @@
+[
+ {
+  "pt": "parente",
+  "pos": "n.",
+  "english": "relative (family member)",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "mf",
+  "forms": [
+   "parentes"
+  ],
+  "example": {
+   "pt": "Tenho muitos parentes em Minas Gerais.",
+   "en": "I have a lot of relatives in Minas Gerais."
+  }
+ },
+ {
+  "pt": "sogro",
+  "pos": "n.",
+  "english": "father-in-law",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "sogra",
+   "sogros",
+   "sogras"
+  ],
+  "example": {
+   "pt": "Meu sogro é muito simpático.",
+   "en": "My father-in-law is very nice."
+  }
+ },
+ {
+  "pt": "cunhado",
+  "pos": "n.",
+  "english": "brother-in-law",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "cunhada",
+   "cunhados",
+   "cunhadas"
+  ],
+  "example": {
+   "pt": "Minha cunhada mora em Portugal.",
+   "en": "My sister-in-law lives in Portugal."
+  }
+ },
+ {
+  "pt": "genro",
+  "pos": "n.",
+  "english": "son-in-law",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "genros"
+  ],
+  "example": {
+   "pt": "Ela gosta muito do genro.",
+   "en": "She really likes her son-in-law."
+  }
+ },
+ {
+  "pt": "nora",
+  "pos": "n.",
+  "english": "daughter-in-law",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "f",
+  "forms": [
+   "noras"
+  ],
+  "example": {
+   "pt": "A nora dela é médica.",
+   "en": "Her daughter-in-law is a doctor."
+  }
+ },
+ {
+  "pt": "enteado",
+  "pos": "n.",
+  "english": "stepson",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "enteada",
+   "enteados",
+   "enteadas"
+  ],
+  "example": {
+   "pt": "Ele trata a enteada como filha.",
+   "en": "He treats his stepdaughter like a daughter."
+  }
+ },
+ {
+  "pt": "padrasto",
+  "pos": "n.",
+  "english": "stepfather",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "padrastos"
+  ],
+  "example": {
+   "pt": "Me dou muito bem com meu padrasto.",
+   "en": "I get along very well with my stepfather."
+  }
+ },
+ {
+  "pt": "madrasta",
+  "pos": "n.",
+  "english": "stepmother",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "f",
+  "forms": [
+   "madrastas"
+  ],
+  "example": {
+   "pt": "A madrasta dela é muito carinhosa.",
+   "en": "Her stepmother is very affectionate."
+  }
+ },
+ {
+  "pt": "bisavô",
+  "pos": "n.",
+  "english": "great-grandfather",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "bisavó",
+   "bisavós"
+  ],
+  "example": {
+   "pt": "Meu bisavô veio da Itália.",
+   "en": "My great-grandfather came from Italy."
+  }
+ },
+ {
+  "pt": "sobrinho",
+  "pos": "n.",
+  "english": "nephew",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "sobrinha",
+   "sobrinhos",
+   "sobrinhas"
+  ],
+  "example": {
+   "pt": "Comprei um presente para minha sobrinha.",
+   "en": "I bought a present for my niece."
+  }
+ },
+ {
+  "pt": "padrinho",
+  "pos": "n.",
+  "english": "godfather; best man",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "padrinhos"
+  ],
+  "example": {
+   "pt": "Meu padrinho me deu uma bicicleta.",
+   "en": "My godfather gave me a bicycle."
+  }
+ },
+ {
+  "pt": "madrinha",
+  "pos": "n.",
+  "english": "godmother; maid of honor",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "f",
+  "forms": [
+   "madrinhas"
+  ],
+  "example": {
+   "pt": "Ela vai ser madrinha do casamento.",
+   "en": "She's going to be maid of honor at the wedding."
+  }
+ },
+ {
+  "pt": "afilhado",
+  "pos": "n.",
+  "english": "godchild",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "afilhada",
+   "afilhados",
+   "afilhadas"
+  ],
+  "example": {
+   "pt": "Visito meu afilhado todo mês.",
+   "en": "I visit my godson every month."
+  }
+ },
+ {
+  "pt": "gêmeo",
+  "pos": "n./adj.",
+  "english": "twin",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "gêmea",
+   "gêmeos",
+   "gêmeas"
+  ],
+  "example": {
+   "pt": "Elas são irmãs gêmeas.",
+   "en": "They are twin sisters."
+  }
+ },
+ {
+  "pt": "viúvo",
+  "pos": "n./adj.",
+  "english": "widower; widowed",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "viúva",
+   "viúvos",
+   "viúvas"
+  ],
+  "example": {
+   "pt": "A avó dele ficou viúva muito cedo.",
+   "en": "His grandmother became a widow very young."
+  }
+ },
+ {
+  "pt": "divorciado",
+  "pos": "adj.",
+  "english": "divorced",
+  "level": 3,
+  "topic": "People & family",
+  "forms": [
+   "divorciada",
+   "divorciados",
+   "divorciadas"
+  ],
+  "example": {
+   "pt": "Meus pais são divorciados.",
+   "en": "My parents are divorced."
+  }
+ },
+ {
+  "pt": "noivo",
+  "pos": "n.",
+  "english": "fiancé; groom",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "noiva",
+   "noivos",
+   "noivas"
+  ],
+  "example": {
+   "pt": "A noiva chegou atrasada à igreja.",
+   "en": "The bride arrived late at the church."
+  }
+ },
+ {
+  "pt": "casal",
+  "pos": "n.",
+  "english": "couple",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "casais"
+  ],
+  "example": {
+   "pt": "Eles formam um casal muito bonito.",
+   "en": "They make a lovely couple."
+  }
+ },
+ {
+  "pt": "cônjuge",
+  "pos": "n.",
+  "english": "spouse",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "mf",
+  "forms": [
+   "cônjuges"
+  ],
+  "example": {
+   "pt": "O cônjuge também precisa assinar o documento.",
+   "en": "The spouse also needs to sign the document."
+  }
+ },
+ {
+  "pt": "companheiro",
+  "pos": "n.",
+  "english": "partner, companion",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "companheira",
+   "companheiros",
+   "companheiras"
+  ],
+  "example": {
+   "pt": "Ela mora com o companheiro há dez anos.",
+   "en": "She has lived with her partner for ten years."
+  }
+ },
+ {
+  "pt": "vizinhança",
+  "pos": "n.",
+  "english": "neighborhood; neighbors",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "f",
+  "forms": [
+   "vizinhanças"
+  ],
+  "example": {
+   "pt": "A vizinhança aqui é muito tranquila.",
+   "en": "The neighborhood here is very quiet."
+  }
+ },
+ {
+  "pt": "convivência",
+  "pos": "n.",
+  "english": "living together, coexistence",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "f",
+  "forms": [
+   "convivências"
+  ],
+  "example": {
+   "pt": "A convivência com os colegas de quarto nem sempre é fácil.",
+   "en": "Living with roommates isn't always easy."
+  }
+ },
+ {
+  "pt": "conviver",
+  "pos": "v.",
+  "english": "to live with, to get along with",
+  "level": 3,
+  "topic": "People & family",
+  "example": {
+   "pt": "Aprendi a conviver com pessoas diferentes.",
+   "en": "I learned to live with different people."
+  }
+ },
+ {
+  "pt": "adolescente",
+  "pos": "n.",
+  "english": "teenager",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "mf",
+  "forms": [
+   "adolescentes"
+  ],
+  "example": {
+   "pt": "Os adolescentes passam muito tempo no celular.",
+   "en": "Teenagers spend a lot of time on their phones."
+  }
+ },
+ {
+  "pt": "adolescência",
+  "pos": "n.",
+  "english": "adolescence",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "f",
+  "forms": [
+   "adolescências"
+  ],
+  "example": {
+   "pt": "Passei a adolescência no interior.",
+   "en": "I spent my teenage years in the countryside."
+  }
+ },
+ {
+  "pt": "infância",
+  "pos": "n.",
+  "english": "childhood",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "f",
+  "forms": [
+   "infâncias"
+  ],
+  "example": {
+   "pt": "Tive uma infância muito feliz.",
+   "en": "I had a very happy childhood."
+  }
+ },
+ {
+  "pt": "juventude",
+  "pos": "n.",
+  "english": "youth",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "f",
+  "forms": [
+   "juventudes"
+  ],
+  "example": {
+   "pt": "Na juventude, ele jogava futebol todos os dias.",
+   "en": "In his youth, he played soccer every day."
+  }
+ },
+ {
+  "pt": "velhice",
+  "pos": "n.",
+  "english": "old age",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "f",
+  "forms": [
+   "velhices"
+  ],
+  "example": {
+   "pt": "Ela quer ter uma velhice tranquila.",
+   "en": "She wants to have a peaceful old age."
+  }
+ },
+ {
+  "pt": "idoso",
+  "pos": "n./adj.",
+  "english": "elderly (person)",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "idosa",
+   "idosos",
+   "idosas"
+  ],
+  "example": {
+   "pt": "Os idosos têm prioridade na fila.",
+   "en": "Elderly people have priority in line."
+  }
+ },
+ {
+  "pt": "adulto",
+  "pos": "n./adj.",
+  "english": "adult",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "adulta",
+   "adultos",
+   "adultas"
+  ],
+  "example": {
+   "pt": "O ingresso para adultos custa trinta reais.",
+   "en": "The ticket for adults costs thirty reais."
+  }
+ },
+ {
+  "pt": "geração",
+  "pos": "n.",
+  "english": "generation",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "f",
+  "forms": [
+   "gerações"
+  ],
+  "example": {
+   "pt": "A nova geração usa muito a internet.",
+   "en": "The new generation uses the internet a lot."
+  }
+ },
+ {
+  "pt": "antepassado",
+  "pos": "n.",
+  "english": "ancestor",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "antepassados"
+  ],
+  "example": {
+   "pt": "Meus antepassados eram portugueses.",
+   "en": "My ancestors were Portuguese."
+  }
+ },
+ {
+  "pt": "herança",
+  "pos": "n.",
+  "english": "inheritance; heritage",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "f",
+  "forms": [
+   "heranças"
+  ],
+  "example": {
+   "pt": "Eles brigaram por causa da herança.",
+   "en": "They fought over the inheritance."
+  }
+ },
+ {
+  "pt": "herdar",
+  "pos": "v.",
+  "english": "to inherit",
+  "level": 3,
+  "topic": "People & family",
+  "example": {
+   "pt": "Ela herdou os olhos azuis da avó.",
+   "en": "She inherited her blue eyes from her grandmother."
+  }
+ },
+ {
+  "pt": "criar",
+  "pos": "v.",
+  "english": "to raise, bring up; to create",
+  "level": 3,
+  "topic": "People & family",
+  "example": {
+   "pt": "Minha avó criou seis filhos sozinha.",
+   "en": "My grandmother raised six children on her own."
+  }
+ },
+ {
+  "pt": "criação",
+  "pos": "n.",
+  "english": "upbringing; creation",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "f",
+  "forms": [
+   "criações"
+  ],
+  "example": {
+   "pt": "Ele teve uma criação muito rígida.",
+   "en": "He had a very strict upbringing."
+  }
+ },
+ {
+  "pt": "adotar",
+  "pos": "v.",
+  "english": "to adopt",
+  "level": 3,
+  "topic": "People & family",
+  "example": {
+   "pt": "Eles decidiram adotar uma criança.",
+   "en": "They decided to adopt a child."
+  }
+ },
+ {
+  "pt": "nascimento",
+  "pos": "n.",
+  "english": "birth",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "nascimentos"
+  ],
+  "example": {
+   "pt": "Qual é a sua data de nascimento?",
+   "en": "What is your date of birth?"
+  }
+ },
+ {
+  "pt": "divórcio",
+  "pos": "n.",
+  "english": "divorce",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "divórcios"
+  ],
+  "example": {
+   "pt": "O divórcio foi difícil para os filhos.",
+   "en": "The divorce was hard on the children."
+  }
+ },
+ {
+  "pt": "separar",
+  "pos": "v.",
+  "english": "to separate; to split up",
+  "level": 3,
+  "topic": "People & family",
+  "example": {
+   "pt": "Os pais dela se separaram no ano passado.",
+   "en": "Her parents split up last year."
+  }
+ },
+ {
+  "pt": "conhecido",
+  "pos": "n.",
+  "english": "acquaintance",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "conhecida",
+   "conhecidos",
+   "conhecidas"
+  ],
+  "example": {
+   "pt": "Ele não é meu amigo, é só um conhecido.",
+   "en": "He's not my friend, just an acquaintance."
+  }
+ },
+ {
+  "pt": "apelido",
+  "pos": "n.",
+  "english": "nickname",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "apelidos"
+  ],
+  "example": {
+   "pt": "Meu apelido na escola era Baixinho.",
+   "en": "My nickname at school was Shorty."
+  }
+ },
+ {
+  "pt": "sobrenome",
+  "pos": "n.",
+  "english": "surname, last name",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "sobrenomes"
+  ],
+  "example": {
+   "pt": "Qual é o seu sobrenome?",
+   "en": "What is your last name?"
+  }
+ },
+ {
+  "pt": "cidadão",
+  "pos": "n.",
+  "english": "citizen",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "cidadã",
+   "cidadãos",
+   "cidadãs"
+  ],
+  "example": {
+   "pt": "Todo cidadão tem direito à saúde.",
+   "en": "Every citizen has the right to health care."
+  }
+ },
+ {
+  "pt": "desconhecido",
+  "pos": "n./adj.",
+  "english": "stranger; unknown",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "desconhecida",
+   "desconhecidos",
+   "desconhecidas"
+  ],
+  "example": {
+   "pt": "Não fale com desconhecidos.",
+   "en": "Don't talk to strangers."
+  }
+ },
+ {
+  "pt": "morador",
+  "pos": "n.",
+  "english": "resident, inhabitant",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "moradora",
+   "moradores",
+   "moradoras"
+  ],
+  "example": {
+   "pt": "Os moradores do prédio fizeram uma reunião.",
+   "en": "The residents of the building held a meeting."
+  }
+ },
+ {
+  "pt": "personalidade",
+  "pos": "n.",
+  "english": "personality",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "f",
+  "forms": [
+   "personalidades"
+  ],
+  "example": {
+   "pt": "Ela tem uma personalidade muito forte.",
+   "en": "She has a very strong personality."
+  }
+ },
+ {
+  "pt": "parecido",
+  "pos": "adj.",
+  "english": "similar, alike",
+  "level": 3,
+  "topic": "People & family",
+  "forms": [
+   "parecida",
+   "parecidos",
+   "parecidas"
+  ],
+  "example": {
+   "pt": "Você é muito parecido com seu pai.",
+   "en": "You look a lot like your father."
+  }
+ },
+ {
+  "pt": "mimado",
+  "pos": "adj.",
+  "english": "spoiled",
+  "level": 3,
+  "topic": "People & family",
+  "forms": [
+   "mimada",
+   "mimados",
+   "mimadas"
+  ],
+  "example": {
+   "pt": "O neto dela é muito mimado.",
+   "en": "Her grandson is very spoiled."
+  }
+ },
+ {
+  "pt": "aposentado",
+  "pos": "n./adj.",
+  "english": "retired (person), retiree",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "aposentada",
+   "aposentados",
+   "aposentadas"
+  ],
+  "example": {
+   "pt": "Meu avô é aposentado e adora viajar.",
+   "en": "My grandfather is retired and loves to travel."
+  }
+ },
+ {
+  "pt": "órfão",
+  "pos": "n./adj.",
+  "english": "orphan",
+  "level": 3,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "órfã",
+   "órfãos",
+   "órfãs"
+  ],
+  "example": {
+   "pt": "Ele ficou órfão aos dez anos.",
+   "en": "He became an orphan at ten."
+  }
+ }
+]

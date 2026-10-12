@@ -1,0 +1,662 @@
+[
+ {
+  "pt": "prazo",
+  "pos": "n.",
+  "english": "deadline; period, term",
+  "level": 3,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "prazos"
+  ],
+  "example": {
+   "pt": "O prazo para entregar o relatório é sexta.",
+   "en": "The deadline for the report is Friday."
+  }
+ },
+ {
+  "pt": "década",
+  "pos": "n.",
+  "english": "decade",
+  "level": 3,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "décadas"
+  ],
+  "example": {
+   "pt": "Essa música fez sucesso na década de oitenta.",
+   "en": "This song was a hit in the eighties."
+  }
+ },
+ {
+  "pt": "século",
+  "pos": "n.",
+  "english": "century",
+  "level": 3,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "séculos"
+  ],
+  "example": {
+   "pt": "A igreja foi construída no século dezoito.",
+   "en": "The church was built in the eighteenth century."
+  }
+ },
+ {
+  "pt": "antigamente",
+  "pos": "adv.",
+  "english": "in the old days, formerly",
+  "level": 3,
+  "topic": "Time",
+  "example": {
+   "pt": "Antigamente, as pessoas escreviam cartas.",
+   "en": "In the old days, people wrote letters."
+  }
+ },
+ {
+  "pt": "de vez em quando",
+  "pos": "expr.",
+  "english": "from time to time, now and then",
+  "level": 3,
+  "topic": "Time",
+  "example": {
+   "pt": "De vez em quando, a gente janta fora.",
+   "en": "Now and then, we eat out."
+  }
+ },
+ {
+  "pt": "época",
+  "pos": "n.",
+  "english": "time, era, period; season",
+  "level": 3,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "épocas"
+  ],
+  "example": {
+   "pt": "Naquela época, eu morava em Belo Horizonte.",
+   "en": "At that time, I lived in Belo Horizonte."
+  }
+ },
+ {
+  "pt": "período",
+  "pos": "n.",
+  "english": "period",
+  "level": 3,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "períodos"
+  ],
+  "example": {
+   "pt": "Estudo no período da manhã.",
+   "en": "I study in the morning period."
+  }
+ },
+ {
+  "pt": "fase",
+  "pos": "n.",
+  "english": "phase, stage",
+  "level": 3,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "fases"
+  ],
+  "example": {
+   "pt": "Ele está passando por uma fase difícil.",
+   "en": "He's going through a difficult phase."
+  }
+ },
+ {
+  "pt": "temporada",
+  "pos": "n.",
+  "english": "season; stay, spell",
+  "level": 3,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "temporadas"
+  ],
+  "example": {
+   "pt": "Passei uma temporada em Lisboa.",
+   "en": "I spent a while in Lisbon."
+  }
+ },
+ {
+  "pt": "vencimento",
+  "pos": "n.",
+  "english": "due date; expiration",
+  "level": 3,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "vencimentos"
+  ],
+  "example": {
+   "pt": "O vencimento da conta é dia dez.",
+   "en": "The bill is due on the tenth."
+  }
+ },
+ {
+  "pt": "adiantado",
+  "pos": "adj.",
+  "english": "early, ahead (of time)",
+  "level": 3,
+  "topic": "Time",
+  "forms": [
+   "adiantada",
+   "adiantados",
+   "adiantadas"
+  ],
+  "example": {
+   "pt": "Cheguei meia hora adiantado.",
+   "en": "I arrived half an hour early."
+  }
+ },
+ {
+  "pt": "atraso",
+  "pos": "n.",
+  "english": "delay, lateness",
+  "level": 3,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "atrasos"
+  ],
+  "example": {
+   "pt": "Desculpe o atraso!",
+   "en": "Sorry for the delay!"
+  }
+ },
+ {
+  "pt": "pontual",
+  "pos": "adj.",
+  "english": "punctual",
+  "level": 3,
+  "topic": "Time",
+  "forms": [
+   "pontuais"
+  ],
+  "example": {
+   "pt": "Ela é sempre muito pontual.",
+   "en": "She is always very punctual."
+  }
+ },
+ {
+  "pt": "adiar",
+  "pos": "v.",
+  "english": "to postpone",
+  "level": 3,
+  "topic": "Time",
+  "example": {
+   "pt": "Vamos ter que adiar a reunião.",
+   "en": "We'll have to postpone the meeting."
+  }
+ },
+ {
+  "pt": "antecipar",
+  "pos": "v.",
+  "english": "to bring forward, to anticipate",
+  "level": 3,
+  "topic": "Time",
+  "example": {
+   "pt": "A empresa antecipou o pagamento.",
+   "en": "The company brought the payment forward."
+  }
+ },
+ {
+  "pt": "durar",
+  "pos": "v.",
+  "english": "to last",
+  "level": 3,
+  "topic": "Time",
+  "example": {
+   "pt": "O filme dura duas horas e meia.",
+   "en": "The movie lasts two and a half hours."
+  }
+ },
+ {
+  "pt": "duração",
+  "pos": "n.",
+  "english": "duration, length",
+  "level": 3,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "durações"
+  ],
+  "example": {
+   "pt": "Qual é a duração do curso?",
+   "en": "How long is the course?"
+  }
+ },
+ {
+  "pt": "ultimamente",
+  "pos": "adv.",
+  "english": "lately",
+  "level": 3,
+  "topic": "Time",
+  "example": {
+   "pt": "Ultimamente tenho dormido mal.",
+   "en": "Lately I've been sleeping badly."
+  }
+ },
+ {
+  "pt": "atualmente",
+  "pos": "adv.",
+  "english": "currently, nowadays",
+  "level": 3,
+  "topic": "Time",
+  "example": {
+   "pt": "Atualmente, ela trabalha em casa.",
+   "en": "She currently works from home."
+  }
+ },
+ {
+  "pt": "recentemente",
+  "pos": "adv.",
+  "english": "recently",
+  "level": 3,
+  "topic": "Time",
+  "example": {
+   "pt": "Recentemente abriram um restaurante novo aqui.",
+   "en": "They recently opened a new restaurant here."
+  }
+ },
+ {
+  "pt": "eventualmente",
+  "pos": "adv.",
+  "english": "occasionally, possibly (not \"eventually\")",
+  "level": 3,
+  "topic": "Time",
+  "example": {
+   "pt": "Eventualmente, trabalho aos sábados.",
+   "en": "I occasionally work on Saturdays."
+  }
+ },
+ {
+  "pt": "raramente",
+  "pos": "adv.",
+  "english": "rarely",
+  "level": 3,
+  "topic": "Time",
+  "example": {
+   "pt": "Raramente vou ao cinema.",
+   "en": "I rarely go to the movies."
+  }
+ },
+ {
+  "pt": "frequentemente",
+  "pos": "adv.",
+  "english": "frequently, often",
+  "level": 3,
+  "topic": "Time",
+  "example": {
+   "pt": "Ele viaja frequentemente a trabalho.",
+   "en": "He frequently travels for work."
+  }
+ },
+ {
+  "pt": "imediatamente",
+  "pos": "adv.",
+  "english": "immediately",
+  "level": 3,
+  "topic": "Time",
+  "example": {
+   "pt": "Liga para o médico imediatamente!",
+   "en": "Call the doctor immediately!"
+  }
+ },
+ {
+  "pt": "de repente",
+  "pos": "adv.",
+  "english": "suddenly",
+  "level": 3,
+  "topic": "Time",
+  "example": {
+   "pt": "De repente, começou a chover.",
+   "en": "Suddenly, it started to rain."
+  }
+ },
+ {
+  "pt": "aos poucos",
+  "pos": "expr.",
+  "english": "little by little, gradually",
+  "level": 3,
+  "topic": "Time",
+  "example": {
+   "pt": "Aos poucos, estou aprendendo a cozinhar.",
+   "en": "Little by little, I'm learning to cook."
+  }
+ },
+ {
+  "pt": "em breve",
+  "pos": "expr.",
+  "english": "soon, shortly",
+  "level": 3,
+  "topic": "Time",
+  "example": {
+   "pt": "O novo shopping vai abrir em breve.",
+   "en": "The new mall will open soon."
+  }
+ },
+ {
+  "pt": "por enquanto",
+  "pos": "expr.",
+  "english": "for now, for the time being",
+  "level": 3,
+  "topic": "Time",
+  "example": {
+   "pt": "Por enquanto, estou morando com meus pais.",
+   "en": "For now, I'm living with my parents."
+  }
+ },
+ {
+  "pt": "até então",
+  "pos": "expr.",
+  "english": "until then, up to that point",
+  "level": 3,
+  "topic": "Time",
+  "example": {
+   "pt": "Até então, eu nunca tinha andado de avião.",
+   "en": "Until then, I had never been on a plane."
+  }
+ },
+ {
+  "pt": "desde então",
+  "pos": "expr.",
+  "english": "since then",
+  "level": 3,
+  "topic": "Time",
+  "example": {
+   "pt": "Mudei para cá em 2015 e moro aqui desde então.",
+   "en": "I moved here in 2015 and have lived here since then."
+  }
+ },
+ {
+  "pt": "hoje em dia",
+  "pos": "expr.",
+  "english": "nowadays",
+  "level": 3,
+  "topic": "Time",
+  "example": {
+   "pt": "Hoje em dia, todo mundo tem celular.",
+   "en": "Nowadays, everybody has a cell phone."
+  }
+ },
+ {
+  "pt": "a longo prazo",
+  "pos": "expr.",
+  "english": "in the long run, long-term",
+  "level": 3,
+  "topic": "Time",
+  "example": {
+   "pt": "A longo prazo, esse investimento vale a pena.",
+   "en": "In the long run, this investment is worth it."
+  }
+ },
+ {
+  "pt": "a curto prazo",
+  "pos": "expr.",
+  "english": "in the short term, short-term",
+  "level": 3,
+  "topic": "Time",
+  "example": {
+   "pt": "A curto prazo, não vamos ter lucro.",
+   "en": "In the short term, we won't make a profit."
+  }
+ },
+ {
+  "pt": "anteontem",
+  "pos": "adv.",
+  "english": "the day before yesterday",
+  "level": 3,
+  "topic": "Time",
+  "example": {
+   "pt": "Anteontem fui ao dentista.",
+   "en": "The day before yesterday I went to the dentist."
+  }
+ },
+ {
+  "pt": "madrugada",
+  "pos": "n.",
+  "english": "early morning hours (after midnight)",
+  "level": 3,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "madrugadas"
+  ],
+  "example": {
+   "pt": "Ele chegou em casa de madrugada.",
+   "en": "He got home in the early hours of the morning."
+  }
+ },
+ {
+  "pt": "amanhecer",
+  "pos": "n./v.",
+  "english": "dawn; to dawn",
+  "level": 3,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "amanheceres"
+  ],
+  "example": {
+   "pt": "Saímos ao amanhecer para pegar a estrada.",
+   "en": "We left at dawn to hit the road."
+  }
+ },
+ {
+  "pt": "anoitecer",
+  "pos": "n./v.",
+  "english": "nightfall, dusk; to get dark",
+  "level": 3,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "anoiteceres"
+  ],
+  "example": {
+   "pt": "Volte para casa antes de anoitecer.",
+   "en": "Come home before it gets dark."
+  }
+ },
+ {
+  "pt": "quinzena",
+  "pos": "n.",
+  "english": "fortnight, two weeks",
+  "level": 3,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "quinzenas"
+  ],
+  "example": {
+   "pt": "Recebo o salário na primeira quinzena do mês.",
+   "en": "I get paid in the first half of the month."
+  }
+ },
+ {
+  "pt": "semestre",
+  "pos": "n.",
+  "english": "semester, six months",
+  "level": 3,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "semestres"
+  ],
+  "example": {
+   "pt": "Vou fazer o intercâmbio no próximo semestre.",
+   "en": "I'll do the exchange program next semester."
+  }
+ },
+ {
+  "pt": "trimestre",
+  "pos": "n.",
+  "english": "quarter, three months",
+  "level": 3,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "trimestres"
+  ],
+  "example": {
+   "pt": "As vendas cresceram no último trimestre.",
+   "en": "Sales grew in the last quarter."
+  }
+ },
+ {
+  "pt": "anual",
+  "pos": "adj.",
+  "english": "annual, yearly",
+  "level": 3,
+  "topic": "Time",
+  "forms": [
+   "anuais"
+  ],
+  "example": {
+   "pt": "A festa anual da empresa é em dezembro.",
+   "en": "The company's annual party is in December."
+  }
+ },
+ {
+  "pt": "mensal",
+  "pos": "adj.",
+  "english": "monthly",
+  "level": 3,
+  "topic": "Time",
+  "forms": [
+   "mensais"
+  ],
+  "example": {
+   "pt": "A mensalidade é paga em parcelas mensais.",
+   "en": "The fee is paid in monthly installments."
+  }
+ },
+ {
+  "pt": "semanal",
+  "pos": "adj.",
+  "english": "weekly",
+  "level": 3,
+  "topic": "Time",
+  "forms": [
+   "semanais"
+  ],
+  "example": {
+   "pt": "Temos uma reunião semanal às segundas.",
+   "en": "We have a weekly meeting on Mondays."
+  }
+ },
+ {
+  "pt": "cotidiano",
+  "pos": "n./adj.",
+  "english": "daily life; everyday",
+  "level": 3,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "cotidiana",
+   "cotidianos",
+   "cotidianas"
+  ],
+  "example": {
+   "pt": "O livro fala do cotidiano de uma família pobre.",
+   "en": "The book talks about the daily life of a poor family."
+  }
+ },
+ {
+  "pt": "calendário",
+  "pos": "n.",
+  "english": "calendar",
+  "level": 3,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "calendários"
+  ],
+  "example": {
+   "pt": "Marquei a data no calendário.",
+   "en": "I marked the date on the calendar."
+  }
+ },
+ {
+  "pt": "cronograma",
+  "pos": "n.",
+  "english": "schedule, timeline",
+  "level": 3,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "cronogramas"
+  ],
+  "example": {
+   "pt": "Precisamos seguir o cronograma do projeto.",
+   "en": "We need to follow the project schedule."
+  }
+ },
+ {
+  "pt": "instante",
+  "pos": "n.",
+  "english": "instant, moment",
+  "level": 3,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "instantes"
+  ],
+  "example": {
+   "pt": "Espere um instante, por favor.",
+   "en": "Wait a moment, please."
+  }
+ },
+ {
+  "pt": "ocasião",
+  "pos": "n.",
+  "english": "occasion",
+  "level": 3,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "ocasiões"
+  ],
+  "example": {
+   "pt": "Guardei esse vinho para uma ocasião especial.",
+   "en": "I saved this wine for a special occasion."
+  }
+ },
+ {
+  "pt": "véspera",
+  "pos": "n.",
+  "english": "eve, day before",
+  "level": 3,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "vésperas"
+  ],
+  "example": {
+   "pt": "Na véspera de Natal, a família toda se reúne.",
+   "en": "On Christmas Eve, the whole family gets together."
+  }
+ },
+ {
+  "pt": "atual",
+  "pos": "adj.",
+  "english": "current, present",
+  "level": 3,
+  "topic": "Time",
+  "forms": [
+   "atuais"
+  ],
+  "example": {
+   "pt": "Qual é o seu endereço atual?",
+   "en": "What is your current address?"
+  }
+ }
+]

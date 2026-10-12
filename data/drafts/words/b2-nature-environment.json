@@ -1,0 +1,796 @@
+[
+ {
+  "pt": "biodiversidade",
+  "pos": "n.",
+  "english": "biodiversity",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "example": {
+   "pt": "A Amazônia abriga uma biodiversidade enorme.",
+   "en": "The Amazon is home to enormous biodiversity."
+  }
+ },
+ {
+  "pt": "sustentabilidade",
+  "pos": "n.",
+  "english": "sustainability",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "example": {
+   "pt": "A empresa investe em sustentabilidade.",
+   "en": "The company invests in sustainability."
+  }
+ },
+ {
+  "pt": "sustentável",
+  "pos": "adj.",
+  "english": "sustainable",
+  "level": 4,
+  "topic": "Nature & environment",
+  "forms": [
+   "sustentáveis"
+  ],
+  "example": {
+   "pt": "Precisamos de um modelo de desenvolvimento sustentável.",
+   "en": "We need a sustainable development model."
+  }
+ },
+ {
+  "pt": "aquecimento global",
+  "pos": "n.",
+  "english": "global warming",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "example": {
+   "pt": "O aquecimento global está derretendo as geleiras.",
+   "en": "Global warming is melting the glaciers."
+  }
+ },
+ {
+  "pt": "mudança climática",
+  "pos": "n.",
+  "english": "climate change",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "mudanças climáticas"
+  ],
+  "example": {
+   "pt": "As mudanças climáticas já afetam a agricultura.",
+   "en": "Climate change is already affecting agriculture."
+  }
+ },
+ {
+  "pt": "efeito estufa",
+  "pos": "n.",
+  "english": "greenhouse effect",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "example": {
+   "pt": "O gás carbônico contribui para o efeito estufa.",
+   "en": "Carbon dioxide contributes to the greenhouse effect."
+  }
+ },
+ {
+  "pt": "emissão",
+  "pos": "n.",
+  "english": "emission",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "emissões"
+  ],
+  "example": {
+   "pt": "O acordo prevê a redução das emissões de carbono.",
+   "en": "The agreement provides for a reduction in carbon emissions."
+  }
+ },
+ {
+  "pt": "pegada de carbono",
+  "pos": "n.",
+  "english": "carbon footprint",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "pegadas de carbono"
+  ],
+  "example": {
+   "pt": "Andar de bicicleta reduz a sua pegada de carbono.",
+   "en": "Cycling reduces your carbon footprint."
+  }
+ },
+ {
+  "pt": "combustível fóssil",
+  "pos": "n.",
+  "english": "fossil fuel",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "combustíveis fósseis"
+  ],
+  "example": {
+   "pt": "O mundo ainda depende dos combustíveis fósseis.",
+   "en": "The world still depends on fossil fuels."
+  }
+ },
+ {
+  "pt": "energia renovável",
+  "pos": "n.",
+  "english": "renewable energy",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "energias renováveis"
+  ],
+  "example": {
+   "pt": "O Brasil tem grande potencial para energia renovável.",
+   "en": "Brazil has great potential for renewable energy."
+  }
+ },
+ {
+  "pt": "renovável",
+  "pos": "adj.",
+  "english": "renewable",
+  "level": 4,
+  "topic": "Nature & environment",
+  "forms": [
+   "renováveis"
+  ],
+  "example": {
+   "pt": "A energia solar é uma fonte renovável.",
+   "en": "Solar energy is a renewable source."
+  }
+ },
+ {
+  "pt": "esgotar",
+  "pos": "v.",
+  "english": "to exhaust, to deplete; to sell out",
+  "level": 4,
+  "topic": "Nature & environment",
+  "example": {
+   "pt": "Se continuarmos assim, vamos esgotar os recursos naturais.",
+   "en": "If we carry on like this, we will deplete natural resources."
+  }
+ },
+ {
+  "pt": "recursos naturais",
+  "pos": "n.",
+  "english": "natural resources",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "recurso natural"
+  ],
+  "example": {
+   "pt": "A exploração dos recursos naturais precisa ser controlada.",
+   "en": "The exploitation of natural resources needs to be controlled."
+  }
+ },
+ {
+  "pt": "desmatamento",
+  "pos": "n.",
+  "english": "deforestation",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "desmatamentos"
+  ],
+  "example": {
+   "pt": "O desmatamento na Amazônia voltou a crescer.",
+   "en": "Deforestation in the Amazon has started rising again."
+  }
+ },
+ {
+  "pt": "desmatar",
+  "pos": "v.",
+  "english": "to deforest, to clear (land)",
+  "level": 4,
+  "topic": "Nature & environment",
+  "example": {
+   "pt": "Os fazendeiros desmataram uma área enorme.",
+   "en": "The farmers cleared a huge area."
+  }
+ },
+ {
+  "pt": "reflorestamento",
+  "pos": "n.",
+  "english": "reforestation",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "reflorestamentos"
+  ],
+  "example": {
+   "pt": "O projeto de reflorestamento plantou mil árvores.",
+   "en": "The reforestation project planted a thousand trees."
+  }
+ },
+ {
+  "pt": "queimada",
+  "pos": "n.",
+  "english": "(forest) fire, burning",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "queimadas"
+  ],
+  "example": {
+   "pt": "As queimadas aumentam durante a época seca.",
+   "en": "Fires increase during the dry season."
+  }
+ },
+ {
+  "pt": "ecossistema",
+  "pos": "n.",
+  "english": "ecosystem",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "ecossistemas"
+  ],
+  "example": {
+   "pt": "A poluição ameaça o ecossistema do rio.",
+   "en": "Pollution threatens the river's ecosystem."
+  }
+ },
+ {
+  "pt": "bioma",
+  "pos": "n.",
+  "english": "biome",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "biomas"
+  ],
+  "example": {
+   "pt": "O Cerrado é o segundo maior bioma do Brasil.",
+   "en": "The Cerrado is Brazil's second largest biome."
+  }
+ },
+ {
+  "pt": "cerrado",
+  "pos": "n.",
+  "english": "Brazilian savanna",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "cerrados"
+  ],
+  "example": {
+   "pt": "O cerrado tem uma vegetação típica de árvores baixas.",
+   "en": "The cerrado has typical vegetation of low trees."
+  }
+ },
+ {
+  "pt": "caatinga",
+  "pos": "n.",
+  "english": "caatinga (dry scrub forest of NE Brazil)",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "caatingas"
+  ],
+  "example": {
+   "pt": "A caatinga só existe no Brasil.",
+   "en": "The caatinga exists only in Brazil."
+  }
+ },
+ {
+  "pt": "manguezal",
+  "pos": "n.",
+  "english": "mangrove swamp",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "manguezais"
+  ],
+  "example": {
+   "pt": "O manguezal é um berçário de peixes e caranguejos.",
+   "en": "The mangrove swamp is a nursery for fish and crabs."
+  }
+ },
+ {
+  "pt": "fauna",
+  "pos": "n.",
+  "english": "fauna, wildlife",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "faunas"
+  ],
+  "example": {
+   "pt": "A fauna da região inclui onças e araras.",
+   "en": "The region's wildlife includes jaguars and macaws."
+  }
+ },
+ {
+  "pt": "flora",
+  "pos": "n.",
+  "english": "flora, plant life",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "floras"
+  ],
+  "example": {
+   "pt": "Os cientistas catalogaram a flora local.",
+   "en": "The scientists catalogued the local plant life."
+  }
+ },
+ {
+  "pt": "habitat",
+  "pos": "n.",
+  "english": "habitat",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "habitats"
+  ],
+  "example": {
+   "pt": "A destruição do habitat ameaça a espécie.",
+   "en": "The destruction of its habitat threatens the species."
+  }
+ },
+ {
+  "pt": "extinção",
+  "pos": "n.",
+  "english": "extinction",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "extinções"
+  ],
+  "example": {
+   "pt": "O mico-leão-dourado já esteve ameaçado de extinção.",
+   "en": "The golden lion tamarin was once threatened with extinction."
+  }
+ },
+ {
+  "pt": "em extinção",
+  "pos": "expr.",
+  "english": "endangered",
+  "level": 4,
+  "topic": "Nature & environment",
+  "example": {
+   "pt": "A arara-azul é uma espécie em extinção.",
+   "en": "The hyacinth macaw is an endangered species."
+  }
+ },
+ {
+  "pt": "nascente",
+  "pos": "n.",
+  "english": "spring, source (of a river)",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "nascentes"
+  ],
+  "example": {
+   "pt": "A nascente do rio fica no alto da serra.",
+   "en": "The source of the river is high in the mountains."
+  }
+ },
+ {
+  "pt": "bacia hidrográfica",
+  "pos": "n.",
+  "english": "river basin, watershed",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "bacias hidrográficas"
+  ],
+  "example": {
+   "pt": "A bacia hidrográfica do Amazonas é a maior do mundo.",
+   "en": "The Amazon river basin is the largest in the world."
+  }
+ },
+ {
+  "pt": "manancial",
+  "pos": "n.",
+  "english": "water source, reservoir",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "mananciais"
+  ],
+  "example": {
+   "pt": "A seca reduziu o nível dos mananciais.",
+   "en": "The drought lowered the level of the reservoirs."
+  }
+ },
+ {
+  "pt": "lençol freático",
+  "pos": "n.",
+  "english": "water table, groundwater",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "lençóis freáticos"
+  ],
+  "example": {
+   "pt": "O lixo pode contaminar o lençol freático.",
+   "en": "Garbage can contaminate the groundwater."
+  }
+ },
+ {
+  "pt": "geleira",
+  "pos": "n.",
+  "english": "glacier",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "geleiras"
+  ],
+  "example": {
+   "pt": "As geleiras estão encolhendo rapidamente.",
+   "en": "Glaciers are shrinking rapidly."
+  }
+ },
+ {
+  "pt": "derretimento",
+  "pos": "n.",
+  "english": "melting",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "derretimentos"
+  ],
+  "example": {
+   "pt": "O derretimento do gelo polar eleva o nível do mar.",
+   "en": "The melting of polar ice raises the sea level."
+  }
+ },
+ {
+  "pt": "nível do mar",
+  "pos": "n.",
+  "english": "sea level",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "example": {
+   "pt": "Cidades costeiras temem a elevação do nível do mar.",
+   "en": "Coastal cities fear rising sea levels."
+  }
+ },
+ {
+  "pt": "erosão",
+  "pos": "n.",
+  "english": "erosion",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "erosões"
+  ],
+  "example": {
+   "pt": "A falta de vegetação provoca erosão do solo.",
+   "en": "Lack of vegetation causes soil erosion."
+  }
+ },
+ {
+  "pt": "assoreamento",
+  "pos": "n.",
+  "english": "silting up (of rivers)",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "assoreamentos"
+  ],
+  "example": {
+   "pt": "O assoreamento deixou o rio mais raso.",
+   "en": "Silting has made the river shallower."
+  }
+ },
+ {
+  "pt": "saneamento básico",
+  "pos": "n.",
+  "english": "basic sanitation",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "example": {
+   "pt": "Milhões de brasileiros não têm acesso a saneamento básico.",
+   "en": "Millions of Brazilians lack access to basic sanitation."
+  }
+ },
+ {
+  "pt": "esgoto",
+  "pos": "n.",
+  "english": "sewage, sewer",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "esgotos"
+  ],
+  "example": {
+   "pt": "O esgoto é despejado sem tratamento no rio.",
+   "en": "Sewage is dumped untreated into the river."
+  }
+ },
+ {
+  "pt": "resíduo",
+  "pos": "n.",
+  "english": "waste, residue",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "resíduos"
+  ],
+  "example": {
+   "pt": "A fábrica foi multada por descartar resíduos tóxicos.",
+   "en": "The factory was fined for dumping toxic waste."
+  }
+ },
+ {
+  "pt": "aterro sanitário",
+  "pos": "n.",
+  "english": "landfill",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "aterros sanitários"
+  ],
+  "example": {
+   "pt": "O lixo da cidade vai para um aterro sanitário.",
+   "en": "The city's garbage goes to a landfill."
+  }
+ },
+ {
+  "pt": "lixão",
+  "pos": "n.",
+  "english": "open-air dump",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "lixões"
+  ],
+  "example": {
+   "pt": "A lei determinou o fechamento dos lixões.",
+   "en": "The law ordered the closure of open-air dumps."
+  }
+ },
+ {
+  "pt": "compostagem",
+  "pos": "n.",
+  "english": "composting",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "compostagens"
+  ],
+  "example": {
+   "pt": "Fazemos compostagem com os restos de comida.",
+   "en": "We compost our food scraps."
+  }
+ },
+ {
+  "pt": "agrotóxico",
+  "pos": "n.",
+  "english": "pesticide",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "agrotóxicos"
+  ],
+  "example": {
+   "pt": "O uso de agrotóxicos preocupa os ambientalistas.",
+   "en": "The use of pesticides worries environmentalists."
+  }
+ },
+ {
+  "pt": "ambientalista",
+  "pos": "n./adj.",
+  "english": "environmentalist",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "mf",
+  "forms": [
+   "ambientalistas"
+  ],
+  "example": {
+   "pt": "Os ambientalistas protestaram contra a nova usina.",
+   "en": "Environmentalists protested against the new power plant."
+  }
+ },
+ {
+  "pt": "monocultura",
+  "pos": "n.",
+  "english": "monoculture",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "monoculturas"
+  ],
+  "example": {
+   "pt": "A monocultura de soja empobrece o solo.",
+   "en": "Soy monoculture impoverishes the soil."
+  }
+ },
+ {
+  "pt": "pecuária",
+  "pos": "n.",
+  "english": "livestock farming, cattle raising",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "pecuárias"
+  ],
+  "example": {
+   "pt": "A pecuária é uma das principais causas de desmatamento.",
+   "en": "Cattle ranching is one of the main causes of deforestation."
+  }
+ },
+ {
+  "pt": "garimpo",
+  "pos": "n.",
+  "english": "(illegal) mining, prospecting",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "garimpos"
+  ],
+  "example": {
+   "pt": "O garimpo ilegal contamina os rios com mercúrio.",
+   "en": "Illegal mining contaminates rivers with mercury."
+  }
+ },
+ {
+  "pt": "poluente",
+  "pos": "n./adj.",
+  "english": "pollutant; polluting",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "poluentes"
+  ],
+  "example": {
+   "pt": "Os carros elétricos não emitem poluentes.",
+   "en": "Electric cars don't emit pollutants."
+  }
+ },
+ {
+  "pt": "contaminação",
+  "pos": "n.",
+  "english": "contamination",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "contaminações"
+  ],
+  "example": {
+   "pt": "Houve contaminação da água por óleo.",
+   "en": "There was oil contamination of the water."
+  }
+ },
+ {
+  "pt": "contaminar",
+  "pos": "v.",
+  "english": "to contaminate",
+  "level": 4,
+  "topic": "Nature & environment",
+  "example": {
+   "pt": "O vazamento contaminou a praia.",
+   "en": "The spill contaminated the beach."
+  }
+ },
+ {
+  "pt": "degradar",
+  "pos": "v.",
+  "english": "to degrade",
+  "level": 4,
+  "topic": "Nature & environment",
+  "example": {
+   "pt": "A mineração degradou uma grande área de floresta.",
+   "en": "Mining degraded a large area of forest."
+  }
+ },
+ {
+  "pt": "devastar",
+  "pos": "v.",
+  "english": "to devastate",
+  "level": 4,
+  "topic": "Nature & environment",
+  "example": {
+   "pt": "O incêndio devastou o parque nacional.",
+   "en": "The fire devastated the national park."
+  }
+ },
+ {
+  "pt": "predatório",
+  "pos": "adj.",
+  "english": "predatory, destructive",
+  "level": 4,
+  "topic": "Nature & environment",
+  "forms": [
+   "predatória",
+   "predatórios",
+   "predatórias"
+  ],
+  "example": {
+   "pt": "A pesca predatória ameaça várias espécies.",
+   "en": "Overfishing threatens several species."
+  }
+ },
+ {
+  "pt": "escassez",
+  "pos": "n.",
+  "english": "scarcity, shortage",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "example": {
+   "pt": "A escassez de água é um problema global.",
+   "en": "Water scarcity is a global problem."
+  }
+ },
+ {
+  "pt": "desperdício",
+  "pos": "n.",
+  "english": "waste (of resources)",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "desperdícios"
+  ],
+  "example": {
+   "pt": "Precisamos combater o desperdício de alimentos.",
+   "en": "We need to fight food waste."
+  }
+ },
+ {
+  "pt": "catástrofe",
+  "pos": "n.",
+  "english": "catastrophe",
+  "level": 4,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "catástrofes"
+  ],
+  "example": {
+   "pt": "O rompimento da barragem foi uma catástrofe ambiental.",
+   "en": "The dam collapse was an environmental catastrophe."
+  }
+ }
+]

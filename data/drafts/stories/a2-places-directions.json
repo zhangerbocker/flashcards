@@ -1,0 +1,434 @@
+[
+ {
+  "id": "a2-places-directions-1",
+  "level": 2,
+  "topic": "Places & directions",
+  "title": "Perdido em São Paulo",
+  "titleEn": "Lost in São Paulo",
+  "sentences": [
+   {
+    "pt": "Diego é de Buenos Aires e está passando uma semana em São Paulo.",
+    "en": "Diego is from Buenos Aires and is spending a week in São Paulo.",
+    "glosses": {
+     "é": "is",
+     "está passando": "is spending"
+    }
+   },
+   {
+    "pt": "Hoje ele quer visitar um museu famoso na Paulista.",
+    "en": "Today he wants to visit a famous museum on Paulista Avenue.",
+    "glosses": {
+     "quer": "wants",
+     "na": "on"
+    }
+   },
+   {
+    "pt": "Ele saiu do hotel cedo, com um mapa na mão.",
+    "en": "He left the hotel early, with a map in his hand.",
+    "glosses": {
+     "saiu": "left",
+     "do": "the",
+     "na": "in his"
+    }
+   },
+   {
+    "pt": "Mas, depois de vinte minutos, ele não sabia mais onde estava.",
+    "en": "But after twenty minutes, he no longer knew where he was.",
+    "glosses": {
+     "não sabia mais": "no longer knew",
+     "estava": "he was"
+    }
+   },
+   {
+    "pt": "Ele viu uma moça em frente a uma padaria e perguntou: — Com licença, onde fica a Paulista?",
+    "en": "He saw a young woman in front of a bakery and asked, \"Excuse me, where is Paulista Avenue?\"",
+    "glosses": {
+     "viu": "saw",
+     "moça": "young woman",
+     "perguntou": "asked",
+     "fica": "is"
+    }
+   },
+   {
+    "pt": "— Não é longe — ela respondeu.",
+    "en": "\"It isn't far,\" she answered.",
+    "glosses": {
+     "é": "it is",
+     "respondeu": "answered"
+    }
+   },
+   {
+    "pt": "— Siga reto nesta rua por dois quarteirões.",
+    "en": "\"Go straight along this street for two blocks.\"",
+    "glosses": {
+     "siga": "go",
+     "nesta": "along this",
+     "por": "for"
+    }
+   },
+   {
+    "pt": "— No semáforo, vire à direita e atravesse a ponte.",
+    "en": "\"At the traffic light, turn right and cross the bridge.\"",
+    "glosses": {
+     "no": "at the",
+     "vire": "turn",
+     "atravesse": "cross"
+    }
+   },
+   {
+    "pt": "— Depois, no cruzamento grande, vire à esquerda.",
+    "en": "\"Then, at the big intersection, turn left.\"",
+    "glosses": {
+     "no": "at the",
+     "vire": "turn"
+    }
+   },
+   {
+    "pt": "— O museu fica na esquina, ao lado de um banco.",
+    "en": "\"The museum is on the corner, next to a bank.\"",
+    "glosses": {
+     "fica": "is",
+     "na": "on the"
+    }
+   },
+   {
+    "pt": "Diego disse obrigado e começou a andar.",
+    "en": "Diego said thank you and started walking.",
+    "glosses": {
+     "disse": "said",
+     "começou a andar": "started walking"
+    }
+   },
+   {
+    "pt": "Ele seguiu reto, virou à direita no semáforo e atravessou a ponte.",
+    "en": "He went straight, turned right at the traffic light and crossed the bridge.",
+    "glosses": {
+     "seguiu": "went",
+     "virou": "turned",
+     "no": "at the",
+     "atravessou": "crossed"
+    }
+   },
+   {
+    "pt": "Mas, no cruzamento, ele virou à direita de novo, em vez de virar à esquerda.",
+    "en": "But at the intersection, he turned right again, instead of turning left.",
+    "glosses": {
+     "no": "at the",
+     "virou": "turned",
+     "de novo": "again"
+    }
+   },
+   {
+    "pt": "Depois de três quarteirões, ele viu uma igreja, mas nenhum museu.",
+    "en": "After three blocks, he saw a church, but no museum.",
+    "glosses": {
+     "viu": "saw"
+    }
+   },
+   {
+    "pt": "Ele estava cansado e com calor.",
+    "en": "He was tired and hot.",
+    "glosses": {
+     "estava": "was",
+     "com calor": "hot"
+    }
+   },
+   {
+    "pt": "Então ele viu uma placa: Paulista, 500 metros.",
+    "en": "Then he saw a sign: Paulista Avenue, 500 meters.",
+    "glosses": {
+     "viu": "saw"
+    }
+   },
+   {
+    "pt": "Ele voltou para o cruzamento e seguiu pelo lado certo.",
+    "en": "He went back to the intersection and went the right way.",
+    "glosses": {
+     "voltou": "went back",
+     "seguiu": "went",
+     "pelo lado certo": "the right way"
+    }
+   },
+   {
+    "pt": "Às onze horas, ele chegou ao museu.",
+    "en": "At eleven o'clock, he got to the museum.",
+    "glosses": {
+     "às": "at",
+     "chegou": "got",
+     "ao": "to the"
+    }
+   },
+   {
+    "pt": "Em frente ao museu, estava a mesma moça da padaria!",
+    "en": "In front of the museum was the same young woman from the bakery!",
+    "glosses": {
+     "ao": "the",
+     "estava": "was",
+     "moça": "young woman",
+     "da": "from the"
+    }
+   },
+   {
+    "pt": "— Você chegou! — ela disse, rindo. — Eu trabalho aqui.",
+    "en": "\"You made it!\" she said, laughing. \"I work here.\"",
+    "glosses": {
+     "chegou": "made it",
+     "disse": "said",
+     "rindo": "laughing",
+     "trabalho": "work"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "De onde é Diego?",
+    "qEn": "Where is Diego from?",
+    "options": [
+     "De São Paulo",
+     "De Buenos Aires",
+     "De Lisboa",
+     "De Nova York"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Onde fica o museu?",
+    "qEn": "Where is the museum?",
+    "options": [
+     "Na esquina, ao lado de um banco",
+     "Em frente à igreja",
+     "Perto do hotel",
+     "Atrás da ponte"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Qual foi o erro de Diego?",
+    "qEn": "What was Diego's mistake?",
+    "options": [
+     "Ele não atravessou a ponte",
+     "Ele virou à direita no cruzamento",
+     "Ele pegou um táxi",
+     "Ele perdeu o mapa"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "a2-places-directions-2",
+  "level": 2,
+  "topic": "Places & directions",
+  "title": "Um bairro novo",
+  "titleEn": "A new neighborhood",
+  "sentences": [
+   {
+    "pt": "Fernanda mudou para Recife há uma semana.",
+    "en": "Fernanda moved to Recife a week ago.",
+    "glosses": {
+     "mudou": "moved",
+     "há": "ago"
+    }
+   },
+   {
+    "pt": "Ela mora no quinto andar de um prédio perto do rio.",
+    "en": "She lives on the fifth floor of a building near the river.",
+    "glosses": {
+     "mora": "lives",
+     "no": "on the",
+     "do": "the"
+    }
+   },
+   {
+    "pt": "Ela ainda não conhece o bairro, então o vizinho, Bruno, decidiu mostrar tudo para ela.",
+    "en": "She doesn't know the neighborhood yet, so her neighbor, Bruno, decided to show her everything.",
+    "glosses": {
+     "ainda não": "not yet",
+     "conhece": "knows",
+     "decidiu": "decided",
+     "para ela": "her"
+    }
+   },
+   {
+    "pt": "No sábado de manhã, eles desceram de elevador e saíram para a rua.",
+    "en": "On Saturday morning, they went down in the elevator and went out to the street.",
+    "glosses": {
+     "no": "on",
+     "desceram": "went down",
+     "de elevador": "in the elevator",
+     "saíram": "went out"
+    }
+   },
+   {
+    "pt": "— A padaria fica aqui na esquina — disse Bruno. — O pão de lá é ótimo.",
+    "en": "\"The bakery is right here on the corner,\" said Bruno. \"Their bread is great.\"",
+    "glosses": {
+     "fica": "is",
+     "na": "on the",
+     "disse": "said",
+     "de lá": "their",
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Eles andaram pela calçada até uma praça pequena com muitas árvores.",
+    "en": "They walked along the sidewalk to a small square with lots of trees.",
+    "glosses": {
+     "andaram": "walked",
+     "pela": "along the",
+     "até": "to"
+    }
+   },
+   {
+    "pt": "— Aqui na praça, tem uma feira toda quarta-feira.",
+    "en": "\"Here in the square, there's a street market every Wednesday.\"",
+    "glosses": {
+     "na": "in the",
+     "tem": "there is",
+     "toda": "every"
+    }
+   },
+   {
+    "pt": "Do outro lado da praça, ficavam a igreja e o correio.",
+    "en": "On the other side of the square were the church and the post office.",
+    "glosses": {
+     "do": "on the",
+     "da": "of the",
+     "ficavam": "were"
+    }
+   },
+   {
+    "pt": "— E aquele prédio branco e enorme? — perguntou Fernanda.",
+    "en": "\"And that huge white building?\" asked Fernanda.",
+    "glosses": {
+     "aquele": "that",
+     "perguntou": "asked"
+    }
+   },
+   {
+    "pt": "— É a prefeitura — respondeu Bruno.",
+    "en": "\"That's city hall,\" answered Bruno.",
+    "glosses": {
+     "é": "that's",
+     "respondeu": "answered"
+    }
+   },
+   {
+    "pt": "Depois, eles atravessaram a avenida principal e chegaram a um supermercado.",
+    "en": "Then they crossed the main avenue and came to a supermarket.",
+    "glosses": {
+     "atravessaram": "crossed",
+     "chegaram": "came"
+    }
+   },
+   {
+    "pt": "— O estacionamento é grande, mas aos sábados está sempre cheio — explicou ele.",
+    "en": "\"The parking lot is big, but on Saturdays it's always full,\" he explained.",
+    "glosses": {
+     "é": "is",
+     "aos": "on",
+     "está": "it's",
+     "explicou": "explained"
+    }
+   },
+   {
+    "pt": "— É melhor vir a pé.",
+    "en": "\"It's better to come on foot.\"",
+    "glosses": {
+     "é": "it's",
+     "a pé": "on foot"
+    }
+   },
+   {
+    "pt": "Bruno também mostrou onde fica a estação de metrô.",
+    "en": "Bruno also showed her where the subway station is.",
+    "glosses": {
+     "mostrou": "showed",
+     "fica": "is",
+     "estação": "station"
+    }
+   },
+   {
+    "pt": "— Para ir ao centro, é só pegar o metrô aqui.",
+    "en": "\"To go downtown, you just take the subway here.\"",
+    "glosses": {
+     "ao centro": "downtown",
+     "é só": "you just",
+     "pegar": "take"
+    }
+   },
+   {
+    "pt": "No fim do passeio, eles pararam em um café ao lado da ponte.",
+    "en": "At the end of the walk, they stopped at a café next to the bridge.",
+    "glosses": {
+     "no fim do": "at the end of the",
+     "pararam": "stopped",
+     "em": "at",
+     "da": "the"
+    }
+   },
+   {
+    "pt": "Fernanda olhou para o rio e para os prédios antigos.",
+    "en": "Fernanda looked at the river and at the old buildings.",
+    "glosses": {
+     "olhou para": "looked at",
+     "para": "at"
+    }
+   },
+   {
+    "pt": "— Eu acho que vou gostar muito deste bairro — disse ela.",
+    "en": "\"I think I'm going to really like this neighborhood,\" she said.",
+    "glosses": {
+     "acho": "think",
+     "vou gostar": "am going to like",
+     "muito": "really",
+     "deste": "this",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Bruno ficou feliz e pagou o café.",
+    "en": "Bruno was happy and paid for the coffee.",
+    "glosses": {
+     "ficou": "was",
+     "pagou": "paid for"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Em que andar Fernanda mora?",
+    "qEn": "What floor does Fernanda live on?",
+    "options": [
+     "No primeiro",
+     "No terceiro",
+     "No quarto",
+     "No quinto"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "O que tem na praça toda quarta-feira?",
+    "qEn": "What is in the square every Wednesday?",
+    "options": [
+     "Um show",
+     "Uma feira",
+     "Um jogo",
+     "Uma festa"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "O que é o prédio branco?",
+    "qEn": "What is the white building?",
+    "options": [
+     "O correio",
+     "A igreja",
+     "A prefeitura",
+     "O hotel"
+    ],
+    "answer": 2
+   }
+  ]
+ }
+]

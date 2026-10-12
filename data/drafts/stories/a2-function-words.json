@@ -1,0 +1,434 @@
+[
+ {
+  "id": "a2-function-words-1",
+  "level": 2,
+  "topic": "Function words",
+  "title": "Uma sopa para a vizinha",
+  "titleEn": "A soup for the neighbor",
+  "sentences": [
+   {
+    "pt": "Juliana mora em um prédio antigo no centro de Curitiba.",
+    "en": "Juliana lives in an old building in downtown Curitiba.",
+    "glosses": {
+     "mora": "lives",
+     "no": "in the",
+     "centro": "downtown"
+    }
+   },
+   {
+    "pt": "Ao lado do apartamento dela mora Dona Lúcia, uma senhora de oitenta anos.",
+    "en": "Next to her apartment lives Dona Lúcia, an eighty-year-old lady.",
+    "glosses": {
+     "do": "of the",
+     "dela": "her",
+     "mora": "lives",
+     "senhora": "lady"
+    }
+   },
+   {
+    "pt": "Dona Lúcia mora sozinha, mas está sempre alegre.",
+    "en": "Dona Lúcia lives alone, but she is always cheerful.",
+    "glosses": {
+     "mora": "lives",
+     "sozinha": "alone",
+     "está": "is"
+    }
+   },
+   {
+    "pt": "Toda manhã, ela conversa com Juliana na escada.",
+    "en": "Every morning, she chats with Juliana on the stairs.",
+    "glosses": {
+     "toda": "every",
+     "conversa": "chats",
+     "na": "on the"
+    }
+   },
+   {
+    "pt": "Ontem, Juliana não viu a vizinha.",
+    "en": "Yesterday, Juliana didn't see her neighbor.",
+    "glosses": {
+     "viu": "saw",
+     "vizinha": "neighbor"
+    }
+   },
+   {
+    "pt": "Ela chamou Dona Lúcia na porta, mas ninguém respondeu.",
+    "en": "She called Dona Lúcia at the door, but nobody answered.",
+    "glosses": {
+     "chamou": "called",
+     "na": "at the",
+     "respondeu": "answered"
+    }
+   },
+   {
+    "pt": "Juliana ficou preocupada e ligou para o filho dela.",
+    "en": "Juliana got worried and called her son.",
+    "glosses": {
+     "ficou": "got",
+     "preocupada": "worried",
+     "ligou": "called",
+     "dela": "her"
+    }
+   },
+   {
+    "pt": "O filho explicou que a mãe estava com gripe e estava descansando.",
+    "en": "The son explained that his mother had the flu and was resting.",
+    "glosses": {
+     "explicou": "explained",
+     "estava com": "had",
+     "estava": "was",
+     "descansando": "resting"
+    }
+   },
+   {
+    "pt": "Então Juliana decidiu fazer uma sopa para ela.",
+    "en": "So Juliana decided to make a soup for her.",
+    "glosses": {
+     "decidiu": "decided",
+     "ela": "her"
+    }
+   },
+   {
+    "pt": "Ela foi ao mercado e comprou batatas, cenouras e frango.",
+    "en": "She went to the market and bought potatoes, carrots and chicken.",
+    "glosses": {
+     "foi": "went",
+     "ao": "to the",
+     "comprou": "bought"
+    }
+   },
+   {
+    "pt": "Em casa, ela cozinhou a sopa durante quase uma hora.",
+    "en": "At home, she cooked the soup for almost an hour.",
+    "glosses": {
+     "em casa": "at home",
+     "cozinhou": "cooked",
+     "durante": "for"
+    }
+   },
+   {
+    "pt": "Depois, levou a panela quente até a porta da vizinha.",
+    "en": "Then she took the hot pot to the neighbor's door.",
+    "glosses": {
+     "levou": "took",
+     "até": "to",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Desta vez, Dona Lúcia abriu a porta.",
+    "en": "This time, Dona Lúcia opened the door.",
+    "glosses": {
+     "desta": "this",
+     "abriu": "opened"
+    }
+   },
+   {
+    "pt": "Ela estava cansada, mas ficou muito feliz.",
+    "en": "She was tired, but she was very happy.",
+    "glosses": {
+     "estava": "was",
+     "cansada": "tired",
+     "ficou": "became"
+    }
+   },
+   {
+    "pt": "— Você fez isso para mim? — ela perguntou.",
+    "en": "\"You made this for me?\" she asked.",
+    "glosses": {
+     "fez": "made",
+     "isso": "this",
+     "perguntou": "asked"
+    }
+   },
+   {
+    "pt": "— Claro! A senhora sempre me ajuda — respondeu Juliana.",
+    "en": "\"Of course! You always help me,\" Juliana answered.",
+    "glosses": {
+     "claro": "of course",
+     "a senhora": "you (polite)",
+     "ajuda": "help",
+     "respondeu": "answered"
+    }
+   },
+   {
+    "pt": "As duas tomaram a sopa na cozinha e conversaram muito.",
+    "en": "The two of them had the soup in the kitchen and talked a lot.",
+    "glosses": {
+     "as duas": "the two of them",
+     "tomaram": "had",
+     "na": "in the",
+     "conversaram": "talked"
+    }
+   },
+   {
+    "pt": "Uma semana depois, Dona Lúcia já estava melhor.",
+    "en": "A week later, Dona Lúcia was already better.",
+    "glosses": {
+     "depois": "later",
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "Ela fez um bolo de chocolate e levou para Juliana.",
+    "en": "She made a chocolate cake and took it to Juliana.",
+    "glosses": {
+     "fez": "made",
+     "levou": "took (it)"
+    }
+   },
+   {
+    "pt": "Agora, além de vizinhas, elas são amigas.",
+    "en": "Now, besides being neighbors, they are friends.",
+    "glosses": {
+     "vizinhas": "neighbors",
+     "são": "are",
+     "amigas": "friends"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Quantos anos tem Dona Lúcia?",
+    "qEn": "How old is Dona Lúcia?",
+    "options": [
+     "Cinquenta",
+     "Sessenta",
+     "Setenta",
+     "Oitenta"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "Por que Dona Lúcia não respondeu?",
+    "qEn": "Why didn't Dona Lúcia answer?",
+    "options": [
+     "Ela estava no mercado",
+     "Ela estava com gripe",
+     "Ela estava viajando",
+     "Ela estava no trabalho"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "O que Dona Lúcia fez para Juliana?",
+    "qEn": "What did Dona Lúcia make for Juliana?",
+    "options": [
+     "Uma sopa",
+     "Um café",
+     "Um bolo de chocolate",
+     "Um suco"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "a2-function-words-2",
+  "level": 2,
+  "topic": "Function words",
+  "title": "Onde estão as chaves?",
+  "titleEn": "Where are the keys?",
+  "sentences": [
+   {
+    "pt": "Gustavo acordou atrasado na segunda-feira.",
+    "en": "Gustavo woke up late on Monday.",
+    "glosses": {
+     "acordou": "woke up",
+     "na": "on"
+    }
+   },
+   {
+    "pt": "Ele tomou um banho rápido, colocou a roupa e pegou a mochila.",
+    "en": "He took a quick shower, put on his clothes and grabbed his backpack.",
+    "glosses": {
+     "tomou": "took",
+     "colocou": "put on",
+     "pegou": "grabbed"
+    }
+   },
+   {
+    "pt": "Mas, quando foi abrir a porta, não encontrou as chaves.",
+    "en": "But when he went to open the door, he didn't find the keys.",
+    "glosses": {
+     "foi": "went",
+     "encontrou": "found"
+    }
+   },
+   {
+    "pt": "Ele sempre deixa as chaves em cima da mesa da sala.",
+    "en": "He always leaves the keys on the living room table.",
+    "glosses": {
+     "deixa": "leaves",
+     "em cima da": "on top of the",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Mas elas não estavam lá.",
+    "en": "But they weren't there.",
+    "glosses": {
+     "estavam": "were"
+    }
+   },
+   {
+    "pt": "Ele procurou embaixo do sofá, atrás da televisão e até dentro da geladeira.",
+    "en": "He looked under the sofa, behind the TV and even inside the fridge.",
+    "glosses": {
+     "procurou": "looked",
+     "embaixo do": "under the",
+     "atrás da": "behind the",
+     "até": "even",
+     "dentro da": "inside the"
+    }
+   },
+   {
+    "pt": "Nada.",
+    "en": "Nothing."
+   },
+   {
+    "pt": "Gustavo ficou nervoso, porque tinha uma reunião às nove horas.",
+    "en": "Gustavo got nervous, because he had a meeting at nine o'clock.",
+    "glosses": {
+     "ficou": "got",
+     "tinha": "had",
+     "às": "at"
+    }
+   },
+   {
+    "pt": "Então ele ligou para a namorada, Aline.",
+    "en": "So he called his girlfriend, Aline.",
+    "glosses": {
+     "ligou": "called",
+     "namorada": "girlfriend"
+    }
+   },
+   {
+    "pt": "— Aline, você viu as minhas chaves? — perguntou ele.",
+    "en": "\"Aline, have you seen my keys?\" he asked.",
+    "glosses": {
+     "viu": "saw",
+     "minhas": "my",
+     "perguntou": "asked"
+    }
+   },
+   {
+    "pt": "— Não vi. Você olhou na mochila? — ela respondeu.",
+    "en": "\"I didn't see them. Did you look in the backpack?\" she answered.",
+    "glosses": {
+     "vi": "I saw",
+     "olhou": "looked",
+     "na": "in the",
+     "respondeu": "answered"
+    }
+   },
+   {
+    "pt": "Ele abriu a mochila, mas só encontrou um caderno, uma caneta e uma banana.",
+    "en": "He opened the backpack, but only found a notebook, a pen and a banana.",
+    "glosses": {
+     "abriu": "opened",
+     "encontrou": "found"
+    }
+   },
+   {
+    "pt": "Já eram oito e meia.",
+    "en": "It was already half past eight.",
+    "glosses": {
+     "eram": "it was",
+     "meia": "half (past)"
+    }
+   },
+   {
+    "pt": "Nesse momento, o gato pulou do sofá.",
+    "en": "At that moment, the cat jumped off the sofa.",
+    "glosses": {
+     "nesse": "at that",
+     "pulou": "jumped",
+     "do": "off the"
+    }
+   },
+   {
+    "pt": "Embaixo do gato, estavam as chaves!",
+    "en": "Under the cat were the keys!",
+    "glosses": {
+     "embaixo do": "under the",
+     "estavam": "were"
+    }
+   },
+   {
+    "pt": "O gato estava dormindo sobre elas a manhã toda.",
+    "en": "The cat had been sleeping on them all morning.",
+    "glosses": {
+     "estava dormindo": "had been sleeping",
+     "sobre": "on",
+     "elas": "them",
+     "toda": "all"
+    }
+   },
+   {
+    "pt": "Gustavo riu, pegou as chaves e saiu correndo.",
+    "en": "Gustavo laughed, grabbed the keys and ran out.",
+    "glosses": {
+     "riu": "laughed",
+     "pegou": "grabbed",
+     "saiu": "went out",
+     "correndo": "running"
+    }
+   },
+   {
+    "pt": "Ele chegou ao escritório às nove horas, a tempo para a reunião.",
+    "en": "He got to the office at nine o'clock, in time for the meeting.",
+    "glosses": {
+     "chegou": "got",
+     "ao": "to the",
+     "às": "at"
+    }
+   },
+   {
+    "pt": "À noite, ele decidiu: agora as chaves vão ficar sempre perto da porta.",
+    "en": "In the evening, he decided: from now on the keys will always stay near the door.",
+    "glosses": {
+     "decidiu": "decided",
+     "agora": "from now on",
+     "vão ficar": "are going to stay",
+     "da": "the"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Onde Gustavo sempre deixa as chaves?",
+    "qEn": "Where does Gustavo always leave the keys?",
+    "options": [
+     "Na mochila",
+     "Em cima da mesa da sala",
+     "Dentro da geladeira",
+     "Atrás da televisão"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "A que horas era a reunião?",
+    "qEn": "What time was the meeting?",
+    "options": [
+     "Às oito",
+     "Às oito e meia",
+     "Às nove",
+     "Às dez"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Onde estavam as chaves?",
+    "qEn": "Where were the keys?",
+    "options": [
+     "Embaixo do gato",
+     "Na mochila",
+     "Com Aline",
+     "No escritório"
+    ],
+    "answer": 0
+   }
+  ]
+ }
+]

@@ -1,0 +1,517 @@
+[
+ {
+  "id": "b1-actions-1",
+  "level": 3,
+  "topic": "Actions",
+  "title": "O sofá pesado",
+  "titleEn": "The heavy sofa",
+  "sentences": [
+   {
+    "pt": "Bruno tinha alugado um apartamento novo em Belo Horizonte, no quinto andar de um prédio antigo.",
+    "en": "Bruno had rented a new apartment in Belo Horizonte, on the fifth floor of an old building.",
+    "glosses": {
+     "tinha alugado": "had rented",
+     "no": "on the",
+     "andar": "floor"
+    }
+   },
+   {
+    "pt": "Para economizar, decidiu fazer a mudança sozinho, com a ajuda do amigo Diego.",
+    "en": "To save money, he decided to do the move himself, with the help of his friend Diego.",
+    "glosses": {
+     "decidiu": "decided",
+     "sozinho": "himself",
+     "do": "of his"
+    }
+   },
+   {
+    "pt": "No sábado de manhã, eles alugaram um caminhão pequeno e carregaram tudo.",
+    "en": "On Saturday morning, they rented a small truck and loaded everything.",
+    "glosses": {
+     "No": "on",
+     "alugaram": "rented",
+     "carregaram": "loaded"
+    }
+   },
+   {
+    "pt": "Quando chegaram ao prédio novo, tiveram a primeira surpresa: o elevador estava quebrado.",
+    "en": "When they arrived at the new building, they had the first surprise: the elevator was broken.",
+    "glosses": {
+     "chegaram": "arrived",
+     "ao": "at the",
+     "tiveram": "had",
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "— Não acredito! Vamos ter que subir tudo pela escada — disse Diego.",
+    "en": "\"I don't believe it! We'll have to carry everything up the stairs,\" said Diego.",
+    "glosses": {
+     "acredito": "believe",
+     "Vamos ter que": "we'll have to",
+     "subir": "carry up",
+     "pela": "by the",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Eles subiram e desceram a escada muitas vezes, carregando malas, mochilas, livros e cadeiras.",
+    "en": "They went up and down the stairs many times, carrying suitcases, backpacks, books and chairs.",
+    "glosses": {
+     "subiram": "went up",
+     "desceram": "came down",
+     "carregando": "carrying"
+    }
+   },
+   {
+    "pt": "Depois de duas horas, os dois estavam cansados e com muita sede.",
+    "en": "After two hours, the two of them were tired and very thirsty.",
+    "glosses": {
+     "estavam": "were",
+     "com muita sede": "very thirsty"
+    }
+   },
+   {
+    "pt": "O grande problema, no entanto, era o sofá.",
+    "en": "The big problem, however, was the sofa.",
+    "glosses": {
+     "era": "was"
+    }
+   },
+   {
+    "pt": "Era um sofá velho e pesado, que Bruno tinha herdado da avó.",
+    "en": "It was an old, heavy sofa that Bruno had inherited from his grandmother.",
+    "glosses": {
+     "Era": "it was",
+     "tinha herdado": "had inherited",
+     "da": "from his"
+    }
+   },
+   {
+    "pt": "Eles levantaram o sofá, empurraram, puxaram e viraram de lado, mas ele não passava pela porta.",
+    "en": "They lifted the sofa, pushed, pulled and turned it on its side, but it wouldn't go through the door.",
+    "glosses": {
+     "levantaram": "lifted",
+     "empurraram": "pushed",
+     "puxaram": "pulled",
+     "viraram": "turned",
+     "de lado": "on its side",
+     "passava": "would go",
+     "pela": "through the"
+    }
+   },
+   {
+    "pt": "— Acho que a gente vai ter que deixar o sofá na rua — disse Diego, cansado.",
+    "en": "\"I think we'll have to leave the sofa in the street,\" said Diego, tired.",
+    "glosses": {
+     "Acho": "I think",
+     "a gente": "we",
+     "vai ter que": "will have to",
+     "na": "in the",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Bruno não queria desistir, porque gostava muito daquele sofá.",
+    "en": "Bruno didn't want to give up, because he really loved that sofa.",
+    "glosses": {
+     "queria": "wanted",
+     "gostava": "loved",
+     "daquele": "that"
+    }
+   },
+   {
+    "pt": "Nesse momento, uma vizinha do terceiro andar abriu a porta para ver o que estava acontecendo.",
+    "en": "At that moment, a neighbor from the third floor opened the door to see what was happening.",
+    "glosses": {
+     "Nesse": "at that",
+     "vizinha": "neighbor (woman)",
+     "do": "from the",
+     "abriu": "opened",
+     "estava acontecendo": "was happening"
+    }
+   },
+   {
+    "pt": "Era Dona Lúcia, uma senhora aposentada que tinha trabalhado com mudanças a vida inteira.",
+    "en": "It was Dona Lúcia, a retired lady who had worked with moving her whole life.",
+    "glosses": {
+     "Era": "it was",
+     "senhora": "lady",
+     "tinha trabalhado": "had worked",
+     "mudanças": "moving"
+    }
+   },
+   {
+    "pt": "Ela olhou o sofá por um instante e começou a rir.",
+    "en": "She looked at the sofa for a moment and started to laugh.",
+    "glosses": {
+     "olhou": "looked at",
+     "começou": "started"
+    }
+   },
+   {
+    "pt": "— Meninos, é só tirar os pés do sofá!",
+    "en": "\"Boys, you just have to take the feet off the sofa!\"",
+    "glosses": {
+     "Meninos": "boys",
+     "é só": "you just have to",
+     "tirar": "take off",
+     "pés": "feet",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Os dois se olharam, surpresos. Ninguém tinha pensado nisso.",
+    "en": "The two looked at each other, surprised. Nobody had thought of that.",
+    "glosses": {
+     "se olharam": "looked at each other",
+     "tinha pensado": "had thought",
+     "nisso": "of that"
+    }
+   },
+   {
+    "pt": "Dona Lúcia trouxe uma chave do apartamento dela e ajudou a tirar os pés.",
+    "en": "Dona Lúcia brought a wrench from her apartment and helped take the feet off.",
+    "glosses": {
+     "trouxe": "brought",
+     "chave": "wrench",
+     "dela": "her",
+     "ajudou": "helped"
+    }
+   },
+   {
+    "pt": "Desta vez, o sofá passou pela porta sem problema.",
+    "en": "This time, the sofa went through the door without a problem.",
+    "glosses": {
+     "Desta": "this",
+     "passou": "went",
+     "pela": "through the"
+    }
+   },
+   {
+    "pt": "Bruno e Diego colocaram o sofá na sala e colocaram os pés de volta.",
+    "en": "Bruno and Diego put the sofa in the living room and put the feet back on.",
+    "glosses": {
+     "colocaram": "put",
+     "na": "in the",
+     "de volta": "back"
+    }
+   },
+   {
+    "pt": "Para dizer obrigado, Bruno convidou Dona Lúcia para comer pizza com eles.",
+    "en": "To say thank you, Bruno invited Dona Lúcia to eat pizza with them.",
+    "glosses": {
+     "convidou": "invited"
+    }
+   },
+   {
+    "pt": "À noite, os três sentaram no sofá e conversaram até tarde.",
+    "en": "In the evening, the three sat on the sofa and talked until late.",
+    "glosses": {
+     "À noite": "in the evening",
+     "sentaram": "sat",
+     "no": "on the",
+     "conversaram": "talked"
+    }
+   },
+   {
+    "pt": "Bruno pensou que, no fim, tinha encontrado mais do que um apartamento: tinha encontrado uma amiga.",
+    "en": "Bruno thought that, in the end, he had found more than an apartment: he had found a friend.",
+    "glosses": {
+     "pensou": "thought",
+     "no fim": "in the end",
+     "tinha encontrado": "had found",
+     "do que": "than"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Por que eles subiram tudo pela escada?",
+    "qEn": "Why did they carry everything up the stairs?",
+    "options": [
+     "O elevador estava quebrado",
+     "Não tinha elevador",
+     "O elevador era pequeno",
+     "Queriam fazer exercício"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Qual era o problema com o sofá?",
+    "qEn": "What was the problem with the sofa?",
+    "options": [
+     "Estava sujo",
+     "Não passava pela porta",
+     "Estava quebrado",
+     "Era muito feio"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Como Dona Lúcia ajudou?",
+    "qEn": "How did Dona Lúcia help?",
+    "options": [
+     "Carregou as malas",
+     "Tirou os pés do sofá",
+     "Chamou um caminhão",
+     "Comprou pizza"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "b1-actions-2",
+  "level": 3,
+  "topic": "Actions",
+  "title": "O pneu na estrada",
+  "titleEn": "The tire on the road",
+  "sentences": [
+   {
+    "pt": "Aline ia dirigir de Porto Alegre até Florianópolis para visitar a irmã.",
+    "en": "Aline was going to drive from Porto Alegre to Florianópolis to visit her sister.",
+    "glosses": {
+     "ia": "was going to"
+    }
+   },
+   {
+    "pt": "Ela tinha tirado a carteira de motorista recentemente e nunca tinha viajado sozinha.",
+    "en": "She had recently gotten her driver's license and had never traveled alone.",
+    "glosses": {
+     "tinha tirado": "had gotten",
+     "tinha viajado": "had traveled"
+    }
+   },
+   {
+    "pt": "Antes de sair, verificou os pneus, abasteceu o carro e colocou a mala no carro.",
+    "en": "Before leaving, she checked the tires, filled up the car and put her suitcase in the car.",
+    "glosses": {
+     "verificou": "checked",
+     "abasteceu": "filled up",
+     "colocou": "put"
+    }
+   },
+   {
+    "pt": "A viagem começou bem: o dia estava ensolarado e a rodovia estava vazia.",
+    "en": "The trip started well: the day was sunny and the highway was empty.",
+    "glosses": {
+     "começou": "started",
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "Depois de duas horas, porém, Aline ouviu algo estranho e sentiu o carro puxar para a direita.",
+    "en": "After two hours, however, Aline heard something strange and felt the car pull to the right.",
+    "glosses": {
+     "ouviu": "heard",
+     "sentiu": "felt"
+    }
+   },
+   {
+    "pt": "Ela foi para a direita com cuidado e parou no acostamento.",
+    "en": "She moved to the right carefully and stopped on the shoulder.",
+    "glosses": {
+     "foi": "moved",
+     "parou": "stopped",
+     "no": "on the"
+    }
+   },
+   {
+    "pt": "Quando desceu do carro, viu que um pneu estava vazio.",
+    "en": "When she got out of the car, she saw that one tire was flat.",
+    "glosses": {
+     "desceu": "got out",
+     "do": "of the",
+     "viu": "saw",
+     "estava": "was",
+     "vazio": "flat"
+    }
+   },
+   {
+    "pt": "Aline ficou nervosa. Ela sabia como fazer, mas nunca tinha trocado um pneu.",
+    "en": "Aline got nervous. She knew how to do it, but she had never changed a tire.",
+    "glosses": {
+     "ficou": "got",
+     "sabia": "knew",
+     "tinha trocado": "had changed"
+    }
+   },
+   {
+    "pt": "Primeiro, tentou ligar para a irmã, mas o celular estava sem sinal.",
+    "en": "First, she tried to call her sister, but her phone had no signal.",
+    "glosses": {
+     "tentou": "tried",
+     "estava sem": "had no"
+    }
+   },
+   {
+    "pt": "Então respirou fundo e decidiu tentar sozinha.",
+    "en": "So she took a deep breath and decided to try by herself.",
+    "glosses": {
+     "respirou fundo": "took a deep breath",
+     "decidiu": "decided"
+    }
+   },
+   {
+    "pt": "Abriu o porta-malas e tirou o outro pneu.",
+    "en": "She opened the trunk and took out the spare tire.",
+    "glosses": {
+     "Abriu": "opened",
+     "porta-malas": "trunk",
+     "tirou": "took out",
+     "outro": "spare"
+    }
+   },
+   {
+    "pt": "Ela tentou tirar o pneu vazio, mas tudo estava muito duro.",
+    "en": "She tried to take off the flat tire, but everything was very tight.",
+    "glosses": {
+     "tentou": "tried",
+     "estava": "was",
+     "duro": "tight"
+    }
+   },
+   {
+    "pt": "Empurrou com as mãos e depois com o pé, mas não conseguiu.",
+    "en": "She pushed with her hands and then with her foot, but she couldn't.",
+    "glosses": {
+     "Empurrou": "she pushed",
+     "conseguiu": "managed"
+    }
+   },
+   {
+    "pt": "Nesse momento, um caminhão parou atrás do carro dela.",
+    "en": "At that moment, a truck stopped behind her car.",
+    "glosses": {
+     "Nesse": "at that",
+     "parou": "stopped",
+     "atrás do": "behind",
+     "dela": "her"
+    }
+   },
+   {
+    "pt": "Um motorista de uns cinquenta anos desceu e perguntou se ela precisava de ajuda.",
+    "en": "A driver of about fifty got out and asked if she needed help.",
+    "glosses": {
+     "uns": "about",
+     "desceu": "got out",
+     "perguntou": "asked",
+     "precisava": "needed"
+    }
+   },
+   {
+    "pt": "Aline desconfiou um pouco no começo, mas o homem foi muito educado.",
+    "en": "Aline was a little suspicious at first, but the man was very polite.",
+    "glosses": {
+     "desconfiou": "was suspicious",
+     "no começo": "at first",
+     "foi": "was"
+    }
+   },
+   {
+    "pt": "— Eu não vou trocar o pneu para você. Vou ensinar, e você faz.",
+    "en": "\"I'm not going to change the tire for you. I'll teach you, and you do it.\"",
+    "glosses": {
+     "vou": "am going to",
+     "Vou": "I'll",
+     "faz": "do"
+    }
+   },
+   {
+    "pt": "Ele mostrou como usar o peso do corpo para tirar o pneu.",
+    "en": "He showed her how to use her body weight to take off the tire.",
+    "glosses": {
+     "mostrou": "showed",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Depois explicou como levantar o carro e colocar o pneu novo no lugar.",
+    "en": "Then he explained how to lift the car and put the new tire in place.",
+    "glosses": {
+     "explicou": "explained",
+     "no lugar": "in place"
+    }
+   },
+   {
+    "pt": "Em vinte minutos, Aline tinha trocado o pneu sozinha, com as mãos sujas, mas muito feliz.",
+    "en": "In twenty minutes, Aline had changed the tire herself, with dirty hands but very happy.",
+    "glosses": {
+     "tinha trocado": "had changed",
+     "sozinha": "herself"
+    }
+   },
+   {
+    "pt": "Ela quis pagar um café para o motorista, mas ele não aceitou.",
+    "en": "She wanted to buy the driver a coffee, but he didn't accept.",
+    "glosses": {
+     "quis": "wanted",
+     "pagar": "buy",
+     "aceitou": "accepted"
+    }
+   },
+   {
+    "pt": "— É só ajudar o próximo que precisar — disse ele, antes de ir embora.",
+    "en": "\"Just help the next person who needs it,\" he said, before leaving.",
+    "glosses": {
+     "É só": "just",
+     "precisar": "needs",
+     "disse": "said",
+     "ir embora": "leave"
+    }
+   },
+   {
+    "pt": "Aline chegou a Florianópolis no fim da tarde, cansada mas orgulhosa.",
+    "en": "Aline arrived in Florianópolis in the late afternoon, tired but proud.",
+    "glosses": {
+     "chegou": "arrived",
+     "no fim da tarde": "in the late afternoon"
+    }
+   },
+   {
+    "pt": "Quando contou a história, a irmã nem acreditou.",
+    "en": "When she told the story, her sister could hardly believe it.",
+    "glosses": {
+     "contou": "told",
+     "nem acreditou": "could hardly believe"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Onde Aline parou o carro?",
+    "qEn": "Where did Aline stop the car?",
+    "options": [
+     "No posto de gasolina",
+     "No acostamento",
+     "Na casa da irmã",
+     "No centro"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Por que Aline não ligou para a irmã?",
+    "qEn": "Why didn't Aline call her sister?",
+    "options": [
+     "O celular estava sem sinal",
+     "Ela esqueceu o celular",
+     "A irmã estava ocupada",
+     "Ela não quis"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "O que o motorista do caminhão fez?",
+    "qEn": "What did the truck driver do?",
+    "options": [
+     "Trocou o pneu sozinho",
+     "Ensinou Aline a trocar o pneu",
+     "Chamou a polícia",
+     "Levou Aline até a cidade"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

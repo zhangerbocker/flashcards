@@ -1,0 +1,858 @@
+[
+ {
+  "pt": "ponto",
+  "pos": "n.",
+  "english": "point; (bus) stop; on the dot (em ponto)",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "pontos"
+  ],
+  "example": {
+   "pt": "O ônibus para no ponto às oito em ponto.",
+   "en": "The bus stops at the stop at eight on the dot."
+  }
+ },
+ {
+  "pt": "doce",
+  "pos": "adj./n.",
+  "english": "sweet; a sweet",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "doces"
+  ],
+  "example": {
+   "pt": "Esse bolo é muito doce.",
+   "en": "This cake is very sweet."
+  }
+ },
+ {
+  "pt": "sobremesa",
+  "pos": "n.",
+  "english": "dessert",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "sobremesas"
+  ],
+  "example": {
+   "pt": "De sobremesa, eu quero sorvete.",
+   "en": "For dessert, I want ice cream."
+  }
+ },
+ {
+  "pt": "cafezinho",
+  "pos": "n.",
+  "english": "small (strong) coffee",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "cafezinhos"
+  ],
+  "example": {
+   "pt": "Vamos tomar um cafezinho?",
+   "en": "Shall we have a little coffee?"
+  }
+ },
+ {
+  "pt": "barco",
+  "pos": "n.",
+  "english": "boat",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "barcos"
+  ],
+  "example": {
+   "pt": "Nós fomos de barco para a ilha.",
+   "en": "We went to the island by boat."
+  }
+ },
+ {
+  "pt": "casaco",
+  "pos": "n.",
+  "english": "coat, jacket",
+  "level": 1,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "casacos"
+  ],
+  "example": {
+   "pt": "Leve um casaco, está frio.",
+   "en": "Take a coat, it's cold."
+  }
+ },
+ {
+  "pt": "guarda-chuva",
+  "pos": "n.",
+  "english": "umbrella",
+  "level": 1,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "guarda-chuvas"
+  ],
+  "example": {
+   "pt": "Está chovendo, pegue o guarda-chuva.",
+   "en": "It's raining, grab the umbrella."
+  }
+ },
+ {
+  "pt": "sério",
+  "pos": "adj.",
+  "english": "serious; really?",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "séria",
+   "sérios",
+   "sérias"
+  ],
+  "example": {
+   "pt": "Sério? Você vai morar no Rio?",
+   "en": "Really? You're going to live in Rio?"
+  }
+ },
+ {
+  "pt": "favor",
+  "pos": "n.",
+  "english": "favor",
+  "level": 1,
+  "topic": "Function words",
+  "gender": "m",
+  "forms": [
+   "favores"
+  ],
+  "example": {
+   "pt": "Você pode me fazer um favor?",
+   "en": "Can you do me a favor?"
+  }
+ },
+ {
+  "pt": "ah",
+  "pos": "interj.",
+  "english": "ah, oh",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ah, agora eu entendi!",
+   "en": "Ah, now I get it!"
+  }
+ },
+ {
+  "pt": "ganhar",
+  "pos": "v.",
+  "english": "to win; to earn; to get (a gift)",
+  "level": 1,
+  "topic": "Actions",
+  "example": {
+   "pt": "O Brasil ganhou o jogo.",
+   "en": "Brazil won the game."
+  }
+ },
+ {
+  "pt": "pior",
+  "pos": "adj./adv.",
+  "english": "worse; the worst (o pior)",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "piores"
+  ],
+  "example": {
+   "pt": "Hoje o trânsito está pior.",
+   "en": "Traffic is worse today."
+  }
+ },
+ {
+  "pt": "melhor",
+  "pos": "adj./adv.",
+  "english": "better; the best (o melhor)",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "melhores"
+  ],
+  "example": {
+   "pt": "Esse é o melhor restaurante da cidade.",
+   "en": "This is the best restaurant in the city."
+  }
+ },
+ {
+  "pt": "verdade",
+  "pos": "n.",
+  "english": "truth; (é) verdade = (it's) true",
+  "level": 1,
+  "topic": "Function words",
+  "gender": "f",
+  "forms": [
+   "verdades"
+  ],
+  "example": {
+   "pt": "É verdade, ela mora em Recife.",
+   "en": "It's true, she lives in Recife."
+  }
+ },
+ {
+  "pt": "devagar",
+  "pos": "adv.",
+  "english": "slowly",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Fale devagar, por favor.",
+   "en": "Speak slowly, please."
+  }
+ },
+ {
+  "pt": "coisa",
+  "pos": "n.",
+  "english": "thing",
+  "level": 1,
+  "topic": "Function words",
+  "gender": "f",
+  "forms": [
+   "coisas"
+  ],
+  "example": {
+   "pt": "Tenho muitas coisas para fazer hoje.",
+   "en": "I have a lot of things to do today."
+  }
+ },
+ {
+  "pt": "caminho",
+  "pos": "n.",
+  "english": "way, path, route",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "caminhos"
+  ],
+  "example": {
+   "pt": "Qual é o caminho para a praia?",
+   "en": "Which is the way to the beach?"
+  }
+ },
+ {
+  "pt": "parabéns",
+  "pos": "interj./n.",
+  "english": "congratulations; happy birthday",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "m",
+  "example": {
+   "pt": "Parabéns pelo seu aniversário!",
+   "en": "Happy birthday!"
+  }
+ },
+ {
+  "pt": "haver",
+  "pos": "v.",
+  "english": "there is/are (há); to have (formal)",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Há um mercado perto daqui.",
+   "en": "There's a market near here."
+  }
+ },
+ {
+  "pt": "parte",
+  "pos": "n.",
+  "english": "part",
+  "level": 1,
+  "topic": "Function words",
+  "gender": "f",
+  "forms": [
+   "partes"
+  ],
+  "example": {
+   "pt": "A melhor parte do filme é o final.",
+   "en": "The best part of the movie is the ending."
+  }
+ },
+ {
+  "pt": "ideia",
+  "pos": "n.",
+  "english": "idea",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "forms": [
+   "ideias"
+  ],
+  "example": {
+   "pt": "Que boa ideia!",
+   "en": "What a good idea!"
+  }
+ },
+ {
+  "pt": "exemplo",
+  "pos": "n.",
+  "english": "example (por exemplo = for example)",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "exemplos"
+  ],
+  "example": {
+   "pt": "Por exemplo, eu gosto de frutas.",
+   "en": "For example, I like fruit."
+  }
+ },
+ {
+  "pt": "grupo",
+  "pos": "n.",
+  "english": "group",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "grupos"
+  ],
+  "example": {
+   "pt": "Nosso grupo vai jantar junto.",
+   "en": "Our group is having dinner together."
+  }
+ },
+ {
+  "pt": "pronto",
+  "pos": "adj.",
+  "english": "ready",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "pronta",
+   "prontos",
+   "prontas"
+  ],
+  "example": {
+   "pt": "O almoço está pronto!",
+   "en": "Lunch is ready!"
+  }
+ },
+ {
+  "pt": "junto",
+  "pos": "adj./adv.",
+  "english": "together",
+  "level": 1,
+  "topic": "People & family",
+  "forms": [
+   "junta",
+   "juntos",
+   "juntas"
+  ],
+  "example": {
+   "pt": "Nós moramos juntos.",
+   "en": "We live together."
+  }
+ },
+ {
+  "pt": "vender",
+  "pos": "v.",
+  "english": "to sell",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Ele vende frutas na feira.",
+   "en": "He sells fruit at the market."
+  }
+ },
+ {
+  "pt": "viver",
+  "pos": "v.",
+  "english": "to live",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Eu quero viver perto do mar.",
+   "en": "I want to live near the sea."
+  }
+ },
+ {
+  "pt": "sorrir",
+  "pos": "v.",
+  "english": "to smile",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "A criança sorriu para a mãe.",
+   "en": "The child smiled at her mother."
+  }
+ },
+ {
+  "pt": "dentro",
+  "pos": "adv.",
+  "english": "inside (dentro de = inside of)",
+  "level": 1,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "Está frio, vamos ficar dentro.",
+   "en": "It's cold, let's stay inside."
+  }
+ },
+ {
+  "pt": "fora",
+  "pos": "adv.",
+  "english": "outside, out (lá fora)",
+  "level": 1,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "As crianças estão brincando lá fora.",
+   "en": "The kids are playing outside."
+  }
+ },
+ {
+  "pt": "em cima",
+  "pos": "adv.",
+  "english": "on top, upstairs",
+  "level": 1,
+  "topic": "Places & directions",
+  "forms": [
+   "em cima da",
+   "em cima do"
+  ],
+  "example": {
+   "pt": "O livro está em cima da mesa.",
+   "en": "The book is on the table."
+  }
+ },
+ {
+  "pt": "frente",
+  "pos": "n.",
+  "english": "front (na frente = in front)",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "frentes"
+  ],
+  "example": {
+   "pt": "Eu espero você na frente da escola.",
+   "en": "I'll wait for you in front of the school."
+  }
+ },
+ {
+  "pt": "atrás",
+  "pos": "adv.",
+  "english": "behind, back (atrás de); ago",
+  "level": 1,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "O banheiro fica lá atrás.",
+   "en": "The bathroom is back there."
+  }
+ },
+ {
+  "pt": "tipo",
+  "pos": "n.",
+  "english": "type, kind; like (slang)",
+  "level": 1,
+  "topic": "Function words",
+  "gender": "m",
+  "forms": [
+   "tipos"
+  ],
+  "example": {
+   "pt": "Que tipo de música você gosta?",
+   "en": "What kind of music do you like?"
+  }
+ },
+ {
+  "pt": "licença",
+  "pos": "n.",
+  "english": "permission; com licença = excuse me",
+  "level": 1,
+  "topic": "Function words",
+  "gender": "f",
+  "forms": [
+   "licenças"
+  ],
+  "example": {
+   "pt": "Com licença, posso entrar?",
+   "en": "Excuse me, may I come in?"
+  }
+ },
+ {
+  "pt": "beleza",
+  "pos": "n./interj.",
+  "english": "beauty; OK, cool (slang)",
+  "level": 1,
+  "topic": "Function words",
+  "gender": "f",
+  "forms": [
+   "belezas"
+  ],
+  "example": {
+   "pt": "Beleza, a gente se vê amanhã.",
+   "en": "Cool, see you tomorrow."
+  }
+ },
+ {
+  "pt": "ok",
+  "pos": "interj.",
+  "english": "OK",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ok, eu ligo para você depois.",
+   "en": "OK, I'll call you later."
+  }
+ },
+ {
+  "pt": "tanto",
+  "pos": "adj./adv.",
+  "english": "so much, so many",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "tanta",
+   "tantos",
+   "tantas"
+  ],
+  "example": {
+   "pt": "Eu nunca comi tanto!",
+   "en": "I've never eaten so much!"
+  }
+ },
+ {
+  "pt": "bastante",
+  "pos": "adv./adj.",
+  "english": "quite, a lot, enough",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "bastantes"
+  ],
+  "example": {
+   "pt": "O restaurante é bastante caro.",
+   "en": "The restaurant is quite expensive."
+  }
+ },
+ {
+  "pt": "demais",
+  "pos": "adv.",
+  "english": "too much; awesome (slang)",
+  "level": 1,
+  "topic": "Function words",
+  "example": {
+   "pt": "Esse bolo é bom demais!",
+   "en": "This cake is so good!"
+  }
+ },
+ {
+  "pt": "jeito",
+  "pos": "n.",
+  "english": "way, manner (de jeito nenhum = no way)",
+  "level": 1,
+  "topic": "Function words",
+  "gender": "m",
+  "forms": [
+   "jeitos"
+  ],
+  "example": {
+   "pt": "Não tem jeito, vamos de táxi.",
+   "en": "There's no other way, let's take a taxi."
+  }
+ },
+ {
+  "pt": "tv",
+  "pos": "n.",
+  "english": "TV",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "example": {
+   "pt": "Ontem eu vi o jogo na TV.",
+   "en": "Yesterday I watched the game on TV."
+  }
+ },
+ {
+  "pt": "maior",
+  "pos": "adj.",
+  "english": "bigger; the biggest (o maior)",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "maiores"
+  ],
+  "example": {
+   "pt": "São Paulo é a maior cidade do Brasil.",
+   "en": "São Paulo is the biggest city in Brazil."
+  }
+ },
+ {
+  "pt": "menor",
+  "pos": "adj.",
+  "english": "smaller; the smallest (o menor)",
+  "level": 1,
+  "topic": "Descriptions",
+  "forms": [
+   "menores"
+  ],
+  "example": {
+   "pt": "Meu quarto é menor que o seu.",
+   "en": "My room is smaller than yours."
+  }
+ },
+ {
+  "pt": "abraço",
+  "pos": "n.",
+  "english": "hug; um abraço = best wishes",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "gender": "m",
+  "forms": [
+   "abraços"
+  ],
+  "example": {
+   "pt": "Um abraço para a sua família!",
+   "en": "Best wishes to your family!"
+  }
+ },
+ {
+  "pt": "ajuda",
+  "pos": "n.",
+  "english": "help",
+  "level": 1,
+  "topic": "Actions",
+  "gender": "f",
+  "forms": [
+   "ajudas"
+  ],
+  "example": {
+   "pt": "Obrigada pela ajuda!",
+   "en": "Thanks for the help!"
+  }
+ },
+ {
+  "pt": "luz",
+  "pos": "n.",
+  "english": "light; electricity",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "luzes"
+  ],
+  "example": {
+   "pt": "Pode apagar a luz, por favor?",
+   "en": "Can you turn off the light, please?"
+  }
+ },
+ {
+  "pt": "chão",
+  "pos": "n.",
+  "english": "floor, ground",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "chãos"
+  ],
+  "example": {
+   "pt": "O gato está dormindo no chão.",
+   "en": "The cat is sleeping on the floor."
+  }
+ },
+ {
+  "pt": "gol",
+  "pos": "n.",
+  "english": "goal (soccer)",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "gols"
+  ],
+  "example": {
+   "pt": "Que gol bonito!",
+   "en": "What a beautiful goal!"
+  }
+ },
+ {
+  "pt": "jogador",
+  "pos": "n.",
+  "english": "player",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "jogadora",
+   "jogadores",
+   "jogadoras"
+  ],
+  "example": {
+   "pt": "Ele é jogador de futebol.",
+   "en": "He's a soccer player."
+  }
+ },
+ {
+  "pt": "seguinte",
+  "pos": "adj.",
+  "english": "next, following",
+  "level": 1,
+  "topic": "Time",
+  "forms": [
+   "seguintes"
+  ],
+  "example": {
+   "pt": "No dia seguinte, eles voltaram.",
+   "en": "The next day, they went back."
+  }
+ },
+ {
+  "pt": "certeza",
+  "pos": "n.",
+  "english": "certainty; ter certeza = to be sure",
+  "level": 1,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "forms": [
+   "certezas"
+  ],
+  "example": {
+   "pt": "Você tem certeza?",
+   "en": "Are you sure?"
+  }
+ },
+ {
+  "pt": "finalmente",
+  "pos": "adv.",
+  "english": "finally",
+  "level": 1,
+  "topic": "Time",
+  "example": {
+   "pt": "Finalmente chegou o fim de semana!",
+   "en": "The weekend is finally here!"
+  }
+ },
+ {
+  "pt": "parede",
+  "pos": "n.",
+  "english": "wall",
+  "level": 1,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "paredes"
+  ],
+  "example": {
+   "pt": "Tem uma foto bonita na parede.",
+   "en": "There's a nice photo on the wall."
+  }
+ },
+ {
+  "pt": "bar",
+  "pos": "n.",
+  "english": "bar",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "bares"
+  ],
+  "example": {
+   "pt": "Vamos tomar uma cerveja no bar?",
+   "en": "Shall we have a beer at the bar?"
+  }
+ },
+ {
+  "pt": "caixa",
+  "pos": "n.",
+  "english": "box; checkout (o caixa)",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "caixas"
+  ],
+  "example": {
+   "pt": "Coloque os livros nesta caixa.",
+   "en": "Put the books in this box."
+  }
+ },
+ {
+  "pt": "site",
+  "pos": "n.",
+  "english": "website",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "sites"
+  ],
+  "example": {
+   "pt": "Comprei a passagem no site.",
+   "en": "I bought the ticket on the website."
+  }
+ },
+ {
+  "pt": "página",
+  "pos": "n.",
+  "english": "page",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "páginas"
+  ],
+  "example": {
+   "pt": "Abram o livro na página dez.",
+   "en": "Open the book to page ten."
+  }
+ },
+ {
+  "pt": "vários",
+  "pos": "adj.",
+  "english": "several, various",
+  "level": 1,
+  "topic": "Function words",
+  "forms": [
+   "várias"
+  ],
+  "example": {
+   "pt": "Eu tenho vários amigos no Rio.",
+   "en": "I have several friends in Rio."
+  }
+ },
+ {
+  "pt": "feijoada",
+  "pos": "n.",
+  "english": "feijoada (black bean and pork stew)",
+  "level": 1,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "feijoadas"
+  ],
+  "example": {
+   "pt": "No sábado a gente come feijoada.",
+   "en": "On Saturday we eat feijoada."
+  }
+ },
+ {
+  "pt": "máquina",
+  "pos": "n.",
+  "english": "machine (máquina de lavar = washing machine)",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "máquinas"
+  ],
+  "example": {
+   "pt": "A máquina de lavar quebrou.",
+   "en": "The washing machine broke."
+  }
+ }
+]

@@ -1,0 +1,820 @@
+[
+ {
+  "pt": "dezena",
+  "pos": "n.",
+  "english": "ten (a group of ten)",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "dezenas"
+  ],
+  "example": {
+   "pt": "Havia uma dezena de pessoas na fila.",
+   "en": "There were about ten people in line."
+  }
+ },
+ {
+  "pt": "centena",
+  "pos": "n.",
+  "english": "hundred (a group of a hundred)",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "centenas"
+  ],
+  "example": {
+   "pt": "Centenas de pessoas foram ao show.",
+   "en": "Hundreds of people went to the show."
+  }
+ },
+ {
+  "pt": "milhar",
+  "pos": "n.",
+  "english": "thousand (a group of a thousand)",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "milhares"
+  ],
+  "example": {
+   "pt": "Milhares de turistas visitam a cidade todo ano.",
+   "en": "Thousands of tourists visit the city every year."
+  }
+ },
+ {
+  "pt": "bilhão",
+  "pos": "n.",
+  "english": "billion",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "bilhões"
+  ],
+  "example": {
+   "pt": "A empresa vale mais de um bilhão de reais.",
+   "en": "The company is worth more than a billion reais."
+  }
+ },
+ {
+  "pt": "dobro",
+  "pos": "n.",
+  "english": "double, twice as much",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "dobros"
+  ],
+  "example": {
+   "pt": "O aluguel aqui custa o dobro do que eu pagava.",
+   "en": "The rent here costs twice what I used to pay."
+  }
+ },
+ {
+  "pt": "triplo",
+  "pos": "n.",
+  "english": "triple, three times as much",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "triplos"
+  ],
+  "example": {
+   "pt": "Ele ganha o triplo do meu salário.",
+   "en": "He earns three times my salary."
+  }
+ },
+ {
+  "pt": "terço",
+  "pos": "n.",
+  "english": "third (fraction)",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "terços"
+  ],
+  "example": {
+   "pt": "Um terço dos alunos faltou hoje.",
+   "en": "A third of the students were absent today."
+  }
+ },
+ {
+  "pt": "porcentagem",
+  "pos": "n.",
+  "english": "percentage",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "porcentagens"
+  ],
+  "example": {
+   "pt": "Qual é a porcentagem de desconto?",
+   "en": "What is the discount percentage?"
+  }
+ },
+ {
+  "pt": "por cento",
+  "pos": "expr.",
+  "english": "percent",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "O preço subiu dez por cento.",
+   "en": "The price went up ten percent."
+  }
+ },
+ {
+  "pt": "média",
+  "pos": "n.",
+  "english": "average, mean",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "médias"
+  ],
+  "example": {
+   "pt": "A média da turma foi sete.",
+   "en": "The class average was seven."
+  }
+ },
+ {
+  "pt": "quantidade",
+  "pos": "n.",
+  "english": "quantity, amount",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "quantidades"
+  ],
+  "example": {
+   "pt": "Coloque a mesma quantidade de água e farinha.",
+   "en": "Add the same amount of water and flour."
+  }
+ },
+ {
+  "pt": "quantia",
+  "pos": "n.",
+  "english": "sum, amount (of money)",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "quantias"
+  ],
+  "example": {
+   "pt": "Ele pagou uma quantia alta pelo carro.",
+   "en": "He paid a large sum for the car."
+  }
+ },
+ {
+  "pt": "medida",
+  "pos": "n.",
+  "english": "measurement; measure",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "medidas"
+  ],
+  "example": {
+   "pt": "Anotei as medidas da janela.",
+   "en": "I wrote down the measurements of the window."
+  }
+ },
+ {
+  "pt": "medir",
+  "pos": "v.",
+  "english": "to measure",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "Você pode medir a mesa para mim?",
+   "en": "Can you measure the table for me?"
+  }
+ },
+ {
+  "pt": "pesar",
+  "pos": "v.",
+  "english": "to weigh",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "Quanto você pesa?",
+   "en": "How much do you weigh?"
+  }
+ },
+ {
+  "pt": "altura",
+  "pos": "n.",
+  "english": "height",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "alturas"
+  ],
+  "example": {
+   "pt": "Qual é a altura dessa parede?",
+   "en": "What is the height of this wall?"
+  }
+ },
+ {
+  "pt": "largura",
+  "pos": "n.",
+  "english": "width",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "larguras"
+  ],
+  "example": {
+   "pt": "A largura da porta é de oitenta centímetros.",
+   "en": "The width of the door is eighty centimeters."
+  }
+ },
+ {
+  "pt": "comprimento",
+  "pos": "n.",
+  "english": "length",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "comprimentos"
+  ],
+  "example": {
+   "pt": "O comprimento da piscina é de vinte metros.",
+   "en": "The pool is twenty meters long."
+  }
+ },
+ {
+  "pt": "profundidade",
+  "pos": "n.",
+  "english": "depth",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "profundidades"
+  ],
+  "example": {
+   "pt": "A profundidade do rio aqui é de dois metros.",
+   "en": "The depth of the river here is two meters."
+  }
+ },
+ {
+  "pt": "metro quadrado",
+  "pos": "n.",
+  "english": "square meter",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "metros quadrados"
+  ],
+  "example": {
+   "pt": "O apartamento tem sessenta metros quadrados.",
+   "en": "The apartment is sixty square meters."
+  }
+ },
+ {
+  "pt": "centímetro",
+  "pos": "n.",
+  "english": "centimeter",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "centímetros"
+  ],
+  "example": {
+   "pt": "Ela cresceu cinco centímetros este ano.",
+   "en": "She grew five centimeters this year."
+  }
+ },
+ {
+  "pt": "milímetro",
+  "pos": "n.",
+  "english": "millimeter",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "milímetros"
+  ],
+  "example": {
+   "pt": "Choveu trinta milímetros ontem.",
+   "en": "It rained thirty millimeters yesterday."
+  }
+ },
+ {
+  "pt": "grau",
+  "pos": "n.",
+  "english": "degree",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "graus"
+  ],
+  "example": {
+   "pt": "Hoje está fazendo trinta e cinco graus.",
+   "en": "It's thirty-five degrees today."
+  }
+ },
+ {
+  "pt": "tonelada",
+  "pos": "n.",
+  "english": "ton",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "toneladas"
+  ],
+  "example": {
+   "pt": "O caminhão carrega dez toneladas.",
+   "en": "The truck carries ten tons."
+  }
+ },
+ {
+  "pt": "calcular",
+  "pos": "v.",
+  "english": "to calculate",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "Vou calcular quanto cada um tem que pagar.",
+   "en": "I'll calculate how much each person has to pay."
+  }
+ },
+ {
+  "pt": "cálculo",
+  "pos": "n.",
+  "english": "calculation",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "cálculos"
+  ],
+  "example": {
+   "pt": "Fiz um cálculo rápido no celular.",
+   "en": "I did a quick calculation on my phone."
+  }
+ },
+ {
+  "pt": "somar",
+  "pos": "v.",
+  "english": "to add (up)",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "Se você somar tudo, dá cem reais.",
+   "en": "If you add it all up, it comes to a hundred reais."
+  }
+ },
+ {
+  "pt": "soma",
+  "pos": "n.",
+  "english": "sum, total",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "somas"
+  ],
+  "example": {
+   "pt": "A soma das despesas foi maior do que esperávamos.",
+   "en": "The sum of the expenses was higher than we expected."
+  }
+ },
+ {
+  "pt": "subtrair",
+  "pos": "v.",
+  "english": "to subtract",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "Subtraia os impostos do salário bruto.",
+   "en": "Subtract the taxes from the gross salary."
+  }
+ },
+ {
+  "pt": "multiplicar",
+  "pos": "v.",
+  "english": "to multiply",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "Multiplique o preço pela quantidade.",
+   "en": "Multiply the price by the quantity."
+  }
+ },
+ {
+  "pt": "dividir",
+  "pos": "v.",
+  "english": "to divide; to split, share",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "Vamos dividir a conta entre nós quatro.",
+   "en": "Let's split the bill among the four of us."
+  }
+ },
+ {
+  "pt": "divisão",
+  "pos": "n.",
+  "english": "division",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "divisões"
+  ],
+  "example": {
+   "pt": "A divisão das tarefas não foi justa.",
+   "en": "The division of tasks wasn't fair."
+  }
+ },
+ {
+  "pt": "total",
+  "pos": "n./adj.",
+  "english": "total",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "totais"
+  ],
+  "example": {
+   "pt": "O total da compra deu duzentos reais.",
+   "en": "The total of the purchase came to two hundred reais."
+  }
+ },
+ {
+  "pt": "par",
+  "pos": "n.",
+  "english": "pair, couple",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "pares"
+  ],
+  "example": {
+   "pt": "Comprei um par de sapatos novos.",
+   "en": "I bought a new pair of shoes."
+  }
+ },
+ {
+  "pt": "ímpar",
+  "pos": "adj.",
+  "english": "odd (number)",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "forms": [
+   "ímpares"
+  ],
+  "example": {
+   "pt": "Sete é um número ímpar.",
+   "en": "Seven is an odd number."
+  }
+ },
+ {
+  "pt": "aproximadamente",
+  "pos": "adv.",
+  "english": "approximately",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "A viagem leva aproximadamente duas horas.",
+   "en": "The trip takes approximately two hours."
+  }
+ },
+ {
+  "pt": "cerca de",
+  "pos": "prep.",
+  "english": "about, around (approximately)",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "Cerca de cem pessoas vieram à reunião.",
+   "en": "About a hundred people came to the meeting."
+  }
+ },
+ {
+  "pt": "mais ou menos",
+  "pos": "expr.",
+  "english": "more or less, roughly",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "Custa mais ou menos cinquenta reais.",
+   "en": "It costs roughly fifty reais."
+  }
+ },
+ {
+  "pt": "inteiro",
+  "pos": "adj.",
+  "english": "whole, entire",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "forms": [
+   "inteira",
+   "inteiros",
+   "inteiras"
+  ],
+  "example": {
+   "pt": "Ele comeu a pizza inteira sozinho.",
+   "en": "He ate the whole pizza by himself."
+  }
+ },
+ {
+  "pt": "exato",
+  "pos": "adj.",
+  "english": "exact",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "forms": [
+   "exata",
+   "exatos",
+   "exatas"
+  ],
+  "example": {
+   "pt": "Qual é o valor exato?",
+   "en": "What is the exact amount?"
+  }
+ },
+ {
+  "pt": "aumentar",
+  "pos": "v.",
+  "english": "to increase, to raise",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "O governo vai aumentar o salário mínimo.",
+   "en": "The government is going to raise the minimum wage."
+  }
+ },
+ {
+  "pt": "diminuir",
+  "pos": "v.",
+  "english": "to decrease, to reduce",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "O número de acidentes diminuiu este ano.",
+   "en": "The number of accidents decreased this year."
+  }
+ },
+ {
+  "pt": "reduzir",
+  "pos": "v.",
+  "english": "to reduce",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "Precisamos reduzir os gastos.",
+   "en": "We need to reduce our spending."
+  }
+ },
+ {
+  "pt": "estatística",
+  "pos": "n.",
+  "english": "statistic(s)",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "estatísticas"
+  ],
+  "example": {
+   "pt": "As estatísticas mostram que o desemprego caiu.",
+   "en": "Statistics show that unemployment has fallen."
+  }
+ },
+ {
+  "pt": "dado",
+  "pos": "n.",
+  "english": "piece of data; die (dice)",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "dados"
+  ],
+  "example": {
+   "pt": "Esses dados são do ano passado.",
+   "en": "This data is from last year."
+  }
+ },
+ {
+  "pt": "gráfico",
+  "pos": "n.",
+  "english": "graph, chart",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "gráficos"
+  ],
+  "example": {
+   "pt": "O gráfico mostra as vendas do mês.",
+   "en": "The graph shows the month's sales."
+  }
+ },
+ {
+  "pt": "nível",
+  "pos": "n.",
+  "english": "level",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "níveis"
+  ],
+  "example": {
+   "pt": "O nível do rio subiu muito.",
+   "en": "The river level rose a lot."
+  }
+ },
+ {
+  "pt": "escala",
+  "pos": "n.",
+  "english": "scale",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "escalas"
+  ],
+  "example": {
+   "pt": "Numa escala de um a dez, quanto você gostou?",
+   "en": "On a scale of one to ten, how much did you like it?"
+  }
+ },
+ {
+  "pt": "volume",
+  "pos": "n.",
+  "english": "volume",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "volumes"
+  ],
+  "example": {
+   "pt": "Abaixa o volume da televisão, por favor.",
+   "en": "Turn down the TV volume, please."
+  }
+ },
+ {
+  "pt": "capacidade",
+  "pos": "n.",
+  "english": "capacity",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "capacidades"
+  ],
+  "example": {
+   "pt": "O estádio tem capacidade para cinquenta mil pessoas.",
+   "en": "The stadium has capacity for fifty thousand people."
+  }
+ },
+ {
+  "pt": "máximo",
+  "pos": "n./adj.",
+  "english": "maximum",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "máxima",
+   "máximos",
+   "máximas"
+  ],
+  "example": {
+   "pt": "A velocidade máxima aqui é sessenta.",
+   "en": "The maximum speed here is sixty."
+  }
+ },
+ {
+  "pt": "mínimo",
+  "pos": "n./adj.",
+  "english": "minimum",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "mínima",
+   "mínimos",
+   "mínimas"
+  ],
+  "example": {
+   "pt": "O valor mínimo é dez reais.",
+   "en": "The minimum amount is ten reais."
+  }
+ },
+ {
+  "pt": "limite",
+  "pos": "n.",
+  "english": "limit",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "limites"
+  ],
+  "example": {
+   "pt": "Passei do limite do cartão de crédito.",
+   "en": "I went over my credit card limit."
+  }
+ },
+ {
+  "pt": "proporção",
+  "pos": "n.",
+  "english": "proportion, ratio",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "proporções"
+  ],
+  "example": {
+   "pt": "A proporção é de duas xícaras de água para uma de arroz.",
+   "en": "The ratio is two cups of water to one of rice."
+  }
+ },
+ {
+  "pt": "fração",
+  "pos": "n.",
+  "english": "fraction",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "frações"
+  ],
+  "example": {
+   "pt": "Só uma pequena fração dos alunos reclamou.",
+   "en": "Only a small fraction of the students complained."
+  }
+ },
+ {
+  "pt": "vírgula",
+  "pos": "n.",
+  "english": "comma; decimal point",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "vírgulas"
+  ],
+  "example": {
+   "pt": "Em português, usamos vírgula nos números decimais.",
+   "en": "In Portuguese, we use a comma in decimal numbers."
+  }
+ },
+ {
+  "pt": "algarismo",
+  "pos": "n.",
+  "english": "digit, numeral",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "algarismos"
+  ],
+  "example": {
+   "pt": "O código tem seis algarismos.",
+   "en": "The code has six digits."
+  }
+ },
+ {
+  "pt": "equivalente",
+  "pos": "adj.",
+  "english": "equivalent",
+  "level": 3,
+  "topic": "Numbers & measures",
+  "forms": [
+   "equivalentes"
+  ],
+  "example": {
+   "pt": "Mil reais é equivalente a quanto em dólares?",
+   "en": "A thousand reais is equivalent to how much in dollars?"
+  }
+ }
+]

@@ -1,0 +1,607 @@
+[
+ {
+  "pt": "zero",
+  "pos": "num.",
+  "english": "zero",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "O jogo terminou zero a zero.",
+   "en": "The game ended zero to zero."
+  }
+ },
+ {
+  "pt": "quatro",
+  "pos": "num.",
+  "english": "four",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "Nós somos quatro na família.",
+   "en": "There are four of us in the family."
+  }
+ },
+ {
+  "pt": "cinco",
+  "pos": "num.",
+  "english": "five",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "A aula começa às cinco.",
+   "en": "The class starts at five."
+  }
+ },
+ {
+  "pt": "seis",
+  "pos": "num.",
+  "english": "six",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "Eu acordo às seis horas.",
+   "en": "I wake up at six o'clock."
+  }
+ },
+ {
+  "pt": "sete",
+  "pos": "num.",
+  "english": "seven",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "A semana tem sete dias.",
+   "en": "The week has seven days."
+  }
+ },
+ {
+  "pt": "oito",
+  "pos": "num.",
+  "english": "eight",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "Eu trabalho oito horas por dia.",
+   "en": "I work eight hours a day."
+  }
+ },
+ {
+  "pt": "nove",
+  "pos": "num.",
+  "english": "nine",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "A loja abre às nove.",
+   "en": "The store opens at nine."
+  }
+ },
+ {
+  "pt": "dez",
+  "pos": "num.",
+  "english": "ten",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "O pão custa dez reais.",
+   "en": "The bread costs ten reais."
+  }
+ },
+ {
+  "pt": "onze",
+  "pos": "num.",
+  "english": "eleven",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "Um time de futebol tem onze jogadores.",
+   "en": "A soccer team has eleven players."
+  }
+ },
+ {
+  "pt": "doze",
+  "pos": "num.",
+  "english": "twelve",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "O ano tem doze meses.",
+   "en": "The year has twelve months."
+  }
+ },
+ {
+  "pt": "treze",
+  "pos": "num.",
+  "english": "thirteen",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "Minha filha tem treze anos.",
+   "en": "My daughter is thirteen."
+  }
+ },
+ {
+  "pt": "catorze",
+  "pos": "num.",
+  "english": "fourteen",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "quatorze"
+  ],
+  "example": {
+   "pt": "Hoje é dia catorze.",
+   "en": "Today is the fourteenth."
+  }
+ },
+ {
+  "pt": "quinze",
+  "pos": "num.",
+  "english": "fifteen",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "Eu espero quinze minutos.",
+   "en": "I'll wait fifteen minutes."
+  }
+ },
+ {
+  "pt": "dezesseis",
+  "pos": "num.",
+  "english": "sixteen",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "Ele tem dezesseis anos.",
+   "en": "He is sixteen."
+  }
+ },
+ {
+  "pt": "dezessete",
+  "pos": "num.",
+  "english": "seventeen",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "Moro no apartamento dezessete.",
+   "en": "I live in apartment seventeen."
+  }
+ },
+ {
+  "pt": "dezoito",
+  "pos": "num.",
+  "english": "eighteen",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "Ela fez dezoito anos ontem.",
+   "en": "She turned eighteen yesterday."
+  }
+ },
+ {
+  "pt": "dezenove",
+  "pos": "num.",
+  "english": "nineteen",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "O ônibus dezenove vai para o centro.",
+   "en": "Bus nineteen goes downtown."
+  }
+ },
+ {
+  "pt": "vinte",
+  "pos": "num.",
+  "english": "twenty",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "Tem vinte alunos na sala.",
+   "en": "There are twenty students in the room."
+  }
+ },
+ {
+  "pt": "trinta",
+  "pos": "num.",
+  "english": "thirty",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "Eu tenho trinta anos.",
+   "en": "I am thirty years old."
+  }
+ },
+ {
+  "pt": "quarenta",
+  "pos": "num.",
+  "english": "forty",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "Meu pai tem quarenta anos.",
+   "en": "My father is forty."
+  }
+ },
+ {
+  "pt": "cinquenta",
+  "pos": "num.",
+  "english": "fifty",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "Custa cinquenta reais.",
+   "en": "It costs fifty reais."
+  }
+ },
+ {
+  "pt": "sessenta",
+  "pos": "num.",
+  "english": "sixty",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "Uma hora tem sessenta minutos.",
+   "en": "An hour has sixty minutes."
+  }
+ },
+ {
+  "pt": "setenta",
+  "pos": "num.",
+  "english": "seventy",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "Minha avó tem setenta anos.",
+   "en": "My grandmother is seventy."
+  }
+ },
+ {
+  "pt": "oitenta",
+  "pos": "num.",
+  "english": "eighty",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "O livro tem oitenta páginas.",
+   "en": "The book has eighty pages."
+  }
+ },
+ {
+  "pt": "noventa",
+  "pos": "num.",
+  "english": "ninety",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "Meu avô tem noventa anos.",
+   "en": "My grandfather is ninety."
+  }
+ },
+ {
+  "pt": "cem",
+  "pos": "num.",
+  "english": "one hundred",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "O hotel custa cem reais por noite.",
+   "en": "The hotel costs a hundred reais a night."
+  }
+ },
+ {
+  "pt": "cento",
+  "pos": "num.",
+  "english": "hundred (in 101-199)",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "O livro custa cento e vinte reais.",
+   "en": "The book costs a hundred and twenty reais."
+  }
+ },
+ {
+  "pt": "duzentos",
+  "pos": "num.",
+  "english": "two hundred",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "duzentas"
+  ],
+  "example": {
+   "pt": "A passagem custa duzentos reais.",
+   "en": "The ticket costs two hundred reais."
+  }
+ },
+ {
+  "pt": "quinhentos",
+  "pos": "num.",
+  "english": "five hundred",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "quinhentas"
+  ],
+  "example": {
+   "pt": "Eu paguei quinhentos reais.",
+   "en": "I paid five hundred reais."
+  }
+ },
+ {
+  "pt": "mil",
+  "pos": "num.",
+  "english": "thousand",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "example": {
+   "pt": "A cidade tem mil anos.",
+   "en": "The city is a thousand years old."
+  }
+ },
+ {
+  "pt": "primeiro",
+  "pos": "num./adj.",
+  "english": "first",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "forms": [
+   "primeira",
+   "primeiros",
+   "primeiras"
+  ],
+  "example": {
+   "pt": "É a minha primeira vez no Brasil.",
+   "en": "It's my first time in Brazil."
+  }
+ },
+ {
+  "pt": "segundo",
+  "pos": "num./adj.",
+  "english": "second",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "forms": [
+   "segunda",
+   "segundos",
+   "segundas"
+  ],
+  "example": {
+   "pt": "Eu moro no segundo andar.",
+   "en": "I live on the second floor."
+  }
+ },
+ {
+  "pt": "terceiro",
+  "pos": "num./adj.",
+  "english": "third",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "forms": [
+   "terceira",
+   "terceiros",
+   "terceiras"
+  ],
+  "example": {
+   "pt": "A terceira casa é a minha.",
+   "en": "The third house is mine."
+  }
+ },
+ {
+  "pt": "metade",
+  "pos": "n.",
+  "english": "half",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "metades"
+  ],
+  "example": {
+   "pt": "Eu comi metade da pizza.",
+   "en": "I ate half of the pizza."
+  }
+ },
+ {
+  "pt": "meio",
+  "pos": "adj./adv.",
+  "english": "half; somewhat",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "forms": [
+   "meia",
+   "meios",
+   "meias"
+  ],
+  "example": {
+   "pt": "Eu quero meio quilo de queijo.",
+   "en": "I want half a kilo of cheese."
+  }
+ },
+ {
+  "pt": "quilo",
+  "pos": "n.",
+  "english": "kilo",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "quilos"
+  ],
+  "example": {
+   "pt": "Um quilo de arroz, por favor.",
+   "en": "A kilo of rice, please."
+  }
+ },
+ {
+  "pt": "grama",
+  "pos": "n.",
+  "english": "gram",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "gramas"
+  ],
+  "example": {
+   "pt": "Eu quero duzentos gramas de queijo.",
+   "en": "I want two hundred grams of cheese."
+  }
+ },
+ {
+  "pt": "litro",
+  "pos": "n.",
+  "english": "liter",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "litros"
+  ],
+  "example": {
+   "pt": "Eu bebo dois litros de água por dia.",
+   "en": "I drink two liters of water a day."
+  }
+ },
+ {
+  "pt": "metro",
+  "pos": "n.",
+  "english": "meter",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "metros"
+  ],
+  "example": {
+   "pt": "A praia fica a cem metros daqui.",
+   "en": "The beach is a hundred meters from here."
+  }
+ },
+ {
+  "pt": "quilômetro",
+  "pos": "n.",
+  "english": "kilometer",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "quilômetros"
+  ],
+  "example": {
+   "pt": "O aeroporto fica a dez quilômetros.",
+   "en": "The airport is ten kilometers away."
+  }
+ },
+ {
+  "pt": "real",
+  "pos": "n.",
+  "english": "real (Brazilian money)",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "reais"
+  ],
+  "example": {
+   "pt": "O café custa cinco reais.",
+   "en": "The coffee costs five reais."
+  }
+ },
+ {
+  "pt": "centavo",
+  "pos": "n.",
+  "english": "cent",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "centavos"
+  ],
+  "example": {
+   "pt": "Custa três reais e cinquenta centavos.",
+   "en": "It costs three reais and fifty cents."
+  }
+ },
+ {
+  "pt": "preço",
+  "pos": "n.",
+  "english": "price",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "preços"
+  ],
+  "example": {
+   "pt": "O preço é bom.",
+   "en": "The price is good."
+  }
+ },
+ {
+  "pt": "número",
+  "pos": "n.",
+  "english": "number",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "números"
+  ],
+  "example": {
+   "pt": "Qual é o seu número de telefone?",
+   "en": "What is your phone number?"
+  }
+ },
+ {
+  "pt": "custar",
+  "pos": "v.",
+  "english": "to cost",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "Quanto custa o suco?",
+   "en": "How much is the juice?"
+  }
+ },
+ {
+  "pt": "contar",
+  "pos": "v.",
+  "english": "to count; to tell",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "Ela conta até dez em português.",
+   "en": "She counts to ten in Portuguese."
+  }
+ }
+]

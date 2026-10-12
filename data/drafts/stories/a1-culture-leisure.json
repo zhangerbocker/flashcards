@@ -1,0 +1,342 @@
+[
+ {
+  "id": "a1-culture-leisure-1",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "title": "Carnaval em Salvador",
+  "titleEn": "Carnival in Salvador",
+  "sentences": [
+   {
+    "pt": "É fevereiro, e é Carnaval no Brasil.",
+    "en": "It's February, and it's Carnival in Brazil.",
+    "glosses": {
+     "É": "it is",
+     "é": "it is",
+     "no": "in"
+    }
+   },
+   {
+    "pt": "Bruno mora em São Paulo, mas vai passar o Carnaval em Salvador.",
+    "en": "Bruno lives in São Paulo, but he's going to spend Carnival in Salvador.",
+    "glosses": {
+     "mora": "lives",
+     "vai passar": "is going to spend"
+    }
+   },
+   {
+    "pt": "Ele viaja com dois amigos, Gustavo e Rodrigo.",
+    "en": "He travels with two friends, Gustavo and Rodrigo.",
+    "glosses": {
+     "viaja": "travels"
+    }
+   },
+   {
+    "pt": "Em Salvador, as ruas estão cheias de pessoas.",
+    "en": "In Salvador, the streets are full of people.",
+    "glosses": {
+     "estão": "are",
+     "cheias": "full"
+    }
+   },
+   {
+    "pt": "Tem música em todo lugar.",
+    "en": "There's music everywhere.",
+    "glosses": {
+     "Tem": "there is",
+     "em todo lugar": "everywhere"
+    }
+   },
+   {
+    "pt": "As pessoas cantam e dançam na rua dia e noite.",
+    "en": "People sing and dance in the street day and night.",
+    "glosses": {
+     "cantam": "sing",
+     "dançam": "dance",
+     "na": "in the"
+    }
+   },
+   {
+    "pt": "Bruno não sabe dançar muito bem.",
+    "en": "Bruno can't dance very well.",
+    "glosses": {
+     "sabe": "knows how"
+    }
+   },
+   {
+    "pt": "Uma moça de Salvador ensina Bruno a dançar.",
+    "en": "A young woman from Salvador teaches Bruno to dance.",
+    "glosses": {
+     "moça": "young woman",
+     "ensina": "teaches"
+    }
+   },
+   {
+    "pt": "Ela se chama Carla e é muito simpática.",
+    "en": "Her name is Carla and she's very nice.",
+    "glosses": {
+     "se chama": "is called",
+     "é": "is"
+    }
+   },
+   {
+    "pt": "À noite, eles assistem a um show na praia.",
+    "en": "At night, they watch a show on the beach.",
+    "glosses": {
+     "À noite": "at night",
+     "assistem a": "watch",
+     "na": "on the"
+    }
+   },
+   {
+    "pt": "O show é incrível, e todos cantam.",
+    "en": "The show is amazing, and everybody sings.",
+    "glosses": {
+     "é": "is",
+     "todos": "everybody",
+     "cantam": "sing"
+    }
+   },
+   {
+    "pt": "Bruno dorme pouco, mas está muito feliz.",
+    "en": "Bruno sleeps little, but he's very happy.",
+    "glosses": {
+     "dorme": "sleeps",
+     "está": "is"
+    }
+   },
+   {
+    "pt": "No último dia, ele está cansado.",
+    "en": "On the last day, he is tired.",
+    "glosses": {
+     "No": "on the",
+     "está": "is"
+    }
+   },
+   {
+    "pt": "Ele volta para São Paulo de ônibus.",
+    "en": "He goes back to São Paulo by bus.",
+    "glosses": {
+     "volta": "goes back",
+     "de": "by"
+    }
+   },
+   {
+    "pt": "\"No próximo ano, eu volto para Salvador!\", ele diz.",
+    "en": "\"Next year, I'm coming back to Salvador!\" he says.",
+    "glosses": {
+     "No próximo ano": "next year",
+     "volto": "am coming back",
+     "diz": "says"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Em que mês é o Carnaval?",
+    "qEn": "What month is Carnival?",
+    "options": [
+     "Em janeiro",
+     "Em fevereiro",
+     "Em março",
+     "Em dezembro"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quem ensina Bruno a dançar?",
+    "qEn": "Who teaches Bruno to dance?",
+    "options": [
+     "Gustavo",
+     "Rodrigo",
+     "Carla",
+     "A mãe"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Como Bruno volta para São Paulo?",
+    "qEn": "How does Bruno go back to São Paulo?",
+    "options": [
+     "De ônibus",
+     "De avião",
+     "De carro",
+     "De trem"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "a1-culture-leisure-2",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "title": "Um domingo ótimo",
+  "titleEn": "A great Sunday",
+  "sentences": [
+   {
+    "pt": "No domingo, Luíza não trabalha.",
+    "en": "On Sunday, Luíza doesn't work.",
+    "glosses": {
+     "No": "on",
+     "trabalha": "work"
+    }
+   },
+   {
+    "pt": "De manhã, ela vai ao museu com a avó.",
+    "en": "In the morning, she goes to the museum with her grandmother.",
+    "glosses": {
+     "De manhã": "in the morning",
+     "vai": "goes",
+     "ao": "to the",
+     "avó": "grandmother"
+    }
+   },
+   {
+    "pt": "O museu é grande e tem quadros muito antigos.",
+    "en": "The museum is big and has very old paintings.",
+    "glosses": {
+     "é": "is",
+     "tem": "has",
+     "quadros": "paintings"
+    }
+   },
+   {
+    "pt": "A avó conta histórias sobre os quadros.",
+    "en": "Her grandmother tells stories about the paintings.",
+    "glosses": {
+     "avó": "grandmother",
+     "conta": "tells",
+     "quadros": "paintings"
+    }
+   },
+   {
+    "pt": "Luíza acha o museu muito interessante.",
+    "en": "Luíza finds the museum very interesting.",
+    "glosses": {
+     "acha": "finds"
+    }
+   },
+   {
+    "pt": "Depois, elas almoçam em um restaurante na praça.",
+    "en": "Then they have lunch at a restaurant in the square.",
+    "glosses": {
+     "elas": "they",
+     "almoçam": "have lunch",
+     "em": "at",
+     "na": "in the"
+    }
+   },
+   {
+    "pt": "Elas comem arroz, feijão e frango.",
+    "en": "They eat rice, beans and chicken.",
+    "glosses": {
+     "Elas": "they",
+     "comem": "eat"
+    }
+   },
+   {
+    "pt": "De tarde, tem jogo de futebol na televisão.",
+    "en": "In the afternoon, there's a soccer game on TV.",
+    "glosses": {
+     "De tarde": "in the afternoon",
+     "tem": "there is",
+     "futebol": "soccer",
+     "na": "on"
+    }
+   },
+   {
+    "pt": "A família toda assiste ao jogo na casa da avó.",
+    "en": "The whole family watches the game at the grandmother's house.",
+    "glosses": {
+     "toda": "whole",
+     "assiste ao": "watches the",
+     "na": "at the",
+     "da": "of the",
+     "avó": "grandmother"
+    }
+   },
+   {
+    "pt": "O tio de Luíza fica muito nervoso.",
+    "en": "Luíza's uncle gets very nervous.",
+    "glosses": {
+     "fica": "gets"
+    }
+   },
+   {
+    "pt": "O primo dela ri do tio.",
+    "en": "Her cousin laughs at the uncle.",
+    "glosses": {
+     "dela": "her",
+     "ri do": "laughs at the"
+    }
+   },
+   {
+    "pt": "O jogo termina dois a um para o Brasil.",
+    "en": "The game ends two to one for Brazil.",
+    "glosses": {
+     "termina": "ends"
+    }
+   },
+   {
+    "pt": "Todos ficam muito felizes.",
+    "en": "Everybody is very happy.",
+    "glosses": {
+     "Todos": "everybody",
+     "ficam": "are"
+    }
+   },
+   {
+    "pt": "À noite, Luíza lê um livro e escuta música.",
+    "en": "At night, Luíza reads a book and listens to music.",
+    "glosses": {
+     "À noite": "at night",
+     "lê": "reads",
+     "escuta": "listens to"
+    }
+   },
+   {
+    "pt": "\"Foi um domingo ótimo\", ela pensa.",
+    "en": "\"It was a great Sunday,\" she thinks.",
+    "glosses": {
+     "Foi": "it was",
+     "pensa": "thinks"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Com quem Luíza vai ao museu?",
+    "qEn": "Who does Luíza go to the museum with?",
+    "options": [
+     "Com o tio",
+     "Com a avó",
+     "Com o primo",
+     "Com uma amiga"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "O que elas comem no almoço?",
+    "qEn": "What do they eat for lunch?",
+    "options": [
+     "Pizza",
+     "Peixe e salada",
+     "Arroz, feijão e frango",
+     "Sopa"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "O que Luíza faz à noite?",
+    "qEn": "What does Luíza do at night?",
+    "options": [
+     "Lê e escuta música",
+     "Vai ao cinema",
+     "Joga futebol",
+     "Trabalha"
+    ],
+    "answer": 0
+   }
+  ]
+ }
+]

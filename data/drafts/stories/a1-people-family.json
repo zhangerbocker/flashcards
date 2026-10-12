@@ -1,0 +1,343 @@
+[
+ {
+  "id": "a1-people-family-1",
+  "level": 1,
+  "topic": "People & family",
+  "title": "A família de Mariana",
+  "titleEn": "Mariana's family",
+  "sentences": [
+   {
+    "pt": "Mariana mora em Salvador, na Bahia.",
+    "en": "Mariana lives in Salvador, in Bahia.",
+    "glosses": {
+     "mora": "lives",
+     "na": "in"
+    }
+   },
+   {
+    "pt": "Ela tem vinte e cinco anos e é enfermeira.",
+    "en": "She is twenty-five years old and she is a nurse.",
+    "glosses": {
+     "tem": "is",
+     "é": "is",
+     "anos": "years old",
+     "enfermeira": "nurse"
+    }
+   },
+   {
+    "pt": "Hoje ela está mostrando uma foto da família para uma amiga.",
+    "en": "Today she is showing a photo of her family to a friend.",
+    "glosses": {
+     "está": "is",
+     "mostrando": "showing",
+     "da": "of the",
+     "para": "to",
+     "amiga": "friend"
+    }
+   },
+   {
+    "pt": "\"Este é o meu pai, Seu Antônio\", ela diz.",
+    "en": "\"This is my father, Mr. Antônio,\" she says.",
+    "glosses": {
+     "é": "is",
+     "diz": "says"
+    }
+   },
+   {
+    "pt": "\"Ele é alto e tem o cabelo branco.\"",
+    "en": "\"He is tall and has white hair.\"",
+    "glosses": {
+     "é": "is",
+     "tem": "has"
+    }
+   },
+   {
+    "pt": "\"Esta é a minha mãe. Ela é professora de matemática.\"",
+    "en": "\"This is my mother. She is a math teacher.\"",
+    "glosses": {
+     "é": "is",
+     "esta": "this",
+     "minha": "my",
+     "professora": "teacher"
+    }
+   },
+   {
+    "pt": "\"E este menino é o meu irmão, Diego.\"",
+    "en": "\"And this boy is my brother, Diego.\"",
+    "glosses": {
+     "é": "is"
+    }
+   },
+   {
+    "pt": "\"Ele tem dez anos e é muito engraçado.\"",
+    "en": "\"He is ten years old and very funny.\"",
+    "glosses": {
+     "tem": "is",
+     "é": "is",
+     "anos": "years old"
+    }
+   },
+   {
+    "pt": "A amiga pergunta: \"E quem é esta mulher bonita?\"",
+    "en": "Her friend asks: \"And who is this pretty woman?\"",
+    "glosses": {
+     "pergunta": "asks",
+     "é": "is",
+     "esta": "this",
+     "amiga": "friend"
+    }
+   },
+   {
+    "pt": "\"É a minha avó. Ela tem noventa anos!\"",
+    "en": "\"That's my grandmother. She is ninety years old!\"",
+    "glosses": {
+     "é": "it's",
+     "tem": "is",
+     "avó": "grandmother",
+     "anos": "years old"
+    }
+   },
+   {
+    "pt": "\"Ela ainda cozinha e dança todo sábado.\"",
+    "en": "\"She still cooks and dances every Saturday.\"",
+    "glosses": {
+     "cozinha": "cooks",
+     "dança": "dances",
+     "todo": "every"
+    }
+   },
+   {
+    "pt": "A amiga ri e diz: \"Que família legal!\"",
+    "en": "Her friend laughs and says: \"What a cool family!\"",
+    "glosses": {
+     "ri": "laughs",
+     "diz": "says",
+     "que": "what (a)",
+     "amiga": "friend"
+    }
+   },
+   {
+    "pt": "Mariana fica feliz.",
+    "en": "Mariana is happy.",
+    "glosses": {
+     "fica": "feels"
+    }
+   },
+   {
+    "pt": "No domingo, ela vai visitar a família.",
+    "en": "On Sunday, she is going to visit her family.",
+    "glosses": {
+     "no": "on",
+     "vai": "is going"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Qual é a profissão de Mariana?",
+    "qEn": "What is Mariana's job?",
+    "options": [
+     "Professora",
+     "Enfermeira",
+     "Médica",
+     "Advogada"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quantos anos Diego tem?",
+    "qEn": "How old is Diego?",
+    "options": [
+     "Dez",
+     "Vinte e cinco",
+     "Noventa",
+     "Oito"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "O que a avó faz todo sábado?",
+    "qEn": "What does the grandmother do every Saturday?",
+    "options": [
+     "Trabalha",
+     "Viaja",
+     "Nada",
+     "Cozinha e dança"
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ {
+  "id": "a1-people-family-2",
+  "level": 1,
+  "topic": "People & family",
+  "title": "Os novos vizinhos",
+  "titleEn": "The new neighbors",
+  "sentences": [
+   {
+    "pt": "Rafael mora em um apartamento pequeno em Curitiba.",
+    "en": "Rafael lives in a small apartment in Curitiba.",
+    "glosses": {
+     "mora": "lives"
+    }
+   },
+   {
+    "pt": "Ele tem trinta anos e é engenheiro.",
+    "en": "He is thirty years old and he is an engineer.",
+    "glosses": {
+     "tem": "is",
+     "é": "is",
+     "anos": "years old"
+    }
+   },
+   {
+    "pt": "Ontem, uma família nova chegou ao prédio.",
+    "en": "Yesterday, a new family arrived at the building.",
+    "glosses": {
+     "chegou": "arrived",
+     "ao": "at the"
+    }
+   },
+   {
+    "pt": "Hoje, Rafael encontra a nova vizinha no elevador.",
+    "en": "Today, Rafael meets the new neighbor in the elevator.",
+    "glosses": {
+     "encontra": "meets",
+     "no": "in the",
+     "vizinha": "neighbor (woman)"
+    }
+   },
+   {
+    "pt": "\"Oi! Eu sou o Rafael, do 302\", ele diz.",
+    "en": "\"Hi! I'm Rafael, from 302,\" he says.",
+    "glosses": {
+     "sou": "I am",
+     "do": "from",
+     "diz": "says"
+    }
+   },
+   {
+    "pt": "\"Olá! O meu nome é Aline.\"",
+    "en": "\"Hello! My name is Aline.\"",
+    "glosses": {
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Aline é simpática e fala muito.",
+    "en": "Aline is friendly and talks a lot.",
+    "glosses": {
+     "é": "is",
+     "fala": "talks",
+     "muito": "a lot"
+    }
+   },
+   {
+    "pt": "Ela é casada e tem dois filhos.",
+    "en": "She is married and has two children.",
+    "glosses": {
+     "é": "is",
+     "tem": "has",
+     "filhos": "children"
+    }
+   },
+   {
+    "pt": "O marido dela é médico no hospital do bairro.",
+    "en": "Her husband is a doctor at the neighborhood hospital.",
+    "glosses": {
+     "dela": "her",
+     "é": "is",
+     "no": "at the",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Os filhos, Lucas e Sofia, têm cinco e sete anos.",
+    "en": "The children, Lucas and Sofia, are five and seven.",
+    "glosses": {
+     "têm": "are",
+     "filhos": "children",
+     "anos": "years old"
+    }
+   },
+   {
+    "pt": "\"Vocês são de onde?\", pergunta Rafael.",
+    "en": "\"Where are you all from?\" asks Rafael.",
+    "glosses": {
+     "são": "are",
+     "pergunta": "asks",
+     "vocês": "you (all)"
+    }
+   },
+   {
+    "pt": "\"A gente é de Recife, mas agora mora aqui\", ela responde.",
+    "en": "\"We're from Recife, but now we live here,\" she answers.",
+    "glosses": {
+     "é": "are",
+     "mora": "live",
+     "responde": "answers",
+     "a gente": "we"
+    }
+   },
+   {
+    "pt": "No sábado, Aline convida Rafael para um almoço.",
+    "en": "On Saturday, Aline invites Rafael to lunch.",
+    "glosses": {
+     "no": "on",
+     "convida": "invites",
+     "para": "to"
+    }
+   },
+   {
+    "pt": "Ele leva uma garrafa de vinho e um bolo.",
+    "en": "He brings a bottle of wine and a cake.",
+    "glosses": {
+     "leva": "brings"
+    }
+   },
+   {
+    "pt": "Rafael fica feliz com os novos vizinhos.",
+    "en": "Rafael is happy with his new neighbors.",
+    "glosses": {
+     "fica": "is"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Onde Rafael encontra Aline?",
+    "qEn": "Where does Rafael meet Aline?",
+    "options": [
+     "Na rua",
+     "No elevador",
+     "No hospital",
+     "No parque"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Qual é a profissão do marido de Aline?",
+    "qEn": "What is Aline's husband's job?",
+    "options": [
+     "Engenheiro",
+     "Professor",
+     "Médico",
+     "Motorista"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "De onde é a família de Aline?",
+    "qEn": "Where is Aline's family from?",
+    "options": [
+     "De Curitiba",
+     "De Salvador",
+     "De Manaus",
+     "De Recife"
+    ],
+    "answer": 3
+   }
+  ]
+ }
+]

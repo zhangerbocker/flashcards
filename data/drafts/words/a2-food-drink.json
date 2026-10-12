@@ -1,0 +1,536 @@
+[
+ {
+  "pt": "alho",
+  "pos": "n.",
+  "english": "garlic",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "alhos"
+  ],
+  "example": {
+   "pt": "Coloque um pouco de alho no arroz.",
+   "en": "Put a bit of garlic in the rice."
+  }
+ },
+ {
+  "pt": "cebola",
+  "pos": "n.",
+  "english": "onion",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "cebolas"
+  ],
+  "example": {
+   "pt": "Corte a cebola em pedaços pequenos.",
+   "en": "Cut the onion into small pieces."
+  }
+ },
+ {
+  "pt": "fatia",
+  "pos": "n.",
+  "english": "slice",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "fatias"
+  ],
+  "example": {
+   "pt": "Quer uma fatia de bolo?",
+   "en": "Do you want a slice of cake?"
+  }
+ },
+ {
+  "pt": "garfo",
+  "pos": "n.",
+  "english": "fork",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "garfos"
+  ],
+  "example": {
+   "pt": "Pode me trazer um garfo?",
+   "en": "Can you bring me a fork?"
+  }
+ },
+ {
+  "pt": "faca",
+  "pos": "n.",
+  "english": "knife",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "facas"
+  ],
+  "example": {
+   "pt": "Esta faca não corta bem.",
+   "en": "This knife doesn't cut well."
+  }
+ },
+ {
+  "pt": "colher",
+  "pos": "n.",
+  "english": "spoon",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "colheres"
+  ],
+  "example": {
+   "pt": "Coloque duas colheres de açúcar.",
+   "en": "Put in two spoons of sugar."
+  }
+ },
+ {
+  "pt": "prato",
+  "pos": "n.",
+  "english": "plate; dish",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "pratos"
+  ],
+  "example": {
+   "pt": "Qual é o prato do dia?",
+   "en": "What's the dish of the day?"
+  }
+ },
+ {
+  "pt": "xícara",
+  "pos": "n.",
+  "english": "cup",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "xícaras"
+  ],
+  "example": {
+   "pt": "Eu tomo uma xícara de café de manhã.",
+   "en": "I have a cup of coffee in the morning."
+  }
+ },
+ {
+  "pt": "panela",
+  "pos": "n.",
+  "english": "pot, pan",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "panelas"
+  ],
+  "example": {
+   "pt": "A sopa está na panela.",
+   "en": "The soup is in the pot."
+  }
+ },
+ {
+  "pt": "temperado",
+  "pos": "adj.",
+  "english": "seasoned, spiced",
+  "level": 2,
+  "topic": "Food & drink",
+  "forms": [
+   "temperada",
+   "temperados",
+   "temperadas"
+  ],
+  "example": {
+   "pt": "A carne está bem temperada.",
+   "en": "The meat is well seasoned."
+  }
+ },
+ {
+  "pt": "pimenta",
+  "pos": "n.",
+  "english": "pepper; chili",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "pimentas"
+  ],
+  "example": {
+   "pt": "Você gosta de pimenta?",
+   "en": "Do you like hot pepper?"
+  }
+ },
+ {
+  "pt": "azeite",
+  "pos": "n.",
+  "english": "olive oil",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "azeites"
+  ],
+  "example": {
+   "pt": "Coloque azeite na salada.",
+   "en": "Put olive oil on the salad."
+  }
+ },
+ {
+  "pt": "manteiga",
+  "pos": "n.",
+  "english": "butter",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "manteigas"
+  ],
+  "example": {
+   "pt": "Eu como pão com manteiga.",
+   "en": "I eat bread with butter."
+  }
+ },
+ {
+  "pt": "presunto",
+  "pos": "n.",
+  "english": "ham",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "presuntos"
+  ],
+  "example": {
+   "pt": "Quero um sanduíche de presunto e queijo.",
+   "en": "I want a ham and cheese sandwich."
+  }
+ },
+ {
+  "pt": "frango",
+  "pos": "n.",
+  "english": "chicken (meat)",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "frangos"
+  ],
+  "example": {
+   "pt": "Hoje o almoço é frango com arroz.",
+   "en": "Today lunch is chicken with rice."
+  }
+ },
+ {
+  "pt": "legume",
+  "pos": "n.",
+  "english": "vegetable",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "legumes"
+  ],
+  "example": {
+   "pt": "Você precisa comer mais legumes.",
+   "en": "You need to eat more vegetables."
+  }
+ },
+ {
+  "pt": "verdura",
+  "pos": "n.",
+  "english": "leafy greens, vegetables",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "verduras"
+  ],
+  "example": {
+   "pt": "Compramos verduras na feira.",
+   "en": "We bought greens at the market."
+  }
+ },
+ {
+  "pt": "alface",
+  "pos": "n.",
+  "english": "lettuce",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "alfaces"
+  ],
+  "example": {
+   "pt": "A salada tem alface e tomate.",
+   "en": "The salad has lettuce and tomato."
+  }
+ },
+ {
+  "pt": "cenoura",
+  "pos": "n.",
+  "english": "carrot",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "cenouras"
+  ],
+  "example": {
+   "pt": "O bolo de cenoura está ótimo.",
+   "en": "The carrot cake is great."
+  }
+ },
+ {
+  "pt": "feijão",
+  "pos": "n.",
+  "english": "beans",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "feijões"
+  ],
+  "example": {
+   "pt": "No Brasil, comemos arroz com feijão.",
+   "en": "In Brazil, we eat rice and beans."
+  }
+ },
+ {
+  "pt": "farinha",
+  "pos": "n.",
+  "english": "flour",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "farinhas"
+  ],
+  "example": {
+   "pt": "Precisamos de farinha para fazer o bolo.",
+   "en": "We need flour to make the cake."
+  }
+ },
+ {
+  "pt": "sobremesa",
+  "pos": "n.",
+  "english": "dessert",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "sobremesas"
+  ],
+  "example": {
+   "pt": "O que tem de sobremesa?",
+   "en": "What's for dessert?"
+  }
+ },
+ {
+  "pt": "lanche",
+  "pos": "n.",
+  "english": "snack, light meal",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "lanches"
+  ],
+  "example": {
+   "pt": "Levei um lanche para a escola.",
+   "en": "I took a snack to school."
+  }
+ },
+ {
+  "pt": "cardápio",
+  "pos": "n.",
+  "english": "menu",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "cardápios"
+  ],
+  "example": {
+   "pt": "O garçom trouxe o cardápio.",
+   "en": "The waiter brought the menu."
+  }
+ },
+ {
+  "pt": "garçom",
+  "pos": "n.",
+  "english": "waiter",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "garçons"
+  ],
+  "example": {
+   "pt": "O garçom foi muito simpático.",
+   "en": "The waiter was very friendly."
+  }
+ },
+ {
+  "pt": "gorjeta",
+  "pos": "n.",
+  "english": "tip (gratuity)",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "gorjetas"
+  ],
+  "example": {
+   "pt": "Deixamos uma gorjeta para o garçom.",
+   "en": "We left a tip for the waiter."
+  }
+ },
+ {
+  "pt": "refeição",
+  "pos": "n.",
+  "english": "meal",
+  "level": 2,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "refeições"
+  ],
+  "example": {
+   "pt": "O café da manhã é a refeição mais importante.",
+   "en": "Breakfast is the most important meal."
+  }
+ },
+ {
+  "pt": "cozinhar",
+  "pos": "v.",
+  "english": "to cook",
+  "level": 2,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Meu pai cozinha muito bem.",
+   "en": "My father cooks very well."
+  }
+ },
+ {
+  "pt": "assar",
+  "pos": "v.",
+  "english": "to bake, to roast",
+  "level": 2,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Vou assar um frango para o jantar.",
+   "en": "I'm going to roast a chicken for dinner."
+  }
+ },
+ {
+  "pt": "fritar",
+  "pos": "v.",
+  "english": "to fry",
+  "level": 2,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Ela fritou os ovos.",
+   "en": "She fried the eggs."
+  }
+ },
+ {
+  "pt": "cortar",
+  "pos": "v.",
+  "english": "to cut",
+  "level": 2,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Corte o pão em fatias.",
+   "en": "Cut the bread into slices."
+  }
+ },
+ {
+  "pt": "misturar",
+  "pos": "v.",
+  "english": "to mix",
+  "level": 2,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Misture a farinha com o leite.",
+   "en": "Mix the flour with the milk."
+  }
+ },
+ {
+  "pt": "provar",
+  "pos": "v.",
+  "english": "to taste, to try",
+  "level": 2,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Prove este queijo, é delicioso!",
+   "en": "Try this cheese, it's delicious!"
+  }
+ },
+ {
+  "pt": "salgado",
+  "pos": "adj.",
+  "english": "salty",
+  "level": 2,
+  "topic": "Food & drink",
+  "forms": [
+   "salgada",
+   "salgados",
+   "salgadas"
+  ],
+  "example": {
+   "pt": "A sopa está muito salgada.",
+   "en": "The soup is very salty."
+  }
+ },
+ {
+  "pt": "picante",
+  "pos": "adj.",
+  "english": "spicy, hot",
+  "level": 2,
+  "topic": "Food & drink",
+  "forms": [
+   "picantes"
+  ],
+  "example": {
+   "pt": "Essa comida é muito picante para mim.",
+   "en": "This food is too spicy for me."
+  }
+ },
+ {
+  "pt": "cru",
+  "pos": "adj.",
+  "english": "raw",
+  "level": 2,
+  "topic": "Food & drink",
+  "forms": [
+   "crua",
+   "crus",
+   "cruas"
+  ],
+  "example": {
+   "pt": "Eu não gosto de peixe cru.",
+   "en": "I don't like raw fish."
+  }
+ },
+ {
+  "pt": "maduro",
+  "pos": "adj.",
+  "english": "ripe; mature",
+  "level": 2,
+  "topic": "Food & drink",
+  "forms": [
+   "madura",
+   "maduros",
+   "maduras"
+  ],
+  "example": {
+   "pt": "As bananas ainda não estão maduras.",
+   "en": "The bananas aren't ripe yet."
+  }
+ }
+]

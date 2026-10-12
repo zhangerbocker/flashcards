@@ -18,7 +18,7 @@ export async function POST(request: Request) {
     return Response.json({ error: "request body must be JSON" }, { status: 400 });
   }
   const { level, topic } = (body ?? {}) as { level?: unknown; topic?: unknown };
-  if (!isLevel(level)) return Response.json({ error: `level must be 1 (A1) or 2 (A2), got ${JSON.stringify(level)}` }, { status: 400 });
+  if (!isLevel(level)) return Response.json({ error: `level must be 1-4 (A1-B2), got ${JSON.stringify(level)}` }, { status: 400 });
   if (!isTopic(topic)) return Response.json({ error: `unknown topic ${JSON.stringify(topic)}` }, { status: 400 });
 
   try {

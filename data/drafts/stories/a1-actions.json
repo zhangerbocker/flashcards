@@ -1,0 +1,338 @@
+[
+ {
+  "id": "a1-actions-1",
+  "level": 1,
+  "topic": "Actions",
+  "title": "O dia de Thiago",
+  "titleEn": "Thiago's day",
+  "sentences": [
+   {
+    "pt": "Thiago acorda às seis horas.",
+    "en": "Thiago wakes up at six o'clock.",
+    "glosses": {
+     "acorda": "wakes up",
+     "às": "at"
+    }
+   },
+   {
+    "pt": "Ele levanta, abre a janela e olha a rua.",
+    "en": "He gets up, opens the window and looks at the street.",
+    "glosses": {
+     "levanta": "gets up",
+     "abre": "opens",
+     "olha": "looks at"
+    }
+   },
+   {
+    "pt": "Depois, ele toma banho e escova os dentes.",
+    "en": "Then he showers and brushes his teeth.",
+    "glosses": {
+     "toma banho": "showers",
+     "escova": "brushes"
+    }
+   },
+   {
+    "pt": "Ele coloca uma camisa branca e uma calça azul.",
+    "en": "He puts on a white shirt and blue pants.",
+    "glosses": {
+     "coloca": "puts on",
+     "calça": "pants"
+    }
+   },
+   {
+    "pt": "Na cozinha, ele faz café e come pão com manteiga.",
+    "en": "In the kitchen, he makes coffee and eats bread with butter.",
+    "glosses": {
+     "Na": "in the",
+     "faz": "makes",
+     "come": "eats"
+    }
+   },
+   {
+    "pt": "Às sete, ele sai de casa e pega o ônibus.",
+    "en": "At seven, he leaves home and takes the bus.",
+    "glosses": {
+     "Às": "at",
+     "sai": "leaves",
+     "pega": "takes"
+    }
+   },
+   {
+    "pt": "Hoje o trânsito está horrível.",
+    "en": "Today the traffic is horrible.",
+    "glosses": {
+     "está": "is"
+    }
+   },
+   {
+    "pt": "Thiago chega atrasado ao escritório.",
+    "en": "Thiago gets to the office late.",
+    "glosses": {
+     "chega": "gets",
+     "atrasado": "late",
+     "ao": "to the"
+    }
+   },
+   {
+    "pt": "O chefe olha o relógio, mas não diz nada.",
+    "en": "The boss looks at the clock but doesn't say anything.",
+    "glosses": {
+     "olha": "looks at",
+     "diz": "say",
+     "nada": "anything"
+    }
+   },
+   {
+    "pt": "Thiago senta, liga o computador e começa a trabalhar.",
+    "en": "Thiago sits down, turns on the computer and starts to work.",
+    "glosses": {
+     "senta": "sits down",
+     "liga": "turns on",
+     "começa": "starts"
+    }
+   },
+   {
+    "pt": "Ele escreve e-mails e fala ao telefone.",
+    "en": "He writes emails and talks on the phone.",
+    "glosses": {
+     "escreve": "writes",
+     "fala": "talks",
+     "ao": "on the"
+    }
+   },
+   {
+    "pt": "Ao meio-dia, ele almoça com uma colega.",
+    "en": "At noon, he has lunch with a coworker.",
+    "glosses": {
+     "Ao": "at",
+     "almoça": "has lunch"
+    }
+   },
+   {
+    "pt": "De tarde, ele tem uma reunião longa.",
+    "en": "In the afternoon, he has a long meeting.",
+    "glosses": {
+     "De tarde": "in the afternoon",
+     "tem": "has"
+    }
+   },
+   {
+    "pt": "Às seis, ele volta para casa.",
+    "en": "At six, he goes back home.",
+    "glosses": {
+     "Às": "at",
+     "volta": "goes back"
+    }
+   },
+   {
+    "pt": "À noite, ele faz o jantar, lê um pouco e dorme cedo.",
+    "en": "At night, he makes dinner, reads a little and goes to sleep early.",
+    "glosses": {
+     "À noite": "at night",
+     "faz": "makes",
+     "lê": "reads",
+     "dorme": "sleeps"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "A que horas Thiago acorda?",
+    "qEn": "What time does Thiago wake up?",
+    "options": [
+     "Às sete",
+     "Às oito",
+     "Às seis",
+     "Ao meio-dia"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Como Thiago chega ao escritório?",
+    "qEn": "How does Thiago arrive at the office?",
+    "options": [
+     "Cedo",
+     "Atrasado",
+     "Com fome",
+     "De carro"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "O que Thiago faz à noite?",
+    "qEn": "What does Thiago do at night?",
+    "options": [
+     "Faz o jantar, lê e dorme",
+     "Corre no parque",
+     "Vai ao cinema",
+     "Trabalha"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "a1-actions-2",
+  "level": 1,
+  "topic": "Actions",
+  "title": "A festa de Fernanda",
+  "titleEn": "Fernanda's party",
+  "sentences": [
+   {
+    "pt": "Sábado é o aniversário de Fernanda.",
+    "en": "Saturday is Fernanda's birthday.",
+    "glosses": {
+     "é": "is"
+    }
+   },
+   {
+    "pt": "De manhã, ela e o irmão, Diego, arrumam o apartamento.",
+    "en": "In the morning, she and her brother, Diego, tidy the apartment.",
+    "glosses": {
+     "De manhã": "in the morning",
+     "arrumam": "tidy"
+    }
+   },
+   {
+    "pt": "Diego lava os pratos e limpa a cozinha.",
+    "en": "Diego washes the dishes and cleans the kitchen.",
+    "glosses": {
+     "lava": "washes",
+     "limpa": "cleans"
+    }
+   },
+   {
+    "pt": "Fernanda arruma a sala e leva o lixo para a rua.",
+    "en": "Fernanda tidies the living room and takes the trash out to the street.",
+    "glosses": {
+     "arruma": "tidies",
+     "leva": "takes"
+    }
+   },
+   {
+    "pt": "Depois, eles vão ao supermercado.",
+    "en": "Then they go to the supermarket.",
+    "glosses": {
+     "vão": "go",
+     "ao": "to the"
+    }
+   },
+   {
+    "pt": "Eles compram carne, pão, refrigerante e cerveja.",
+    "en": "They buy meat, bread, soda and beer.",
+    "glosses": {
+     "compram": "buy"
+    }
+   },
+   {
+    "pt": "Em casa, Diego cozinha, e Fernanda faz um bolo de chocolate.",
+    "en": "At home, Diego cooks, and Fernanda makes a chocolate cake.",
+    "glosses": {
+     "cozinha": "cooks",
+     "faz": "makes"
+    }
+   },
+   {
+    "pt": "Às oito da noite, os amigos chegam.",
+    "en": "At eight in the evening, the friends arrive.",
+    "glosses": {
+     "Às": "at",
+     "da noite": "in the evening",
+     "chegam": "arrive"
+    }
+   },
+   {
+    "pt": "Eles trazem presentes e flores.",
+    "en": "They bring presents and flowers.",
+    "glosses": {
+     "trazem": "bring"
+    }
+   },
+   {
+    "pt": "Um amigo toca violão, e todos cantam.",
+    "en": "A friend plays guitar, and everybody sings.",
+    "glosses": {
+     "toca": "plays",
+     "todos": "everybody",
+     "cantam": "sing"
+    }
+   },
+   {
+    "pt": "Depois, eles dançam samba na sala.",
+    "en": "Then they dance samba in the living room.",
+    "glosses": {
+     "dançam": "dance",
+     "na": "in the"
+    }
+   },
+   {
+    "pt": "Os vizinhos também vêm para a festa.",
+    "en": "The neighbors come to the party too.",
+    "glosses": {
+     "vêm": "come"
+    }
+   },
+   {
+    "pt": "À meia-noite, Fernanda abre os presentes.",
+    "en": "At midnight, Fernanda opens the presents.",
+    "glosses": {
+     "À": "at",
+     "abre": "opens"
+    }
+   },
+   {
+    "pt": "Ela recebe um livro, uma bolsa e uma foto antiga da família.",
+    "en": "She gets a book, a bag and an old photo of the family.",
+    "glosses": {
+     "recebe": "gets",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "\"Obrigada! Eu amo vocês!\", diz Fernanda.",
+    "en": "\"Thank you! I love you all!\" says Fernanda.",
+    "glosses": {
+     "Obrigada": "thank you",
+     "amo": "love",
+     "vocês": "you all",
+     "diz": "says"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "O que Fernanda faz na cozinha?",
+    "qEn": "What does Fernanda make in the kitchen?",
+    "options": [
+     "Uma salada",
+     "Um bolo de chocolate",
+     "Uma pizza",
+     "Uma sopa"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quem toca violão?",
+    "qEn": "Who plays guitar?",
+    "options": [
+     "Diego",
+     "Fernanda",
+     "Um vizinho",
+     "Um amigo"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "Quando Fernanda abre os presentes?",
+    "qEn": "When does Fernanda open the presents?",
+    "options": [
+     "À meia-noite",
+     "De manhã",
+     "Às oito",
+     "No domingo"
+    ],
+    "answer": 0
+   }
+  ]
+ }
+]

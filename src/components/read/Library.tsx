@@ -7,7 +7,8 @@ import { knownShare, LIBRARY, loadCustomStories, loadReadIds, saveCustomStory } 
 import { loadProgress } from "@/lib/progress-store";
 import type { Story } from "@/lib/story";
 import { TOPICS, type Topic } from "@/lib/topics";
-import { LEVEL_NAMES, LEVELS, type Level } from "@/lib/words";
+import { LEVEL_NAMES, type Level } from "@/lib/words";
+import { useActiveLevels } from "../useSettings";
 
 function StoryCard({ story, share, read }: { story: Story; share: number; read: boolean }) {
   return (
@@ -32,7 +33,10 @@ function StoryCard({ story, share, read }: { story: Story; share: number; read: 
 
 export function Library() {
   const router = useRouter();
-  const [level, setLevel] = useState<Level>(1);
+  const levels = useActiveLevels();
+  const [chosen, setLevel] = useState<Level>(1);
+  // Falls back to A1 when the chosen level is switched off.
+  const level = levels.includes(chosen) ? chosen : 1;
   const [progress] = useState(() => loadProgress(window.localStorage));
   const [readIds] = useState(() => loadReadIds(window.localStorage));
   const [custom, setCustom] = useState(() => loadCustomStories(window.localStorage));
@@ -67,7 +71,7 @@ export function Library() {
       <header className="flex items-center justify-between">
         <h1 className="text-lg font-semibold">Reading</h1>
         <div className="flex rounded-full bg-stone-200 p-1 text-sm dark:bg-stone-800">
-          {LEVELS.map((l) => (
+          {levels.map((l) => (
             <button
               key={l}
               type="button"

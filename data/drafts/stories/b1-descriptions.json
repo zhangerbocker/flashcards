@@ -1,0 +1,490 @@
+[
+ {
+  "id": "b1-descriptions-1",
+  "level": 3,
+  "topic": "Descriptions",
+  "title": "O apartamento das fotos",
+  "titleEn": "The apartment in the photos",
+  "sentences": [
+   {
+    "pt": "Larissa tinha conseguido um emprego novo no Rio de Janeiro e precisava encontrar um apartamento.",
+    "en": "Larissa had gotten a new job in Rio de Janeiro and needed to find an apartment.",
+    "glosses": {
+     "tinha conseguido": "had gotten",
+     "precisava": "needed"
+    }
+   },
+   {
+    "pt": "Ela queria um lugar claro, silencioso e perto do metrô.",
+    "en": "She wanted a bright, quiet place near the subway.",
+    "glosses": {
+     "queria": "wanted",
+     "claro": "bright",
+     "do": "the"
+    }
+   },
+   {
+    "pt": "Na internet, encontrou um apartamento que parecia ótimo em Copacabana.",
+    "en": "On the internet, she found an apartment in Copacabana that seemed great.",
+    "glosses": {
+     "Na": "on the",
+     "encontrou": "found",
+     "parecia": "seemed"
+    }
+   },
+   {
+    "pt": "As fotos mostravam uma sala enorme, com janelas largas e um sofá branco muito confortável.",
+    "en": "The photos showed a huge living room, with wide windows and a very comfortable white sofa.",
+    "glosses": {
+     "mostravam": "showed"
+    }
+   },
+   {
+    "pt": "A cozinha parecia moderna, e o quarto tinha uma vista linda para o mar.",
+    "en": "The kitchen looked modern, and the bedroom had a beautiful view of the sea.",
+    "glosses": {
+     "parecia": "looked",
+     "tinha": "had",
+     "vista": "view"
+    }
+   },
+   {
+    "pt": "O aluguel também era barato para o bairro.",
+    "en": "The rent was also cheap for the neighborhood.",
+    "glosses": {
+     "era": "was"
+    }
+   },
+   {
+    "pt": "Larissa ficou empolgada e agendou uma visita com a imobiliária.",
+    "en": "Larissa got excited and booked a visit with the real estate agency.",
+    "glosses": {
+     "ficou": "got",
+     "agendou": "booked"
+    }
+   },
+   {
+    "pt": "No dia da visita, porém, tudo era bem diferente.",
+    "en": "On the day of the visit, however, everything was quite different.",
+    "glosses": {
+     "No": "on the",
+     "da": "of the",
+     "era": "was",
+     "bem": "quite"
+    }
+   },
+   {
+    "pt": "O prédio ficava em uma rua estreita e barulhenta, ao lado de um restaurante.",
+    "en": "The building was on a narrow, noisy street, next to a restaurant.",
+    "glosses": {
+     "ficava": "was located"
+    }
+   },
+   {
+    "pt": "A sala era pequena e escura, e as janelas davam para outro prédio.",
+    "en": "The living room was small and dark, and the windows faced another building.",
+    "glosses": {
+     "era": "was",
+     "davam para": "faced"
+    }
+   },
+   {
+    "pt": "— E a vista para o mar? — perguntou Larissa.",
+    "en": "\"And the sea view?\" asked Larissa.",
+    "glosses": {
+     "perguntou": "asked"
+    }
+   },
+   {
+    "pt": "O funcionário da imobiliária explicou que dava para ver o mar, sim, mas só do banheiro, subindo na cadeira.",
+    "en": "The agency employee explained that you could see the sea, yes, but only from the bathroom, standing on a chair.",
+    "glosses": {
+     "explicou": "explained",
+     "dava para": "one could",
+     "do": "from the",
+     "subindo": "climbing"
+    }
+   },
+   {
+    "pt": "Larissa ficou irritada, mas também começou a rir.",
+    "en": "Larissa got annoyed, but she also started to laugh.",
+    "glosses": {
+     "ficou": "got",
+     "começou": "started"
+    }
+   },
+   {
+    "pt": "Depois disso, ela visitou mais seis apartamentos.",
+    "en": "After that, she visited six more apartments.",
+    "glosses": {
+     "disso": "that",
+     "visitou": "visited"
+    }
+   },
+   {
+    "pt": "Uns eram muito caros, outros eram sujos, pequenos ou longe do trabalho.",
+    "en": "Some were very expensive, others were dirty, small or far from work.",
+    "glosses": {
+     "Uns": "some",
+     "eram": "were",
+     "do": "from"
+    }
+   },
+   {
+    "pt": "Quando já estava quase desistindo, uma colega falou de um apartamento antigo perto do centro.",
+    "en": "When she was almost giving up, a colleague mentioned an old apartment near downtown.",
+    "glosses": {
+     "estava desistindo": "was giving up",
+     "falou": "talked"
+    }
+   },
+   {
+    "pt": "Não tinha fotos na internet, só um endereço e um telefone.",
+    "en": "There were no photos online, just an address and a phone number.",
+    "glosses": {
+     "tinha": "there were",
+     "na": "on the"
+    }
+   },
+   {
+    "pt": "O prédio era velho e a cozinha era simples, com um fogão de outra década.",
+    "en": "The building was old and the kitchen was simple, with a stove from another decade.",
+    "glosses": {
+     "era": "was"
+    }
+   },
+   {
+    "pt": "Mas a sala era grande e clara, e o sol entrava por duas janelas largas.",
+    "en": "But the living room was big and bright, and the sun came in through two wide windows.",
+    "glosses": {
+     "era": "was",
+     "entrava": "came in"
+    }
+   },
+   {
+    "pt": "Do quarto, dava para ouvir os pássaros das árvores da praça.",
+    "en": "From the bedroom, you could hear the birds in the trees of the square.",
+    "glosses": {
+     "Do": "from the",
+     "dava para": "one could",
+     "das": "in the",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "A proprietária, uma senhora simpática, morava no andar de baixo.",
+    "en": "The owner, a friendly older lady, lived on the floor below.",
+    "glosses": {
+     "proprietária": "owner (woman)",
+     "senhora": "lady",
+     "morava": "lived",
+     "no": "on the"
+    }
+   },
+   {
+    "pt": "Larissa assinou o contrato na mesma semana.",
+    "en": "Larissa signed the contract that same week.",
+    "glosses": {
+     "assinou": "signed",
+     "na": "in the"
+    }
+   },
+   {
+    "pt": "Agora ela sempre diz aos amigos que as fotos bonitas nem sempre mostram tudo.",
+    "en": "Now she always tells her friends that pretty photos don't always show everything.",
+    "glosses": {
+     "diz": "tells",
+     "aos": "to her",
+     "mostram": "show"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Como era a sala do primeiro apartamento?",
+    "qEn": "What was the living room of the first apartment like?",
+    "options": [
+     "Grande e clara",
+     "Pequena e escura",
+     "Moderna e limpa",
+     "Larga e silenciosa"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "De onde dava para ver o mar?",
+    "qEn": "Where could you see the sea from?",
+    "options": [
+     "Da sala",
+     "Do quarto",
+     "Do banheiro",
+     "Da cozinha"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Onde a proprietária do último apartamento morava?",
+    "qEn": "Where did the owner of the last apartment live?",
+    "options": [
+     "Em Copacabana",
+     "No andar de baixo",
+     "Em São Paulo",
+     "No mesmo quarto"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "b1-descriptions-2",
+  "level": 3,
+  "topic": "Descriptions",
+  "title": "O gato do terceiro andar",
+  "titleEn": "The cat from the third floor",
+  "sentences": [
+   {
+    "pt": "Gustavo mora sozinho em um apartamento pequeno em Fortaleza, com o seu gato, Tom.",
+    "en": "Gustavo lives alone in a small apartment in Fortaleza, with his cat, Tom.",
+    "glosses": {
+     "mora": "lives",
+     "sozinho": "alone"
+    }
+   },
+   {
+    "pt": "Tom é um gato grande e gordo, listrado de cinza e preto, e tem olhos verdes.",
+    "en": "Tom is a big, fat cat, striped gray and black, and he has green eyes.",
+    "glosses": {
+     "é": "is",
+     "tem": "has"
+    }
+   },
+   {
+    "pt": "Ele é muito preguiçoso e passa o dia inteiro dormindo no sofá.",
+    "en": "He is very lazy and spends the whole day sleeping on the sofa.",
+    "glosses": {
+     "é": "is",
+     "passa": "spends",
+     "dormindo": "sleeping",
+     "no": "on the"
+    }
+   },
+   {
+    "pt": "Uma noite, Gustavo chegou do trabalho e percebeu que a janela da sala estava aberta.",
+    "en": "One night, Gustavo got home from work and noticed that the living room window was open.",
+    "glosses": {
+     "chegou": "got home",
+     "do": "from",
+     "percebeu": "noticed",
+     "da": "of the",
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "Procurou Tom em todos os lugares, mas o gato não estava em casa.",
+    "en": "He looked for Tom everywhere, but the cat wasn't home.",
+    "glosses": {
+     "Procurou": "he looked for",
+     "em todos os lugares": "everywhere",
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "Gustavo ficou muito assustado, porque Tom nunca tinha saído do apartamento.",
+    "en": "Gustavo got very scared, because Tom had never left the apartment.",
+    "glosses": {
+     "ficou": "was",
+     "tinha saído": "had left",
+     "do": "the"
+    }
+   },
+   {
+    "pt": "Ele desceu e perguntou aos vizinhos se alguém tinha visto um gato cinza.",
+    "en": "He went downstairs and asked the neighbors if anyone had seen a gray cat.",
+    "glosses": {
+     "desceu": "went down",
+     "perguntou": "asked",
+     "aos": "the",
+     "tinha visto": "had seen"
+    }
+   },
+   {
+    "pt": "O vizinho do primeiro andar disse que tinha visto um gato branco e magro, mas não um gato gordo.",
+    "en": "The neighbor on the first floor said he had seen a thin white cat, but not a fat one.",
+    "glosses": {
+     "do": "on the",
+     "disse": "said",
+     "tinha visto": "had seen"
+    }
+   },
+   {
+    "pt": "Na manhã de sábado, Gustavo fez placas com uma foto de Tom e algumas palavras.",
+    "en": "On Saturday morning, Gustavo made signs with a photo of Tom and a few words.",
+    "glosses": {
+     "Na": "on",
+     "fez": "made",
+     "placas": "signs"
+    }
+   },
+   {
+    "pt": "\"Gato perdido: grande, cinza, listrado, olhos verdes, muito calmo e um pouco gordo.\"",
+    "en": "\"Lost cat: big, gray, striped, green eyes, very calm and a little fat.\"",
+    "glosses": {
+     "perdido": "lost"
+    }
+   },
+   {
+    "pt": "Ele pendurou as placas nas lojas, na padaria e no ponto de ônibus.",
+    "en": "He hung the signs in the shops, at the bakery and at the bus stop.",
+    "glosses": {
+     "pendurou": "hung",
+     "nas": "in the",
+     "na": "at the",
+     "no": "at the"
+    }
+   },
+   {
+    "pt": "Durante três dias, recebeu muitas mensagens, mas nenhuma era de Tom.",
+    "en": "For three days, he got many messages, but none were about Tom.",
+    "glosses": {
+     "recebeu": "got",
+     "nenhuma": "none",
+     "era": "was"
+    }
+   },
+   {
+    "pt": "Uma pessoa mandou a foto de um gato amarelo, outra mandou a foto de um cachorro.",
+    "en": "One person sent a photo of a yellow cat, another sent a photo of a dog.",
+    "glosses": {
+     "mandou": "sent",
+     "outra": "another"
+    }
+   },
+   {
+    "pt": "Gustavo estava triste e quase não dormia.",
+    "en": "Gustavo was sad and hardly slept.",
+    "glosses": {
+     "estava": "was",
+     "quase não": "hardly",
+     "dormia": "slept"
+    }
+   },
+   {
+    "pt": "No quarto dia, uma senhora do terceiro andar chamou Gustavo na porta.",
+    "en": "On the fourth day, an older lady from the third floor came to Gustavo's door.",
+    "glosses": {
+     "No": "on the",
+     "senhora": "lady",
+     "do": "from the",
+     "chamou": "called for",
+     "na porta": "at the door"
+    }
+   },
+   {
+    "pt": "Era Dona Lúcia, uma mulher baixa, de cabelo branco e rosto redondo.",
+    "en": "It was Dona Lúcia, a short woman with white hair and a round face.",
+    "glosses": {
+     "Era": "it was",
+     "baixa": "short"
+    }
+   },
+   {
+    "pt": "— Acho que o seu gato está na minha casa — disse ela, um pouco envergonhada.",
+    "en": "\"I think your cat is at my place,\" she said, a little embarrassed.",
+    "glosses": {
+     "Acho": "I think",
+     "está": "is",
+     "na minha casa": "at my place",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Ela explicou que um gato cinza entrava todas as tardes pela janela da cozinha dela.",
+    "en": "She explained that a gray cat came in every afternoon through her kitchen window.",
+    "glosses": {
+     "explicou": "explained",
+     "entrava": "came in",
+     "pela": "through the",
+     "da": "of the",
+     "dela": "her"
+    }
+   },
+   {
+    "pt": "Como ele parecia com fome, ela dava peixe e leite para ele.",
+    "en": "Since he seemed hungry, she gave him fish and milk.",
+    "glosses": {
+     "Como": "since",
+     "parecia": "seemed",
+     "dava": "gave"
+    }
+   },
+   {
+    "pt": "Gustavo subiu correndo e encontrou Tom dormindo em uma cadeira, muito calmo.",
+    "en": "Gustavo ran upstairs and found Tom sleeping on a chair, very calm.",
+    "glosses": {
+     "subiu correndo": "ran upstairs",
+     "encontrou": "found",
+     "dormindo": "sleeping"
+    }
+   },
+   {
+    "pt": "O gato estava ainda mais gordo do que antes.",
+    "en": "The cat was even fatter than before.",
+    "glosses": {
+     "estava": "was",
+     "do que": "than"
+    }
+   },
+   {
+    "pt": "Gustavo levou Tom para casa, mas Dona Lúcia pediu para visitar o gato de vez em quando.",
+    "en": "Gustavo took Tom home, but Dona Lúcia asked to visit the cat from time to time.",
+    "glosses": {
+     "levou": "took",
+     "pediu": "asked"
+    }
+   },
+   {
+    "pt": "Agora, todos os domingos, ela desce para tomar café com os dois.",
+    "en": "Now, every Sunday, she comes down to have coffee with the two of them.",
+    "glosses": {
+     "desce": "comes down",
+     "tomar": "have"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Como é o gato Tom?",
+    "qEn": "What is Tom the cat like?",
+    "options": [
+     "Branco e magro",
+     "Amarelo e pequeno",
+     "Cinza e gordo",
+     "Preto e rápido"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Onde Gustavo pendurou as placas?",
+    "qEn": "Where did Gustavo hang the signs?",
+    "options": [
+     "Na padaria",
+     "No hospital",
+     "Na escola",
+     "No metrô"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Onde Tom estava?",
+    "qEn": "Where was Tom?",
+    "options": [
+     "Na rua",
+     "Na casa de Dona Lúcia",
+     "Na padaria",
+     "No parque"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

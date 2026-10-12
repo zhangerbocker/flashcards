@@ -1,0 +1,811 @@
+[
+ {
+  "pt": "corrupção",
+  "pos": "n.",
+  "english": "corruption",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "corrupções"
+  ],
+  "example": {
+   "pt": "O combate à corrupção foi tema da campanha.",
+   "en": "Fighting corruption was a theme of the campaign."
+  }
+ },
+ {
+  "pt": "propina",
+  "pos": "n.",
+  "english": "bribe, kickback",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "propinas"
+  ],
+  "example": {
+   "pt": "O empresário foi acusado de pagar propina a políticos.",
+   "en": "The businessman was accused of paying bribes to politicians."
+  }
+ },
+ {
+  "pt": "lavagem de dinheiro",
+  "pos": "n.",
+  "english": "money laundering",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "example": {
+   "pt": "Ele foi preso por lavagem de dinheiro.",
+   "en": "He was arrested for money laundering."
+  }
+ },
+ {
+  "pt": "fraude",
+  "pos": "n.",
+  "english": "fraud",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "fraudes"
+  ],
+  "example": {
+   "pt": "A auditoria descobriu uma fraude nas contas.",
+   "en": "The audit uncovered fraud in the accounts."
+  }
+ },
+ {
+  "pt": "escândalo",
+  "pos": "n.",
+  "english": "scandal",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "escândalos"
+  ],
+  "example": {
+   "pt": "O escândalo derrubou o ministro.",
+   "en": "The scandal brought down the minister."
+  }
+ },
+ {
+  "pt": "impunidade",
+  "pos": "n.",
+  "english": "impunity",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "example": {
+   "pt": "A impunidade incentiva novos crimes.",
+   "en": "Impunity encourages new crimes."
+  }
+ },
+ {
+  "pt": "cidadania",
+  "pos": "n.",
+  "english": "citizenship",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "cidadanias"
+  ],
+  "example": {
+   "pt": "Votar é um exercício de cidadania.",
+   "en": "Voting is an exercise of citizenship."
+  }
+ },
+ {
+  "pt": "desigualdade social",
+  "pos": "n.",
+  "english": "social inequality",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "desigualdades sociais"
+  ],
+  "example": {
+   "pt": "A desigualdade social é um dos maiores problemas do país.",
+   "en": "Social inequality is one of the country's biggest problems."
+  }
+ },
+ {
+  "pt": "miséria",
+  "pos": "n.",
+  "english": "extreme poverty, destitution",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "misérias"
+  ],
+  "example": {
+   "pt": "Milhões de pessoas ainda vivem na miséria.",
+   "en": "Millions of people still live in extreme poverty."
+  }
+ },
+ {
+  "pt": "periferia",
+  "pos": "n.",
+  "english": "outskirts, poor outlying areas",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "periferias"
+  ],
+  "example": {
+   "pt": "Muitos trabalhadores moram na periferia e gastam horas no ônibus.",
+   "en": "Many workers live on the outskirts and spend hours on the bus."
+  }
+ },
+ {
+  "pt": "criminalidade",
+  "pos": "n.",
+  "english": "crime (rate)",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "example": {
+   "pt": "A criminalidade caiu no último ano.",
+   "en": "Crime fell over the last year."
+  }
+ },
+ {
+  "pt": "segurança pública",
+  "pos": "n.",
+  "english": "public safety, law enforcement",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "example": {
+   "pt": "A segurança pública é a maior preocupação dos eleitores.",
+   "en": "Public safety is voters' biggest concern."
+  }
+ },
+ {
+  "pt": "reforma",
+  "pos": "n.",
+  "english": "reform",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "reformas"
+  ],
+  "example": {
+   "pt": "O Congresso aprovou a reforma tributária.",
+   "en": "Congress approved the tax reform."
+  }
+ },
+ {
+  "pt": "inflação",
+  "pos": "n.",
+  "english": "inflation",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "inflações"
+  ],
+  "example": {
+   "pt": "A inflação corroeu o poder de compra das famílias.",
+   "en": "Inflation eroded families' purchasing power."
+  }
+ },
+ {
+  "pt": "recessão",
+  "pos": "n.",
+  "english": "recession",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "recessões"
+  ],
+  "example": {
+   "pt": "O país entrou em recessão.",
+   "en": "The country went into recession."
+  }
+ },
+ {
+  "pt": "orçamento",
+  "pos": "n.",
+  "english": "budget",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "orçamentos"
+  ],
+  "example": {
+   "pt": "O orçamento da saúde foi cortado.",
+   "en": "The health budget was cut."
+  }
+ },
+ {
+  "pt": "tributo",
+  "pos": "n.",
+  "english": "tax, levy; tribute",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "tributos"
+  ],
+  "example": {
+   "pt": "Os brasileiros pagam muitos tributos sobre o consumo.",
+   "en": "Brazilians pay many taxes on consumption."
+  }
+ },
+ {
+  "pt": "previdência social",
+  "pos": "n.",
+  "english": "social security (pensions)",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "example": {
+   "pt": "A reforma da previdência social gerou muitos protestos.",
+   "en": "The social security reform sparked many protests."
+  }
+ },
+ {
+  "pt": "manifestação",
+  "pos": "n.",
+  "english": "demonstration, protest",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "manifestações"
+  ],
+  "example": {
+   "pt": "Milhares de pessoas participaram da manifestação na Avenida Paulista.",
+   "en": "Thousands of people took part in the demonstration on Avenida Paulista."
+  }
+ },
+ {
+  "pt": "manifestante",
+  "pos": "n.",
+  "english": "protester, demonstrator",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "mf",
+  "forms": [
+   "manifestantes"
+  ],
+  "example": {
+   "pt": "Os manifestantes ocuparam a praça.",
+   "en": "The protesters occupied the square."
+  }
+ },
+ {
+  "pt": "greve",
+  "pos": "n.",
+  "english": "strike",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "greves"
+  ],
+  "example": {
+   "pt": "Os motoristas de ônibus entraram em greve.",
+   "en": "The bus drivers went on strike."
+  }
+ },
+ {
+  "pt": "sindicato",
+  "pos": "n.",
+  "english": "trade union",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "sindicatos"
+  ],
+  "example": {
+   "pt": "O sindicato negociou um reajuste de 5%.",
+   "en": "The union negotiated a 5% raise."
+  }
+ },
+ {
+  "pt": "censura",
+  "pos": "n.",
+  "english": "censorship",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "censuras"
+  ],
+  "example": {
+   "pt": "Durante a ditadura, a censura proibiu muitas músicas.",
+   "en": "During the dictatorship, censorship banned many songs."
+  }
+ },
+ {
+  "pt": "ditadura",
+  "pos": "n.",
+  "english": "dictatorship",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "ditaduras"
+  ],
+  "example": {
+   "pt": "O Brasil viveu uma ditadura militar de 1964 a 1985.",
+   "en": "Brazil lived under a military dictatorship from 1964 to 1985."
+  }
+ },
+ {
+  "pt": "golpe de Estado",
+  "pos": "n.",
+  "english": "coup d'état",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "golpes de estado"
+  ],
+  "example": {
+   "pt": "A tentativa de golpe de Estado fracassou.",
+   "en": "The coup attempt failed."
+  }
+ },
+ {
+  "pt": "polarização",
+  "pos": "n.",
+  "english": "polarization",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "polarizações"
+  ],
+  "example": {
+   "pt": "A polarização política dificulta o diálogo.",
+   "en": "Political polarization makes dialogue difficult."
+  }
+ },
+ {
+  "pt": "populismo",
+  "pos": "n.",
+  "english": "populism",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "m",
+  "example": {
+   "pt": "O populismo cresce em tempos de crise.",
+   "en": "Populism grows in times of crisis."
+  }
+ },
+ {
+  "pt": "eleitor",
+  "pos": "n.",
+  "english": "voter",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "eleitora",
+   "eleitores",
+   "eleitoras"
+  ],
+  "example": {
+   "pt": "Os eleitores vão às urnas em outubro.",
+   "en": "Voters go to the polls in October."
+  }
+ },
+ {
+  "pt": "urna",
+  "pos": "n.",
+  "english": "ballot box",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "urnas"
+  ],
+  "example": {
+   "pt": "A urna eletrônica foi adotada em 1996.",
+   "en": "The electronic ballot box was adopted in 1996."
+  }
+ },
+ {
+  "pt": "candidatura",
+  "pos": "n.",
+  "english": "candidacy",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "candidaturas"
+  ],
+  "example": {
+   "pt": "Ela anunciou sua candidatura à prefeitura.",
+   "en": "She announced her candidacy for mayor."
+  }
+ },
+ {
+  "pt": "mandato",
+  "pos": "n.",
+  "english": "term of office, mandate",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "mandatos"
+  ],
+  "example": {
+   "pt": "O mandato do presidente é de quatro anos.",
+   "en": "The president's term of office is four years."
+  }
+ },
+ {
+  "pt": "deputado",
+  "pos": "n.",
+  "english": "congressman, deputy (member of parliament)",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "deputada",
+   "deputados",
+   "deputadas"
+  ],
+  "example": {
+   "pt": "O deputado votou contra o projeto.",
+   "en": "The congressman voted against the bill."
+  }
+ },
+ {
+  "pt": "vereador",
+  "pos": "n.",
+  "english": "city councillor",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "vereadora",
+   "vereadores",
+   "vereadoras"
+  ],
+  "example": {
+   "pt": "A vereadora propôs uma lei para proteger os parques.",
+   "en": "The councillor proposed a law to protect parks."
+  }
+ },
+ {
+  "pt": "legislação",
+  "pos": "n.",
+  "english": "legislation",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "legislações"
+  ],
+  "example": {
+   "pt": "A legislação ambiental brasileira é rigorosa.",
+   "en": "Brazilian environmental legislation is strict."
+  }
+ },
+ {
+  "pt": "sancionar",
+  "pos": "v.",
+  "english": "to sign into law; to sanction",
+  "level": 4,
+  "topic": "Society & news",
+  "example": {
+   "pt": "O presidente sancionou a nova lei.",
+   "en": "The president signed the new law."
+  }
+ },
+ {
+  "pt": "vetar",
+  "pos": "v.",
+  "english": "to veto",
+  "level": 4,
+  "topic": "Society & news",
+  "example": {
+   "pt": "O governador vetou o aumento de salário.",
+   "en": "The governor vetoed the salary increase."
+  }
+ },
+ {
+  "pt": "plebiscito",
+  "pos": "n.",
+  "english": "plebiscite, referendum",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "plebiscitos"
+  ],
+  "example": {
+   "pt": "A população decidiu a questão num plebiscito.",
+   "en": "The population decided the issue in a referendum."
+  }
+ },
+ {
+  "pt": "denúncia",
+  "pos": "n.",
+  "english": "report, accusation; complaint",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "denúncias"
+  ],
+  "example": {
+   "pt": "O jornal publicou uma denúncia contra o prefeito.",
+   "en": "The newspaper published an accusation against the mayor."
+  }
+ },
+ {
+  "pt": "denunciar",
+  "pos": "v.",
+  "english": "to report, to denounce",
+  "level": 4,
+  "topic": "Society & news",
+  "example": {
+   "pt": "Ela denunciou o assédio à polícia.",
+   "en": "She reported the harassment to the police."
+  }
+ },
+ {
+  "pt": "inquérito",
+  "pos": "n.",
+  "english": "inquiry, (police) investigation",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "inquéritos"
+  ],
+  "example": {
+   "pt": "A polícia abriu um inquérito para investigar o caso.",
+   "en": "The police opened an inquiry to investigate the case."
+  }
+ },
+ {
+  "pt": "réu",
+  "pos": "n.",
+  "english": "defendant, accused",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "ré",
+   "réus",
+   "rés"
+  ],
+  "example": {
+   "pt": "O réu foi absolvido por falta de provas.",
+   "en": "The defendant was acquitted for lack of evidence."
+  }
+ },
+ {
+  "pt": "julgamento",
+  "pos": "n.",
+  "english": "trial; judgment",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "julgamentos"
+  ],
+  "example": {
+   "pt": "O julgamento foi adiado para março.",
+   "en": "The trial was postponed to March."
+  }
+ },
+ {
+  "pt": "condenar",
+  "pos": "v.",
+  "english": "to convict, to sentence; to condemn",
+  "level": 4,
+  "topic": "Society & news",
+  "example": {
+   "pt": "O juiz condenou o ex-prefeito a oito anos de prisão.",
+   "en": "The judge sentenced the former mayor to eight years in prison."
+  }
+ },
+ {
+  "pt": "absolver",
+  "pos": "v.",
+  "english": "to acquit",
+  "level": 4,
+  "topic": "Society & news",
+  "example": {
+   "pt": "O júri absolveu a acusada.",
+   "en": "The jury acquitted the accused woman."
+  }
+ },
+ {
+  "pt": "imprensa",
+  "pos": "n.",
+  "english": "press, media",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "imprensas"
+  ],
+  "example": {
+   "pt": "A liberdade de imprensa é essencial para a democracia.",
+   "en": "Freedom of the press is essential for democracy."
+  }
+ },
+ {
+  "pt": "manchete",
+  "pos": "n.",
+  "english": "headline",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "manchetes"
+  ],
+  "example": {
+   "pt": "O escândalo foi manchete em todos os jornais.",
+   "en": "The scandal was a headline in every newspaper."
+  }
+ },
+ {
+  "pt": "desinformação",
+  "pos": "n.",
+  "english": "disinformation, misinformation",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "desinformações"
+  ],
+  "example": {
+   "pt": "As redes sociais facilitam a disseminação de desinformação.",
+   "en": "Social media make it easier to spread disinformation."
+  }
+ },
+ {
+  "pt": "opinião pública",
+  "pos": "n.",
+  "english": "public opinion",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "example": {
+   "pt": "A opinião pública se voltou contra o governo.",
+   "en": "Public opinion turned against the government."
+  }
+ },
+ {
+  "pt": "preconceito",
+  "pos": "n.",
+  "english": "prejudice",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "preconceitos"
+  ],
+  "example": {
+   "pt": "Ela sofreu preconceito por causa do sotaque.",
+   "en": "She suffered prejudice because of her accent."
+  }
+ },
+ {
+  "pt": "discriminação",
+  "pos": "n.",
+  "english": "discrimination",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "discriminações"
+  ],
+  "example": {
+   "pt": "A lei proíbe a discriminação no trabalho.",
+   "en": "The law prohibits discrimination at work."
+  }
+ },
+ {
+  "pt": "racismo",
+  "pos": "n.",
+  "english": "racism",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "racismos"
+  ],
+  "example": {
+   "pt": "O racismo é crime no Brasil.",
+   "en": "Racism is a crime in Brazil."
+  }
+ },
+ {
+  "pt": "inclusão",
+  "pos": "n.",
+  "english": "inclusion",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "inclusões"
+  ],
+  "example": {
+   "pt": "A escola tem um programa de inclusão de alunos com deficiência.",
+   "en": "The school has an inclusion program for students with disabilities."
+  }
+ },
+ {
+  "pt": "minoria",
+  "pos": "n.",
+  "english": "minority",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "minorias"
+  ],
+  "example": {
+   "pt": "As minorias precisam ter seus direitos garantidos.",
+   "en": "Minorities must have their rights guaranteed."
+  }
+ },
+ {
+  "pt": "direitos humanos",
+  "pos": "n.",
+  "english": "human rights",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "direito humano"
+  ],
+  "example": {
+   "pt": "A ONG defende os direitos humanos.",
+   "en": "The NGO defends human rights."
+  }
+ },
+ {
+  "pt": "refugiado",
+  "pos": "n.",
+  "english": "refugee",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "refugiada",
+   "refugiados",
+   "refugiadas"
+  ],
+  "example": {
+   "pt": "O Brasil recebeu milhares de refugiados venezuelanos.",
+   "en": "Brazil took in thousands of Venezuelan refugees."
+  }
+ },
+ {
+  "pt": "voluntariado",
+  "pos": "n.",
+  "english": "volunteering, volunteer work",
+  "level": 4,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "voluntariados"
+  ],
+  "example": {
+   "pt": "O voluntariado cresceu entre os jovens.",
+   "en": "Volunteering has grown among young people."
+  }
+ }
+]

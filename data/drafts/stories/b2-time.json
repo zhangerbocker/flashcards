@@ -1,0 +1,597 @@
+[
+ {
+  "id": "b2-time-1",
+  "level": 4,
+  "topic": "Time",
+  "title": "O feriado prolongado",
+  "titleEn": "The long holiday weekend",
+  "sentences": [
+   {
+    "pt": "Era quinta-feira à tarde, véspera de um feriado prolongado, e o escritório já estava quase vazio.",
+    "en": "It was Thursday afternoon, the eve of a long holiday weekend, and the office was already almost empty.",
+    "glosses": {
+     "Era": "it was",
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "Larissa estava prestes a fechar o computador quando o chefe a chamou na sala dele.",
+    "en": "Larissa was about to close her computer when her boss called her into his office.",
+    "glosses": {
+     "estava": "was",
+     "fechar": "close",
+     "a chamou": "called her",
+     "na": "into the",
+     "sala": "office",
+     "dele": "his"
+    }
+   },
+   {
+    "pt": "\"O cliente antecipou a data-limite\", disse ele, sem olhar para ela.",
+    "en": "\"The client moved the deadline forward,\" he said, without looking at her.",
+    "glosses": {
+     "antecipou": "moved forward",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "\"O relatório que era para o dia vinte agora tem que estar pronto na segunda de manhã.\"",
+    "en": "\"The report that was due on the twentieth now has to be ready Monday morning.\"",
+    "glosses": {
+     "era para": "was due",
+     "tem que": "has to",
+     "estar": "be",
+     "pronto": "ready",
+     "na": "on"
+    }
+   },
+   {
+    "pt": "Larissa sentiu um frio na barriga.",
+    "en": "Larissa felt a knot in her stomach.",
+    "glosses": {
+     "sentiu": "felt",
+     "frio na barriga": "knot in the stomach"
+    }
+   },
+   {
+    "pt": "Ela esperava aquele fim de semana fazia meses.",
+    "en": "She had been looking forward to that weekend for months.",
+    "glosses": {
+     "esperava": "had been looking forward to",
+     "fazia meses": "for months"
+    }
+   },
+   {
+    "pt": "Iria para Paraty com o namorado, Felipe, e já tinham pago o hotel de antemão.",
+    "en": "She was going to go to Paraty with her boyfriend, Felipe, and they had already paid for the hotel in advance.",
+    "glosses": {
+     "Iria": "was going to go",
+     "tinham pago": "had paid"
+    }
+   },
+   {
+    "pt": "\"Não dá para dividir o trabalho com outra pessoa?\", perguntou ela.",
+    "en": "\"Can't the work be split with someone else?\" she asked.",
+    "glosses": {
+     "dá para": "is it possible",
+     "perguntou": "asked"
+    }
+   },
+   {
+    "pt": "\"Todo mundo já saiu. Sinto muito\", respondeu ele.",
+    "en": "\"Everyone has already left. I'm sorry,\" he answered.",
+    "glosses": {
+     "Todo mundo": "everyone",
+     "saiu": "left",
+     "Sinto muito": "I'm sorry",
+     "respondeu": "answered"
+    }
+   },
+   {
+    "pt": "Larissa pensou em dizer não, mas sabia que isso poderia custar caro no fim do ano.",
+    "en": "Larissa thought about saying no, but knew it could cost her dearly at the end of the year.",
+    "glosses": {
+     "pensou": "thought",
+     "sabia": "knew",
+     "poderia": "could",
+     "custar caro": "cost dearly",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Naquela noite, ela ligou para Felipe e explicou tudo.",
+    "en": "That night, she called Felipe and explained everything.",
+    "glosses": {
+     "Naquela": "that",
+     "ligou": "called",
+     "explicou": "explained"
+    }
+   },
+   {
+    "pt": "Ele ficou decepcionado, mas logo pensou numa saída.",
+    "en": "He was disappointed, but soon thought of a way out.",
+    "glosses": {
+     "ficou": "was",
+     "pensou": "thought",
+     "numa": "of a",
+     "saída": "way out"
+    }
+   },
+   {
+    "pt": "\"Leva o computador. Você trabalha de manhã, e à tarde a gente aproveita a cidade.\"",
+    "en": "\"Bring the computer. You work in the morning, and in the afternoon we enjoy the town.\"",
+    "glosses": {
+     "Leva": "bring",
+     "trabalha": "work",
+     "aproveita": "enjoy"
+    }
+   },
+   {
+    "pt": "\"Ninguém precisa saber de onde você está trabalhando.\"",
+    "en": "\"Nobody needs to know where you're working from.\"",
+    "glosses": {
+     "precisa": "needs",
+     "está trabalhando": "are working"
+    }
+   },
+   {
+    "pt": "Larissa duvidou que fosse dar certo, mas não via nada melhor.",
+    "en": "Larissa doubted it would work out, but she couldn't see anything better.",
+    "glosses": {
+     "duvidou": "doubted",
+     "fosse dar certo": "would work out",
+     "via": "saw"
+    }
+   },
+   {
+    "pt": "Na sexta-feira, acordou às seis e trabalhou até o meio-dia no jardim do hotel.",
+    "en": "On Friday, she woke up at six and worked until noon in the hotel garden.",
+    "glosses": {
+     "Na": "on",
+     "acordou": "woke up",
+     "trabalhou": "worked",
+     "no": "in the",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Mal fechava o computador, Felipe já estava na porta, pronto para sair.",
+    "en": "As soon as she closed the computer, Felipe was already at the door, ready to go out.",
+    "glosses": {
+     "Mal": "as soon as",
+     "fechava": "closed",
+     "estava": "was",
+     "pronto": "ready"
+    }
+   },
+   {
+    "pt": "À tarde, andavam pelas ruas de pedra do centro histórico, sem relógio e sem pressa.",
+    "en": "In the afternoon, they walked through the stone streets of the historic center, without a watch and without hurrying.",
+    "glosses": {
+     "andavam": "walked",
+     "pelas": "through the",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Gradualmente, ela percebeu que trabalhava melhor ali do que no escritório.",
+    "en": "Gradually, she realized that she worked better there than at the office.",
+    "glosses": {
+     "percebeu": "realized",
+     "trabalhava": "worked",
+     "do que": "than",
+     "no": "at the"
+    }
+   },
+   {
+    "pt": "Ninguém a interrompia, e a brisa do mar ajudava a pensar.",
+    "en": "Nobody interrupted her, and the sea breeze helped her think.",
+    "glosses": {
+     "a interrompia": "interrupted her",
+     "do": "of the",
+     "ajudava": "helped"
+    }
+   },
+   {
+    "pt": "No domingo à noite, o relatório estava pronto, um dia antes do prazo final.",
+    "en": "On Sunday night, the report was ready, a day before the final deadline.",
+    "glosses": {
+     "estava": "was",
+     "pronto": "ready",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Tinha sido um fim de semana de muito trabalho, mas também um dos mais bonitos do ano.",
+    "en": "It had been a weekend of hard work, but also one of the most beautiful of the year.",
+    "glosses": {
+     "Tinha sido": "had been",
+     "dos": "of the",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Ela o enviou prontamente e ainda teve tempo de jantar com Felipe à beira do mar.",
+    "en": "She sent it promptly and still had time to have dinner with Felipe by the sea.",
+    "glosses": {
+     "o enviou": "sent it",
+     "teve": "had",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Na terça-feira, o chefe ressaltou a pontualidade dela na frente de toda a equipe.",
+    "en": "On Tuesday, the boss highlighted her punctuality in front of the whole team.",
+    "glosses": {
+     "Na": "on",
+     "ressaltou": "highlighted",
+     "dela": "her",
+     "na frente de": "in front of"
+    }
+   },
+   {
+    "pt": "Larissa agradeceu, mas aproveitou o momento para pedir uma coisa.",
+    "en": "Larissa thanked him, but took the opportunity to ask for something.",
+    "glosses": {
+     "agradeceu": "thanked",
+     "aproveitou": "took advantage of",
+     "pedir": "ask for",
+     "coisa": "something"
+    }
+   },
+   {
+    "pt": "\"De agora em diante, eu gostaria de trabalhar de casa vez ou outra, sobretudo nas sextas-feiras.\"",
+    "en": "\"From now on, I'd like to work from home every now and then, especially on Fridays.\"",
+    "glosses": {
+     "gostaria": "would like",
+     "nas": "on"
+    }
+   },
+   {
+    "pt": "O chefe ficou surpreso, mas, depois de pensar um instante, concordou em tentar durante três meses.",
+    "en": "The boss was surprised, but, after thinking for a moment, agreed to try it for three months.",
+    "glosses": {
+     "ficou": "was",
+     "pensar": "thinking",
+     "concordou": "agreed",
+     "tentar": "try"
+    }
+   },
+   {
+    "pt": "Às vezes, um problema de última hora é o que nos faz mudar o cotidiano.",
+    "en": "Sometimes, a last-minute problem is what makes us change our daily routine.",
+    "glosses": {
+     "Às vezes": "sometimes",
+     "de última hora": "last-minute",
+     "é": "is",
+     "faz": "makes",
+     "cotidiano": "daily routine"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Por que Larissa teve que trabalhar no feriado?",
+    "qEn": "Why did Larissa have to work over the holiday?",
+    "options": [
+     "Ela queria ganhar mais",
+     "O cliente antecipou o prazo",
+     "Felipe estava doente",
+     "O chefe estava de férias"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Onde ela trabalhou no fim de semana?",
+    "qEn": "Where did she work over the weekend?",
+    "options": [
+     "No escritório",
+     "Na casa dos pais",
+     "No aeroporto",
+     "Num hotel em Paraty"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "O que ela pediu ao chefe depois?",
+    "qEn": "What did she ask her boss for afterwards?",
+    "options": [
+     "Um salário maior",
+     "Mais uma semana de férias",
+     "Trabalhar de casa vez ou outra",
+     "Uma sala nova"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "b2-time-2",
+  "level": 4,
+  "topic": "Time",
+  "title": "O relógio da praça",
+  "titleEn": "The clock in the square",
+  "sentences": [
+   {
+    "pt": "No alto da igreja principal de uma cidade pequena de Minas Gerais, há um relógio de quase cem anos.",
+    "en": "At the top of the main church in a small town in Minas Gerais, there is a clock almost a hundred years old.",
+    "glosses": {
+     "alto": "top",
+     "há": "there is"
+    }
+   },
+   {
+    "pt": "Outrora, era ele que dizia a todos a hora da igreja, da feira, da escola e do almoço.",
+    "en": "In the old days, it was what told everyone the time for church, the market, school and lunch.",
+    "glosses": {
+     "era": "was",
+     "dizia": "told",
+     "da": "of the",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Mas, numa madrugada de inverno, o relógio parou às três e quinze e não andou mais.",
+    "en": "But, in the early hours of a winter morning, the clock stopped at a quarter past three and didn't move again.",
+    "glosses": {
+     "numa": "on a",
+     "parou": "stopped",
+     "andou": "moved"
+    }
+   },
+   {
+    "pt": "Na época, quase ninguém percebeu.",
+    "en": "At the time, almost nobody noticed.",
+    "glosses": {
+     "percebeu": "noticed"
+    }
+   },
+   {
+    "pt": "Os mais velhos reclamaram durante uma semana e depois esqueceram.",
+    "en": "The older people complained for a week and then forgot.",
+    "glosses": {
+     "reclamaram": "complained",
+     "esqueceram": "forgot"
+    }
+   },
+   {
+    "pt": "Afinal, todo mundo tem a hora certa no celular.",
+    "en": "After all, everyone has the right time on their phone.",
+    "glosses": {
+     "todo mundo": "everyone",
+     "tem": "has",
+     "certa": "right",
+     "no": "on the"
+    }
+   },
+   {
+    "pt": "Foi Sofia, uma menina de dez anos, quem fez a pergunta que ninguém tinha feito.",
+    "en": "It was Sofia, a ten-year-old girl, who asked the question no one had asked.",
+    "glosses": {
+     "Foi": "it was",
+     "fez": "asked",
+     "tinha feito": "had asked"
+    }
+   },
+   {
+    "pt": "\"Por que o relógio da igreja está sempre na mesma hora?\", perguntou ela ao avô, Seu Antônio.",
+    "en": "\"Why is the church clock always at the same time?\" she asked her grandfather, Mr. Antônio.",
+    "glosses": {
+     "está": "is",
+     "na": "at the",
+     "perguntou": "asked",
+     "ao": "to the"
+    }
+   },
+   {
+    "pt": "O avô riu, mas a pergunta ficou com ele durante dias.",
+    "en": "Her grandfather laughed, but the question stayed with him for days.",
+    "glosses": {
+     "riu": "laughed",
+     "ficou": "stayed"
+    }
+   },
+   {
+    "pt": "Na juventude, ele tinha ajudado o antigo responsável a cuidar do relógio.",
+    "en": "In his youth, he had helped the old caretaker look after the clock.",
+    "glosses": {
+     "Na": "in",
+     "tinha ajudado": "had helped",
+     "cuidar": "look after",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Ainda lembrava de cada peça lá no alto da igreja.",
+    "en": "He still remembered every part up there at the top of the church.",
+    "glosses": {
+     "lembrava": "remembered",
+     "peça": "part",
+     "no alto": "at the top",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Ele foi à prefeitura e perguntou se poderia tentar consertar o relógio.",
+    "en": "He went to the city hall and asked if he could try to fix the clock.",
+    "glosses": {
+     "foi": "went",
+     "à": "to the",
+     "perguntou": "asked",
+     "poderia": "could"
+    }
+   },
+   {
+    "pt": "O secretário responsável disse que, anteriormente, um engenheiro de Belo Horizonte já tinha feito um orçamento.",
+    "en": "The secretary in charge said that, previously, an engineer from Belo Horizonte had already made an estimate.",
+    "glosses": {
+     "disse": "said",
+     "tinha feito": "had made"
+    }
+   },
+   {
+    "pt": "O preço era alto demais para o município, e o projeto tinha sido adiado sem data.",
+    "en": "The price was too high for the town, and the project had been postponed indefinitely.",
+    "glosses": {
+     "era": "was",
+     "demais": "too",
+     "tinha sido adiado": "had been postponed",
+     "sem data": "indefinitely"
+    }
+   },
+   {
+    "pt": "Seu Antônio ofereceu o próprio tempo, sem cobrar nada, contanto que a prefeitura pagasse as peças.",
+    "en": "Mr. Antônio offered his own time, without charging anything, as long as the city hall paid for the parts.",
+    "glosses": {
+     "ofereceu": "offered",
+     "cobrar": "charging",
+     "pagasse": "paid (subjunctive)",
+     "peças": "parts"
+    }
+   },
+   {
+    "pt": "A licença foi dada de forma provisória, com vigência de seis meses.",
+    "en": "The permit was granted on a provisional basis, valid for six months.",
+    "glosses": {
+     "licença": "permit",
+     "foi dada": "was granted",
+     "de forma provisória": "provisionally"
+    }
+   },
+   {
+    "pt": "Todos os sábados, ele subia a escada estreita da igreja, e Sofia ia junto.",
+    "en": "Every Saturday, he climbed the church's narrow staircase, and Sofia went along.",
+    "glosses": {
+     "subia": "climbed",
+     "da": "of the",
+     "ia": "went",
+     "junto": "along"
+    }
+   },
+   {
+    "pt": "Simultaneamente, ele limpava as peças e explicava para a neta o que cada uma fazia.",
+    "en": "At the same time, he cleaned the parts and explained to his granddaughter what each one did.",
+    "glosses": {
+     "limpava": "cleaned",
+     "peças": "parts",
+     "explicava": "explained",
+     "fazia": "did"
+    }
+   },
+   {
+    "pt": "O trabalho seguia devagar, em etapas, e vez ou outra parecia não ter fim.",
+    "en": "The work went on slowly, in stages, and every now and then it seemed endless.",
+    "glosses": {
+     "seguia": "went on",
+     "devagar": "slowly",
+     "parecia": "seemed",
+     "ter fim": "to have an end"
+    }
+   },
+   {
+    "pt": "Em abril, faltava apenas uma peça, que precisou ser feita por um senhor da zona rural.",
+    "en": "In April, only one part was missing, which had to be made by an old man from the countryside.",
+    "glosses": {
+     "faltava": "was missing",
+     "peça": "part",
+     "precisou": "had to",
+     "feita": "made",
+     "senhor": "old man",
+     "da": "from the"
+    }
+   },
+   {
+    "pt": "Finalmente, num domingo de manhã, o relógio voltou a andar.",
+    "en": "Finally, on a Sunday morning, the clock started running again.",
+    "glosses": {
+     "Finalmente": "finally",
+     "num": "on a",
+     "voltou a andar": "started running again"
+    }
+   },
+   {
+    "pt": "Quando o relógio tocou ao meio-dia, as pessoas saíram das casas e olharam para o alto, surpresas.",
+    "en": "When the clock struck noon, people came out of their houses and looked up, surprised.",
+    "glosses": {
+     "tocou": "struck",
+     "saíram": "came out",
+     "das": "of the",
+     "olharam": "looked",
+     "para o alto": "up"
+    }
+   },
+   {
+    "pt": "Algumas choraram, pois não ouviam aquele relógio havia mais de oito anos.",
+    "en": "Some cried, because they hadn't heard that clock for more than eight years.",
+    "glosses": {
+     "choraram": "cried",
+     "ouviam": "had heard",
+     "havia": "for"
+    }
+   },
+   {
+    "pt": "Posteriormente, a prefeitura deu à praça o nome de Seu Antônio.",
+    "en": "Later, the city hall named the square after Mr. Antônio.",
+    "glosses": {
+     "deu": "gave",
+     "à": "to the"
+    }
+   },
+   {
+    "pt": "Hoje, Sofia tem vinte anos e é ela quem sobe a escada todos os sábados.",
+    "en": "Today, Sofia is twenty and she is the one who climbs the stairs every Saturday.",
+    "glosses": {
+     "tem": "is (has)",
+     "é": "is",
+     "sobe": "climbs"
+    }
+   },
+   {
+    "pt": "O tempo passa de qualquer forma, mas há quem cuide para que ele seja ouvido.",
+    "en": "Time passes anyway, but there are those who make sure it is heard.",
+    "glosses": {
+     "passa": "passes",
+     "de qualquer forma": "anyway",
+     "há quem": "there are those who",
+     "cuide": "take care (subjunctive)",
+     "seja ouvido": "is heard"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Quem perguntou sobre o relógio parado?",
+    "qEn": "Who asked about the stopped clock?",
+    "options": [
+     "O prefeito",
+     "O engenheiro",
+     "Sofia, a neta",
+     "O secretário"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Por que o conserto tinha sido adiado?",
+    "qEn": "Why had the repair been postponed?",
+    "options": [
+     "Era caro demais para a cidade",
+     "Ninguém queria o relógio",
+     "A igreja fechou",
+     "Faltava tempo"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Quem cuida do relógio hoje?",
+    "qEn": "Who takes care of the clock today?",
+    "options": [
+     "Seu Antônio",
+     "Um engenheiro de Belo Horizonte",
+     "A prefeitura",
+     "Sofia"
+    ],
+    "answer": 3
+   }
+  ]
+ }
+]

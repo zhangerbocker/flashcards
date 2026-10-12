@@ -1,15 +1,19 @@
 import { useState } from "react";
 import { SCENARIOS } from "@/lib/chat";
-import { LEVEL_NAMES, LEVELS, type Level } from "@/lib/words";
+import { LEVEL_NAMES, type Level } from "@/lib/words";
+import { useActiveLevels } from "../useSettings";
 
 export function ChatSetup({ starting, onStart }: { starting: boolean; onStart: (level: Level, scenario: string) => void }) {
-  const [level, setLevel] = useState<Level>(1);
+  const levels = useActiveLevels();
+  const [chosen, setLevel] = useState<Level>(1);
+  // Falls back to A1 when the chosen level is switched off.
+  const level = levels.includes(chosen) ? chosen : 1;
   return (
     <div className="flex flex-col gap-4">
       <div className="flex items-center justify-between">
         <h1 className="text-lg font-semibold">Chat</h1>
         <div className="flex rounded-full bg-stone-200 p-1 text-sm dark:bg-stone-800">
-          {LEVELS.map((l) => (
+          {levels.map((l) => (
             <button
               key={l}
               type="button"

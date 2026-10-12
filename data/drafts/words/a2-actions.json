@@ -1,0 +1,431 @@
+[
+ {
+  "pt": "carregar",
+  "pos": "v.",
+  "english": "to carry; to charge",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu carreguei as malas até o carro.",
+   "en": "I carried the suitcases to the car."
+  }
+ },
+ {
+  "pt": "empurrar",
+  "pos": "v.",
+  "english": "to push",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Empurre a porta com força.",
+   "en": "Push the door hard."
+  }
+ },
+ {
+  "pt": "puxar",
+  "pos": "v.",
+  "english": "to pull",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "A criança puxou o rabo do gato.",
+   "en": "The child pulled the cat's tail."
+  }
+ },
+ {
+  "pt": "guardar",
+  "pos": "v.",
+  "english": "to put away, to keep",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Guardei os documentos na gaveta.",
+   "en": "I put the documents away in the drawer."
+  }
+ },
+ {
+  "pt": "mudar",
+  "pos": "v.",
+  "english": "to change; to move (house)",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Nós mudamos de apartamento no ano passado.",
+   "en": "We moved apartments last year."
+  }
+ },
+ {
+  "pt": "tentar",
+  "pos": "v.",
+  "english": "to try",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eu tentei ligar para você ontem.",
+   "en": "I tried to call you yesterday."
+  }
+ },
+ {
+  "pt": "desistir",
+  "pos": "v.",
+  "english": "to give up",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Não desista agora!",
+   "en": "Don't give up now!"
+  }
+ },
+ {
+  "pt": "quebrar",
+  "pos": "v.",
+  "english": "to break",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "O menino quebrou a janela com a bola.",
+   "en": "The boy broke the window with the ball."
+  }
+ },
+ {
+  "pt": "consertar",
+  "pos": "v.",
+  "english": "to fix, to repair",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Meu pai consertou a bicicleta.",
+   "en": "My father fixed the bike."
+  }
+ },
+ {
+  "pt": "jogar fora",
+  "pos": "expr.",
+  "english": "to throw away",
+  "level": 2,
+  "topic": "Actions",
+  "forms": [
+   "jogo fora",
+   "joga fora",
+   "jogamos fora",
+   "jogam fora",
+   "joguei fora",
+   "jogou fora",
+   "jogaram fora",
+   "jogava fora",
+   "jogue fora"
+  ],
+  "example": {
+   "pt": "Eu joguei fora as caixas velhas.",
+   "en": "I threw away the old boxes."
+  }
+ },
+ {
+  "pt": "levantar",
+  "pos": "v.",
+  "english": "to lift, to raise; to get up",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Levante a mão se você tiver uma pergunta.",
+   "en": "Raise your hand if you have a question."
+  }
+ },
+ {
+  "pt": "deitar",
+  "pos": "v.",
+  "english": "to lie down",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ele deitou no sofá depois do almoço.",
+   "en": "He lay down on the sofa after lunch."
+  }
+ },
+ {
+  "pt": "pular",
+  "pos": "v.",
+  "english": "to jump",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "As crianças pularam na piscina.",
+   "en": "The children jumped into the pool."
+  }
+ },
+ {
+  "pt": "subir",
+  "pos": "v.",
+  "english": "to go up, to climb",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Nós subimos a escada a pé.",
+   "en": "We went up the stairs on foot."
+  }
+ },
+ {
+  "pt": "descer",
+  "pos": "v.",
+  "english": "to go down, to get off",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Vou descer no próximo ponto.",
+   "en": "I'm going to get off at the next stop."
+  }
+ },
+ {
+  "pt": "cair",
+  "pos": "v.",
+  "english": "to fall",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "O copo caiu no chão.",
+   "en": "The glass fell on the floor."
+  }
+ },
+ {
+  "pt": "segurar",
+  "pos": "v.",
+  "english": "to hold",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Segure a minha mão para atravessar a rua.",
+   "en": "Hold my hand to cross the street."
+  }
+ },
+ {
+  "pt": "soltar",
+  "pos": "v.",
+  "english": "to let go, to release",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ele soltou o cachorro no parque.",
+   "en": "He let the dog loose in the park."
+  }
+ },
+ {
+  "pt": "esconder",
+  "pos": "v.",
+  "english": "to hide",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ela escondeu o presente no armário.",
+   "en": "She hid the present in the closet."
+  }
+ },
+ {
+  "pt": "escolher",
+  "pos": "v.",
+  "english": "to choose",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Você já escolheu o seu prato?",
+   "en": "Have you already chosen your dish?"
+  }
+ },
+ {
+  "pt": "decidir",
+  "pos": "v.",
+  "english": "to decide",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Nós decidimos viajar em julho.",
+   "en": "We decided to travel in July."
+  }
+ },
+ {
+  "pt": "esquecer",
+  "pos": "v.",
+  "english": "to forget",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Não posso esquecer a chave de novo.",
+   "en": "I can't forget the key again."
+  }
+ },
+ {
+  "pt": "lembrar",
+  "pos": "v.",
+  "english": "to remember",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Você lembra o nome dela?",
+   "en": "Do you remember her name?"
+  }
+ },
+ {
+  "pt": "parar",
+  "pos": "v.",
+  "english": "to stop",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "O ônibus parou na frente da escola.",
+   "en": "The bus stopped in front of the school."
+  }
+ },
+ {
+  "pt": "continuar",
+  "pos": "v.",
+  "english": "to continue, to keep on",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ela continuou estudando depois do jantar.",
+   "en": "She kept on studying after dinner."
+  }
+ },
+ {
+  "pt": "devolver",
+  "pos": "v.",
+  "english": "to give back, to return",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Preciso devolver o livro para a biblioteca.",
+   "en": "I need to return the book to the library."
+  }
+ },
+ {
+  "pt": "emprestar",
+  "pos": "v.",
+  "english": "to lend",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Você pode me emprestar sua caneta?",
+   "en": "Can you lend me your pen?"
+  }
+ },
+ {
+  "pt": "trocar",
+  "pos": "v.",
+  "english": "to exchange, to switch",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Quero trocar essa camisa por uma maior.",
+   "en": "I want to exchange this shirt for a bigger one."
+  }
+ },
+ {
+  "pt": "cortar",
+  "pos": "v.",
+  "english": "to cut",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ela cortou o bolo em oito pedaços.",
+   "en": "She cut the cake into eight pieces."
+  }
+ },
+ {
+  "pt": "colocar",
+  "pos": "v.",
+  "english": "to put, to place",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Pode colocar a bolsa em cima da mesa.",
+   "en": "You can put the bag on the table."
+  }
+ },
+ {
+  "pt": "tirar",
+  "pos": "v.",
+  "english": "to take off, to take out",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Tire os sapatos antes de entrar.",
+   "en": "Take off your shoes before coming in."
+  }
+ },
+ {
+  "pt": "arrumar",
+  "pos": "v.",
+  "english": "to tidy up; to fix",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Arrumei o meu quarto ontem.",
+   "en": "I tidied my room yesterday."
+  }
+ },
+ {
+  "pt": "mexer",
+  "pos": "v.",
+  "english": "to stir; to touch, to mess with",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Não mexa nas minhas coisas!",
+   "en": "Don't touch my things!"
+  }
+ },
+ {
+  "pt": "acender",
+  "pos": "v.",
+  "english": "to light, to turn on (a light)",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ele acendeu a luz da cozinha.",
+   "en": "He turned on the kitchen light."
+  }
+ },
+ {
+  "pt": "apagar",
+  "pos": "v.",
+  "english": "to turn off; to erase",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Apague a luz quando sair.",
+   "en": "Turn off the light when you leave."
+  }
+ },
+ {
+  "pt": "conseguir",
+  "pos": "v.",
+  "english": "to manage to, to be able to",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Não vou conseguir chegar a tempo.",
+   "en": "I'm not going to manage to arrive on time."
+  }
+ },
+ {
+  "pt": "levar",
+  "pos": "v.",
+  "english": "to take, to carry (away)",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Vou levar meu irmão para a escola.",
+   "en": "I'm going to take my brother to school."
+  }
+ },
+ {
+  "pt": "pegar",
+  "pos": "v.",
+  "english": "to get, to pick up, to catch",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Preciso pegar o ônibus às sete.",
+   "en": "I need to catch the bus at seven."
+  }
+ }
+]

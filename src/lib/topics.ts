@@ -11,6 +11,10 @@ export const TOPICS = [
   "Weather & colors",
   "Actions",
   "Descriptions",
+  "Feelings & opinions",
+  "Nature & environment",
+  "Society & news",
+  "Culture & leisure",
 ] as const;
 
 export type Topic = (typeof TOPICS)[number];

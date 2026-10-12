@@ -1,0 +1,425 @@
+[
+ {
+  "id": "a2-food-drink-1",
+  "level": 2,
+  "topic": "Food & drink",
+  "title": "O primeiro jantar",
+  "titleEn": "The first dinner",
+  "sentences": [
+   {
+    "pt": "Rafael não sabe cozinhar muito bem.",
+    "en": "Rafael doesn't know how to cook very well.",
+    "glosses": {
+     "sabe": "know how"
+    }
+   },
+   {
+    "pt": "Mas, no sábado, os pais da namorada dele, Beatriz, vão jantar na casa dele.",
+    "en": "But on Saturday, the parents of his girlfriend, Beatriz, are going to have dinner at his house.",
+    "glosses": {
+     "no": "on",
+     "pais": "parents",
+     "da": "of the",
+     "namorada": "girlfriend",
+     "dele": "his",
+     "vão jantar": "are going to have dinner",
+     "na": "at the"
+    }
+   },
+   {
+    "pt": "Ele quer fazer um jantar gostoso para eles.",
+    "en": "He wants to make a delicious dinner for them.",
+    "glosses": {
+     "quer": "wants",
+     "eles": "them"
+    }
+   },
+   {
+    "pt": "Então ligou para a avó e pediu a receita de frango assado dela.",
+    "en": "So he called his grandmother and asked for her roast chicken recipe.",
+    "glosses": {
+     "ligou": "called",
+     "pediu": "asked for",
+     "receita": "recipe",
+     "assado": "roast",
+     "dela": "her"
+    }
+   },
+   {
+    "pt": "— É simples — disse a avó. — Você precisa de frango, alho, cebola, azeite e sal.",
+    "en": "\"It's simple,\" said his grandmother. \"You need chicken, garlic, onion, olive oil and salt.\"",
+    "glosses": {
+     "é": "it's",
+     "disse": "said",
+     "precisa de": "need"
+    }
+   },
+   {
+    "pt": "No sábado à tarde, Rafael foi ao supermercado e comprou tudo.",
+    "en": "On Saturday afternoon, Rafael went to the supermarket and bought everything.",
+    "glosses": {
+     "no": "on",
+     "à tarde": "afternoon",
+     "foi": "went",
+     "ao": "to the",
+     "comprou": "bought"
+    }
+   },
+   {
+    "pt": "Comprou também batatas, verduras para uma salada e sorvete para a sobremesa.",
+    "en": "He also bought potatoes, greens for a salad and ice cream for dessert.",
+    "glosses": {
+     "comprou": "he bought"
+    }
+   },
+   {
+    "pt": "Em casa, ele cortou a cebola e o alho e misturou com azeite e sal.",
+    "en": "At home, he cut the onion and the garlic and mixed them with olive oil and salt.",
+    "glosses": {
+     "cortou": "cut",
+     "misturou": "mixed (them)"
+    }
+   },
+   {
+    "pt": "Depois, colocou o frango temperado e as batatas para assar.",
+    "en": "Then he put the seasoned chicken and the potatoes in to roast.",
+    "glosses": {
+     "colocou": "put (in)",
+     "assar": "roast"
+    }
+   },
+   {
+    "pt": "Enquanto o frango assava, ele lavou a alface e os tomates.",
+    "en": "While the chicken was roasting, he washed the lettuce and the tomatoes.",
+    "glosses": {
+     "assava": "was roasting",
+     "lavou": "washed"
+    }
+   },
+   {
+    "pt": "Às sete horas, Beatriz e os pais chegaram.",
+    "en": "At seven o'clock, Beatriz and her parents arrived.",
+    "glosses": {
+     "às": "at",
+     "pais": "parents",
+     "chegaram": "arrived"
+    }
+   },
+   {
+    "pt": "O pai dela provou o frango e não disse nada.",
+    "en": "Her father tasted the chicken and didn't say anything.",
+    "glosses": {
+     "dela": "her",
+     "provou": "tasted",
+     "disse": "say",
+     "nada": "anything"
+    }
+   },
+   {
+    "pt": "Rafael ficou nervoso.",
+    "en": "Rafael got nervous.",
+    "glosses": {
+     "ficou": "got"
+    }
+   },
+   {
+    "pt": "Então o pai colocou mais frango no prato.",
+    "en": "Then her father put more chicken on his plate.",
+    "glosses": {
+     "colocou": "put",
+     "no": "on his"
+    }
+   },
+   {
+    "pt": "— Está muito gostoso! Quem te ensinou? — ele perguntou.",
+    "en": "\"It's delicious! Who taught you?\" he asked.",
+    "glosses": {
+     "está": "it's",
+     "ensinou": "taught",
+     "perguntou": "asked"
+    }
+   },
+   {
+    "pt": "— A minha avó — respondeu Rafael, aliviado.",
+    "en": "\"My grandmother,\" answered Rafael, relieved.",
+    "glosses": {
+     "minha": "my",
+     "respondeu": "answered"
+    }
+   },
+   {
+    "pt": "A mãe de Beatriz achou a comida um pouco salgada, mas comeu tudo.",
+    "en": "Beatriz's mother found the food a little salty, but she ate everything.",
+    "glosses": {
+     "achou": "found",
+     "comeu": "ate"
+    }
+   },
+   {
+    "pt": "Na sobremesa, todos tomaram sorvete de chocolate e café.",
+    "en": "For dessert, everyone had chocolate ice cream and coffee.",
+    "glosses": {
+     "na": "for",
+     "todos": "everyone",
+     "tomaram": "had"
+    }
+   },
+   {
+    "pt": "No fim da noite, a mãe de Beatriz pediu a receita também.",
+    "en": "At the end of the evening, Beatriz's mother asked for the recipe too.",
+    "glosses": {
+     "no fim da": "at the end of the",
+     "noite": "evening",
+     "pediu": "asked for",
+     "receita": "recipe"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Quem deu a receita para Rafael?",
+    "qEn": "Who gave Rafael the recipe?",
+    "options": [
+     "A mãe dele",
+     "A avó dele",
+     "Beatriz",
+     "O pai de Beatriz"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "O que tinha de sobremesa?",
+    "qEn": "What was there for dessert?",
+    "options": [
+     "Bolo",
+     "Fruta",
+     "Sorvete de chocolate",
+     "Pão de queijo"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "O que a mãe de Beatriz achou da comida?",
+    "qEn": "What did Beatriz's mother think of the food?",
+    "options": [
+     "Um pouco salgada",
+     "Muito picante",
+     "Fria",
+     "Sem sal"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "a2-food-drink-2",
+  "level": 2,
+  "topic": "Food & drink",
+  "title": "Almoço em Fortaleza",
+  "titleEn": "Lunch in Fortaleza",
+  "sentences": [
+   {
+    "pt": "Larissa e Patrícia são amigas desde a escola.",
+    "en": "Larissa and Patrícia have been friends since school.",
+    "glosses": {
+     "são": "have been",
+     "amigas": "friends"
+    }
+   },
+   {
+    "pt": "No domingo, elas foram almoçar em um restaurante perto da praia, em Fortaleza.",
+    "en": "On Sunday, they went to have lunch at a restaurant near the beach, in Fortaleza.",
+    "glosses": {
+     "no": "on",
+     "foram": "went",
+     "em": "at",
+     "da": "the"
+    }
+   },
+   {
+    "pt": "O restaurante estava cheio, e elas esperaram quinze minutos por uma mesa.",
+    "en": "The restaurant was full, and they waited fifteen minutes for a table.",
+    "glosses": {
+     "estava": "was",
+     "esperaram": "waited"
+    }
+   },
+   {
+    "pt": "O garçom trouxe o cardápio e dois copos de água gelada.",
+    "en": "The waiter brought the menu and two glasses of cold water.",
+    "glosses": {
+     "trouxe": "brought"
+    }
+   },
+   {
+    "pt": "Patrícia estava com muita fome e queria provar tudo.",
+    "en": "Patrícia was very hungry and wanted to try everything.",
+    "glosses": {
+     "estava com muita fome": "was very hungry",
+     "queria": "wanted"
+    }
+   },
+   {
+    "pt": "— Eu quero o peixe com arroz e feijão — disse ela.",
+    "en": "\"I want the fish with rice and beans,\" she said.",
+    "glosses": {
+     "quero": "want",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Larissa tem alergia a pimenta, então perguntou ao garçom:",
+    "en": "Larissa is allergic to chili pepper, so she asked the waiter:",
+    "glosses": {
+     "tem alergia a": "is allergic to",
+     "perguntou": "asked",
+     "ao": "the"
+    }
+   },
+   {
+    "pt": "— O frango com legumes é picante?",
+    "en": "\"Is the chicken with vegetables spicy?\"",
+    "glosses": {
+     "é": "is"
+    }
+   },
+   {
+    "pt": "— Não, senhora, mas o cozinheiro pode fazer sem pimenta — ele respondeu.",
+    "en": "\"No, ma'am, but the cook can make it without pepper,\" he answered.",
+    "glosses": {
+     "senhora": "ma'am",
+     "pode": "can",
+     "fazer": "make it",
+     "respondeu": "answered"
+    }
+   },
+   {
+    "pt": "Para beber, elas pediram um suco de laranja e um refrigerante.",
+    "en": "To drink, they ordered an orange juice and a soda.",
+    "glosses": {
+     "pediram": "ordered"
+    }
+   },
+   {
+    "pt": "A comida demorou um pouco, mas estava muito gostosa.",
+    "en": "The food took a while, but it was very tasty.",
+    "glosses": {
+     "demorou um pouco": "took a while",
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "O peixe estava bem temperado, e o frango estava macio.",
+    "en": "The fish was well seasoned, and the chicken was tender.",
+    "glosses": {
+     "estava": "was",
+     "macio": "tender"
+    }
+   },
+   {
+    "pt": "Depois do almoço, elas dividiram uma fatia de bolo de chocolate.",
+    "en": "After lunch, they shared a slice of chocolate cake.",
+    "glosses": {
+     "do": "the",
+     "dividiram": "shared"
+    }
+   },
+   {
+    "pt": "Quando a conta chegou, Patrícia ficou surpresa.",
+    "en": "When the bill came, Patrícia was surprised.",
+    "glosses": {
+     "chegou": "came",
+     "ficou": "was"
+    }
+   },
+   {
+    "pt": "O total era cento e vinte reais, mais a gorjeta do garçom.",
+    "en": "The total was one hundred and twenty reais, plus the waiter's tip.",
+    "glosses": {
+     "era": "was",
+     "mais": "plus",
+     "do garçom": "the waiter's"
+    }
+   },
+   {
+    "pt": "— Está um pouco caro — disse Patrícia.",
+    "en": "\"It's a bit expensive,\" said Patrícia.",
+    "glosses": {
+     "está": "it's",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "— Mas a comida foi ótima, e olhe o mar! — respondeu Larissa.",
+    "en": "\"But the food was great, and look at the sea!\" answered Larissa.",
+    "glosses": {
+     "foi": "was",
+     "olhe": "look at",
+     "respondeu": "answered"
+    }
+   },
+   {
+    "pt": "Elas dividiram a conta e pagaram com cartão.",
+    "en": "They split the bill and paid by card.",
+    "glosses": {
+     "dividiram": "split",
+     "pagaram": "paid",
+     "com": "by"
+    }
+   },
+   {
+    "pt": "Depois, foram andar na areia e tomar um sorvete.",
+    "en": "Then they went to walk on the sand and have an ice cream.",
+    "glosses": {
+     "foram": "went",
+     "na": "on the",
+     "tomar": "have"
+    }
+   },
+   {
+    "pt": "Patrícia riu: — A gente nunca para de comer!",
+    "en": "Patrícia laughed: \"We never stop eating!\"",
+    "glosses": {
+     "riu": "laughed",
+     "a gente": "we",
+     "para de": "stop"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Por que Larissa perguntou sobre o frango?",
+    "qEn": "Why did Larissa ask about the chicken?",
+    "options": [
+     "Porque ela tem alergia a pimenta",
+     "Porque ela não come carne",
+     "Porque estava frio",
+     "Porque era caro"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Quanto foi a conta, sem a gorjeta?",
+    "qEn": "How much was the bill, without the tip?",
+    "options": [
+     "Cem reais",
+     "Cento e vinte reais",
+     "Duzentos reais",
+     "Cinquenta reais"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "O que elas fizeram depois do almoço?",
+    "qEn": "What did they do after lunch?",
+    "options": [
+     "Foram para casa",
+     "Foram andar na areia",
+     "Foram ao cinema",
+     "Foram trabalhar"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

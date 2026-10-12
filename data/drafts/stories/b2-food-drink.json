@@ -1,0 +1,580 @@
+[
+ {
+  "id": "b2-food-drink-1",
+  "level": 4,
+  "topic": "Food & drink",
+  "title": "O boteco do Eduardo",
+  "titleEn": "Eduardo's bar",
+  "sentences": [
+   {
+    "pt": "Eduardo herdou do tio um boteco antigo numa esquina de Belo Horizonte.",
+    "en": "Eduardo inherited an old neighborhood bar on a corner in Belo Horizonte from his uncle.",
+    "glosses": {
+     "herdou": "inherited",
+     "do": "from the",
+     "numa": "on a"
+    }
+   },
+   {
+    "pt": "Durante quarenta anos, o lugar foi famoso pelos tira-gostos e pela cerveja sempre gelada.",
+    "en": "For forty years, the place was famous for its bar snacks and its always ice-cold beer.",
+    "glosses": {
+     "foi": "was",
+     "pelos": "for the",
+     "pela": "for the"
+    }
+   },
+   {
+    "pt": "Mas, quando Eduardo começou a cuidar do lugar, percebeu que quase tudo na cozinha era industrializado.",
+    "en": "But when Eduardo started running the place, he noticed that almost everything in the kitchen was industrially made.",
+    "glosses": {
+     "começou": "started",
+     "cuidar": "take care",
+     "do": "of the",
+     "percebeu": "noticed",
+     "na": "in the",
+     "era": "was"
+    }
+   },
+   {
+    "pt": "O presunto vinha em embalagens de plástico, o molho vinha pronto, e a batata frita chegava congelada.",
+    "en": "The ham came in plastic packaging, the sauce came ready-made, and the French fries arrived frozen.",
+    "glosses": {
+     "vinha": "came",
+     "pronto": "ready-made",
+     "batata frita": "French fries",
+     "chegava": "arrived"
+    }
+   },
+   {
+    "pt": "Ele leu as embalagens e ficou assustado com a quantidade de conservantes.",
+    "en": "He read the packaging and was alarmed by the amount of preservatives.",
+    "glosses": {
+     "leu": "read",
+     "ficou": "was"
+    }
+   },
+   {
+    "pt": "Eduardo tinha estudado gastronomia e sonhava com uma cozinha de verdade.",
+    "en": "Eduardo had studied gastronomy and dreamed of a real kitchen.",
+    "glosses": {
+     "tinha estudado": "had studied",
+     "sonhava": "dreamed",
+     "de verdade": "real"
+    }
+   },
+   {
+    "pt": "Decidiu, então, trocar os alimentos ultraprocessados por comida feita ali mesmo.",
+    "en": "So he decided to replace the ultra-processed foods with food made right there.",
+    "glosses": {
+     "Decidiu": "he decided",
+     "trocar": "replace",
+     "feita": "made",
+     "ali mesmo": "right there"
+    }
+   },
+   {
+    "pt": "Foi procurar fornecedores na zona rural, a duas horas da cidade.",
+    "en": "He went looking for suppliers in the countryside, two hours from the city.",
+    "glosses": {
+     "Foi procurar": "went looking for",
+     "na": "in the",
+     "da": "from the"
+    }
+   },
+   {
+    "pt": "Lá conheceu Dona Lúcia, que planta legumes orgânicos sem nenhum agrotóxico.",
+    "en": "There he met Mrs. Lúcia, who grows organic vegetables without any pesticide.",
+    "glosses": {
+     "conheceu": "met",
+     "planta": "grows"
+    }
+   },
+   {
+    "pt": "Ela cultivava tudo à mão, como a mãe e a avó dela tinham feito.",
+    "en": "She grew everything by hand, as her mother and grandmother had done.",
+    "glosses": {
+     "cultivava": "grew",
+     "à mão": "by hand",
+     "dela": "her",
+     "tinham feito": "had done"
+    }
+   },
+   {
+    "pt": "\"Minha safra depende da chuva, meu filho\", avisou ela. \"Tem mês que tem muito, tem mês que não tem nada.\"",
+    "en": "\"My harvest depends on the rain, my son,\" she warned. \"Some months there's a lot, some months there's nothing.\"",
+    "glosses": {
+     "depende": "depends",
+     "da": "on the",
+     "avisou": "warned",
+     "Tem": "there is"
+    }
+   },
+   {
+    "pt": "Eduardo achou que conseguiria lidar com isso.",
+    "en": "Eduardo thought he could handle that.",
+    "glosses": {
+     "achou": "thought",
+     "conseguiria": "would be able",
+     "lidar": "handle"
+    }
+   },
+   {
+    "pt": "Os primeiros meses foram um sucesso.",
+    "en": "The first months were a success.",
+    "glosses": {
+     "foram": "were"
+    }
+   },
+   {
+    "pt": "Os pratos eram simples, mas tinham sabor de comida de casa.",
+    "en": "The dishes were simple, but they tasted like home cooking.",
+    "glosses": {
+     "eram": "were",
+     "tinham sabor de": "tasted like"
+    }
+   },
+   {
+    "pt": "Os clientes adoravam o frango grelhado, a batata crocante e o caldo de feijão temperado na hora.",
+    "en": "The customers loved the grilled chicken, the crispy potatoes and the bean broth seasoned on the spot.",
+    "glosses": {
+     "adoravam": "loved",
+     "grelhado": "grilled",
+     "temperado": "seasoned",
+     "na hora": "on the spot"
+    }
+   },
+   {
+    "pt": "Em agosto, no entanto, veio a seca.",
+    "en": "In August, however, the drought came.",
+    "glosses": {
+     "veio": "came"
+    }
+   },
+   {
+    "pt": "A escassez de chuva acabou com metade da safra, e o abastecimento virou um problema.",
+    "en": "The lack of rain wiped out half the harvest, and the supply became a problem.",
+    "glosses": {
+     "acabou com": "wiped out",
+     "da": "of the",
+     "virou": "became"
+    }
+   },
+   {
+    "pt": "Algumas semanas, faltava tomate; em outras, faltava cebola.",
+    "en": "Some weeks, there were no tomatoes; in others, there were no onions.",
+    "glosses": {
+     "faltava": "was lacking"
+    }
+   },
+   {
+    "pt": "Além disso, os legumes orgânicos são perecíveis e não duram muitos dias na geladeira.",
+    "en": "Besides, organic vegetables are perishable and don't last many days in the fridge.",
+    "glosses": {
+     "são": "are",
+     "duram": "last",
+     "na": "in the"
+    }
+   },
+   {
+    "pt": "O cozinheiro, Seu Antônio, que trabalhava ali havia vinte anos, ficou irritado.",
+    "en": "The cook, Mr. Antônio, who had worked there for twenty years, got irritated.",
+    "glosses": {
+     "trabalhava": "had worked",
+     "havia": "for",
+     "ficou": "got"
+    }
+   },
+   {
+    "pt": "\"Com o seu tio, nunca faltava nada!\", reclamou ele.",
+    "en": "\"With your uncle, we never ran out of anything!\" he complained.",
+    "glosses": {
+     "faltava": "ran out",
+     "reclamou": "complained"
+    }
+   },
+   {
+    "pt": "Eduardo pensou em voltar atrás, mas teve outra ideia.",
+    "en": "Eduardo thought about backing down, but had another idea.",
+    "glosses": {
+     "pensou": "thought",
+     "voltar atrás": "back down",
+     "teve": "had",
+     "ideia": "idea"
+    }
+   },
+   {
+    "pt": "Em vez de um cardápio que nunca muda, o boteco passaria a ter um quadro com os pratos do dia.",
+    "en": "Instead of a menu that never changes, the bar would start having a board with the dishes of the day.",
+    "glosses": {
+     "muda": "changes",
+     "passaria a ter": "would start having",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Se tivesse cenoura, haveria sopa de cenoura; se tivesse tomate, haveria frango com molho de tomate.",
+    "en": "If there were carrots, there would be carrot soup; if there were tomatoes, there would be chicken in tomato sauce.",
+    "glosses": {
+     "tivesse": "there was (subjunctive)",
+     "haveria": "there would be"
+    }
+   },
+   {
+    "pt": "Seu Antônio ficou cético, mas aos poucos começou a gostar de criar pratos novos.",
+    "en": "Mr. Antônio was skeptical, but little by little he started to enjoy creating new dishes.",
+    "glosses": {
+     "ficou": "was",
+     "começou": "started",
+     "criar": "creating"
+    }
+   },
+   {
+    "pt": "Os clientes também mudaram e passaram a perguntar, logo na porta: \"O que tem hoje?\"",
+    "en": "The customers changed too and started asking, right at the door: \"What's on today?\"",
+    "glosses": {
+     "mudaram": "changed",
+     "passaram a": "started",
+     "na": "at the",
+     "tem": "is there"
+    }
+   },
+   {
+    "pt": "Hoje, o boteco do Eduardo vive lotado nos fins de semana.",
+    "en": "Today, Eduardo's bar is always packed on weekends.",
+    "glosses": {
+     "do": "of",
+     "vive": "is always",
+     "nos": "on the"
+    }
+   },
+   {
+    "pt": "E a cerveja, claro, continua gelada como no tempo do tio.",
+    "en": "And the beer, of course, is still as cold as in his uncle's time.",
+    "glosses": {
+     "continua": "is still",
+     "no": "in the",
+     "do": "of the"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "O que Eduardo não gostou na cozinha do tio?",
+    "qEn": "What did Eduardo not like about his uncle's kitchen?",
+    "options": [
+     "A cerveja era quente",
+     "Não tinha cozinheiro",
+     "Os pratos eram caros",
+     "Quase tudo era industrializado"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "Qual foi o problema em agosto?",
+    "qEn": "What was the problem in August?",
+    "options": [
+     "O boteco fechou",
+     "A seca diminuiu a safra",
+     "Dona Lúcia ficou doente",
+     "O forno quebrou"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Como Eduardo resolveu o problema?",
+    "qEn": "How did Eduardo solve the problem?",
+    "options": [
+     "Criou um cardápio que muda a cada dia",
+     "Voltou para a comida industrializada",
+     "Fechou o boteco",
+     "Demitiu o cozinheiro"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "b2-food-drink-2",
+  "level": 4,
+  "topic": "Food & drink",
+  "title": "A receita da avó",
+  "titleEn": "Grandma's recipe",
+  "sentences": [
+   {
+    "pt": "Todo ano, no aniversário da avó, a família inteira se encontra em Recife para um almoço enorme.",
+    "en": "Every year, on grandma's birthday, the whole family meets in Recife for a huge lunch.",
+    "glosses": {
+     "da": "of the",
+     "se encontra": "meets"
+    }
+   },
+   {
+    "pt": "O prato principal é sempre o mesmo: um feijão com carne que a avó faz desde a juventude.",
+    "en": "The main dish is always the same: a beans-and-meat stew that grandma has been making since her youth.",
+    "glosses": {
+     "é": "is",
+     "feijão com carne": "beans-and-meat stew",
+     "faz": "has been making"
+    }
+   },
+   {
+    "pt": "Este ano, porém, a neta Beatriz chegou com uma notícia.",
+    "en": "This year, however, her granddaughter Beatriz arrived with some news.",
+    "glosses": {
+     "chegou": "arrived"
+    }
+   },
+   {
+    "pt": "\"Avó, eu virei vegana\", disse ela, um pouco envergonhada.",
+    "en": "\"Grandma, I've become vegan,\" she said, a little embarrassed.",
+    "glosses": {
+     "virei": "I've become",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "A avó olhou para ela como se não tivesse entendido nenhuma palavra.",
+    "en": "Her grandmother looked at her as if she hadn't understood a single word.",
+    "glosses": {
+     "olhou": "looked",
+     "como se": "as if",
+     "tivesse entendido": "had understood (subjunctive)"
+    }
+   },
+   {
+    "pt": "\"Mas feijão sem carne não tem sabor nenhum, minha filha.\"",
+    "en": "\"But beans without meat have no flavor at all, my dear.\"",
+    "glosses": {
+     "tem": "have",
+     "minha filha": "my dear"
+    }
+   },
+   {
+    "pt": "Beatriz já esperava essa resposta e tinha pensado numa saída.",
+    "en": "Beatriz was already expecting that answer and had thought of a way out.",
+    "glosses": {
+     "esperava": "was expecting",
+     "tinha pensado": "had thought",
+     "numa": "of a",
+     "saída": "way out"
+    }
+   },
+   {
+    "pt": "\"E se a gente fizesse duas panelas? Uma do jeito da senhora e outra do meu jeito.\"",
+    "en": "\"What if we made two pots? One your way and one my way.\"",
+    "glosses": {
+     "fizesse": "made (subjunctive)",
+     "jeito": "way",
+     "da senhora": "your (formal)"
+    }
+   },
+   {
+    "pt": "A avó ficou desconfiada, mas a vontade de provar algo novo foi mais forte do que o orgulho.",
+    "en": "Her grandmother was suspicious, but the wish to try something new was stronger than pride.",
+    "glosses": {
+     "ficou": "was",
+     "desconfiada": "suspicious",
+     "vontade": "wish",
+     "provar": "try",
+     "foi": "was",
+     "do que": "than"
+    }
+   },
+   {
+    "pt": "Na véspera do almoço, as duas passaram a tarde inteira na cozinha.",
+    "en": "On the eve of the lunch, the two of them spent the whole afternoon in the kitchen.",
+    "glosses": {
+     "Na": "on the",
+     "do": "of the",
+     "passaram": "spent",
+     "na": "in the"
+    }
+   },
+   {
+    "pt": "A avó deixou o feijão de molho, cortou a carne e refogou o alho no azeite.",
+    "en": "Grandma soaked the beans, cut the meat and sautéed the garlic in olive oil.",
+    "glosses": {
+     "deixou": "left",
+     "de molho": "soaking",
+     "cortou": "cut",
+     "refogou": "sautéed",
+     "no": "in the"
+    }
+   },
+   {
+    "pt": "Beatriz, ao lado, ralou cenoura, picou cebola e tomate e grelhou legumes com pimenta.",
+    "en": "Beatriz, beside her, grated carrots, chopped onions and tomatoes and grilled vegetables with pepper.",
+    "glosses": {
+     "ralou": "grated",
+     "picou": "chopped",
+     "grelhou": "grilled"
+    }
+   },
+   {
+    "pt": "\"Isso aí vai ficar insosso\", disse a avó, sem acreditar muito.",
+    "en": "\"That's going to be bland,\" grandma said, not really believing in it.",
+    "glosses": {
+     "Isso aí": "that",
+     "vai ficar": "is going to be",
+     "disse": "said",
+     "acreditar": "believing"
+    }
+   },
+   {
+    "pt": "\"Por isso preciso da sua ajuda com o tempero\", respondeu Beatriz, sorrindo.",
+    "en": "\"That's why I need your help with the seasoning,\" Beatriz answered, smiling.",
+    "glosses": {
+     "preciso": "I need",
+     "da": "of",
+     "respondeu": "answered",
+     "sorrindo": "smiling"
+    }
+   },
+   {
+    "pt": "A avó não conseguiu ficar quieta: provou o caldo, pediu mais sal, um pouco de pimenta e uma folha verde do jardim.",
+    "en": "Grandma couldn't keep quiet: she tasted the broth, asked for more salt, a little pepper and a green leaf from the garden.",
+    "glosses": {
+     "conseguiu": "managed",
+     "ficar": "stay",
+     "provou": "tasted",
+     "pediu": "asked for",
+     "do": "from the"
+    }
+   },
+   {
+    "pt": "Enquanto cozinhavam, conversaram sobre saúde, sobre o planeta e sobre a infância da avó no interior.",
+    "en": "While they cooked, they talked about health, about the planet and about grandma's childhood in the countryside.",
+    "glosses": {
+     "cozinhavam": "cooked",
+     "conversaram": "talked",
+     "da": "of the",
+     "no": "in the"
+    }
+   },
+   {
+    "pt": "Beatriz explicou que o feijão tem bastante proteína e que o arroz integral tem mais nutrientes.",
+    "en": "Beatriz explained that beans have plenty of protein and that brown rice has more nutrients.",
+    "glosses": {
+     "explicou": "explained",
+     "tem": "has",
+     "bastante": "plenty of",
+     "integral": "brown (whole-grain)"
+    }
+   },
+   {
+    "pt": "A avó, por sua vez, contou que, na época dela, carne era coisa de domingo, porque era cara.",
+    "en": "Grandma, in turn, said that, in her day, meat was a Sunday thing, because it was expensive.",
+    "glosses": {
+     "por sua vez": "in turn",
+     "contou": "said",
+     "na época dela": "in her day",
+     "era": "was",
+     "coisa": "thing"
+    }
+   },
+   {
+    "pt": "\"No fundo, a gente comia quase como você come agora\", disse ela, rindo.",
+    "en": "\"Deep down, we ate almost the way you eat now,\" she said, laughing.",
+    "glosses": {
+     "No fundo": "deep down",
+     "comia": "ate",
+     "come": "eat",
+     "disse": "said",
+     "rindo": "laughing"
+    }
+   },
+   {
+    "pt": "No dia seguinte, as duas panelas foram para a mesa, uma ao lado da outra.",
+    "en": "The next day, the two pots went to the table, side by side.",
+    "glosses": {
+     "seguinte": "next",
+     "foram": "went",
+     "uma ao lado da outra": "side by side"
+    }
+   },
+   {
+    "pt": "Para a surpresa de todos, a panela vegana acabou primeiro.",
+    "en": "To everyone's surprise, the vegan pot ran out first.",
+    "glosses": {
+     "surpresa": "surprise",
+     "acabou": "ran out"
+    }
+   },
+   {
+    "pt": "Os primos mais jovens disseram que estava mais suculento do que esperavam.",
+    "en": "The younger cousins said it was juicier than they had expected.",
+    "glosses": {
+     "disseram": "said",
+     "estava": "was",
+     "do que": "than",
+     "esperavam": "had expected"
+    }
+   },
+   {
+    "pt": "Até o tio Paulo, que adora um prato de carne, repetiu duas vezes.",
+    "en": "Even Uncle Paulo, who loves a meat dish, had seconds twice.",
+    "glosses": {
+     "adora": "loves",
+     "repetiu": "had seconds"
+    }
+   },
+   {
+    "pt": "A avó disse que estava chateada, mas pediu a Beatriz que escrevesse a receita num caderno.",
+    "en": "Grandma said she was upset, but asked Beatriz to write the recipe down in a notebook.",
+    "glosses": {
+     "disse": "said",
+     "estava": "was",
+     "pediu": "asked",
+     "escrevesse": "write (subjunctive)",
+     "num": "in a"
+    }
+   },
+   {
+    "pt": "\"No ano que vem, a gente faz as duas de novo\", disse ela. \"Mas o tempero continua sendo meu.\"",
+    "en": "\"Next year, we'll make both again,\" she said. \"But the seasoning is still mine.\"",
+    "glosses": {
+     "faz": "make",
+     "de novo": "again",
+     "disse": "said",
+     "continua sendo": "is still"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Qual era a notícia de Beatriz?",
+    "qEn": "What was Beatriz's news?",
+    "options": [
+     "Ela tinha virado vegana",
+     "Ela ia casar",
+     "Ela ia morar fora",
+     "Ela estava doente"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "O que a avó achou do feijão vegano no começo?",
+    "qEn": "What did grandma think of the vegan beans at first?",
+    "options": [
+     "Que era caro demais",
+     "Que era muito picante",
+     "Que ia ficar insosso",
+     "Que era ótimo"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "O que aconteceu no almoço?",
+    "qEn": "What happened at the lunch?",
+    "options": [
+     "Ninguém comeu o feijão vegano",
+     "A panela vegana acabou primeiro",
+     "A avó ficou brava",
+     "O tio Paulo não veio"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

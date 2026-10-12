@@ -1,0 +1,349 @@
+[
+ {
+  "id": "a1-time-1",
+  "level": 1,
+  "topic": "Time",
+  "title": "Uma semana ocupada",
+  "titleEn": "A busy week",
+  "sentences": [
+   {
+    "pt": "Larissa é estudante na universidade.",
+    "en": "Larissa is a student at the university.",
+    "glosses": {
+     "é": "is",
+     "na": "at the"
+    }
+   },
+   {
+    "pt": "A semana dela é muito ocupada.",
+    "en": "Her week is very busy.",
+    "glosses": {
+     "dela": "her",
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Na segunda-feira, ela tem aula das oito ao meio-dia.",
+    "en": "On Monday, she has class from eight to noon.",
+    "glosses": {
+     "na": "on",
+     "tem": "has",
+     "das": "from",
+     "ao": "to"
+    }
+   },
+   {
+    "pt": "Na terça-feira, ela trabalha em uma loja à tarde.",
+    "en": "On Tuesday, she works in a shop in the afternoon.",
+    "glosses": {
+     "na": "on",
+     "trabalha": "works",
+     "à": "in the"
+    }
+   },
+   {
+    "pt": "Na quarta-feira, ela estuda na biblioteca até as dez da noite.",
+    "en": "On Wednesday, she studies at the library until ten at night.",
+    "glosses": {
+     "na": "on / at the",
+     "estuda": "studies",
+     "da": "at",
+     "até": "until"
+    }
+   },
+   {
+    "pt": "Na quinta-feira, ela tem prova de inglês.",
+    "en": "On Thursday, she has an English test.",
+    "glosses": {
+     "na": "on",
+     "tem": "has"
+    }
+   },
+   {
+    "pt": "Na sexta-feira, ela vai ao cinema com o namorado.",
+    "en": "On Friday, she goes to the movies with her boyfriend.",
+    "glosses": {
+     "na": "on",
+     "vai": "goes",
+     "ao": "to the",
+     "cinema": "movies"
+    }
+   },
+   {
+    "pt": "No sábado, ela acorda tarde e limpa o apartamento.",
+    "en": "On Saturday, she wakes up late and cleans the apartment.",
+    "glosses": {
+     "no": "on",
+     "acorda": "wakes up",
+     "limpa": "cleans"
+    }
+   },
+   {
+    "pt": "E no domingo? No domingo, ela não faz nada!",
+    "en": "And on Sunday? On Sunday, she does nothing!",
+    "glosses": {
+     "no": "on",
+     "faz": "does"
+    }
+   },
+   {
+    "pt": "Ela fica no sofá o dia todo.",
+    "en": "She stays on the sofa all day.",
+    "glosses": {
+     "fica": "stays",
+     "no": "on the",
+     "todo": "all"
+    }
+   },
+   {
+    "pt": "Mas este domingo é diferente.",
+    "en": "But this Sunday is different.",
+    "glosses": {
+     "é": "is"
+    }
+   },
+   {
+    "pt": "É dia 15 de março, o aniversário da mãe dela.",
+    "en": "It's March 15th, her mother's birthday.",
+    "glosses": {
+     "é": "it's",
+     "da": "of the",
+     "dela": "her"
+    }
+   },
+   {
+    "pt": "Larissa vai visitar a mãe e leva flores.",
+    "en": "Larissa is going to visit her mother and takes flowers.",
+    "glosses": {
+     "vai": "is going",
+     "leva": "takes"
+    }
+   },
+   {
+    "pt": "Elas almoçam e conversam a tarde toda.",
+    "en": "They have lunch and talk all afternoon.",
+    "glosses": {
+     "almoçam": "have lunch",
+     "conversam": "talk",
+     "elas": "they",
+     "toda": "all"
+    }
+   },
+   {
+    "pt": "À noite, Larissa volta para casa e dorme cedo.",
+    "en": "At night, Larissa goes back home and goes to bed early.",
+    "glosses": {
+     "à": "at",
+     "volta": "goes back",
+     "dorme": "goes to sleep"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Quando Larissa tem prova de inglês?",
+    "qEn": "When does Larissa have an English test?",
+    "options": [
+     "Na segunda-feira",
+     "Na quinta-feira",
+     "No sábado",
+     "Na terça-feira"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "O que Larissa faz na sexta-feira?",
+    "qEn": "What does Larissa do on Friday?",
+    "options": [
+     "Trabalha na loja",
+     "Limpa o apartamento",
+     "Vai ao cinema",
+     "Estuda na biblioteca"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Por que este domingo é diferente?",
+    "qEn": "Why is this Sunday different?",
+    "options": [
+     "É o aniversário da mãe",
+     "Ela tem prova",
+     "Ela está doente",
+     "Ela vai viajar"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "a1-time-2",
+  "level": 1,
+  "topic": "Time",
+  "title": "As férias de julho",
+  "titleEn": "The July vacation",
+  "sentences": [
+   {
+    "pt": "Em julho, é inverno no Brasil.",
+    "en": "In July, it's winter in Brazil.",
+    "glosses": {
+     "é": "it's",
+     "no": "in the"
+    }
+   },
+   {
+    "pt": "Em Porto Alegre, faz muito frio em julho.",
+    "en": "In Porto Alegre, it's very cold in July.",
+    "glosses": {
+     "faz": "it is"
+    }
+   },
+   {
+    "pt": "Eduardo mora lá com a esposa, Patrícia.",
+    "en": "Eduardo lives there with his wife, Patrícia.",
+    "glosses": {
+     "mora": "lives"
+    }
+   },
+   {
+    "pt": "Este ano, eles vão viajar nas férias.",
+    "en": "This year, they are going to travel on vacation.",
+    "glosses": {
+     "vão": "are going",
+     "nas": "on"
+    }
+   },
+   {
+    "pt": "Eles vão passar duas semanas em Fortaleza.",
+    "en": "They are going to spend two weeks in Fortaleza.",
+    "glosses": {
+     "vão": "are going",
+     "passar": "spend"
+    }
+   },
+   {
+    "pt": "Lá, é sempre quente, até no inverno.",
+    "en": "There, it's always hot, even in winter.",
+    "glosses": {
+     "é": "it's",
+     "no": "in the",
+     "até": "even"
+    }
+   },
+   {
+    "pt": "O avião sai no dia 10, às seis da manhã.",
+    "en": "The plane leaves on the 10th, at six in the morning.",
+    "glosses": {
+     "sai": "leaves",
+     "no": "on the",
+     "às": "at",
+     "da": "in the"
+    }
+   },
+   {
+    "pt": "Eles acordam às quatro da madrugada.",
+    "en": "They wake up at four in the morning.",
+    "glosses": {
+     "às": "at",
+     "da": "in the",
+     "acordam": "wake up",
+     "madrugada": "early morning"
+    }
+   },
+   {
+    "pt": "Patrícia está cansada, mas feliz.",
+    "en": "Patrícia is tired, but happy.",
+    "glosses": {
+     "está": "is"
+    }
+   },
+   {
+    "pt": "A viagem demora quatro horas.",
+    "en": "The trip takes four hours.",
+    "glosses": {
+     "demora": "takes"
+    }
+   },
+   {
+    "pt": "Às dez horas, eles chegam a Fortaleza.",
+    "en": "At ten o'clock, they arrive in Fortaleza.",
+    "glosses": {
+     "às": "at",
+     "chegam": "arrive",
+     "a": "in"
+    }
+   },
+   {
+    "pt": "O sol está forte e o céu está azul.",
+    "en": "The sun is strong and the sky is blue.",
+    "glosses": {
+     "está": "is"
+    }
+   },
+   {
+    "pt": "No primeiro dia, eles vão à praia de manhã e descansam à tarde.",
+    "en": "On the first day, they go to the beach in the morning and rest in the afternoon.",
+    "glosses": {
+     "no": "on the",
+     "vão": "go",
+     "à": "to the / in the",
+     "descansam": "rest",
+     "de": "in the"
+    }
+   },
+   {
+    "pt": "À noite, eles comem peixe em um restaurante perto do mar.",
+    "en": "At night, they eat fish at a restaurant near the sea.",
+    "glosses": {
+     "à": "at",
+     "comem": "eat",
+     "do": "of the",
+     "em": "at"
+    }
+   },
+   {
+    "pt": "\"Duas semanas é pouco tempo!\", diz Eduardo.",
+    "en": "\"Two weeks is not much time!\" says Eduardo.",
+    "glosses": {
+     "é": "is",
+     "diz": "says",
+     "pouco": "little, not much"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Que estação é julho no Brasil?",
+    "qEn": "What season is July in Brazil?",
+    "options": [
+     "Verão",
+     "Primavera",
+     "Outono",
+     "Inverno"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "A que horas o avião sai?",
+    "qEn": "What time does the plane leave?",
+    "options": [
+     "Às seis da manhã",
+     "Às quatro da tarde",
+     "Às dez",
+     "À meia-noite"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Quanto tempo eles vão ficar em Fortaleza?",
+    "qEn": "How long are they going to stay in Fortaleza?",
+    "options": [
+     "Um mês",
+     "Duas semanas",
+     "Dez dias",
+     "Uma semana"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

@@ -1,0 +1,336 @@
+[
+ {
+  "id": "a1-numbers-measures-1",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "title": "Na feira",
+  "titleEn": "At the street market",
+  "sentences": [
+   {
+    "pt": "Sábado de manhã, Dona Lúcia vai à feira.",
+    "en": "On Saturday morning, Mrs. Lúcia goes to the street market.",
+    "glosses": {
+     "vai": "goes",
+     "à": "to the"
+    }
+   },
+   {
+    "pt": "Ela tem setenta anos e adora frutas.",
+    "en": "She is seventy years old and loves fruit.",
+    "glosses": {
+     "tem": "is",
+     "adora": "loves",
+     "anos": "years old"
+    }
+   },
+   {
+    "pt": "Ela leva cinquenta reais na bolsa.",
+    "en": "She takes fifty reais in her bag.",
+    "glosses": {
+     "leva": "takes",
+     "na": "in the",
+     "reais": "reais (Brazilian money)"
+    }
+   },
+   {
+    "pt": "Primeiro, ela compra um quilo de tomate.",
+    "en": "First, she buys a kilo of tomatoes.",
+    "glosses": {
+     "compra": "buys"
+    }
+   },
+   {
+    "pt": "O tomate custa oito reais.",
+    "en": "The tomatoes cost eight reais.",
+    "glosses": {
+     "custa": "costs"
+    }
+   },
+   {
+    "pt": "Depois, ela compra seis bananas por cinco reais.",
+    "en": "Then she buys six bananas for five reais.",
+    "glosses": {
+     "compra": "buys",
+     "por": "for"
+    }
+   },
+   {
+    "pt": "\"Quanto custa a laranja?\", ela pergunta ao vendedor.",
+    "en": "\"How much are the oranges?\" she asks the seller.",
+    "glosses": {
+     "custa": "costs",
+     "pergunta": "asks",
+     "ao": "the"
+    }
+   },
+   {
+    "pt": "\"Vinte reais dois quilos, senhora\", ele responde.",
+    "en": "\"Twenty reais for two kilos, ma'am,\" he answers.",
+    "glosses": {
+     "responde": "answers",
+     "senhora": "ma'am"
+    }
+   },
+   {
+    "pt": "\"Que caro!\", diz Dona Lúcia.",
+    "en": "\"How expensive!\" says Mrs. Lúcia.",
+    "glosses": {
+     "diz": "says",
+     "que": "how"
+    }
+   },
+   {
+    "pt": "Mas ela compra dois quilos, porque o neto adora suco de laranja.",
+    "en": "But she buys two kilos, because her grandson loves orange juice.",
+    "glosses": {
+     "compra": "buys",
+     "adora": "loves"
+    }
+   },
+   {
+    "pt": "No fim, ela compra um queijo por doze reais.",
+    "en": "At the end, she buys a cheese for twelve reais.",
+    "glosses": {
+     "no": "at the",
+     "compra": "buys",
+     "por": "for"
+    }
+   },
+   {
+    "pt": "Ela paga tudo e conta o dinheiro.",
+    "en": "She pays for everything and counts her money.",
+    "glosses": {
+     "paga": "pays",
+     "conta": "counts"
+    }
+   },
+   {
+    "pt": "Ela ainda tem cinco reais.",
+    "en": "She still has five reais.",
+    "glosses": {
+     "tem": "has"
+    }
+   },
+   {
+    "pt": "Com o dinheiro, ela bebe um suco gelado.",
+    "en": "With the money, she drinks a cold juice.",
+    "glosses": {
+     "bebe": "drinks"
+    }
+   },
+   {
+    "pt": "Às onze horas, ela volta para casa, cansada mas feliz.",
+    "en": "At eleven o'clock, she goes back home, tired but happy.",
+    "glosses": {
+     "às": "at",
+     "volta": "goes back"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Quantos anos Dona Lúcia tem?",
+    "qEn": "How old is Mrs. Lúcia?",
+    "options": [
+     "Sessenta",
+     "Setenta",
+     "Cinquenta",
+     "Oitenta"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quanto custa o tomate?",
+    "qEn": "How much do the tomatoes cost?",
+    "options": [
+     "Cinco reais",
+     "Doze reais",
+     "Oito reais",
+     "Vinte reais"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Por que ela compra laranja?",
+    "qEn": "Why does she buy oranges?",
+    "options": [
+     "Porque é barata",
+     "Porque o neto adora suco",
+     "Porque o marido pede",
+     "Porque ela está doente"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "a1-numbers-measures-2",
+  "level": 1,
+  "topic": "Numbers & measures",
+  "title": "O aniversário de Gabriel",
+  "titleEn": "Gabriel's birthday",
+  "sentences": [
+   {
+    "pt": "Hoje Gabriel faz oito anos.",
+    "en": "Today Gabriel turns eight.",
+    "glosses": {
+     "faz": "turns",
+     "anos": "(years old)"
+    }
+   },
+   {
+    "pt": "A festa vai começar às quatro horas da tarde.",
+    "en": "The party is going to start at four in the afternoon.",
+    "glosses": {
+     "vai": "is going",
+     "às": "at",
+     "da": "in the"
+    }
+   },
+   {
+    "pt": "A mãe dele, Fernanda, está muito ocupada.",
+    "en": "His mother, Fernanda, is very busy.",
+    "glosses": {
+     "dele": "his",
+     "está": "is"
+    }
+   },
+   {
+    "pt": "Ela precisa de vinte copos, vinte pratos e um bolo grande.",
+    "en": "She needs twenty cups, twenty plates and a big cake.",
+    "glosses": {
+     "precisa": "needs",
+     "de": "(of)"
+    }
+   },
+   {
+    "pt": "Ela vai ao supermercado às duas horas.",
+    "en": "She goes to the supermarket at two o'clock.",
+    "glosses": {
+     "vai": "goes",
+     "ao": "to the",
+     "às": "at"
+    }
+   },
+   {
+    "pt": "Os copos e os pratos custam quinze reais.",
+    "en": "The cups and the plates cost fifteen reais.",
+    "glosses": {
+     "custam": "cost"
+    }
+   },
+   {
+    "pt": "O bolo custa sessenta reais.",
+    "en": "The cake costs sixty reais.",
+    "glosses": {
+     "custa": "costs"
+    }
+   },
+   {
+    "pt": "Ela também compra três litros de refrigerante e dois litros de suco.",
+    "en": "She also buys three liters of soda and two liters of juice.",
+    "glosses": {
+     "compra": "buys"
+    }
+   },
+   {
+    "pt": "Às três e meia, ela volta para casa.",
+    "en": "At three thirty, she goes back home.",
+    "glosses": {
+     "às": "at",
+     "volta": "goes back",
+     "meia": "half (past)"
+    }
+   },
+   {
+    "pt": "Os amigos de Gabriel chegam às quatro.",
+    "en": "Gabriel's friends arrive at four.",
+    "glosses": {
+     "chegam": "arrive",
+     "às": "at"
+    }
+   },
+   {
+    "pt": "São doze crianças na festa.",
+    "en": "There are twelve children at the party.",
+    "glosses": {
+     "são": "there are",
+     "na": "at the"
+    }
+   },
+   {
+    "pt": "Eles brincam no jardim e comem muito.",
+    "en": "They play in the garden and eat a lot.",
+    "glosses": {
+     "brincam": "play",
+     "no": "in the",
+     "comem": "eat",
+     "muito": "a lot"
+    }
+   },
+   {
+    "pt": "Às seis horas, todos cantam para Gabriel.",
+    "en": "At six o'clock, everyone sings to Gabriel.",
+    "glosses": {
+     "às": "at",
+     "cantam": "sing",
+     "todos": "everyone",
+     "para": "to"
+    }
+   },
+   {
+    "pt": "O bolo é de chocolate, o favorito dele.",
+    "en": "The cake is chocolate, his favorite.",
+    "glosses": {
+     "é": "is",
+     "dele": "his"
+    }
+   },
+   {
+    "pt": "Às oito horas, a festa acaba e Gabriel dorme no sofá.",
+    "en": "At eight o'clock, the party ends and Gabriel falls asleep on the sofa.",
+    "glosses": {
+     "às": "at",
+     "acaba": "ends",
+     "dorme": "falls asleep",
+     "no": "on the"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Quantos anos Gabriel faz?",
+    "qEn": "How old is Gabriel turning?",
+    "options": [
+     "Seis",
+     "Sete",
+     "Oito",
+     "Nove"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Quanto custa o bolo?",
+    "qEn": "How much does the cake cost?",
+    "options": [
+     "Quinze reais",
+     "Vinte reais",
+     "Doze reais",
+     "Sessenta reais"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "Quantas crianças estão na festa?",
+    "qEn": "How many children are at the party?",
+    "options": [
+     "Doze",
+     "Vinte",
+     "Oito",
+     "Três"
+    ],
+    "answer": 0
+   }
+  ]
+ }
+]

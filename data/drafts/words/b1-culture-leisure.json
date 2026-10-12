@@ -1,0 +1,762 @@
+[
+ {
+  "pt": "espetáculo",
+  "pos": "n.",
+  "english": "show, performance",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "espetáculos"
+  ],
+  "example": {
+   "pt": "O espetáculo de dança foi lindo.",
+   "en": "The dance performance was beautiful."
+  }
+ },
+ {
+  "pt": "ator",
+  "pos": "n.",
+  "english": "actor",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "atriz",
+   "atores",
+   "atrizes"
+  ],
+  "example": {
+   "pt": "Ela é uma atriz famosa de novelas.",
+   "en": "She is a famous soap opera actress."
+  }
+ },
+ {
+  "pt": "roteiro",
+  "pos": "n.",
+  "english": "script; itinerary",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "roteiros"
+  ],
+  "example": {
+   "pt": "O filme tem um roteiro muito bem escrito.",
+   "en": "The movie has a very well-written script."
+  }
+ },
+ {
+  "pt": "gravação",
+  "pos": "n.",
+  "english": "recording",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "gravações"
+  ],
+  "example": {
+   "pt": "A gravação do disco levou seis meses.",
+   "en": "Recording the album took six months."
+  }
+ },
+ {
+  "pt": "exposição",
+  "pos": "n.",
+  "english": "exhibition",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "exposições"
+  ],
+  "example": {
+   "pt": "Vamos ver a nova exposição no museu?",
+   "en": "Shall we go see the new exhibition at the museum?"
+  }
+ },
+ {
+  "pt": "lançar",
+  "pos": "v.",
+  "english": "to launch, to release",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "example": {
+   "pt": "A banda vai lançar um álbum novo em março.",
+   "en": "The band is going to release a new album in March."
+  }
+ },
+ {
+  "pt": "lançamento",
+  "pos": "n.",
+  "english": "release, launch",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "lançamentos"
+  ],
+  "example": {
+   "pt": "O lançamento do livro será na sexta-feira.",
+   "en": "The book launch will be on Friday."
+  }
+ },
+ {
+  "pt": "peça",
+  "pos": "n.",
+  "english": "play; piece, part",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "peças"
+  ],
+  "example": {
+   "pt": "Fomos assistir a uma peça de teatro no sábado.",
+   "en": "We went to see a play on Saturday."
+  }
+ },
+ {
+  "pt": "palco",
+  "pos": "n.",
+  "english": "stage",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "palcos"
+  ],
+  "example": {
+   "pt": "O cantor subiu ao palco às dez da noite.",
+   "en": "The singer went on stage at ten p.m."
+  }
+ },
+ {
+  "pt": "plateia",
+  "pos": "n.",
+  "english": "audience",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "plateias"
+  ],
+  "example": {
+   "pt": "A plateia aplaudiu de pé.",
+   "en": "The audience gave a standing ovation."
+  }
+ },
+ {
+  "pt": "público",
+  "pos": "n./adj.",
+  "english": "audience, public; public",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "forms": [
+   "pública",
+   "públicos",
+   "públicas"
+  ],
+  "example": {
+   "pt": "O show atraiu um público enorme.",
+   "en": "The show drew a huge audience."
+  }
+ },
+ {
+  "pt": "bilheteria",
+  "pos": "n.",
+  "english": "box office, ticket office",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "bilheterias"
+  ],
+  "example": {
+   "pt": "Compre os ingressos na bilheteria do teatro.",
+   "en": "Buy the tickets at the theater box office."
+  }
+ },
+ {
+  "pt": "estreia",
+  "pos": "n.",
+  "english": "premiere, debut",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "estreias"
+  ],
+  "example": {
+   "pt": "A estreia do filme será no mês que vem.",
+   "en": "The movie premiere will be next month."
+  }
+ },
+ {
+  "pt": "personagem",
+  "pos": "n.",
+  "english": "character (in a story)",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "mf",
+  "forms": [
+   "personagens"
+  ],
+  "example": {
+   "pt": "Qual é o seu personagem favorito da série?",
+   "en": "Who is your favorite character in the series?"
+  }
+ },
+ {
+  "pt": "elenco",
+  "pos": "n.",
+  "english": "cast",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "elencos"
+  ],
+  "example": {
+   "pt": "O elenco da novela é muito bom.",
+   "en": "The soap opera's cast is very good."
+  }
+ },
+ {
+  "pt": "cena",
+  "pos": "n.",
+  "english": "scene",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "cenas"
+  ],
+  "example": {
+   "pt": "A última cena do filme me fez chorar.",
+   "en": "The last scene of the movie made me cry."
+  }
+ },
+ {
+  "pt": "legenda",
+  "pos": "n.",
+  "english": "subtitle; caption",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "legendas"
+  ],
+  "example": {
+   "pt": "Prefiro assistir a filmes com legenda.",
+   "en": "I prefer to watch movies with subtitles."
+  }
+ },
+ {
+  "pt": "dublado",
+  "pos": "adj.",
+  "english": "dubbed",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "forms": [
+   "dublada",
+   "dublados",
+   "dubladas"
+  ],
+  "example": {
+   "pt": "Esse desenho só está disponível dublado.",
+   "en": "This cartoon is only available dubbed."
+  }
+ },
+ {
+  "pt": "série",
+  "pos": "n.",
+  "english": "series, TV show",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "séries"
+  ],
+  "example": {
+   "pt": "Estou viciado numa série nova.",
+   "en": "I'm hooked on a new series."
+  }
+ },
+ {
+  "pt": "episódio",
+  "pos": "n.",
+  "english": "episode",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "episódios"
+  ],
+  "example": {
+   "pt": "Assistimos a três episódios seguidos.",
+   "en": "We watched three episodes in a row."
+  }
+ },
+ {
+  "pt": "temporada",
+  "pos": "n.",
+  "english": "season (of a show); period",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "temporadas"
+  ],
+  "example": {
+   "pt": "A segunda temporada é melhor que a primeira.",
+   "en": "The second season is better than the first."
+  }
+ },
+ {
+  "pt": "documentário",
+  "pos": "n.",
+  "english": "documentary",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "documentários"
+  ],
+  "example": {
+   "pt": "Vi um documentário sobre a história do samba.",
+   "en": "I watched a documentary about the history of samba."
+  }
+ },
+ {
+  "pt": "novela",
+  "pos": "n.",
+  "english": "soap opera, telenovela",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "novelas"
+  ],
+  "example": {
+   "pt": "Minha mãe assiste à novela todas as noites.",
+   "en": "My mother watches the soap opera every night."
+  }
+ },
+ {
+  "pt": "desenho animado",
+  "pos": "n.",
+  "english": "cartoon, animated film",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "desenhos animados"
+  ],
+  "example": {
+   "pt": "As crianças adoram desenho animado.",
+   "en": "Kids love cartoons."
+  }
+ },
+ {
+  "pt": "obra",
+  "pos": "n.",
+  "english": "work (of art); construction work",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "obras"
+  ],
+  "example": {
+   "pt": "Essa é a obra mais famosa do pintor.",
+   "en": "This is the painter's most famous work."
+  }
+ },
+ {
+  "pt": "escultura",
+  "pos": "n.",
+  "english": "sculpture",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "esculturas"
+  ],
+  "example": {
+   "pt": "O parque tem várias esculturas de artistas locais.",
+   "en": "The park has several sculptures by local artists."
+  }
+ },
+ {
+  "pt": "pintura",
+  "pos": "n.",
+  "english": "painting",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "pinturas"
+  ],
+  "example": {
+   "pt": "Ela faz aulas de pintura aos sábados.",
+   "en": "She takes painting classes on Saturdays."
+  }
+ },
+ {
+  "pt": "galeria",
+  "pos": "n.",
+  "english": "gallery",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "galerias"
+  ],
+  "example": {
+   "pt": "A galeria está expondo fotos antigas da cidade.",
+   "en": "The gallery is showing old photos of the city."
+  }
+ },
+ {
+  "pt": "festival",
+  "pos": "n.",
+  "english": "festival",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "festivais"
+  ],
+  "example": {
+   "pt": "O festival de música vai durar três dias.",
+   "en": "The music festival will last three days."
+  }
+ },
+ {
+  "pt": "letra",
+  "pos": "n.",
+  "english": "lyrics; letter (of alphabet); handwriting",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "letras"
+  ],
+  "example": {
+   "pt": "Você sabe a letra dessa música?",
+   "en": "Do you know the lyrics to this song?"
+  }
+ },
+ {
+  "pt": "gravar",
+  "pos": "v.",
+  "english": "to record",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "example": {
+   "pt": "Eles gravaram o clipe no Rio.",
+   "en": "They recorded the music video in Rio."
+  }
+ },
+ {
+  "pt": "ensaiar",
+  "pos": "v.",
+  "english": "to rehearse",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "example": {
+   "pt": "A banda ensaia toda quinta-feira.",
+   "en": "The band rehearses every Thursday."
+  }
+ },
+ {
+  "pt": "aplaudir",
+  "pos": "v.",
+  "english": "to applaud, to clap",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "example": {
+   "pt": "Todos aplaudiram no final da apresentação.",
+   "en": "Everyone applauded at the end of the performance."
+  }
+ },
+ {
+  "pt": "sucesso",
+  "pos": "n.",
+  "english": "success; hit",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "sucessos"
+  ],
+  "example": {
+   "pt": "A música virou um sucesso no Brasil inteiro.",
+   "en": "The song became a hit all over Brazil."
+  }
+ },
+ {
+  "pt": "fracasso",
+  "pos": "n.",
+  "english": "failure, flop",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "fracassos"
+  ],
+  "example": {
+   "pt": "O filme foi um fracasso de bilheteria.",
+   "en": "The movie was a box-office flop."
+  }
+ },
+ {
+  "pt": "fã",
+  "pos": "n.",
+  "english": "fan",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "mf",
+  "forms": [
+   "fãs"
+  ],
+  "example": {
+   "pt": "Sou fã dessa cantora desde criança.",
+   "en": "I've been a fan of this singer since I was a kid."
+  }
+ },
+ {
+  "pt": "autor",
+  "pos": "n.",
+  "english": "author",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "autora",
+   "autores",
+   "autoras"
+  ],
+  "example": {
+   "pt": "Quem é o autor desse livro?",
+   "en": "Who is the author of this book?"
+  }
+ },
+ {
+  "pt": "romance",
+  "pos": "n.",
+  "english": "novel; romance",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "romances"
+  ],
+  "example": {
+   "pt": "Estou lendo um romance de Machado de Assis.",
+   "en": "I'm reading a novel by Machado de Assis."
+  }
+ },
+ {
+  "pt": "poesia",
+  "pos": "n.",
+  "english": "poetry; poem",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "poesias"
+  ],
+  "example": {
+   "pt": "Ela escreve poesia desde os quinze anos.",
+   "en": "She has been writing poetry since she was fifteen."
+  }
+ },
+ {
+  "pt": "capítulo",
+  "pos": "n.",
+  "english": "chapter; episode (of a soap opera)",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "capítulos"
+  ],
+  "example": {
+   "pt": "Só faltam dois capítulos para terminar o livro.",
+   "en": "There are only two chapters left to finish the book."
+  }
+ },
+ {
+  "pt": "passatempo",
+  "pos": "n.",
+  "english": "hobby, pastime",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "passatempos"
+  ],
+  "example": {
+   "pt": "Meu passatempo favorito é fazer trilhas.",
+   "en": "My favorite pastime is hiking."
+  }
+ },
+ {
+  "pt": "coleção",
+  "pos": "n.",
+  "english": "collection",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "coleções"
+  ],
+  "example": {
+   "pt": "Ele tem uma coleção enorme de discos.",
+   "en": "He has a huge record collection."
+  }
+ },
+ {
+  "pt": "artesanato",
+  "pos": "n.",
+  "english": "handicrafts, crafts",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "artesanatos"
+  ],
+  "example": {
+   "pt": "Compramos artesanato na feira de Olinda.",
+   "en": "We bought handicrafts at the market in Olinda."
+  }
+ },
+ {
+  "pt": "acampar",
+  "pos": "v.",
+  "english": "to camp, to go camping",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "example": {
+   "pt": "No feriado, vamos acampar perto da cachoeira.",
+   "en": "Over the holiday, we're going camping near the waterfall."
+  }
+ },
+ {
+  "pt": "trilha",
+  "pos": "n.",
+  "english": "trail, hike; soundtrack",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "trilhas"
+  ],
+  "example": {
+   "pt": "Fizemos uma trilha linda até o topo do morro.",
+   "en": "We did a beautiful hike to the top of the hill."
+  }
+ },
+ {
+  "pt": "torcer",
+  "pos": "v.",
+  "english": "to root for, to support (a team); to twist",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "example": {
+   "pt": "Para que time você torce?",
+   "en": "Which team do you support?"
+  }
+ },
+ {
+  "pt": "torcedor",
+  "pos": "n.",
+  "english": "fan, supporter (of a team)",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "torcedora",
+   "torcedores",
+   "torcedoras"
+  ],
+  "example": {
+   "pt": "Os torcedores lotaram o estádio.",
+   "en": "The fans packed the stadium."
+  }
+ },
+ {
+  "pt": "campeonato",
+  "pos": "n.",
+  "english": "championship, league",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "campeonatos"
+  ],
+  "example": {
+   "pt": "O Flamengo ganhou o campeonato este ano.",
+   "en": "Flamengo won the championship this year."
+  }
+ },
+ {
+  "pt": "partida",
+  "pos": "n.",
+  "english": "match, game; departure",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "partidas"
+  ],
+  "example": {
+   "pt": "A partida terminou empatada.",
+   "en": "The match ended in a draw."
+  }
+ },
+ {
+  "pt": "vencer",
+  "pos": "v.",
+  "english": "to win, to beat",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "example": {
+   "pt": "O Brasil venceu a Argentina por dois a um.",
+   "en": "Brazil beat Argentina two to one."
+  }
+ },
+ {
+  "pt": "competição",
+  "pos": "n.",
+  "english": "competition",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "competições"
+  ],
+  "example": {
+   "pt": "Ela ganhou uma medalha na competição de natação.",
+   "en": "She won a medal in the swimming competition."
+  }
+ },
+ {
+  "pt": "lazer",
+  "pos": "n.",
+  "english": "leisure",
+  "level": 3,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "lazeres"
+  ],
+  "example": {
+   "pt": "O bairro precisa de mais áreas de lazer.",
+   "en": "The neighborhood needs more leisure areas."
+  }
+ }
+]

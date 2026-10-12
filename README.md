@@ -45,10 +45,10 @@ Card types (keys in `src/lib/deck.ts`):
 
 | Card | Front → back |
 |---|---|
-| Word | Português (nouns with o/a) → meaning, example; or English → Português |
+| Word | Português (nouns with o/a) → meaning, example; or English → Português (the **Direction** setting). Verbs also show their present and past conjugations |
 | Sentence | example sentence → English; or English → Português |
 | Grammar | pattern + English → Portuguese example (rotates through examples); or a typical mistake → correction |
-| Conjugation | infinitive + tense + person → form, with the full table on the back |
+| Conjugation | infinitive + tense + person → form, with the full table on the back; a drill's level is the harder of the verb's and the tense's (the subjunctive of an A1 verb is a B1 drill) |
 | From your chat | your mistake → correction |
 
 - **Typed answers** (settings) ignore case and punctuation; nouns are accepted with or without the article
@@ -85,12 +85,23 @@ npm run build
 
 ## Content
 
-| File | Notes |
-|---|---|
-| `data/words.json` | words with gender, inflected `forms` (so the reader can find "falei" under falar) and an example |
-| `data/verbs.json` | present, pretérito perfeito and imperfeito tables; regular verbs are checked against `regularForms` in tests |
-| `data/grammar.json` | grammar points with examples, a typical mistake and the words they use |
-| `data/stories.json` | graded stories, tokenized and glossed |
-| `data/allowed-extras.json` | names and places allowed in generated text |
+Levels **A1, A2, B1 and B2**. The **Levels** button in the tab bar switches B1–B2 on or off across the
+whole app (cards, reading and chat); it starts on A1–A2.
 
-The current content is a small hand-checked starter set (`scripts/seed-story.ts` builds the starter story).
+The content is written by hand as drafts and built into the app's data files:
+
+| Source | Built into | Notes |
+|---|---|---|
+| `data/drafts/words/*.json` | `data/words.json` | words with gender, inflected forms and an example; duplicates across levels keep the lowest level, and ids stay stable across rebuilds |
+| `data/irregular-verbs.json` + verbs in the word list | `data/verbs.json` | 8 tenses (present, preterite, imperfect, future, conditional, present/imperfect/future subjunctive), gerund and participle; regular verbs are computed by `regularForms` |
+| `data/drafts/grammar/*.json` | `data/grammar.json` | the words each grammar point uses are filled in |
+| `data/drafts/stories/*.json` | `data/stories.json` | tokenized; each sentence can gloss words in context, the rest get their dictionary meaning |
+| `data/allowed-extras.json` | | names and places allowed in stories |
+
+```bash
+npx tsx scripts/build-content.ts            # rebuild the data files (refuses if anything fails a check)
+npx tsx scripts/build-content.ts --check    # just report problems (e.g. a story word not in the list)
+```
+
+Every grammar example and story may only use words from the list at its level or below (any inflected
+form), and the build checks that each word's example uses it.

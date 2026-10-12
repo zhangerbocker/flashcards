@@ -1,0 +1,357 @@
+[
+ {
+  "id": "a1-places-directions-1",
+  "level": 1,
+  "topic": "Places & directions",
+  "title": "Onde fica o museu?",
+  "titleEn": "Where is the museum?",
+  "sentences": [
+   {
+    "pt": "Thiago é americano e está em São Paulo pela primeira vez.",
+    "en": "Thiago is American and is in São Paulo for the first time.",
+    "glosses": {
+     "é": "is",
+     "está": "is",
+     "são": "are",
+     "pela": "for the",
+     "vez": "time"
+    }
+   },
+   {
+    "pt": "Ele quer visitar um museu na Paulista.",
+    "en": "He wants to visit a museum on Paulista Avenue.",
+    "glosses": {
+     "quer": "wants",
+     "na": "on"
+    }
+   },
+   {
+    "pt": "Mas ele não sabe onde fica o museu.",
+    "en": "But he doesn't know where the museum is.",
+    "glosses": {
+     "sabe": "knows",
+     "fica": "is"
+    }
+   },
+   {
+    "pt": "Ele para uma moça na rua.",
+    "en": "He stops a young woman in the street.",
+    "glosses": {
+     "na": "in the",
+     "para": "stops",
+     "moça": "young woman"
+    }
+   },
+   {
+    "pt": "\"Desculpa, onde fica o museu?\", ele pergunta.",
+    "en": "\"Excuse me, where is the museum?\" he asks.",
+    "glosses": {
+     "fica": "is",
+     "pergunta": "asks",
+     "desculpa": "excuse me"
+    }
+   },
+   {
+    "pt": "\"É perto\", ela responde.",
+    "en": "\"It's close,\" she answers.",
+    "glosses": {
+     "é": "it's",
+     "responde": "answers"
+    }
+   },
+   {
+    "pt": "\"Você vai reto nesta rua até a praça.\"",
+    "en": "\"You go straight along this street to the square.\"",
+    "glosses": {
+     "vai": "go",
+     "nesta": "on this",
+     "até": "to"
+    }
+   },
+   {
+    "pt": "\"Na praça, você vira à direita.\"",
+    "en": "\"At the square, you turn right.\"",
+    "glosses": {
+     "na": "at the",
+     "vira": "turns",
+     "à": "to the"
+    }
+   },
+   {
+    "pt": "\"O museu fica na esquina, ao lado de um banco.\"",
+    "en": "\"The museum is on the corner, next to a bank.\"",
+    "glosses": {
+     "fica": "is",
+     "na": "on the",
+     "ao": "(at the)",
+     "ao lado": "next to",
+     "lado": "side"
+    }
+   },
+   {
+    "pt": "Thiago diz \"obrigado\" e anda até a praça.",
+    "en": "Thiago says \"thank you\" and walks to the square.",
+    "glosses": {
+     "diz": "says",
+     "anda": "walks",
+     "até": "to"
+    }
+   },
+   {
+    "pt": "Ele vira à direita, mas não vê o museu.",
+    "en": "He turns right, but doesn't see the museum.",
+    "glosses": {
+     "vira": "turns",
+     "à": "to the",
+     "vê": "sees"
+    }
+   },
+   {
+    "pt": "Ele só vê um banco e uma farmácia.",
+    "en": "He only sees a bank and a pharmacy.",
+    "glosses": {
+     "vê": "sees"
+    }
+   },
+   {
+    "pt": "Então ele olha o mapa no celular.",
+    "en": "Then he looks at the map on his phone.",
+    "glosses": {
+     "olha": "looks at",
+     "no": "on the"
+    }
+   },
+   {
+    "pt": "O museu está atrás do banco!",
+    "en": "The museum is behind the bank!",
+    "glosses": {
+     "está": "is",
+     "do": "of the",
+     "atrás": "behind"
+    }
+   },
+   {
+    "pt": "Thiago entra e fica lá a tarde toda.",
+    "en": "Thiago goes in and stays there all afternoon.",
+    "glosses": {
+     "entra": "goes in",
+     "fica": "stays",
+     "toda": "all"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "De onde Thiago é?",
+    "qEn": "Where is Thiago from?",
+    "options": [
+     "Do Brasil",
+     "De Portugal",
+     "Dos Estados Unidos",
+     "Da Argentina"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Na praça, para onde Thiago vira?",
+    "qEn": "At the square, which way does Thiago turn?",
+    "options": [
+     "À esquerda",
+     "À direita",
+     "Para o mar",
+     "Para o hotel"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Onde está o museu?",
+    "qEn": "Where is the museum?",
+    "options": [
+     "Atrás do banco",
+     "Ao lado do hotel",
+     "Na praia",
+     "Perto do aeroporto"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "a1-places-directions-2",
+  "level": 1,
+  "topic": "Places & directions",
+  "title": "Um passeio em Paraty",
+  "titleEn": "A walk in Paraty",
+  "sentences": [
+   {
+    "pt": "Beatriz e Gustavo estão de férias em Paraty.",
+    "en": "Beatriz and Gustavo are on vacation in Paraty.",
+    "glosses": {
+     "estão": "are",
+     "de": "on"
+    }
+   },
+   {
+    "pt": "O hotel deles fica perto do mar.",
+    "en": "Their hotel is near the sea.",
+    "glosses": {
+     "deles": "their",
+     "fica": "is",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "De manhã, eles querem ir à praia.",
+    "en": "In the morning, they want to go to the beach.",
+    "glosses": {
+     "querem": "want",
+     "à": "to the",
+     "de": "in the"
+    }
+   },
+   {
+    "pt": "Gustavo pergunta ao moço do hotel: \"A praia fica longe?\"",
+    "en": "Gustavo asks the young man at the hotel: \"Is the beach far?\"",
+    "glosses": {
+     "pergunta": "asks",
+     "ao": "the",
+     "do": "at the",
+     "fica": "is",
+     "moço": "young man"
+    }
+   },
+   {
+    "pt": "\"Não, são dez minutos a pé\", ele responde.",
+    "en": "\"No, it's ten minutes on foot,\" he answers.",
+    "glosses": {
+     "são": "it's",
+     "responde": "answers",
+     "a pé": "on foot"
+    }
+   },
+   {
+    "pt": "\"Vocês saem do hotel e viram à esquerda.\"",
+    "en": "\"You leave the hotel and turn left.\"",
+    "glosses": {
+     "do": "(from) the",
+     "viram": "turn",
+     "à": "to the",
+     "vocês": "you (all)",
+     "saem": "leave"
+    }
+   },
+   {
+    "pt": "\"Depois, vocês passam pela igreja branca.\"",
+    "en": "\"Then you go past the white church.\"",
+    "glosses": {
+     "passam": "go past",
+     "pela": "by the",
+     "vocês": "you (all)"
+    }
+   },
+   {
+    "pt": "\"A praia fica atrás da igreja.\"",
+    "en": "\"The beach is behind the church.\"",
+    "glosses": {
+     "fica": "is",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Eles andam pela rua e veem casas antigas e lindas.",
+    "en": "They walk along the street and see old, lovely houses.",
+    "glosses": {
+     "andam": "walk",
+     "pela": "along the",
+     "veem": "see"
+    }
+   },
+   {
+    "pt": "Beatriz para na igreja e olha as flores.",
+    "en": "Beatriz stops at the church and looks at the flowers.",
+    "glosses": {
+     "na": "at the",
+     "olha": "looks at",
+     "para": "stops"
+    }
+   },
+   {
+    "pt": "Logo depois, eles chegam à praia.",
+    "en": "Soon after, they get to the beach.",
+    "glosses": {
+     "chegam": "arrive",
+     "à": "to the",
+     "logo": "soon"
+    }
+   },
+   {
+    "pt": "A água é azul e calma.",
+    "en": "The water is blue and calm.",
+    "glosses": {
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Eles nadam no mar e descansam no sol.",
+    "en": "They swim in the sea and rest in the sun.",
+    "glosses": {
+     "nadam": "swim",
+     "no": "in the",
+     "descansam": "rest"
+    }
+   },
+   {
+    "pt": "À tarde, eles voltam para o hotel pela mesma rua.",
+    "en": "In the afternoon, they go back to the hotel along the same street.",
+    "glosses": {
+     "à": "in the",
+     "voltam": "go back",
+     "pela": "along the",
+     "mesma": "same"
+    }
+   },
+   {
+    "pt": "Paraty é pequena, mas é muito bonita.",
+    "en": "Paraty is small, but it is very beautiful.",
+    "glosses": {
+     "é": "is"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Onde fica o hotel?",
+    "qEn": "Where is the hotel?",
+    "options": [
+     "Perto do mar",
+     "No centro",
+     "Perto do aeroporto",
+     "Na montanha"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Quantos minutos a pé até a praia?",
+    "qEn": "How many minutes on foot to the beach?",
+    "options": [
+     "Cinco",
+     "Dez",
+     "Vinte",
+     "Trinta"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Onde fica a praia?",
+    "qEn": "Where is the beach?",
+    "options": [
+     "Ao lado do hotel",
+     "Perto do banco",
+     "Atrás da igreja",
+     "Longe do hotel"
+    ],
+    "answer": 2
+   }
+  ]
+ }
+]

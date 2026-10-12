@@ -1,0 +1,429 @@
+[
+ {
+  "id": "a2-feelings-opinions-1",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "title": "Saudade de casa",
+  "titleEn": "Missing home",
+  "sentences": [
+   {
+    "pt": "Felipe é brasileiro e estuda numa universidade em Boston.",
+    "en": "Felipe is Brazilian and studies at a university in Boston.",
+    "glosses": {
+     "estuda": "studies",
+     "numa": "at a"
+    }
+   },
+   {
+    "pt": "Ele chegou aos Estados Unidos em janeiro, no meio do inverno.",
+    "en": "He arrived in the United States in January, in the middle of winter.",
+    "glosses": {
+     "chegou": "arrived",
+     "aos": "in the",
+     "meio": "middle"
+    }
+   },
+   {
+    "pt": "No começo, ele estava muito animado com a vida nova.",
+    "en": "At first, he was very excited about his new life.",
+    "glosses": {
+     "no": "at",
+     "começo": "the beginning",
+     "estava": "was",
+     "com": "about"
+    }
+   },
+   {
+    "pt": "Tudo era diferente e interessante.",
+    "en": "Everything was different and interesting.",
+    "glosses": {
+     "era": "was"
+    }
+   },
+   {
+    "pt": "Mas depois de dois meses, ele começou a sentir saudade do Brasil.",
+    "en": "But after two months, he started to feel homesick for Brazil.",
+    "glosses": {
+     "começou": "started",
+     "sentir": "feel",
+     "saudade": "longing (miss)"
+    }
+   },
+   {
+    "pt": "Ele tinha saudade da família, dos amigos e da comida da mãe.",
+    "en": "He missed his family, his friends and his mother's food.",
+    "glosses": {
+     "tinha": "had",
+     "saudade": "longing (missed)",
+     "da": "(of) the",
+     "dos": "(of) the"
+    }
+   },
+   {
+    "pt": "À noite, ele ficava sozinho no quarto e às vezes chorava.",
+    "en": "At night, he stayed alone in his room and sometimes cried.",
+    "glosses": {
+     "ficava": "would stay",
+     "no": "in the",
+     "às": "at",
+     "vezes": "times (sometimes)",
+     "chorava": "cried"
+    }
+   },
+   {
+    "pt": "Um dia, ele ligou para a mãe e contou tudo.",
+    "en": "One day, he called his mother and told her everything.",
+    "glosses": {
+     "ligou": "called",
+     "contou": "told"
+    }
+   },
+   {
+    "pt": "\"Eu me sinto sozinho aqui, mãe\", ele disse.",
+    "en": "\"I feel lonely here, Mom,\" he said.",
+    "glosses": {
+     "sinto": "feel",
+     "sozinho": "lonely",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "A mãe ficou preocupada, mas falou com calma.",
+    "en": "His mother got worried, but spoke calmly.",
+    "glosses": {
+     "ficou": "got",
+     "falou": "spoke",
+     "calma": "calm (calmly)"
+    }
+   },
+   {
+    "pt": "\"Filho, isso é muito comum. Tente conhecer pessoas novas.\"",
+    "en": "\"Son, that's very common. Try to meet new people.\"",
+    "glosses": {
+     "tente": "try",
+     "conhecer": "to meet"
+    }
+   },
+   {
+    "pt": "Uma semana depois, Felipe decidiu ir a uma festa de estudantes.",
+    "en": "A week later, Felipe decided to go to a student party.",
+    "glosses": {
+     "depois": "later",
+     "decidiu": "decided"
+    }
+   },
+   {
+    "pt": "Lá, ele conheceu Sofia, uma estudante de Portugal.",
+    "en": "There, he met Sofia, a student from Portugal.",
+    "glosses": {
+     "conheceu": "met"
+    }
+   },
+   {
+    "pt": "Os dois conversaram a noite toda em português.",
+    "en": "The two of them talked all night in Portuguese.",
+    "glosses": {
+     "conversaram": "talked",
+     "toda": "all"
+    }
+   },
+   {
+    "pt": "Sofia também sentia saudade de casa.",
+    "en": "Sofia was also homesick.",
+    "glosses": {
+     "sentia": "felt",
+     "saudade": "longing (homesick)"
+    }
+   },
+   {
+    "pt": "Agora eles cozinham pratos do Brasil e de Portugal aos domingos.",
+    "en": "Now they cook dishes from Brazil and Portugal on Sundays.",
+    "glosses": {
+     "cozinham": "cook",
+     "pratos": "dishes",
+     "do": "from",
+     "aos": "on"
+    }
+   },
+   {
+    "pt": "Felipe ainda tem saudade do Brasil de vez em quando.",
+    "en": "Felipe still misses Brazil from time to time.",
+    "glosses": {
+     "tem": "has",
+     "saudade": "longing (misses)"
+    }
+   },
+   {
+    "pt": "Mas ele não se sente mais sozinho.",
+    "en": "But he doesn't feel lonely anymore.",
+    "glosses": {
+     "sente": "feels",
+     "mais": "anymore",
+     "sozinho": "lonely"
+    }
+   },
+   {
+    "pt": "\"Na minha opinião, um bom amigo ajuda muito\", ele escreveu para a mãe.",
+    "en": "\"In my opinion, a good friend helps a lot,\" he wrote to his mother.",
+    "glosses": {
+     "ajuda": "helps",
+     "escreveu": "wrote"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Onde Felipe estuda?",
+    "qEn": "Where does Felipe study?",
+    "options": [
+     "Em Lisboa",
+     "Em Boston",
+     "Em Nova York",
+     "Em São Paulo"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Do que Felipe tinha saudade?",
+    "qEn": "What did Felipe miss?",
+    "options": [
+     "Do frio",
+     "Da família e dos amigos",
+     "Das aulas",
+     "Do inglês"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "De onde é Sofia?",
+    "qEn": "Where is Sofia from?",
+    "options": [
+     "Do Brasil",
+     "Dos Estados Unidos",
+     "De Portugal",
+     "Da Argentina"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "a2-feelings-opinions-2",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "title": "A entrevista do Eduardo",
+  "titleEn": "Eduardo's interview",
+  "sentences": [
+   {
+    "pt": "Eduardo estava desempregado desde março.",
+    "en": "Eduardo had been unemployed since March.",
+    "glosses": {
+     "estava": "had been"
+    }
+   },
+   {
+    "pt": "Na quarta-feira, ele tinha uma entrevista numa empresa grande.",
+    "en": "On Wednesday, he had an interview at a big company.",
+    "glosses": {
+     "na": "on",
+     "tinha": "had",
+     "numa": "at a"
+    }
+   },
+   {
+    "pt": "Na noite de terça-feira, ele não conseguiu dormir.",
+    "en": "On Tuesday night, he couldn't sleep.",
+    "glosses": {
+     "na": "on",
+     "noite": "night",
+     "conseguiu": "could"
+    }
+   },
+   {
+    "pt": "Ele estava ansioso e com medo de falar algo errado.",
+    "en": "He was anxious and afraid of saying something wrong.",
+    "glosses": {
+     "estava": "was",
+     "medo": "fear",
+     "falar": "saying"
+    }
+   },
+   {
+    "pt": "De manhã, ele usou a melhor camisa dele.",
+    "en": "In the morning, he wore his best shirt.",
+    "glosses": {
+     "usou": "wore",
+     "melhor": "best",
+     "dele": "his"
+    }
+   },
+   {
+    "pt": "Mas no metrô, um homem empurrou o braço dele, e o café caiu na camisa.",
+    "en": "But on the subway, a man pushed his arm, and the coffee fell on his shirt.",
+    "glosses": {
+     "no": "on the",
+     "empurrou": "pushed",
+     "dele": "his",
+     "caiu": "fell",
+     "na": "on the"
+    }
+   },
+   {
+    "pt": "Eduardo ficou irritado e envergonhado.",
+    "en": "Eduardo got annoyed and embarrassed.",
+    "glosses": {
+     "ficou": "got"
+    }
+   },
+   {
+    "pt": "\"Que horrível! Agora vou chegar com a camisa suja\", ele pensou.",
+    "en": "\"How awful! Now I'm going to arrive with a dirty shirt,\" he thought.",
+    "glosses": {
+     "que": "how",
+     "vou": "I'm going to",
+     "pensou": "thought"
+    }
+   },
+   {
+    "pt": "Ele quase desistiu e voltou para casa.",
+    "en": "He almost gave up and went back home.",
+    "glosses": {
+     "desistiu": "gave up",
+     "voltou": "went back"
+    }
+   },
+   {
+    "pt": "Mas ele respirou fundo e continuou.",
+    "en": "But he took a deep breath and kept going.",
+    "glosses": {
+     "respirou": "breathed",
+     "fundo": "deeply",
+     "continuou": "kept going"
+    }
+   },
+   {
+    "pt": "Na empresa, a chefe era muito simpática.",
+    "en": "At the company, the boss was very friendly.",
+    "glosses": {
+     "na": "at the",
+     "era": "was"
+    }
+   },
+   {
+    "pt": "Eduardo explicou o problema do café, um pouco envergonhado.",
+    "en": "Eduardo explained the coffee problem, a little embarrassed.",
+    "glosses": {
+     "explicou": "explained",
+     "do": "with the"
+    }
+   },
+   {
+    "pt": "Ela riu e disse: \"Não tem problema. Isso acontece com todo mundo.\"",
+    "en": "She laughed and said: \"No problem. That happens to everybody.\"",
+    "glosses": {
+     "riu": "laughed",
+     "disse": "said",
+     "tem": "there is",
+     "acontece": "happens",
+     "com": "to",
+     "mundo": "world (everybody)"
+    }
+   },
+   {
+    "pt": "Depois disso, Eduardo ficou mais calmo.",
+    "en": "After that, Eduardo became calmer.",
+    "glosses": {
+     "disso": "that",
+     "ficou": "became",
+     "mais": "more"
+    }
+   },
+   {
+    "pt": "Ele falou sobre a experiência dele e respondeu todas as perguntas.",
+    "en": "He talked about his experience and answered all the questions.",
+    "glosses": {
+     "falou": "talked",
+     "dele": "his",
+     "respondeu": "answered"
+    }
+   },
+   {
+    "pt": "Dois dias depois, ele recebeu um e-mail da empresa.",
+    "en": "Two days later, he got an email from the company.",
+    "glosses": {
+     "depois": "later",
+     "recebeu": "got",
+     "da": "from the"
+    }
+   },
+   {
+    "pt": "Ele leu a mensagem e não acreditou: eles queriam contratar Eduardo!",
+    "en": "He read the message and couldn't believe it: they wanted to hire Eduardo!",
+    "glosses": {
+     "leu": "read",
+     "acreditou": "believed",
+     "queriam": "wanted"
+    }
+   },
+   {
+    "pt": "Ele ficou muito aliviado e feliz.",
+    "en": "He was very relieved and happy.",
+    "glosses": {
+     "ficou": "was"
+    }
+   },
+   {
+    "pt": "À noite, ele contou a notícia para a família.",
+    "en": "In the evening, he told the family the news.",
+    "glosses": {
+     "contou": "told"
+    }
+   },
+   {
+    "pt": "\"Estou muito orgulhosa de você\", disse a mãe dele.",
+    "en": "\"I'm very proud of you,\" his mother said.",
+    "glosses": {
+     "estou": "I am",
+     "orgulhosa": "proud (f)",
+     "disse": "said",
+     "dele": "his"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Como Eduardo se sentia antes da entrevista?",
+    "qEn": "How did Eduardo feel before the interview?",
+    "options": [
+     "Ansioso",
+     "Entediado",
+     "Alegre",
+     "Calmo"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "O que caiu na camisa dele?",
+    "qEn": "What fell on his shirt?",
+    "options": [
+     "Suco",
+     "Café",
+     "Água",
+     "Chá"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "O que dizia o e-mail?",
+    "qEn": "What did the email say?",
+    "options": [
+     "Ele não ganhou a vaga",
+     "A empresa queria contratar ele",
+     "A entrevista mudou de dia",
+     "A chefe estava doente"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

@@ -1,0 +1,483 @@
+[
+ {
+  "pt": "século",
+  "pos": "n.",
+  "english": "century",
+  "level": 2,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "séculos"
+  ],
+  "example": {
+   "pt": "A igreja é do século dezoito.",
+   "en": "The church is from the eighteenth century."
+  }
+ },
+ {
+  "pt": "década",
+  "pos": "n.",
+  "english": "decade",
+  "level": 2,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "décadas"
+  ],
+  "example": {
+   "pt": "Ela morou em Lisboa por uma década.",
+   "en": "She lived in Lisbon for a decade."
+  }
+ },
+ {
+  "pt": "feriado",
+  "pos": "n.",
+  "english": "holiday (public)",
+  "level": 2,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "feriados"
+  ],
+  "example": {
+   "pt": "Segunda-feira é feriado.",
+   "en": "Monday is a holiday."
+  }
+ },
+ {
+  "pt": "madrugada",
+  "pos": "n.",
+  "english": "early morning, small hours",
+  "level": 2,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "madrugadas"
+  ],
+  "example": {
+   "pt": "Eu cheguei em casa de madrugada.",
+   "en": "I got home in the early hours of the morning."
+  }
+ },
+ {
+  "pt": "meia-noite",
+  "pos": "n.",
+  "english": "midnight",
+  "level": 2,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "meia-noites"
+  ],
+  "example": {
+   "pt": "A festa acabou à meia-noite.",
+   "en": "The party ended at midnight."
+  }
+ },
+ {
+  "pt": "meio-dia",
+  "pos": "n.",
+  "english": "noon, midday",
+  "level": 2,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "meio-dias"
+  ],
+  "example": {
+   "pt": "Almoçamos ao meio-dia.",
+   "en": "We have lunch at noon."
+  }
+ },
+ {
+  "pt": "de vez em quando",
+  "pos": "expr.",
+  "english": "from time to time, sometimes",
+  "level": 2,
+  "topic": "Time",
+  "example": {
+   "pt": "De vez em quando eu vou ao cinema.",
+   "en": "I go to the movies from time to time."
+  }
+ },
+ {
+  "pt": "raramente",
+  "pos": "adv.",
+  "english": "rarely",
+  "level": 2,
+  "topic": "Time",
+  "example": {
+   "pt": "Eu raramente como carne.",
+   "en": "I rarely eat meat."
+  }
+ },
+ {
+  "pt": "frequentemente",
+  "pos": "adv.",
+  "english": "frequently, often",
+  "level": 2,
+  "topic": "Time",
+  "example": {
+   "pt": "Ele viaja frequentemente a trabalho.",
+   "en": "He often travels for work."
+  }
+ },
+ {
+  "pt": "cedo",
+  "pos": "adv.",
+  "english": "early",
+  "level": 2,
+  "topic": "Time",
+  "example": {
+   "pt": "Eu acordo cedo todos os dias.",
+   "en": "I wake up early every day."
+  }
+ },
+ {
+  "pt": "data",
+  "pos": "n.",
+  "english": "date",
+  "level": 2,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "datas"
+  ],
+  "example": {
+   "pt": "Qual é a data da prova?",
+   "en": "What is the date of the exam?"
+  }
+ },
+ {
+  "pt": "calendário",
+  "pos": "n.",
+  "english": "calendar",
+  "level": 2,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "calendários"
+  ],
+  "example": {
+   "pt": "Marquei a reunião no calendário.",
+   "en": "I put the meeting on the calendar."
+  }
+ },
+ {
+  "pt": "horário",
+  "pos": "n.",
+  "english": "schedule, timetable; time",
+  "level": 2,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "horários"
+  ],
+  "example": {
+   "pt": "Qual é o horário do ônibus?",
+   "en": "What is the bus schedule?"
+  }
+ },
+ {
+  "pt": "anteontem",
+  "pos": "adv.",
+  "english": "the day before yesterday",
+  "level": 2,
+  "topic": "Time",
+  "example": {
+   "pt": "Eu cheguei anteontem.",
+   "en": "I arrived the day before yesterday."
+  }
+ },
+ {
+  "pt": "depois de amanhã",
+  "pos": "expr.",
+  "english": "the day after tomorrow",
+  "level": 2,
+  "topic": "Time",
+  "example": {
+   "pt": "Vamos viajar depois de amanhã.",
+   "en": "We're going to travel the day after tomorrow."
+  }
+ },
+ {
+  "pt": "próximo",
+  "pos": "adj.",
+  "english": "next",
+  "level": 2,
+  "topic": "Time",
+  "forms": [
+   "próxima",
+   "próximos",
+   "próximas"
+  ],
+  "example": {
+   "pt": "Vou visitar meus pais no próximo mês.",
+   "en": "I'm going to visit my parents next month."
+  }
+ },
+ {
+  "pt": "passado",
+  "pos": "adj.",
+  "english": "last, past",
+  "level": 2,
+  "topic": "Time",
+  "forms": [
+   "passada",
+   "passados",
+   "passadas"
+  ],
+  "example": {
+   "pt": "Fui à praia na semana passada.",
+   "en": "I went to the beach last week."
+  }
+ },
+ {
+  "pt": "último",
+  "pos": "adj.",
+  "english": "last (final); latest",
+  "level": 2,
+  "topic": "Time",
+  "forms": [
+   "última",
+   "últimos",
+   "últimas"
+  ],
+  "example": {
+   "pt": "Este é o último ônibus da noite.",
+   "en": "This is the last bus of the night."
+  }
+ },
+ {
+  "pt": "atual",
+  "pos": "adj.",
+  "english": "current, present",
+  "level": 2,
+  "topic": "Time",
+  "forms": [
+   "atuais"
+  ],
+  "example": {
+   "pt": "Qual é o seu endereço atual?",
+   "en": "What is your current address?"
+  }
+ },
+ {
+  "pt": "antigamente",
+  "pos": "adv.",
+  "english": "in the old days, formerly",
+  "level": 2,
+  "topic": "Time",
+  "example": {
+   "pt": "Antigamente as pessoas escreviam cartas.",
+   "en": "In the old days people used to write letters."
+  }
+ },
+ {
+  "pt": "recentemente",
+  "pos": "adv.",
+  "english": "recently",
+  "level": 2,
+  "topic": "Time",
+  "example": {
+   "pt": "Ela mudou de emprego recentemente.",
+   "en": "She changed jobs recently."
+  }
+ },
+ {
+  "pt": "em breve",
+  "pos": "expr.",
+  "english": "soon",
+  "level": 2,
+  "topic": "Time",
+  "example": {
+   "pt": "O filme vai estrear em breve.",
+   "en": "The movie is going to come out soon."
+  }
+ },
+ {
+  "pt": "ao mesmo tempo",
+  "pos": "expr.",
+  "english": "at the same time",
+  "level": 2,
+  "topic": "Time",
+  "example": {
+   "pt": "Não consigo falar e escrever ao mesmo tempo.",
+   "en": "I can't talk and write at the same time."
+  }
+ },
+ {
+  "pt": "segundo",
+  "pos": "n.",
+  "english": "second (unit of time)",
+  "level": 2,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "segundos"
+  ],
+  "example": {
+   "pt": "Espere um segundo, por favor.",
+   "en": "Wait a second, please."
+  }
+ },
+ {
+  "pt": "daqui a",
+  "pos": "prep.",
+  "english": "in (time from now)",
+  "level": 2,
+  "topic": "Time",
+  "example": {
+   "pt": "O trem sai daqui a dez minutos.",
+   "en": "The train leaves in ten minutes."
+  }
+ },
+ {
+  "pt": "há",
+  "pos": "expr.",
+  "english": "ago; for (time)",
+  "level": 2,
+  "topic": "Time",
+  "example": {
+   "pt": "Eu conheci a Ana há cinco anos.",
+   "en": "I met Ana five years ago."
+  }
+ },
+ {
+  "pt": "durar",
+  "pos": "v.",
+  "english": "to last",
+  "level": 2,
+  "topic": "Time",
+  "example": {
+   "pt": "A aula dura uma hora.",
+   "en": "The class lasts one hour."
+  }
+ },
+ {
+  "pt": "demorar",
+  "pos": "v.",
+  "english": "to take (time); to be late",
+  "level": 2,
+  "topic": "Time",
+  "example": {
+   "pt": "A viagem demorou seis horas.",
+   "en": "The trip took six hours."
+  }
+ },
+ {
+  "pt": "época",
+  "pos": "n.",
+  "english": "time, period, season",
+  "level": 2,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "épocas"
+  ],
+  "example": {
+   "pt": "Naquela época eu morava no Rio.",
+   "en": "At that time I lived in Rio."
+  }
+ },
+ {
+  "pt": "momento",
+  "pos": "n.",
+  "english": "moment",
+  "level": 2,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "momentos"
+  ],
+  "example": {
+   "pt": "Neste momento ele está numa reunião.",
+   "en": "At the moment he's in a meeting."
+  }
+ },
+ {
+  "pt": "aniversário",
+  "pos": "n.",
+  "english": "birthday; anniversary",
+  "level": 2,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "aniversários"
+  ],
+  "example": {
+   "pt": "O meu aniversário é em maio.",
+   "en": "My birthday is in May."
+  }
+ },
+ {
+  "pt": "relógio",
+  "pos": "n.",
+  "english": "clock, watch",
+  "level": 2,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "relógios"
+  ],
+  "example": {
+   "pt": "O meu relógio parou.",
+   "en": "My watch stopped."
+  }
+ },
+ {
+  "pt": "fim",
+  "pos": "n.",
+  "english": "end",
+  "level": 2,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "fins"
+  ],
+  "example": {
+   "pt": "Vou viajar no fim do mês.",
+   "en": "I'm going to travel at the end of the month."
+  }
+ },
+ {
+  "pt": "começo",
+  "pos": "n.",
+  "english": "beginning, start",
+  "level": 2,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "começos"
+  ],
+  "example": {
+   "pt": "No começo foi difícil.",
+   "en": "In the beginning it was hard."
+  }
+ },
+ {
+  "pt": "pontual",
+  "pos": "adj.",
+  "english": "punctual, on time",
+  "level": 2,
+  "topic": "Time",
+  "forms": [
+   "pontuais"
+  ],
+  "example": {
+   "pt": "O professor é sempre pontual.",
+   "en": "The teacher is always punctual."
+  }
+ },
+ {
+  "pt": "a tempo",
+  "pos": "expr.",
+  "english": "in time",
+  "level": 2,
+  "topic": "Time",
+  "example": {
+   "pt": "Chegamos a tempo para o show.",
+   "en": "We arrived in time for the show."
+  }
+ }
+]

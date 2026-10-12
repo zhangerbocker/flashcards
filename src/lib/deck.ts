@@ -1,6 +1,6 @@
 import type { GrammarPoint } from "./grammar";
 import { TOPICS, type Topic } from "./topics";
-import { TENSES, type Tense, type Verb } from "./verbs";
+import { TENSE_LEVEL, TENSES, type Tense, type Verb } from "./verbs";
 import type { Level, Word } from "./words";
 
 /**
@@ -44,7 +44,9 @@ export interface Mistake {
   createdAt: string;
 }
 
+/** The content in use: only the levels switched on (A1–A2, or A1–B2). */
 export interface Deck {
+  levels: readonly Level[];
   words: readonly Word[];
   grammar: readonly GrammarPoint[];
   verbs: readonly Verb[];
@@ -106,7 +108,7 @@ export interface CardFilter {
 
 /** Every card key matching the filter: words in study order, everything else in list order. */
 export function matchingCards(deck: Deck, filter: CardFilter): string[] {
-  const levelOk = (level: Level) => filter.level === "all" || level === filter.level;
+  const levelOk = (level: Level) => (filter.level === "all" ? deck.levels.includes(level) : level === filter.level);
   const topicOk = (topic: Topic) => filter.topic === "all" || topic === filter.topic;
   let keys: string[];
   switch (filter.kind) {
@@ -124,11 +126,17 @@ export function matchingCards(deck: Deck, filter: CardFilter): string[] {
         .flatMap((g) => [cardKey("grammar", g.id, "u"), cardKey("grammar", g.id, "f")]);
       break;
     case "verbs": {
+      // A drill's level is the harder of the verb's and the tense's: B1 drills include the
+      // subjunctive of everyday A1 verbs.
       const levelOf = new Map(deck.words.map((w) => [w.id, w.level]));
       const tenses = !filter.tense || filter.tense === "all" ? TENSES : [filter.tense];
-      keys = deck.verbs
-        .filter((v) => levelOk(levelOf.get(v.wordId) ?? 1))
-        .flatMap((v) => tenses.flatMap((t) => [0, 1, 2, 3].map((p) => cardKey("conjugation", `${v.wordId}-${t}-${p}`, "p"))));
+      keys = deck.verbs.flatMap((v) => {
+        const wordLevel = levelOf.get(v.wordId);
+        if (wordLevel === undefined) return [];
+        return tenses
+          .filter((t) => levelOk(Math.max(wordLevel, TENSE_LEVEL[t]) as Level))
+          .flatMap((t) => [0, 1, 2, 3].map((p) => cardKey("conjugation", `${v.wordId}-${t}-${p}`, "p")));
+      });
       break;
     }
     case "mistakes":

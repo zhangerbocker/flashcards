@@ -1,0 +1,8642 @@
+{
+ "abrir": {
+  "tenses": {
+   "presente": [
+    "abro",
+    "abre",
+    "abrimos",
+    "abrem"
+   ],
+   "preterito": [
+    "abri",
+    "abriu",
+    "abrimos",
+    "abriram"
+   ],
+   "imperfeito": [
+    "abria",
+    "abria",
+    "abríamos",
+    "abriam"
+   ],
+   "futuro": [
+    "abrirei",
+    "abrirá",
+    "abriremos",
+    "abrirão"
+   ],
+   "condicional": [
+    "abriria",
+    "abriria",
+    "abriríamos",
+    "abririam"
+   ],
+   "subjpresente": [
+    "abra",
+    "abra",
+    "abramos",
+    "abram"
+   ],
+   "subjimperfeito": [
+    "abrisse",
+    "abrisse",
+    "abríssemos",
+    "abrissem"
+   ],
+   "subjfuturo": [
+    "abrir",
+    "abrir",
+    "abrirmos",
+    "abrirem"
+   ]
+  },
+  "gerund": "abrindo",
+  "participle": "aberto"
+ },
+ "acudir": {
+  "tenses": {
+   "presente": [
+    "acudo",
+    "acode",
+    "acudimos",
+    "acodem"
+   ],
+   "preterito": [
+    "acudi",
+    "acudiu",
+    "acudimos",
+    "acudiram"
+   ],
+   "imperfeito": [
+    "acudia",
+    "acudia",
+    "acudíamos",
+    "acudiam"
+   ],
+   "futuro": [
+    "acudirei",
+    "acudirá",
+    "acudiremos",
+    "acudirão"
+   ],
+   "condicional": [
+    "acudiria",
+    "acudiria",
+    "acudiríamos",
+    "acudiriam"
+   ],
+   "subjpresente": [
+    "acuda",
+    "acuda",
+    "acudamos",
+    "acudam"
+   ],
+   "subjimperfeito": [
+    "acudisse",
+    "acudisse",
+    "acudíssemos",
+    "acudissem"
+   ],
+   "subjfuturo": [
+    "acudir",
+    "acudir",
+    "acudirmos",
+    "acudirem"
+   ]
+  },
+  "gerund": "acudindo",
+  "participle": "acudido"
+ },
+ "aderir": {
+  "tenses": {
+   "presente": [
+    "adiro",
+    "adere",
+    "aderimos",
+    "aderem"
+   ],
+   "preterito": [
+    "aderi",
+    "aderiu",
+    "aderimos",
+    "aderiram"
+   ],
+   "imperfeito": [
+    "aderia",
+    "aderia",
+    "aderíamos",
+    "aderiam"
+   ],
+   "futuro": [
+    "aderirei",
+    "aderirá",
+    "aderiremos",
+    "aderirão"
+   ],
+   "condicional": [
+    "aderiria",
+    "aderiria",
+    "aderiríamos",
+    "adeririam"
+   ],
+   "subjpresente": [
+    "adira",
+    "adira",
+    "adiramos",
+    "adiram"
+   ],
+   "subjimperfeito": [
+    "aderisse",
+    "aderisse",
+    "aderíssemos",
+    "aderissem"
+   ],
+   "subjfuturo": [
+    "aderir",
+    "aderir",
+    "aderirmos",
+    "aderirem"
+   ]
+  },
+  "gerund": "aderindo",
+  "participle": "aderido"
+ },
+ "advertir": {
+  "tenses": {
+   "presente": [
+    "advirto",
+    "adverte",
+    "advertimos",
+    "advertem"
+   ],
+   "preterito": [
+    "adverti",
+    "advertiu",
+    "advertimos",
+    "advertiram"
+   ],
+   "imperfeito": [
+    "advertia",
+    "advertia",
+    "advertíamos",
+    "advertiam"
+   ],
+   "futuro": [
+    "advertirei",
+    "advertirá",
+    "advertiremos",
+    "advertirão"
+   ],
+   "condicional": [
+    "advertiria",
+    "advertiria",
+    "advertiríamos",
+    "advertiriam"
+   ],
+   "subjpresente": [
+    "advirta",
+    "advirta",
+    "advirtamos",
+    "advirtam"
+   ],
+   "subjimperfeito": [
+    "advertisse",
+    "advertisse",
+    "advertíssemos",
+    "advertissem"
+   ],
+   "subjfuturo": [
+    "advertir",
+    "advertir",
+    "advertirmos",
+    "advertirem"
+   ]
+  },
+  "gerund": "advertindo",
+  "participle": "advertido"
+ },
+ "agredir": {
+  "tenses": {
+   "presente": [
+    "agrido",
+    "agride",
+    "agredimos",
+    "agridem"
+   ],
+   "preterito": [
+    "agredi",
+    "agrediu",
+    "agredimos",
+    "agrediram"
+   ],
+   "imperfeito": [
+    "agredia",
+    "agredia",
+    "agredíamos",
+    "agrediam"
+   ],
+   "futuro": [
+    "agredirei",
+    "agredirá",
+    "agrediremos",
+    "agredirão"
+   ],
+   "condicional": [
+    "agrediria",
+    "agrediria",
+    "agrediríamos",
+    "agrediriam"
+   ],
+   "subjpresente": [
+    "agrida",
+    "agrida",
+    "agridamos",
+    "agridam"
+   ],
+   "subjimperfeito": [
+    "agredisse",
+    "agredisse",
+    "agredíssemos",
+    "agredissem"
+   ],
+   "subjfuturo": [
+    "agredir",
+    "agredir",
+    "agredirmos",
+    "agredirem"
+   ]
+  },
+  "gerund": "agredindo",
+  "participle": "agredido"
+ },
+ "aguar": {
+  "tenses": {
+   "presente": [
+    "águo",
+    "água",
+    "aguamos",
+    "águam"
+   ],
+   "preterito": [
+    "aguei",
+    "aguou",
+    "aguamos",
+    "aguaram"
+   ],
+   "imperfeito": [
+    "aguava",
+    "aguava",
+    "aguávamos",
+    "aguavam"
+   ],
+   "futuro": [
+    "aguarei",
+    "aguará",
+    "aguaremos",
+    "aguarão"
+   ],
+   "condicional": [
+    "aguaria",
+    "aguaria",
+    "aguaríamos",
+    "aguariam"
+   ],
+   "subjpresente": [
+    "águe",
+    "águe",
+    "aguemos",
+    "águem"
+   ],
+   "subjimperfeito": [
+    "aguasse",
+    "aguasse",
+    "aguássemos",
+    "aguassem"
+   ],
+   "subjfuturo": [
+    "aguar",
+    "aguar",
+    "aguarmos",
+    "aguarem"
+   ]
+  },
+  "gerund": "aguando",
+  "participle": "aguado"
+ },
+ "ansiar": {
+  "tenses": {
+   "presente": [
+    "anseio",
+    "anseia",
+    "ansiamos",
+    "anseiam"
+   ],
+   "preterito": [
+    "ansiei",
+    "ansiou",
+    "ansiamos",
+    "ansiaram"
+   ],
+   "imperfeito": [
+    "ansiava",
+    "ansiava",
+    "ansiávamos",
+    "ansiavam"
+   ],
+   "futuro": [
+    "ansiarei",
+    "ansiará",
+    "ansiaremos",
+    "ansiarão"
+   ],
+   "condicional": [
+    "ansiaria",
+    "ansiaria",
+    "ansiaríamos",
+    "ansiariam"
+   ],
+   "subjpresente": [
+    "anseie",
+    "anseie",
+    "ansiemos",
+    "anseiem"
+   ],
+   "subjimperfeito": [
+    "ansiasse",
+    "ansiasse",
+    "ansiássemos",
+    "ansiassem"
+   ],
+   "subjfuturo": [
+    "ansiar",
+    "ansiar",
+    "ansiarmos",
+    "ansiarem"
+   ]
+  },
+  "gerund": "ansiando",
+  "participle": "ansiado"
+ },
+ "atrair": {
+  "tenses": {
+   "presente": [
+    "atraio",
+    "atrai",
+    "atraímos",
+    "atraem"
+   ],
+   "preterito": [
+    "atraí",
+    "atraiu",
+    "atraímos",
+    "atraíram"
+   ],
+   "imperfeito": [
+    "atraía",
+    "atraía",
+    "atraíamos",
+    "atraíam"
+   ],
+   "futuro": [
+    "atrairei",
+    "atrairá",
+    "atrairemos",
+    "atrairão"
+   ],
+   "condicional": [
+    "atrairia",
+    "atrairia",
+    "atrairíamos",
+    "atrairiam"
+   ],
+   "subjpresente": [
+    "atraia",
+    "atraia",
+    "atraiamos",
+    "atraiam"
+   ],
+   "subjimperfeito": [
+    "atraísse",
+    "atraísse",
+    "atraíssemos",
+    "atraíssem"
+   ],
+   "subjfuturo": [
+    "atrair",
+    "atrair",
+    "atrairmos",
+    "atraírem"
+   ]
+  },
+  "gerund": "atraindo",
+  "participle": "atraído"
+ },
+ "atribuir": {
+  "tenses": {
+   "presente": [
+    "atribuo",
+    "atribui",
+    "atribuímos",
+    "atribuem"
+   ],
+   "preterito": [
+    "atribuí",
+    "atribuiu",
+    "atribuímos",
+    "atribuíram"
+   ],
+   "imperfeito": [
+    "atribuía",
+    "atribuía",
+    "atribuíamos",
+    "atribuíam"
+   ],
+   "futuro": [
+    "atribuirei",
+    "atribuirá",
+    "atribuiremos",
+    "atribuirão"
+   ],
+   "condicional": [
+    "atribuiria",
+    "atribuiria",
+    "atribuiríamos",
+    "atribuiriam"
+   ],
+   "subjpresente": [
+    "atribua",
+    "atribua",
+    "atribuamos",
+    "atribuam"
+   ],
+   "subjimperfeito": [
+    "atribuísse",
+    "atribuísse",
+    "atribuíssemos",
+    "atribuíssem"
+   ],
+   "subjfuturo": [
+    "atribuir",
+    "atribuir",
+    "atribuirmos",
+    "atribuírem"
+   ]
+  },
+  "gerund": "atribuindo",
+  "participle": "atribuído"
+ },
+ "averiguar": {
+  "tenses": {
+   "presente": [
+    "averíguo",
+    "averígua",
+    "averiguamos",
+    "averíguam"
+   ],
+   "preterito": [
+    "averiguei",
+    "averiguou",
+    "averiguamos",
+    "averiguaram"
+   ],
+   "imperfeito": [
+    "averiguava",
+    "averiguava",
+    "averiguávamos",
+    "averiguavam"
+   ],
+   "futuro": [
+    "averiguarei",
+    "averiguará",
+    "averiguaremos",
+    "averiguarão"
+   ],
+   "condicional": [
+    "averiguaria",
+    "averiguaria",
+    "averiguaríamos",
+    "averiguariam"
+   ],
+   "subjpresente": [
+    "averígue",
+    "averígue",
+    "averiguemos",
+    "averíguem"
+   ],
+   "subjimperfeito": [
+    "averiguasse",
+    "averiguasse",
+    "averiguássemos",
+    "averiguassem"
+   ],
+   "subjfuturo": [
+    "averiguar",
+    "averiguar",
+    "averiguarmos",
+    "averiguarem"
+   ]
+  },
+  "gerund": "averiguando",
+  "participle": "averiguado"
+ },
+ "basear": {
+  "tenses": {
+   "presente": [
+    "baseio",
+    "baseia",
+    "baseamos",
+    "baseiam"
+   ],
+   "preterito": [
+    "baseei",
+    "baseou",
+    "baseamos",
+    "basearam"
+   ],
+   "imperfeito": [
+    "baseava",
+    "baseava",
+    "baseávamos",
+    "baseavam"
+   ],
+   "futuro": [
+    "basearei",
+    "baseará",
+    "basearemos",
+    "basearão"
+   ],
+   "condicional": [
+    "basearia",
+    "basearia",
+    "basearíamos",
+    "baseariam"
+   ],
+   "subjpresente": [
+    "baseie",
+    "baseie",
+    "baseemos",
+    "baseiem"
+   ],
+   "subjimperfeito": [
+    "baseasse",
+    "baseasse",
+    "baseássemos",
+    "baseassem"
+   ],
+   "subjfuturo": [
+    "basear",
+    "basear",
+    "basearmos",
+    "basearem"
+   ]
+  },
+  "gerund": "baseando",
+  "participle": "baseado"
+ },
+ "bloquear": {
+  "tenses": {
+   "presente": [
+    "bloqueio",
+    "bloqueia",
+    "bloqueamos",
+    "bloqueiam"
+   ],
+   "preterito": [
+    "bloqueei",
+    "bloqueou",
+    "bloqueamos",
+    "bloquearam"
+   ],
+   "imperfeito": [
+    "bloqueava",
+    "bloqueava",
+    "bloqueávamos",
+    "bloqueavam"
+   ],
+   "futuro": [
+    "bloquearei",
+    "bloqueará",
+    "bloquearemos",
+    "bloquearão"
+   ],
+   "condicional": [
+    "bloquearia",
+    "bloquearia",
+    "bloquearíamos",
+    "bloqueariam"
+   ],
+   "subjpresente": [
+    "bloqueie",
+    "bloqueie",
+    "bloqueemos",
+    "bloqueiem"
+   ],
+   "subjimperfeito": [
+    "bloqueasse",
+    "bloqueasse",
+    "bloqueássemos",
+    "bloqueassem"
+   ],
+   "subjfuturo": [
+    "bloquear",
+    "bloquear",
+    "bloquearmos",
+    "bloquearem"
+   ]
+  },
+  "gerund": "bloqueando",
+  "participle": "bloqueado"
+ },
+ "caber": {
+  "tenses": {
+   "presente": [
+    "caibo",
+    "cabe",
+    "cabemos",
+    "cabem"
+   ],
+   "preterito": [
+    "coube",
+    "coube",
+    "coubemos",
+    "couberam"
+   ],
+   "imperfeito": [
+    "cabia",
+    "cabia",
+    "cabíamos",
+    "cabiam"
+   ],
+   "futuro": [
+    "caberei",
+    "caberá",
+    "caberemos",
+    "caberão"
+   ],
+   "condicional": [
+    "caberia",
+    "caberia",
+    "caberíamos",
+    "caberiam"
+   ],
+   "subjpresente": [
+    "caiba",
+    "caiba",
+    "caibamos",
+    "caibam"
+   ],
+   "subjimperfeito": [
+    "coubesse",
+    "coubesse",
+    "coubéssemos",
+    "coubessem"
+   ],
+   "subjfuturo": [
+    "couber",
+    "couber",
+    "coubermos",
+    "couberem"
+   ]
+  },
+  "gerund": "cabendo",
+  "participle": "cabido"
+ },
+ "cair": {
+  "tenses": {
+   "presente": [
+    "caio",
+    "cai",
+    "caímos",
+    "caem"
+   ],
+   "preterito": [
+    "caí",
+    "caiu",
+    "caímos",
+    "caíram"
+   ],
+   "imperfeito": [
+    "caía",
+    "caía",
+    "caíamos",
+    "caíam"
+   ],
+   "futuro": [
+    "cairei",
+    "cairá",
+    "cairemos",
+    "cairão"
+   ],
+   "condicional": [
+    "cairia",
+    "cairia",
+    "cairíamos",
+    "cairiam"
+   ],
+   "subjpresente": [
+    "caia",
+    "caia",
+    "caiamos",
+    "caiam"
+   ],
+   "subjimperfeito": [
+    "caísse",
+    "caísse",
+    "caíssemos",
+    "caíssem"
+   ],
+   "subjfuturo": [
+    "cair",
+    "cair",
+    "cairmos",
+    "caírem"
+   ]
+  },
+  "gerund": "caindo",
+  "participle": "caído"
+ },
+ "chatear": {
+  "tenses": {
+   "presente": [
+    "chateio",
+    "chateia",
+    "chateamos",
+    "chateiam"
+   ],
+   "preterito": [
+    "chateei",
+    "chateou",
+    "chateamos",
+    "chatearam"
+   ],
+   "imperfeito": [
+    "chateava",
+    "chateava",
+    "chateávamos",
+    "chateavam"
+   ],
+   "futuro": [
+    "chatearei",
+    "chateará",
+    "chatearemos",
+    "chatearão"
+   ],
+   "condicional": [
+    "chatearia",
+    "chatearia",
+    "chatearíamos",
+    "chateariam"
+   ],
+   "subjpresente": [
+    "chateie",
+    "chateie",
+    "chateemos",
+    "chateiem"
+   ],
+   "subjimperfeito": [
+    "chateasse",
+    "chateasse",
+    "chateássemos",
+    "chateassem"
+   ],
+   "subjfuturo": [
+    "chatear",
+    "chatear",
+    "chatearmos",
+    "chatearem"
+   ]
+  },
+  "gerund": "chateando",
+  "participle": "chateado"
+ },
+ "cobrir": {
+  "tenses": {
+   "presente": [
+    "cubro",
+    "cobre",
+    "cobrimos",
+    "cobrem"
+   ],
+   "preterito": [
+    "cobri",
+    "cobriu",
+    "cobrimos",
+    "cobriram"
+   ],
+   "imperfeito": [
+    "cobria",
+    "cobria",
+    "cobríamos",
+    "cobriam"
+   ],
+   "futuro": [
+    "cobrirei",
+    "cobrirá",
+    "cobriremos",
+    "cobrirão"
+   ],
+   "condicional": [
+    "cobriria",
+    "cobriria",
+    "cobriríamos",
+    "cobririam"
+   ],
+   "subjpresente": [
+    "cubra",
+    "cubra",
+    "cubramos",
+    "cubram"
+   ],
+   "subjimperfeito": [
+    "cobrisse",
+    "cobrisse",
+    "cobríssemos",
+    "cobrissem"
+   ],
+   "subjfuturo": [
+    "cobrir",
+    "cobrir",
+    "cobrirmos",
+    "cobrirem"
+   ]
+  },
+  "gerund": "cobrindo",
+  "participle": "coberto"
+ },
+ "competir": {
+  "tenses": {
+   "presente": [
+    "compito",
+    "compete",
+    "competimos",
+    "competem"
+   ],
+   "preterito": [
+    "competi",
+    "competiu",
+    "competimos",
+    "competiram"
+   ],
+   "imperfeito": [
+    "competia",
+    "competia",
+    "competíamos",
+    "competiam"
+   ],
+   "futuro": [
+    "competirei",
+    "competirá",
+    "competiremos",
+    "competirão"
+   ],
+   "condicional": [
+    "competiria",
+    "competiria",
+    "competiríamos",
+    "competiriam"
+   ],
+   "subjpresente": [
+    "compita",
+    "compita",
+    "compitamos",
+    "compitam"
+   ],
+   "subjimperfeito": [
+    "competisse",
+    "competisse",
+    "competíssemos",
+    "competissem"
+   ],
+   "subjfuturo": [
+    "competir",
+    "competir",
+    "competirmos",
+    "competirem"
+   ]
+  },
+  "gerund": "competindo",
+  "participle": "competido"
+ },
+ "compor": {
+  "tenses": {
+   "presente": [
+    "componho",
+    "compõe",
+    "compomos",
+    "compõem"
+   ],
+   "preterito": [
+    "compus",
+    "compôs",
+    "compusemos",
+    "compuseram"
+   ],
+   "imperfeito": [
+    "compunha",
+    "compunha",
+    "compúnhamos",
+    "compunham"
+   ],
+   "futuro": [
+    "comporei",
+    "comporá",
+    "comporemos",
+    "comporão"
+   ],
+   "condicional": [
+    "comporia",
+    "comporia",
+    "comporíamos",
+    "comporiam"
+   ],
+   "subjpresente": [
+    "componha",
+    "componha",
+    "componhamos",
+    "componham"
+   ],
+   "subjimperfeito": [
+    "compusesse",
+    "compusesse",
+    "compuséssemos",
+    "compusessem"
+   ],
+   "subjfuturo": [
+    "compuser",
+    "compuser",
+    "compusermos",
+    "compuserem"
+   ]
+  },
+  "gerund": "compondo",
+  "participle": "composto"
+ },
+ "concluir": {
+  "tenses": {
+   "presente": [
+    "concluo",
+    "conclui",
+    "concluímos",
+    "concluem"
+   ],
+   "preterito": [
+    "concluí",
+    "concluiu",
+    "concluímos",
+    "concluíram"
+   ],
+   "imperfeito": [
+    "concluía",
+    "concluía",
+    "concluíamos",
+    "concluíam"
+   ],
+   "futuro": [
+    "concluirei",
+    "concluirá",
+    "concluiremos",
+    "concluirão"
+   ],
+   "condicional": [
+    "concluiria",
+    "concluiria",
+    "concluiríamos",
+    "concluiriam"
+   ],
+   "subjpresente": [
+    "conclua",
+    "conclua",
+    "concluamos",
+    "concluam"
+   ],
+   "subjimperfeito": [
+    "concluísse",
+    "concluísse",
+    "concluíssemos",
+    "concluíssem"
+   ],
+   "subjfuturo": [
+    "concluir",
+    "concluir",
+    "concluirmos",
+    "concluírem"
+   ]
+  },
+  "gerund": "concluindo",
+  "participle": "concluído"
+ },
+ "conduzir": {
+  "tenses": {
+   "presente": [
+    "conduzo",
+    "conduz",
+    "conduzimos",
+    "conduzem"
+   ],
+   "preterito": [
+    "conduzi",
+    "conduziu",
+    "conduzimos",
+    "conduziram"
+   ],
+   "imperfeito": [
+    "conduzia",
+    "conduzia",
+    "conduzíamos",
+    "conduziam"
+   ],
+   "futuro": [
+    "conduzirei",
+    "conduzirá",
+    "conduziremos",
+    "conduzirão"
+   ],
+   "condicional": [
+    "conduziria",
+    "conduziria",
+    "conduziríamos",
+    "conduziriam"
+   ],
+   "subjpresente": [
+    "conduza",
+    "conduza",
+    "conduzamos",
+    "conduzam"
+   ],
+   "subjimperfeito": [
+    "conduzisse",
+    "conduzisse",
+    "conduzíssemos",
+    "conduzissem"
+   ],
+   "subjfuturo": [
+    "conduzir",
+    "conduzir",
+    "conduzirmos",
+    "conduzirem"
+   ]
+  },
+  "gerund": "conduzindo",
+  "participle": "conduzido"
+ },
+ "conferir": {
+  "tenses": {
+   "presente": [
+    "confiro",
+    "confere",
+    "conferimos",
+    "conferem"
+   ],
+   "preterito": [
+    "conferi",
+    "conferiu",
+    "conferimos",
+    "conferiram"
+   ],
+   "imperfeito": [
+    "conferia",
+    "conferia",
+    "conferíamos",
+    "conferiam"
+   ],
+   "futuro": [
+    "conferirei",
+    "conferirá",
+    "conferiremos",
+    "conferirão"
+   ],
+   "condicional": [
+    "conferiria",
+    "conferiria",
+    "conferiríamos",
+    "confeririam"
+   ],
+   "subjpresente": [
+    "confira",
+    "confira",
+    "confiramos",
+    "confiram"
+   ],
+   "subjimperfeito": [
+    "conferisse",
+    "conferisse",
+    "conferíssemos",
+    "conferissem"
+   ],
+   "subjfuturo": [
+    "conferir",
+    "conferir",
+    "conferirmos",
+    "conferirem"
+   ]
+  },
+  "gerund": "conferindo",
+  "participle": "conferido"
+ },
+ "conseguir": {
+  "tenses": {
+   "presente": [
+    "consigo",
+    "consegue",
+    "conseguimos",
+    "conseguem"
+   ],
+   "preterito": [
+    "consegui",
+    "conseguiu",
+    "conseguimos",
+    "conseguiram"
+   ],
+   "imperfeito": [
+    "conseguia",
+    "conseguia",
+    "conseguíamos",
+    "conseguiam"
+   ],
+   "futuro": [
+    "conseguirei",
+    "conseguirá",
+    "conseguiremos",
+    "conseguirão"
+   ],
+   "condicional": [
+    "conseguiria",
+    "conseguiria",
+    "conseguiríamos",
+    "conseguiriam"
+   ],
+   "subjpresente": [
+    "consiga",
+    "consiga",
+    "consigamos",
+    "consigam"
+   ],
+   "subjimperfeito": [
+    "conseguisse",
+    "conseguisse",
+    "conseguíssemos",
+    "conseguissem"
+   ],
+   "subjfuturo": [
+    "conseguir",
+    "conseguir",
+    "conseguirmos",
+    "conseguirem"
+   ]
+  },
+  "gerund": "conseguindo",
+  "participle": "conseguido"
+ },
+ "consentir": {
+  "tenses": {
+   "presente": [
+    "consinto",
+    "consente",
+    "consentimos",
+    "consentem"
+   ],
+   "preterito": [
+    "consenti",
+    "consentiu",
+    "consentimos",
+    "consentiram"
+   ],
+   "imperfeito": [
+    "consentia",
+    "consentia",
+    "consentíamos",
+    "consentiam"
+   ],
+   "futuro": [
+    "consentirei",
+    "consentirá",
+    "consentiremos",
+    "consentirão"
+   ],
+   "condicional": [
+    "consentiria",
+    "consentiria",
+    "consentiríamos",
+    "consentiriam"
+   ],
+   "subjpresente": [
+    "consinta",
+    "consinta",
+    "consintamos",
+    "consintam"
+   ],
+   "subjimperfeito": [
+    "consentisse",
+    "consentisse",
+    "consentíssemos",
+    "consentissem"
+   ],
+   "subjfuturo": [
+    "consentir",
+    "consentir",
+    "consentirmos",
+    "consentirem"
+   ]
+  },
+  "gerund": "consentindo",
+  "participle": "consentido"
+ },
+ "construir": {
+  "tenses": {
+   "presente": [
+    "construo",
+    "constrói",
+    "construímos",
+    "constroem"
+   ],
+   "preterito": [
+    "construí",
+    "construiu",
+    "construímos",
+    "construíram"
+   ],
+   "imperfeito": [
+    "construía",
+    "construía",
+    "construíamos",
+    "construíam"
+   ],
+   "futuro": [
+    "construirei",
+    "construirá",
+    "construiremos",
+    "construirão"
+   ],
+   "condicional": [
+    "construiria",
+    "construiria",
+    "construiríamos",
+    "construiriam"
+   ],
+   "subjpresente": [
+    "construa",
+    "construa",
+    "construamos",
+    "construam"
+   ],
+   "subjimperfeito": [
+    "construísse",
+    "construísse",
+    "construíssemos",
+    "construíssem"
+   ],
+   "subjfuturo": [
+    "construir",
+    "construir",
+    "construirmos",
+    "construírem"
+   ]
+  },
+  "gerund": "construindo",
+  "participle": "construído"
+ },
+ "consumir": {
+  "tenses": {
+   "presente": [
+    "consumo",
+    "consome",
+    "consumimos",
+    "consomem"
+   ],
+   "preterito": [
+    "consumi",
+    "consumiu",
+    "consumimos",
+    "consumiram"
+   ],
+   "imperfeito": [
+    "consumia",
+    "consumia",
+    "consumíamos",
+    "consumiam"
+   ],
+   "futuro": [
+    "consumirei",
+    "consumirá",
+    "consumiremos",
+    "consumirão"
+   ],
+   "condicional": [
+    "consumiria",
+    "consumiria",
+    "consumiríamos",
+    "consumiriam"
+   ],
+   "subjpresente": [
+    "consuma",
+    "consuma",
+    "consumamos",
+    "consumam"
+   ],
+   "subjimperfeito": [
+    "consumisse",
+    "consumisse",
+    "consumíssemos",
+    "consumissem"
+   ],
+   "subjfuturo": [
+    "consumir",
+    "consumir",
+    "consumirmos",
+    "consumirem"
+   ]
+  },
+  "gerund": "consumindo",
+  "participle": "consumido"
+ },
+ "conter": {
+  "tenses": {
+   "presente": [
+    "contenho",
+    "contém",
+    "contemos",
+    "contêm"
+   ],
+   "preterito": [
+    "contive",
+    "conteve",
+    "contivemos",
+    "contiveram"
+   ],
+   "imperfeito": [
+    "continha",
+    "continha",
+    "contínhamos",
+    "continham"
+   ],
+   "futuro": [
+    "conterei",
+    "conterá",
+    "conteremos",
+    "conterão"
+   ],
+   "condicional": [
+    "conteria",
+    "conteria",
+    "conteríamos",
+    "conteriam"
+   ],
+   "subjpresente": [
+    "contenha",
+    "contenha",
+    "contenhamos",
+    "contenham"
+   ],
+   "subjimperfeito": [
+    "contivesse",
+    "contivesse",
+    "contivéssemos",
+    "contivessem"
+   ],
+   "subjfuturo": [
+    "contiver",
+    "contiver",
+    "contivermos",
+    "contiverem"
+   ]
+  },
+  "gerund": "contendo",
+  "participle": "contido"
+ },
+ "contradizer": {
+  "tenses": {
+   "presente": [
+    "contradigo",
+    "contradiz",
+    "contradizemos",
+    "contradizem"
+   ],
+   "preterito": [
+    "contradisse",
+    "contradisse",
+    "contradissemos",
+    "contradisseram"
+   ],
+   "imperfeito": [
+    "contradizia",
+    "contradizia",
+    "contradizíamos",
+    "contradiziam"
+   ],
+   "futuro": [
+    "contradirei",
+    "contradirá",
+    "contradiremos",
+    "contradirão"
+   ],
+   "condicional": [
+    "contradiria",
+    "contradiria",
+    "contradiríamos",
+    "contradiriam"
+   ],
+   "subjpresente": [
+    "contradiga",
+    "contradiga",
+    "contradigamos",
+    "contradigam"
+   ],
+   "subjimperfeito": [
+    "contradissesse",
+    "contradissesse",
+    "contradisséssemos",
+    "contradissessem"
+   ],
+   "subjfuturo": [
+    "contradisser",
+    "contradisser",
+    "contradissermos",
+    "contradisserem"
+   ]
+  },
+  "gerund": "contradizendo",
+  "participle": "contradito"
+ },
+ "contrair": {
+  "tenses": {
+   "presente": [
+    "contraio",
+    "contrai",
+    "contraímos",
+    "contraem"
+   ],
+   "preterito": [
+    "contraí",
+    "contraiu",
+    "contraímos",
+    "contraíram"
+   ],
+   "imperfeito": [
+    "contraía",
+    "contraía",
+    "contraíamos",
+    "contraíam"
+   ],
+   "futuro": [
+    "contrairei",
+    "contrairá",
+    "contrairemos",
+    "contrairão"
+   ],
+   "condicional": [
+    "contrairia",
+    "contrairia",
+    "contrairíamos",
+    "contrairiam"
+   ],
+   "subjpresente": [
+    "contraia",
+    "contraia",
+    "contraiamos",
+    "contraiam"
+   ],
+   "subjimperfeito": [
+    "contraísse",
+    "contraísse",
+    "contraíssemos",
+    "contraíssem"
+   ],
+   "subjfuturo": [
+    "contrair",
+    "contrair",
+    "contrairmos",
+    "contraírem"
+   ]
+  },
+  "gerund": "contraindo",
+  "participle": "contraído"
+ },
+ "contribuir": {
+  "tenses": {
+   "presente": [
+    "contribuo",
+    "contribui",
+    "contribuímos",
+    "contribuem"
+   ],
+   "preterito": [
+    "contribuí",
+    "contribuiu",
+    "contribuímos",
+    "contribuíram"
+   ],
+   "imperfeito": [
+    "contribuía",
+    "contribuía",
+    "contribuíamos",
+    "contribuíam"
+   ],
+   "futuro": [
+    "contribuirei",
+    "contribuirá",
+    "contribuiremos",
+    "contribuirão"
+   ],
+   "condicional": [
+    "contribuiria",
+    "contribuiria",
+    "contribuiríamos",
+    "contribuiriam"
+   ],
+   "subjpresente": [
+    "contribua",
+    "contribua",
+    "contribuamos",
+    "contribuam"
+   ],
+   "subjimperfeito": [
+    "contribuísse",
+    "contribuísse",
+    "contribuíssemos",
+    "contribuíssem"
+   ],
+   "subjfuturo": [
+    "contribuir",
+    "contribuir",
+    "contribuirmos",
+    "contribuírem"
+   ]
+  },
+  "gerund": "contribuindo",
+  "participle": "contribuído"
+ },
+ "convir": {
+  "tenses": {
+   "presente": [
+    "convenho",
+    "convém",
+    "convimos",
+    "convêm"
+   ],
+   "preterito": [
+    "convim",
+    "conveio",
+    "conviemos",
+    "convieram"
+   ],
+   "imperfeito": [
+    "convinha",
+    "convinha",
+    "convínhamos",
+    "convinham"
+   ],
+   "futuro": [
+    "convirei",
+    "convirá",
+    "conviremos",
+    "convirão"
+   ],
+   "condicional": [
+    "conviria",
+    "conviria",
+    "conviríamos",
+    "conviriam"
+   ],
+   "subjpresente": [
+    "convenha",
+    "convenha",
+    "convenhamos",
+    "convenham"
+   ],
+   "subjimperfeito": [
+    "conviesse",
+    "conviesse",
+    "conviéssemos",
+    "conviessem"
+   ],
+   "subjfuturo": [
+    "convier",
+    "convier",
+    "conviermos",
+    "convierem"
+   ]
+  },
+  "gerund": "convindo",
+  "participle": "convindo"
+ },
+ "crer": {
+  "tenses": {
+   "presente": [
+    "creio",
+    "crê",
+    "cremos",
+    "creem"
+   ],
+   "preterito": [
+    "cri",
+    "creu",
+    "cremos",
+    "creram"
+   ],
+   "imperfeito": [
+    "cria",
+    "cria",
+    "críamos",
+    "criam"
+   ],
+   "futuro": [
+    "crerei",
+    "crerá",
+    "creremos",
+    "crerão"
+   ],
+   "condicional": [
+    "creria",
+    "creria",
+    "creríamos",
+    "creriam"
+   ],
+   "subjpresente": [
+    "creia",
+    "creia",
+    "creiamos",
+    "creiam"
+   ],
+   "subjimperfeito": [
+    "cresse",
+    "cresse",
+    "crêssemos",
+    "cressem"
+   ],
+   "subjfuturo": [
+    "crer",
+    "crer",
+    "crermos",
+    "crerem"
+   ]
+  },
+  "gerund": "crendo",
+  "participle": "crido"
+ },
+ "dar": {
+  "tenses": {
+   "presente": [
+    "dou",
+    "dá",
+    "damos",
+    "dão"
+   ],
+   "preterito": [
+    "dei",
+    "deu",
+    "demos",
+    "deram"
+   ],
+   "imperfeito": [
+    "dava",
+    "dava",
+    "dávamos",
+    "davam"
+   ],
+   "futuro": [
+    "darei",
+    "dará",
+    "daremos",
+    "darão"
+   ],
+   "condicional": [
+    "daria",
+    "daria",
+    "daríamos",
+    "dariam"
+   ],
+   "subjpresente": [
+    "dê",
+    "dê",
+    "demos",
+    "deem"
+   ],
+   "subjimperfeito": [
+    "desse",
+    "desse",
+    "déssemos",
+    "dessem"
+   ],
+   "subjfuturo": [
+    "der",
+    "der",
+    "dermos",
+    "derem"
+   ]
+  },
+  "gerund": "dando",
+  "participle": "dado"
+ },
+ "depor": {
+  "tenses": {
+   "presente": [
+    "deponho",
+    "depõe",
+    "depomos",
+    "depõem"
+   ],
+   "preterito": [
+    "depus",
+    "depôs",
+    "depusemos",
+    "depuseram"
+   ],
+   "imperfeito": [
+    "depunha",
+    "depunha",
+    "depúnhamos",
+    "depunham"
+   ],
+   "futuro": [
+    "deporei",
+    "deporá",
+    "deporemos",
+    "deporão"
+   ],
+   "condicional": [
+    "deporia",
+    "deporia",
+    "deporíamos",
+    "deporiam"
+   ],
+   "subjpresente": [
+    "deponha",
+    "deponha",
+    "deponhamos",
+    "deponham"
+   ],
+   "subjimperfeito": [
+    "depusesse",
+    "depusesse",
+    "depuséssemos",
+    "depusessem"
+   ],
+   "subjfuturo": [
+    "depuser",
+    "depuser",
+    "depusermos",
+    "depuserem"
+   ]
+  },
+  "gerund": "depondo",
+  "participle": "deposto"
+ },
+ "descobrir": {
+  "tenses": {
+   "presente": [
+    "descubro",
+    "descobre",
+    "descobrimos",
+    "descobrem"
+   ],
+   "preterito": [
+    "descobri",
+    "descobriu",
+    "descobrimos",
+    "descobriram"
+   ],
+   "imperfeito": [
+    "descobria",
+    "descobria",
+    "descobríamos",
+    "descobriam"
+   ],
+   "futuro": [
+    "descobrirei",
+    "descobrirá",
+    "descobriremos",
+    "descobrirão"
+   ],
+   "condicional": [
+    "descobriria",
+    "descobriria",
+    "descobriríamos",
+    "descobririam"
+   ],
+   "subjpresente": [
+    "descubra",
+    "descubra",
+    "descubramos",
+    "descubram"
+   ],
+   "subjimperfeito": [
+    "descobrisse",
+    "descobrisse",
+    "descobríssemos",
+    "descobrissem"
+   ],
+   "subjfuturo": [
+    "descobrir",
+    "descobrir",
+    "descobrirmos",
+    "descobrirem"
+   ]
+  },
+  "gerund": "descobrindo",
+  "participle": "descoberto"
+ },
+ "descrever": {
+  "tenses": {
+   "presente": [
+    "descrevo",
+    "descreve",
+    "descrevemos",
+    "descrevem"
+   ],
+   "preterito": [
+    "descrevi",
+    "descreveu",
+    "descrevemos",
+    "descreveram"
+   ],
+   "imperfeito": [
+    "descrevia",
+    "descrevia",
+    "descrevíamos",
+    "descreviam"
+   ],
+   "futuro": [
+    "descreverei",
+    "descreverá",
+    "descreveremos",
+    "descreverão"
+   ],
+   "condicional": [
+    "descreveria",
+    "descreveria",
+    "descreveríamos",
+    "descreveriam"
+   ],
+   "subjpresente": [
+    "descreva",
+    "descreva",
+    "descrevamos",
+    "descrevam"
+   ],
+   "subjimperfeito": [
+    "descrevesse",
+    "descrevesse",
+    "descrevêssemos",
+    "descrevessem"
+   ],
+   "subjfuturo": [
+    "descrever",
+    "descrever",
+    "descrevermos",
+    "descreverem"
+   ]
+  },
+  "gerund": "descrevendo",
+  "participle": "descrito"
+ },
+ "desencadear": {
+  "tenses": {
+   "presente": [
+    "desencadeio",
+    "desencadeia",
+    "desencadeamos",
+    "desencadeiam"
+   ],
+   "preterito": [
+    "desencadeei",
+    "desencadeou",
+    "desencadeamos",
+    "desencadearam"
+   ],
+   "imperfeito": [
+    "desencadeava",
+    "desencadeava",
+    "desencadeávamos",
+    "desencadeavam"
+   ],
+   "futuro": [
+    "desencadearei",
+    "desencadeará",
+    "desencadearemos",
+    "desencadearão"
+   ],
+   "condicional": [
+    "desencadearia",
+    "desencadearia",
+    "desencadearíamos",
+    "desencadeariam"
+   ],
+   "subjpresente": [
+    "desencadeie",
+    "desencadeie",
+    "desencadeemos",
+    "desencadeiem"
+   ],
+   "subjimperfeito": [
+    "desencadeasse",
+    "desencadeasse",
+    "desencadeássemos",
+    "desencadeassem"
+   ],
+   "subjfuturo": [
+    "desencadear",
+    "desencadear",
+    "desencadearmos",
+    "desencadearem"
+   ]
+  },
+  "gerund": "desencadeando",
+  "participle": "desencadeado"
+ },
+ "desfazer": {
+  "tenses": {
+   "presente": [
+    "desfaço",
+    "desfaz",
+    "desfazemos",
+    "desfazem"
+   ],
+   "preterito": [
+    "desfiz",
+    "desfez",
+    "desfizemos",
+    "desfizeram"
+   ],
+   "imperfeito": [
+    "desfazia",
+    "desfazia",
+    "desfazíamos",
+    "desfaziam"
+   ],
+   "futuro": [
+    "desfarei",
+    "desfará",
+    "desfaremos",
+    "desfarão"
+   ],
+   "condicional": [
+    "desfaria",
+    "desfaria",
+    "desfaríamos",
+    "desfariam"
+   ],
+   "subjpresente": [
+    "desfaça",
+    "desfaça",
+    "desfaçamos",
+    "desfaçam"
+   ],
+   "subjimperfeito": [
+    "desfizesse",
+    "desfizesse",
+    "desfizéssemos",
+    "desfizessem"
+   ],
+   "subjfuturo": [
+    "desfizer",
+    "desfizer",
+    "desfizermos",
+    "desfizerem"
+   ]
+  },
+  "gerund": "desfazendo",
+  "participle": "desfeito"
+ },
+ "despedir": {
+  "tenses": {
+   "presente": [
+    "despeço",
+    "despede",
+    "despedimos",
+    "despedem"
+   ],
+   "preterito": [
+    "despedi",
+    "despediu",
+    "despedimos",
+    "despediram"
+   ],
+   "imperfeito": [
+    "despedia",
+    "despedia",
+    "despedíamos",
+    "despediam"
+   ],
+   "futuro": [
+    "despedirei",
+    "despedirá",
+    "despediremos",
+    "despedirão"
+   ],
+   "condicional": [
+    "despediria",
+    "despediria",
+    "despediríamos",
+    "despediriam"
+   ],
+   "subjpresente": [
+    "despeça",
+    "despeça",
+    "despeçamos",
+    "despeçam"
+   ],
+   "subjimperfeito": [
+    "despedisse",
+    "despedisse",
+    "despedíssemos",
+    "despedissem"
+   ],
+   "subjfuturo": [
+    "despedir",
+    "despedir",
+    "despedirmos",
+    "despedirem"
+   ]
+  },
+  "gerund": "despedindo",
+  "participle": "despedido"
+ },
+ "despir": {
+  "tenses": {
+   "presente": [
+    "dispo",
+    "despe",
+    "despimos",
+    "despem"
+   ],
+   "preterito": [
+    "despi",
+    "despiu",
+    "despimos",
+    "despiram"
+   ],
+   "imperfeito": [
+    "despia",
+    "despia",
+    "despíamos",
+    "despiam"
+   ],
+   "futuro": [
+    "despirei",
+    "despirá",
+    "despiremos",
+    "despirão"
+   ],
+   "condicional": [
+    "despiria",
+    "despiria",
+    "despiríamos",
+    "despiriam"
+   ],
+   "subjpresente": [
+    "dispa",
+    "dispa",
+    "dispamos",
+    "dispam"
+   ],
+   "subjimperfeito": [
+    "despisse",
+    "despisse",
+    "despíssemos",
+    "despissem"
+   ],
+   "subjfuturo": [
+    "despir",
+    "despir",
+    "despirmos",
+    "despirem"
+   ]
+  },
+  "gerund": "despindo",
+  "participle": "despido"
+ },
+ "destruir": {
+  "tenses": {
+   "presente": [
+    "destruo",
+    "destrói",
+    "destruímos",
+    "destroem"
+   ],
+   "preterito": [
+    "destruí",
+    "destruiu",
+    "destruímos",
+    "destruíram"
+   ],
+   "imperfeito": [
+    "destruía",
+    "destruía",
+    "destruíamos",
+    "destruíam"
+   ],
+   "futuro": [
+    "destruirei",
+    "destruirá",
+    "destruiremos",
+    "destruirão"
+   ],
+   "condicional": [
+    "destruiria",
+    "destruiria",
+    "destruiríamos",
+    "destruiriam"
+   ],
+   "subjpresente": [
+    "destrua",
+    "destrua",
+    "destruamos",
+    "destruam"
+   ],
+   "subjimperfeito": [
+    "destruísse",
+    "destruísse",
+    "destruíssemos",
+    "destruíssem"
+   ],
+   "subjfuturo": [
+    "destruir",
+    "destruir",
+    "destruirmos",
+    "destruírem"
+   ]
+  },
+  "gerund": "destruindo",
+  "participle": "destruído"
+ },
+ "deter": {
+  "tenses": {
+   "presente": [
+    "detenho",
+    "detém",
+    "detemos",
+    "detêm"
+   ],
+   "preterito": [
+    "detive",
+    "deteve",
+    "detivemos",
+    "detiveram"
+   ],
+   "imperfeito": [
+    "detinha",
+    "detinha",
+    "detínhamos",
+    "detinham"
+   ],
+   "futuro": [
+    "deterei",
+    "deterá",
+    "deteremos",
+    "deterão"
+   ],
+   "condicional": [
+    "deteria",
+    "deteria",
+    "deteríamos",
+    "deteriam"
+   ],
+   "subjpresente": [
+    "detenha",
+    "detenha",
+    "detenhamos",
+    "detenham"
+   ],
+   "subjimperfeito": [
+    "detivesse",
+    "detivesse",
+    "detivéssemos",
+    "detivessem"
+   ],
+   "subjfuturo": [
+    "detiver",
+    "detiver",
+    "detivermos",
+    "detiverem"
+   ]
+  },
+  "gerund": "detendo",
+  "participle": "detido"
+ },
+ "digerir": {
+  "tenses": {
+   "presente": [
+    "digiro",
+    "digere",
+    "digerimos",
+    "digerem"
+   ],
+   "preterito": [
+    "digeri",
+    "digeriu",
+    "digerimos",
+    "digeriram"
+   ],
+   "imperfeito": [
+    "digeria",
+    "digeria",
+    "digeríamos",
+    "digeriam"
+   ],
+   "futuro": [
+    "digerirei",
+    "digerirá",
+    "digeriremos",
+    "digerirão"
+   ],
+   "condicional": [
+    "digeriria",
+    "digeriria",
+    "digeriríamos",
+    "digeririam"
+   ],
+   "subjpresente": [
+    "digira",
+    "digira",
+    "digiramos",
+    "digiram"
+   ],
+   "subjimperfeito": [
+    "digerisse",
+    "digerisse",
+    "digeríssemos",
+    "digerissem"
+   ],
+   "subjfuturo": [
+    "digerir",
+    "digerir",
+    "digerirmos",
+    "digerirem"
+   ]
+  },
+  "gerund": "digerindo",
+  "participle": "digerido"
+ },
+ "diminuir": {
+  "tenses": {
+   "presente": [
+    "diminuo",
+    "diminui",
+    "diminuímos",
+    "diminuem"
+   ],
+   "preterito": [
+    "diminuí",
+    "diminuiu",
+    "diminuímos",
+    "diminuíram"
+   ],
+   "imperfeito": [
+    "diminuía",
+    "diminuía",
+    "diminuíamos",
+    "diminuíam"
+   ],
+   "futuro": [
+    "diminuirei",
+    "diminuirá",
+    "diminuiremos",
+    "diminuirão"
+   ],
+   "condicional": [
+    "diminuiria",
+    "diminuiria",
+    "diminuiríamos",
+    "diminuiriam"
+   ],
+   "subjpresente": [
+    "diminua",
+    "diminua",
+    "diminuamos",
+    "diminuam"
+   ],
+   "subjimperfeito": [
+    "diminuísse",
+    "diminuísse",
+    "diminuíssemos",
+    "diminuíssem"
+   ],
+   "subjfuturo": [
+    "diminuir",
+    "diminuir",
+    "diminuirmos",
+    "diminuírem"
+   ]
+  },
+  "gerund": "diminuindo",
+  "participle": "diminuído"
+ },
+ "dispor": {
+  "tenses": {
+   "presente": [
+    "disponho",
+    "dispõe",
+    "dispomos",
+    "dispõem"
+   ],
+   "preterito": [
+    "dispus",
+    "dispôs",
+    "dispusemos",
+    "dispuseram"
+   ],
+   "imperfeito": [
+    "dispunha",
+    "dispunha",
+    "dispúnhamos",
+    "dispunham"
+   ],
+   "futuro": [
+    "disporei",
+    "disporá",
+    "disporemos",
+    "disporão"
+   ],
+   "condicional": [
+    "disporia",
+    "disporia",
+    "disporíamos",
+    "disporiam"
+   ],
+   "subjpresente": [
+    "disponha",
+    "disponha",
+    "disponhamos",
+    "disponham"
+   ],
+   "subjimperfeito": [
+    "dispusesse",
+    "dispusesse",
+    "dispuséssemos",
+    "dispusessem"
+   ],
+   "subjfuturo": [
+    "dispuser",
+    "dispuser",
+    "dispusermos",
+    "dispuserem"
+   ]
+  },
+  "gerund": "dispondo",
+  "participle": "disposto"
+ },
+ "distinguir": {
+  "tenses": {
+   "presente": [
+    "distingo",
+    "distingue",
+    "distinguimos",
+    "distinguem"
+   ],
+   "preterito": [
+    "distingui",
+    "distinguiu",
+    "distinguimos",
+    "distinguiram"
+   ],
+   "imperfeito": [
+    "distinguia",
+    "distinguia",
+    "distinguíamos",
+    "distinguiam"
+   ],
+   "futuro": [
+    "distinguirei",
+    "distinguirá",
+    "distinguiremos",
+    "distinguirão"
+   ],
+   "condicional": [
+    "distinguiria",
+    "distinguiria",
+    "distinguiríamos",
+    "distinguiriam"
+   ],
+   "subjpresente": [
+    "distinga",
+    "distinga",
+    "distingamos",
+    "distingam"
+   ],
+   "subjimperfeito": [
+    "distinguisse",
+    "distinguisse",
+    "distinguíssemos",
+    "distinguissem"
+   ],
+   "subjfuturo": [
+    "distinguir",
+    "distinguir",
+    "distinguirmos",
+    "distinguirem"
+   ]
+  },
+  "gerund": "distinguindo",
+  "participle": "distinguido"
+ },
+ "distrair": {
+  "tenses": {
+   "presente": [
+    "distraio",
+    "distrai",
+    "distraímos",
+    "distraem"
+   ],
+   "preterito": [
+    "distraí",
+    "distraiu",
+    "distraímos",
+    "distraíram"
+   ],
+   "imperfeito": [
+    "distraía",
+    "distraía",
+    "distraíamos",
+    "distraíam"
+   ],
+   "futuro": [
+    "distrairei",
+    "distrairá",
+    "distrairemos",
+    "distrairão"
+   ],
+   "condicional": [
+    "distrairia",
+    "distrairia",
+    "distrairíamos",
+    "distrairiam"
+   ],
+   "subjpresente": [
+    "distraia",
+    "distraia",
+    "distraiamos",
+    "distraiam"
+   ],
+   "subjimperfeito": [
+    "distraísse",
+    "distraísse",
+    "distraíssemos",
+    "distraíssem"
+   ],
+   "subjfuturo": [
+    "distrair",
+    "distrair",
+    "distrairmos",
+    "distraírem"
+   ]
+  },
+  "gerund": "distraindo",
+  "participle": "distraído"
+ },
+ "distribuir": {
+  "tenses": {
+   "presente": [
+    "distribuo",
+    "distribui",
+    "distribuímos",
+    "distribuem"
+   ],
+   "preterito": [
+    "distribuí",
+    "distribuiu",
+    "distribuímos",
+    "distribuíram"
+   ],
+   "imperfeito": [
+    "distribuía",
+    "distribuía",
+    "distribuíamos",
+    "distribuíam"
+   ],
+   "futuro": [
+    "distribuirei",
+    "distribuirá",
+    "distribuiremos",
+    "distribuirão"
+   ],
+   "condicional": [
+    "distribuiria",
+    "distribuiria",
+    "distribuiríamos",
+    "distribuiriam"
+   ],
+   "subjpresente": [
+    "distribua",
+    "distribua",
+    "distribuamos",
+    "distribuam"
+   ],
+   "subjimperfeito": [
+    "distribuísse",
+    "distribuísse",
+    "distribuíssemos",
+    "distribuíssem"
+   ],
+   "subjfuturo": [
+    "distribuir",
+    "distribuir",
+    "distribuirmos",
+    "distribuírem"
+   ]
+  },
+  "gerund": "distribuindo",
+  "participle": "distribuído"
+ },
+ "divertir": {
+  "tenses": {
+   "presente": [
+    "divirto",
+    "diverte",
+    "divertimos",
+    "divertem"
+   ],
+   "preterito": [
+    "diverti",
+    "divertiu",
+    "divertimos",
+    "divertiram"
+   ],
+   "imperfeito": [
+    "divertia",
+    "divertia",
+    "divertíamos",
+    "divertiam"
+   ],
+   "futuro": [
+    "divertirei",
+    "divertirá",
+    "divertiremos",
+    "divertirão"
+   ],
+   "condicional": [
+    "divertiria",
+    "divertiria",
+    "divertiríamos",
+    "divertiriam"
+   ],
+   "subjpresente": [
+    "divirta",
+    "divirta",
+    "divirtamos",
+    "divirtam"
+   ],
+   "subjimperfeito": [
+    "divertisse",
+    "divertisse",
+    "divertíssemos",
+    "divertissem"
+   ],
+   "subjfuturo": [
+    "divertir",
+    "divertir",
+    "divertirmos",
+    "divertirem"
+   ]
+  },
+  "gerund": "divertindo",
+  "participle": "divertido"
+ },
+ "dizer": {
+  "tenses": {
+   "presente": [
+    "digo",
+    "diz",
+    "dizemos",
+    "dizem"
+   ],
+   "preterito": [
+    "disse",
+    "disse",
+    "dissemos",
+    "disseram"
+   ],
+   "imperfeito": [
+    "dizia",
+    "dizia",
+    "dizíamos",
+    "diziam"
+   ],
+   "futuro": [
+    "direi",
+    "dirá",
+    "diremos",
+    "dirão"
+   ],
+   "condicional": [
+    "diria",
+    "diria",
+    "diríamos",
+    "diriam"
+   ],
+   "subjpresente": [
+    "diga",
+    "diga",
+    "digamos",
+    "digam"
+   ],
+   "subjimperfeito": [
+    "dissesse",
+    "dissesse",
+    "disséssemos",
+    "dissessem"
+   ],
+   "subjfuturo": [
+    "disser",
+    "disser",
+    "dissermos",
+    "disserem"
+   ]
+  },
+  "gerund": "dizendo",
+  "participle": "dito"
+ },
+ "doer": {
+  "tenses": {
+   "presente": [
+    "doo",
+    "dói",
+    "doemos",
+    "doem"
+   ],
+   "preterito": [
+    "doí",
+    "doeu",
+    "doemos",
+    "doeram"
+   ],
+   "imperfeito": [
+    "doía",
+    "doía",
+    "doíamos",
+    "doíam"
+   ],
+   "futuro": [
+    "doerei",
+    "doerá",
+    "doeremos",
+    "doerão"
+   ],
+   "condicional": [
+    "doeria",
+    "doeria",
+    "doeríamos",
+    "doeriam"
+   ],
+   "subjpresente": [
+    "doa",
+    "doa",
+    "doamos",
+    "doam"
+   ],
+   "subjimperfeito": [
+    "doesse",
+    "doesse",
+    "doêssemos",
+    "doessem"
+   ],
+   "subjfuturo": [
+    "doer",
+    "doer",
+    "doermos",
+    "doerem"
+   ]
+  },
+  "gerund": "doendo",
+  "participle": "doído"
+ },
+ "dormir": {
+  "tenses": {
+   "presente": [
+    "durmo",
+    "dorme",
+    "dormimos",
+    "dormem"
+   ],
+   "preterito": [
+    "dormi",
+    "dormiu",
+    "dormimos",
+    "dormiram"
+   ],
+   "imperfeito": [
+    "dormia",
+    "dormia",
+    "dormíamos",
+    "dormiam"
+   ],
+   "futuro": [
+    "dormirei",
+    "dormirá",
+    "dormiremos",
+    "dormirão"
+   ],
+   "condicional": [
+    "dormiria",
+    "dormiria",
+    "dormiríamos",
+    "dormiriam"
+   ],
+   "subjpresente": [
+    "durma",
+    "durma",
+    "durmamos",
+    "durmam"
+   ],
+   "subjimperfeito": [
+    "dormisse",
+    "dormisse",
+    "dormíssemos",
+    "dormissem"
+   ],
+   "subjfuturo": [
+    "dormir",
+    "dormir",
+    "dormirmos",
+    "dormirem"
+   ]
+  },
+  "gerund": "dormindo",
+  "participle": "dormido"
+ },
+ "engolir": {
+  "tenses": {
+   "presente": [
+    "engulo",
+    "engole",
+    "engolimos",
+    "engolem"
+   ],
+   "preterito": [
+    "engoli",
+    "engoliu",
+    "engolimos",
+    "engoliram"
+   ],
+   "imperfeito": [
+    "engolia",
+    "engolia",
+    "engolíamos",
+    "engoliam"
+   ],
+   "futuro": [
+    "engolirei",
+    "engolirá",
+    "engoliremos",
+    "engolirão"
+   ],
+   "condicional": [
+    "engoliria",
+    "engoliria",
+    "engoliríamos",
+    "engoliriam"
+   ],
+   "subjpresente": [
+    "engula",
+    "engula",
+    "engulamos",
+    "engulam"
+   ],
+   "subjimperfeito": [
+    "engolisse",
+    "engolisse",
+    "engolíssemos",
+    "engolissem"
+   ],
+   "subjfuturo": [
+    "engolir",
+    "engolir",
+    "engolirmos",
+    "engolirem"
+   ]
+  },
+  "gerund": "engolindo",
+  "participle": "engolido"
+ },
+ "entreter": {
+  "tenses": {
+   "presente": [
+    "entretenho",
+    "entretém",
+    "entretemos",
+    "entretêm"
+   ],
+   "preterito": [
+    "entretive",
+    "entreteve",
+    "entretivemos",
+    "entretiveram"
+   ],
+   "imperfeito": [
+    "entretinha",
+    "entretinha",
+    "entretínhamos",
+    "entretinham"
+   ],
+   "futuro": [
+    "entreterei",
+    "entreterá",
+    "entreteremos",
+    "entreterão"
+   ],
+   "condicional": [
+    "entreteria",
+    "entreteria",
+    "entreteríamos",
+    "entreteriam"
+   ],
+   "subjpresente": [
+    "entretenha",
+    "entretenha",
+    "entretenhamos",
+    "entretenham"
+   ],
+   "subjimperfeito": [
+    "entretivesse",
+    "entretivesse",
+    "entretivéssemos",
+    "entretivessem"
+   ],
+   "subjfuturo": [
+    "entretiver",
+    "entretiver",
+    "entretivermos",
+    "entretiverem"
+   ]
+  },
+  "gerund": "entretendo",
+  "participle": "entretido"
+ },
+ "enxaguar": {
+  "tenses": {
+   "presente": [
+    "enxáguo",
+    "enxágua",
+    "enxaguamos",
+    "enxáguam"
+   ],
+   "preterito": [
+    "enxaguei",
+    "enxaguou",
+    "enxaguamos",
+    "enxaguaram"
+   ],
+   "imperfeito": [
+    "enxaguava",
+    "enxaguava",
+    "enxaguávamos",
+    "enxaguavam"
+   ],
+   "futuro": [
+    "enxaguarei",
+    "enxaguará",
+    "enxaguaremos",
+    "enxaguarão"
+   ],
+   "condicional": [
+    "enxaguaria",
+    "enxaguaria",
+    "enxaguaríamos",
+    "enxaguariam"
+   ],
+   "subjpresente": [
+    "enxágue",
+    "enxágue",
+    "enxaguemos",
+    "enxáguem"
+   ],
+   "subjimperfeito": [
+    "enxaguasse",
+    "enxaguasse",
+    "enxaguássemos",
+    "enxaguassem"
+   ],
+   "subjfuturo": [
+    "enxaguar",
+    "enxaguar",
+    "enxaguarmos",
+    "enxaguarem"
+   ]
+  },
+  "gerund": "enxaguando",
+  "participle": "enxaguado"
+ },
+ "equivaler": {
+  "tenses": {
+   "presente": [
+    "equivalho",
+    "equivale",
+    "equivalemos",
+    "equivalem"
+   ],
+   "preterito": [
+    "equivali",
+    "equivaleu",
+    "equivalemos",
+    "equivaleram"
+   ],
+   "imperfeito": [
+    "equivalia",
+    "equivalia",
+    "equivalíamos",
+    "equivaliam"
+   ],
+   "futuro": [
+    "equivalerei",
+    "equivalerá",
+    "equivaleremos",
+    "equivalerão"
+   ],
+   "condicional": [
+    "equivaleria",
+    "equivaleria",
+    "equivaleríamos",
+    "equivaleriam"
+   ],
+   "subjpresente": [
+    "equivalha",
+    "equivalha",
+    "equivalhamos",
+    "equivalham"
+   ],
+   "subjimperfeito": [
+    "equivalesse",
+    "equivalesse",
+    "equivalêssemos",
+    "equivalessem"
+   ],
+   "subjfuturo": [
+    "equivaler",
+    "equivaler",
+    "equivalermos",
+    "equivalerem"
+   ]
+  },
+  "gerund": "equivalendo",
+  "participle": "equivalido"
+ },
+ "erguer": {
+  "tenses": {
+   "presente": [
+    "ergo",
+    "ergue",
+    "erguemos",
+    "erguem"
+   ],
+   "preterito": [
+    "ergui",
+    "ergueu",
+    "erguemos",
+    "ergueram"
+   ],
+   "imperfeito": [
+    "erguia",
+    "erguia",
+    "erguíamos",
+    "erguiam"
+   ],
+   "futuro": [
+    "erguerei",
+    "erguerá",
+    "ergueremos",
+    "erguerão"
+   ],
+   "condicional": [
+    "ergueria",
+    "ergueria",
+    "ergueríamos",
+    "ergueriam"
+   ],
+   "subjpresente": [
+    "erga",
+    "erga",
+    "ergamos",
+    "ergam"
+   ],
+   "subjimperfeito": [
+    "erguesse",
+    "erguesse",
+    "erguêssemos",
+    "erguessem"
+   ],
+   "subjfuturo": [
+    "erguer",
+    "erguer",
+    "erguermos",
+    "erguerem"
+   ]
+  },
+  "gerund": "erguendo",
+  "participle": "erguido"
+ },
+ "escrever": {
+  "tenses": {
+   "presente": [
+    "escrevo",
+    "escreve",
+    "escrevemos",
+    "escrevem"
+   ],
+   "preterito": [
+    "escrevi",
+    "escreveu",
+    "escrevemos",
+    "escreveram"
+   ],
+   "imperfeito": [
+    "escrevia",
+    "escrevia",
+    "escrevíamos",
+    "escreviam"
+   ],
+   "futuro": [
+    "escreverei",
+    "escreverá",
+    "escreveremos",
+    "escreverão"
+   ],
+   "condicional": [
+    "escreveria",
+    "escreveria",
+    "escreveríamos",
+    "escreveriam"
+   ],
+   "subjpresente": [
+    "escreva",
+    "escreva",
+    "escrevamos",
+    "escrevam"
+   ],
+   "subjimperfeito": [
+    "escrevesse",
+    "escrevesse",
+    "escrevêssemos",
+    "escrevessem"
+   ],
+   "subjfuturo": [
+    "escrever",
+    "escrever",
+    "escrevermos",
+    "escreverem"
+   ]
+  },
+  "gerund": "escrevendo",
+  "participle": "escrito"
+ },
+ "estar": {
+  "tenses": {
+   "presente": [
+    "estou",
+    "está",
+    "estamos",
+    "estão"
+   ],
+   "preterito": [
+    "estive",
+    "esteve",
+    "estivemos",
+    "estiveram"
+   ],
+   "imperfeito": [
+    "estava",
+    "estava",
+    "estávamos",
+    "estavam"
+   ],
+   "futuro": [
+    "estarei",
+    "estará",
+    "estaremos",
+    "estarão"
+   ],
+   "condicional": [
+    "estaria",
+    "estaria",
+    "estaríamos",
+    "estariam"
+   ],
+   "subjpresente": [
+    "esteja",
+    "esteja",
+    "estejamos",
+    "estejam"
+   ],
+   "subjimperfeito": [
+    "estivesse",
+    "estivesse",
+    "estivéssemos",
+    "estivessem"
+   ],
+   "subjfuturo": [
+    "estiver",
+    "estiver",
+    "estivermos",
+    "estiverem"
+   ]
+  },
+  "gerund": "estando",
+  "participle": "estado"
+ },
+ "estrear": {
+  "tenses": {
+   "presente": [
+    "estreio",
+    "estreia",
+    "estreamos",
+    "estreiam"
+   ],
+   "preterito": [
+    "estreei",
+    "estreou",
+    "estreamos",
+    "estrearam"
+   ],
+   "imperfeito": [
+    "estreava",
+    "estreava",
+    "estreávamos",
+    "estreavam"
+   ],
+   "futuro": [
+    "estrearei",
+    "estreará",
+    "estrearemos",
+    "estrearão"
+   ],
+   "condicional": [
+    "estrearia",
+    "estrearia",
+    "estrearíamos",
+    "estreariam"
+   ],
+   "subjpresente": [
+    "estreie",
+    "estreie",
+    "estreemos",
+    "estreiem"
+   ],
+   "subjimperfeito": [
+    "estreasse",
+    "estreasse",
+    "estreássemos",
+    "estreassem"
+   ],
+   "subjfuturo": [
+    "estrear",
+    "estrear",
+    "estrearmos",
+    "estrearem"
+   ]
+  },
+  "gerund": "estreando",
+  "participle": "estreado"
+ },
+ "excluir": {
+  "tenses": {
+   "presente": [
+    "excluo",
+    "exclui",
+    "excluímos",
+    "excluem"
+   ],
+   "preterito": [
+    "excluí",
+    "excluiu",
+    "excluímos",
+    "excluíram"
+   ],
+   "imperfeito": [
+    "excluía",
+    "excluía",
+    "excluíamos",
+    "excluíam"
+   ],
+   "futuro": [
+    "excluirei",
+    "excluirá",
+    "excluiremos",
+    "excluirão"
+   ],
+   "condicional": [
+    "excluiria",
+    "excluiria",
+    "excluiríamos",
+    "excluiriam"
+   ],
+   "subjpresente": [
+    "exclua",
+    "exclua",
+    "excluamos",
+    "excluam"
+   ],
+   "subjimperfeito": [
+    "excluísse",
+    "excluísse",
+    "excluíssemos",
+    "excluíssem"
+   ],
+   "subjfuturo": [
+    "excluir",
+    "excluir",
+    "excluirmos",
+    "excluírem"
+   ]
+  },
+  "gerund": "excluindo",
+  "participle": "excluído"
+ },
+ "expedir": {
+  "tenses": {
+   "presente": [
+    "expeço",
+    "expede",
+    "expedimos",
+    "expedem"
+   ],
+   "preterito": [
+    "expedi",
+    "expediu",
+    "expedimos",
+    "expediram"
+   ],
+   "imperfeito": [
+    "expedia",
+    "expedia",
+    "expedíamos",
+    "expediam"
+   ],
+   "futuro": [
+    "expedirei",
+    "expedirá",
+    "expediremos",
+    "expedirão"
+   ],
+   "condicional": [
+    "expediria",
+    "expediria",
+    "expediríamos",
+    "expediriam"
+   ],
+   "subjpresente": [
+    "expeça",
+    "expeça",
+    "expeçamos",
+    "expeçam"
+   ],
+   "subjimperfeito": [
+    "expedisse",
+    "expedisse",
+    "expedíssemos",
+    "expedissem"
+   ],
+   "subjfuturo": [
+    "expedir",
+    "expedir",
+    "expedirmos",
+    "expedirem"
+   ]
+  },
+  "gerund": "expedindo",
+  "participle": "expedido"
+ },
+ "expor": {
+  "tenses": {
+   "presente": [
+    "exponho",
+    "expõe",
+    "expomos",
+    "expõem"
+   ],
+   "preterito": [
+    "expus",
+    "expôs",
+    "expusemos",
+    "expuseram"
+   ],
+   "imperfeito": [
+    "expunha",
+    "expunha",
+    "expúnhamos",
+    "expunham"
+   ],
+   "futuro": [
+    "exporei",
+    "exporá",
+    "exporemos",
+    "exporão"
+   ],
+   "condicional": [
+    "exporia",
+    "exporia",
+    "exporíamos",
+    "exporiam"
+   ],
+   "subjpresente": [
+    "exponha",
+    "exponha",
+    "exponhamos",
+    "exponham"
+   ],
+   "subjimperfeito": [
+    "expusesse",
+    "expusesse",
+    "expuséssemos",
+    "expusessem"
+   ],
+   "subjfuturo": [
+    "expuser",
+    "expuser",
+    "expusermos",
+    "expuserem"
+   ]
+  },
+  "gerund": "expondo",
+  "participle": "exposto"
+ },
+ "extinguir": {
+  "tenses": {
+   "presente": [
+    "extingo",
+    "extingue",
+    "extinguimos",
+    "extinguem"
+   ],
+   "preterito": [
+    "extingui",
+    "extinguiu",
+    "extinguimos",
+    "extinguiram"
+   ],
+   "imperfeito": [
+    "extinguia",
+    "extinguia",
+    "extinguíamos",
+    "extinguiam"
+   ],
+   "futuro": [
+    "extinguirei",
+    "extinguirá",
+    "extinguiremos",
+    "extinguirão"
+   ],
+   "condicional": [
+    "extinguiria",
+    "extinguiria",
+    "extinguiríamos",
+    "extinguiriam"
+   ],
+   "subjpresente": [
+    "extinga",
+    "extinga",
+    "extingamos",
+    "extingam"
+   ],
+   "subjimperfeito": [
+    "extinguisse",
+    "extinguisse",
+    "extinguíssemos",
+    "extinguissem"
+   ],
+   "subjfuturo": [
+    "extinguir",
+    "extinguir",
+    "extinguirmos",
+    "extinguirem"
+   ]
+  },
+  "gerund": "extinguindo",
+  "participle": "extinguido"
+ },
+ "fazer": {
+  "tenses": {
+   "presente": [
+    "faço",
+    "faz",
+    "fazemos",
+    "fazem"
+   ],
+   "preterito": [
+    "fiz",
+    "fez",
+    "fizemos",
+    "fizeram"
+   ],
+   "imperfeito": [
+    "fazia",
+    "fazia",
+    "fazíamos",
+    "faziam"
+   ],
+   "futuro": [
+    "farei",
+    "fará",
+    "faremos",
+    "farão"
+   ],
+   "condicional": [
+    "faria",
+    "faria",
+    "faríamos",
+    "fariam"
+   ],
+   "subjpresente": [
+    "faça",
+    "faça",
+    "façamos",
+    "façam"
+   ],
+   "subjimperfeito": [
+    "fizesse",
+    "fizesse",
+    "fizéssemos",
+    "fizessem"
+   ],
+   "subjfuturo": [
+    "fizer",
+    "fizer",
+    "fizermos",
+    "fizerem"
+   ]
+  },
+  "gerund": "fazendo",
+  "participle": "feito"
+ },
+ "ferir": {
+  "tenses": {
+   "presente": [
+    "firo",
+    "fere",
+    "ferimos",
+    "ferem"
+   ],
+   "preterito": [
+    "feri",
+    "feriu",
+    "ferimos",
+    "feriram"
+   ],
+   "imperfeito": [
+    "feria",
+    "feria",
+    "feríamos",
+    "feriam"
+   ],
+   "futuro": [
+    "ferirei",
+    "ferirá",
+    "feriremos",
+    "ferirão"
+   ],
+   "condicional": [
+    "feriria",
+    "feriria",
+    "feriríamos",
+    "feririam"
+   ],
+   "subjpresente": [
+    "fira",
+    "fira",
+    "firamos",
+    "firam"
+   ],
+   "subjimperfeito": [
+    "ferisse",
+    "ferisse",
+    "feríssemos",
+    "ferissem"
+   ],
+   "subjfuturo": [
+    "ferir",
+    "ferir",
+    "ferirmos",
+    "ferirem"
+   ]
+  },
+  "gerund": "ferindo",
+  "participle": "ferido"
+ },
+ "frear": {
+  "tenses": {
+   "presente": [
+    "freio",
+    "freia",
+    "freamos",
+    "freiam"
+   ],
+   "preterito": [
+    "freei",
+    "freou",
+    "freamos",
+    "frearam"
+   ],
+   "imperfeito": [
+    "freava",
+    "freava",
+    "freávamos",
+    "freavam"
+   ],
+   "futuro": [
+    "frearei",
+    "freará",
+    "frearemos",
+    "frearão"
+   ],
+   "condicional": [
+    "frearia",
+    "frearia",
+    "frearíamos",
+    "freariam"
+   ],
+   "subjpresente": [
+    "freie",
+    "freie",
+    "freemos",
+    "freiem"
+   ],
+   "subjimperfeito": [
+    "freasse",
+    "freasse",
+    "freássemos",
+    "freassem"
+   ],
+   "subjfuturo": [
+    "frear",
+    "frear",
+    "frearmos",
+    "frearem"
+   ]
+  },
+  "gerund": "freando",
+  "participle": "freado"
+ },
+ "fugir": {
+  "tenses": {
+   "presente": [
+    "fujo",
+    "foge",
+    "fugimos",
+    "fogem"
+   ],
+   "preterito": [
+    "fugi",
+    "fugiu",
+    "fugimos",
+    "fugiram"
+   ],
+   "imperfeito": [
+    "fugia",
+    "fugia",
+    "fugíamos",
+    "fugiam"
+   ],
+   "futuro": [
+    "fugirei",
+    "fugirá",
+    "fugiremos",
+    "fugirão"
+   ],
+   "condicional": [
+    "fugiria",
+    "fugiria",
+    "fugiríamos",
+    "fugiriam"
+   ],
+   "subjpresente": [
+    "fuja",
+    "fuja",
+    "fujamos",
+    "fujam"
+   ],
+   "subjimperfeito": [
+    "fugisse",
+    "fugisse",
+    "fugíssemos",
+    "fugissem"
+   ],
+   "subjfuturo": [
+    "fugir",
+    "fugir",
+    "fugirmos",
+    "fugirem"
+   ]
+  },
+  "gerund": "fugindo",
+  "participle": "fugido"
+ },
+ "ganhar": {
+  "tenses": {
+   "presente": [
+    "ganho",
+    "ganha",
+    "ganhamos",
+    "ganham"
+   ],
+   "preterito": [
+    "ganhei",
+    "ganhou",
+    "ganhamos",
+    "ganharam"
+   ],
+   "imperfeito": [
+    "ganhava",
+    "ganhava",
+    "ganhávamos",
+    "ganhavam"
+   ],
+   "futuro": [
+    "ganharei",
+    "ganhará",
+    "ganharemos",
+    "ganharão"
+   ],
+   "condicional": [
+    "ganharia",
+    "ganharia",
+    "ganharíamos",
+    "ganhariam"
+   ],
+   "subjpresente": [
+    "ganhe",
+    "ganhe",
+    "ganhemos",
+    "ganhem"
+   ],
+   "subjimperfeito": [
+    "ganhasse",
+    "ganhasse",
+    "ganhássemos",
+    "ganhassem"
+   ],
+   "subjfuturo": [
+    "ganhar",
+    "ganhar",
+    "ganharmos",
+    "ganharem"
+   ]
+  },
+  "gerund": "ganhando",
+  "participle": "ganho"
+ },
+ "gastar": {
+  "tenses": {
+   "presente": [
+    "gasto",
+    "gasta",
+    "gastamos",
+    "gastam"
+   ],
+   "preterito": [
+    "gastei",
+    "gastou",
+    "gastamos",
+    "gastaram"
+   ],
+   "imperfeito": [
+    "gastava",
+    "gastava",
+    "gastávamos",
+    "gastavam"
+   ],
+   "futuro": [
+    "gastarei",
+    "gastará",
+    "gastaremos",
+    "gastarão"
+   ],
+   "condicional": [
+    "gastaria",
+    "gastaria",
+    "gastaríamos",
+    "gastariam"
+   ],
+   "subjpresente": [
+    "gaste",
+    "gaste",
+    "gastemos",
+    "gastem"
+   ],
+   "subjimperfeito": [
+    "gastasse",
+    "gastasse",
+    "gastássemos",
+    "gastassem"
+   ],
+   "subjfuturo": [
+    "gastar",
+    "gastar",
+    "gastarmos",
+    "gastarem"
+   ]
+  },
+  "gerund": "gastando",
+  "participle": "gasto"
+ },
+ "haver": {
+  "tenses": {
+   "presente": [
+    "hei",
+    "há",
+    "havemos",
+    "hão"
+   ],
+   "preterito": [
+    "houve",
+    "houve",
+    "houvemos",
+    "houveram"
+   ],
+   "imperfeito": [
+    "havia",
+    "havia",
+    "havíamos",
+    "haviam"
+   ],
+   "futuro": [
+    "haverei",
+    "haverá",
+    "haveremos",
+    "haverão"
+   ],
+   "condicional": [
+    "haveria",
+    "haveria",
+    "haveríamos",
+    "haveriam"
+   ],
+   "subjpresente": [
+    "haja",
+    "haja",
+    "hajamos",
+    "hajam"
+   ],
+   "subjimperfeito": [
+    "houvesse",
+    "houvesse",
+    "houvéssemos",
+    "houvessem"
+   ],
+   "subjfuturo": [
+    "houver",
+    "houver",
+    "houvermos",
+    "houverem"
+   ]
+  },
+  "gerund": "havendo",
+  "participle": "havido"
+ },
+ "impedir": {
+  "tenses": {
+   "presente": [
+    "impeço",
+    "impede",
+    "impedimos",
+    "impedem"
+   ],
+   "preterito": [
+    "impedi",
+    "impediu",
+    "impedimos",
+    "impediram"
+   ],
+   "imperfeito": [
+    "impedia",
+    "impedia",
+    "impedíamos",
+    "impediam"
+   ],
+   "futuro": [
+    "impedirei",
+    "impedirá",
+    "impediremos",
+    "impedirão"
+   ],
+   "condicional": [
+    "impediria",
+    "impediria",
+    "impediríamos",
+    "impediriam"
+   ],
+   "subjpresente": [
+    "impeça",
+    "impeça",
+    "impeçamos",
+    "impeçam"
+   ],
+   "subjimperfeito": [
+    "impedisse",
+    "impedisse",
+    "impedíssemos",
+    "impedissem"
+   ],
+   "subjfuturo": [
+    "impedir",
+    "impedir",
+    "impedirmos",
+    "impedirem"
+   ]
+  },
+  "gerund": "impedindo",
+  "participle": "impedido"
+ },
+ "impor": {
+  "tenses": {
+   "presente": [
+    "imponho",
+    "impõe",
+    "impomos",
+    "impõem"
+   ],
+   "preterito": [
+    "impus",
+    "impôs",
+    "impusemos",
+    "impuseram"
+   ],
+   "imperfeito": [
+    "impunha",
+    "impunha",
+    "impúnhamos",
+    "impunham"
+   ],
+   "futuro": [
+    "imporei",
+    "imporá",
+    "imporemos",
+    "imporão"
+   ],
+   "condicional": [
+    "imporia",
+    "imporia",
+    "imporíamos",
+    "imporiam"
+   ],
+   "subjpresente": [
+    "imponha",
+    "imponha",
+    "imponhamos",
+    "imponham"
+   ],
+   "subjimperfeito": [
+    "impusesse",
+    "impusesse",
+    "impuséssemos",
+    "impusessem"
+   ],
+   "subjfuturo": [
+    "impuser",
+    "impuser",
+    "impusermos",
+    "impuserem"
+   ]
+  },
+  "gerund": "impondo",
+  "participle": "imposto"
+ },
+ "incendiar": {
+  "tenses": {
+   "presente": [
+    "incendeio",
+    "incendeia",
+    "incendiamos",
+    "incendeiam"
+   ],
+   "preterito": [
+    "incendiei",
+    "incendiou",
+    "incendiamos",
+    "incendiaram"
+   ],
+   "imperfeito": [
+    "incendiava",
+    "incendiava",
+    "incendiávamos",
+    "incendiavam"
+   ],
+   "futuro": [
+    "incendiarei",
+    "incendiará",
+    "incendiaremos",
+    "incendiarão"
+   ],
+   "condicional": [
+    "incendiaria",
+    "incendiaria",
+    "incendiaríamos",
+    "incendiariam"
+   ],
+   "subjpresente": [
+    "incendeie",
+    "incendeie",
+    "incendiemos",
+    "incendeiem"
+   ],
+   "subjimperfeito": [
+    "incendiasse",
+    "incendiasse",
+    "incendiássemos",
+    "incendiassem"
+   ],
+   "subjfuturo": [
+    "incendiar",
+    "incendiar",
+    "incendiarmos",
+    "incendiarem"
+   ]
+  },
+  "gerund": "incendiando",
+  "participle": "incendiado"
+ },
+ "incluir": {
+  "tenses": {
+   "presente": [
+    "incluo",
+    "inclui",
+    "incluímos",
+    "incluem"
+   ],
+   "preterito": [
+    "incluí",
+    "incluiu",
+    "incluímos",
+    "incluíram"
+   ],
+   "imperfeito": [
+    "incluía",
+    "incluía",
+    "incluíamos",
+    "incluíam"
+   ],
+   "futuro": [
+    "incluirei",
+    "incluirá",
+    "incluiremos",
+    "incluirão"
+   ],
+   "condicional": [
+    "incluiria",
+    "incluiria",
+    "incluiríamos",
+    "incluiriam"
+   ],
+   "subjpresente": [
+    "inclua",
+    "inclua",
+    "incluamos",
+    "incluam"
+   ],
+   "subjimperfeito": [
+    "incluísse",
+    "incluísse",
+    "incluíssemos",
+    "incluíssem"
+   ],
+   "subjfuturo": [
+    "incluir",
+    "incluir",
+    "incluirmos",
+    "incluírem"
+   ]
+  },
+  "gerund": "incluindo",
+  "participle": "incluído"
+ },
+ "induzir": {
+  "tenses": {
+   "presente": [
+    "induzo",
+    "induz",
+    "induzimos",
+    "induzem"
+   ],
+   "preterito": [
+    "induzi",
+    "induziu",
+    "induzimos",
+    "induziram"
+   ],
+   "imperfeito": [
+    "induzia",
+    "induzia",
+    "induzíamos",
+    "induziam"
+   ],
+   "futuro": [
+    "induzirei",
+    "induzirá",
+    "induziremos",
+    "induzirão"
+   ],
+   "condicional": [
+    "induziria",
+    "induziria",
+    "induziríamos",
+    "induziriam"
+   ],
+   "subjpresente": [
+    "induza",
+    "induza",
+    "induzamos",
+    "induzam"
+   ],
+   "subjimperfeito": [
+    "induzisse",
+    "induzisse",
+    "induzíssemos",
+    "induzissem"
+   ],
+   "subjfuturo": [
+    "induzir",
+    "induzir",
+    "induzirmos",
+    "induzirem"
+   ]
+  },
+  "gerund": "induzindo",
+  "participle": "induzido"
+ },
+ "influir": {
+  "tenses": {
+   "presente": [
+    "influo",
+    "influi",
+    "influímos",
+    "influem"
+   ],
+   "preterito": [
+    "influí",
+    "influiu",
+    "influímos",
+    "influíram"
+   ],
+   "imperfeito": [
+    "influía",
+    "influía",
+    "influíamos",
+    "influíam"
+   ],
+   "futuro": [
+    "influirei",
+    "influirá",
+    "influiremos",
+    "influirão"
+   ],
+   "condicional": [
+    "influiria",
+    "influiria",
+    "influiríamos",
+    "influiriam"
+   ],
+   "subjpresente": [
+    "influa",
+    "influa",
+    "influamos",
+    "influam"
+   ],
+   "subjimperfeito": [
+    "influísse",
+    "influísse",
+    "influíssemos",
+    "influíssem"
+   ],
+   "subjfuturo": [
+    "influir",
+    "influir",
+    "influirmos",
+    "influírem"
+   ]
+  },
+  "gerund": "influindo",
+  "participle": "influído"
+ },
+ "inscrever": {
+  "tenses": {
+   "presente": [
+    "inscrevo",
+    "inscreve",
+    "inscrevemos",
+    "inscrevem"
+   ],
+   "preterito": [
+    "inscrevi",
+    "inscreveu",
+    "inscrevemos",
+    "inscreveram"
+   ],
+   "imperfeito": [
+    "inscrevia",
+    "inscrevia",
+    "inscrevíamos",
+    "inscreviam"
+   ],
+   "futuro": [
+    "inscreverei",
+    "inscreverá",
+    "inscreveremos",
+    "inscreverão"
+   ],
+   "condicional": [
+    "inscreveria",
+    "inscreveria",
+    "inscreveríamos",
+    "inscreveriam"
+   ],
+   "subjpresente": [
+    "inscreva",
+    "inscreva",
+    "inscrevamos",
+    "inscrevam"
+   ],
+   "subjimperfeito": [
+    "inscrevesse",
+    "inscrevesse",
+    "inscrevêssemos",
+    "inscrevessem"
+   ],
+   "subjfuturo": [
+    "inscrever",
+    "inscrever",
+    "inscrevermos",
+    "inscreverem"
+   ]
+  },
+  "gerund": "inscrevendo",
+  "participle": "inscrito"
+ },
+ "inserir": {
+  "tenses": {
+   "presente": [
+    "insiro",
+    "insere",
+    "inserimos",
+    "inserem"
+   ],
+   "preterito": [
+    "inseri",
+    "inseriu",
+    "inserimos",
+    "inseriram"
+   ],
+   "imperfeito": [
+    "inseria",
+    "inseria",
+    "inseríamos",
+    "inseriam"
+   ],
+   "futuro": [
+    "inserirei",
+    "inserirá",
+    "inseriremos",
+    "inserirão"
+   ],
+   "condicional": [
+    "inseriria",
+    "inseriria",
+    "inseriríamos",
+    "inseririam"
+   ],
+   "subjpresente": [
+    "insira",
+    "insira",
+    "insiramos",
+    "insiram"
+   ],
+   "subjimperfeito": [
+    "inserisse",
+    "inserisse",
+    "inseríssemos",
+    "inserissem"
+   ],
+   "subjfuturo": [
+    "inserir",
+    "inserir",
+    "inserirmos",
+    "inserirem"
+   ]
+  },
+  "gerund": "inserindo",
+  "participle": "inserido"
+ },
+ "instruir": {
+  "tenses": {
+   "presente": [
+    "instruo",
+    "instrui",
+    "instruímos",
+    "instruem"
+   ],
+   "preterito": [
+    "instruí",
+    "instruiu",
+    "instruímos",
+    "instruíram"
+   ],
+   "imperfeito": [
+    "instruía",
+    "instruía",
+    "instruíamos",
+    "instruíam"
+   ],
+   "futuro": [
+    "instruirei",
+    "instruirá",
+    "instruiremos",
+    "instruirão"
+   ],
+   "condicional": [
+    "instruiria",
+    "instruiria",
+    "instruiríamos",
+    "instruiriam"
+   ],
+   "subjpresente": [
+    "instrua",
+    "instrua",
+    "instruamos",
+    "instruam"
+   ],
+   "subjimperfeito": [
+    "instruísse",
+    "instruísse",
+    "instruíssemos",
+    "instruíssem"
+   ],
+   "subjfuturo": [
+    "instruir",
+    "instruir",
+    "instruirmos",
+    "instruírem"
+   ]
+  },
+  "gerund": "instruindo",
+  "participle": "instruído"
+ },
+ "interferir": {
+  "tenses": {
+   "presente": [
+    "interfiro",
+    "interfere",
+    "interferimos",
+    "interferem"
+   ],
+   "preterito": [
+    "interferi",
+    "interferiu",
+    "interferimos",
+    "interferiram"
+   ],
+   "imperfeito": [
+    "interferia",
+    "interferia",
+    "interferíamos",
+    "interferiam"
+   ],
+   "futuro": [
+    "interferirei",
+    "interferirá",
+    "interferiremos",
+    "interferirão"
+   ],
+   "condicional": [
+    "interferiria",
+    "interferiria",
+    "interferiríamos",
+    "interfeririam"
+   ],
+   "subjpresente": [
+    "interfira",
+    "interfira",
+    "interfiramos",
+    "interfiram"
+   ],
+   "subjimperfeito": [
+    "interferisse",
+    "interferisse",
+    "interferíssemos",
+    "interferissem"
+   ],
+   "subjfuturo": [
+    "interferir",
+    "interferir",
+    "interferirmos",
+    "interferirem"
+   ]
+  },
+  "gerund": "interferindo",
+  "participle": "interferido"
+ },
+ "intermediar": {
+  "tenses": {
+   "presente": [
+    "intermedeio",
+    "intermedeia",
+    "intermediamos",
+    "intermedeiam"
+   ],
+   "preterito": [
+    "intermediei",
+    "intermediou",
+    "intermediamos",
+    "intermediaram"
+   ],
+   "imperfeito": [
+    "intermediava",
+    "intermediava",
+    "intermediávamos",
+    "intermediavam"
+   ],
+   "futuro": [
+    "intermediarei",
+    "intermediará",
+    "intermediaremos",
+    "intermediarão"
+   ],
+   "condicional": [
+    "intermediaria",
+    "intermediaria",
+    "intermediaríamos",
+    "intermediariam"
+   ],
+   "subjpresente": [
+    "intermedeie",
+    "intermedeie",
+    "intermediemos",
+    "intermedeiem"
+   ],
+   "subjimperfeito": [
+    "intermediasse",
+    "intermediasse",
+    "intermediássemos",
+    "intermediassem"
+   ],
+   "subjfuturo": [
+    "intermediar",
+    "intermediar",
+    "intermediarmos",
+    "intermediarem"
+   ]
+  },
+  "gerund": "intermediando",
+  "participle": "intermediado"
+ },
+ "intervir": {
+  "tenses": {
+   "presente": [
+    "intervenho",
+    "intervém",
+    "intervimos",
+    "intervêm"
+   ],
+   "preterito": [
+    "intervim",
+    "interveio",
+    "interviemos",
+    "intervieram"
+   ],
+   "imperfeito": [
+    "intervinha",
+    "intervinha",
+    "intervínhamos",
+    "intervinham"
+   ],
+   "futuro": [
+    "intervirei",
+    "intervirá",
+    "interviremos",
+    "intervirão"
+   ],
+   "condicional": [
+    "interviria",
+    "interviria",
+    "interviríamos",
+    "interviriam"
+   ],
+   "subjpresente": [
+    "intervenha",
+    "intervenha",
+    "intervenhamos",
+    "intervenham"
+   ],
+   "subjimperfeito": [
+    "interviesse",
+    "interviesse",
+    "interviéssemos",
+    "interviessem"
+   ],
+   "subjfuturo": [
+    "intervier",
+    "intervier",
+    "interviermos",
+    "intervierem"
+   ]
+  },
+  "gerund": "intervindo",
+  "participle": "intervindo"
+ },
+ "introduzir": {
+  "tenses": {
+   "presente": [
+    "introduzo",
+    "introduz",
+    "introduzimos",
+    "introduzem"
+   ],
+   "preterito": [
+    "introduzi",
+    "introduziu",
+    "introduzimos",
+    "introduziram"
+   ],
+   "imperfeito": [
+    "introduzia",
+    "introduzia",
+    "introduzíamos",
+    "introduziam"
+   ],
+   "futuro": [
+    "introduzirei",
+    "introduzirá",
+    "introduziremos",
+    "introduzirão"
+   ],
+   "condicional": [
+    "introduziria",
+    "introduziria",
+    "introduziríamos",
+    "introduziriam"
+   ],
+   "subjpresente": [
+    "introduza",
+    "introduza",
+    "introduzamos",
+    "introduzam"
+   ],
+   "subjimperfeito": [
+    "introduzisse",
+    "introduzisse",
+    "introduzíssemos",
+    "introduzissem"
+   ],
+   "subjfuturo": [
+    "introduzir",
+    "introduzir",
+    "introduzirmos",
+    "introduzirem"
+   ]
+  },
+  "gerund": "introduzindo",
+  "participle": "introduzido"
+ },
+ "investir": {
+  "tenses": {
+   "presente": [
+    "invisto",
+    "investe",
+    "investimos",
+    "investem"
+   ],
+   "preterito": [
+    "investi",
+    "investiu",
+    "investimos",
+    "investiram"
+   ],
+   "imperfeito": [
+    "investia",
+    "investia",
+    "investíamos",
+    "investiam"
+   ],
+   "futuro": [
+    "investirei",
+    "investirá",
+    "investiremos",
+    "investirão"
+   ],
+   "condicional": [
+    "investiria",
+    "investiria",
+    "investiríamos",
+    "investiriam"
+   ],
+   "subjpresente": [
+    "invista",
+    "invista",
+    "invistamos",
+    "invistam"
+   ],
+   "subjimperfeito": [
+    "investisse",
+    "investisse",
+    "investíssemos",
+    "investissem"
+   ],
+   "subjfuturo": [
+    "investir",
+    "investir",
+    "investirmos",
+    "investirem"
+   ]
+  },
+  "gerund": "investindo",
+  "participle": "investido"
+ },
+ "ir": {
+  "tenses": {
+   "presente": [
+    "vou",
+    "vai",
+    "vamos",
+    "vão"
+   ],
+   "preterito": [
+    "fui",
+    "foi",
+    "fomos",
+    "foram"
+   ],
+   "imperfeito": [
+    "ia",
+    "ia",
+    "íamos",
+    "iam"
+   ],
+   "futuro": [
+    "irei",
+    "irá",
+    "iremos",
+    "irão"
+   ],
+   "condicional": [
+    "iria",
+    "iria",
+    "iríamos",
+    "iriam"
+   ],
+   "subjpresente": [
+    "vá",
+    "vá",
+    "vamos",
+    "vão"
+   ],
+   "subjimperfeito": [
+    "fosse",
+    "fosse",
+    "fôssemos",
+    "fossem"
+   ],
+   "subjfuturo": [
+    "for",
+    "for",
+    "formos",
+    "forem"
+   ]
+  },
+  "gerund": "indo",
+  "participle": "ido"
+ },
+ "ler": {
+  "tenses": {
+   "presente": [
+    "leio",
+    "lê",
+    "lemos",
+    "leem"
+   ],
+   "preterito": [
+    "li",
+    "leu",
+    "lemos",
+    "leram"
+   ],
+   "imperfeito": [
+    "lia",
+    "lia",
+    "líamos",
+    "liam"
+   ],
+   "futuro": [
+    "lerei",
+    "lerá",
+    "leremos",
+    "lerão"
+   ],
+   "condicional": [
+    "leria",
+    "leria",
+    "leríamos",
+    "leriam"
+   ],
+   "subjpresente": [
+    "leia",
+    "leia",
+    "leiamos",
+    "leiam"
+   ],
+   "subjimperfeito": [
+    "lesse",
+    "lesse",
+    "lêssemos",
+    "lessem"
+   ],
+   "subjfuturo": [
+    "ler",
+    "ler",
+    "lermos",
+    "lerem"
+   ]
+  },
+  "gerund": "lendo",
+  "participle": "lido"
+ },
+ "manter": {
+  "tenses": {
+   "presente": [
+    "mantenho",
+    "mantém",
+    "mantemos",
+    "mantêm"
+   ],
+   "preterito": [
+    "mantive",
+    "manteve",
+    "mantivemos",
+    "mantiveram"
+   ],
+   "imperfeito": [
+    "mantinha",
+    "mantinha",
+    "mantínhamos",
+    "mantinham"
+   ],
+   "futuro": [
+    "manterei",
+    "manterá",
+    "manteremos",
+    "manterão"
+   ],
+   "condicional": [
+    "manteria",
+    "manteria",
+    "manteríamos",
+    "manteriam"
+   ],
+   "subjpresente": [
+    "mantenha",
+    "mantenha",
+    "mantenhamos",
+    "mantenham"
+   ],
+   "subjimperfeito": [
+    "mantivesse",
+    "mantivesse",
+    "mantivéssemos",
+    "mantivessem"
+   ],
+   "subjfuturo": [
+    "mantiver",
+    "mantiver",
+    "mantivermos",
+    "mantiverem"
+   ]
+  },
+  "gerund": "mantendo",
+  "participle": "mantido"
+ },
+ "mediar": {
+  "tenses": {
+   "presente": [
+    "medeio",
+    "medeia",
+    "mediamos",
+    "medeiam"
+   ],
+   "preterito": [
+    "mediei",
+    "mediou",
+    "mediamos",
+    "mediaram"
+   ],
+   "imperfeito": [
+    "mediava",
+    "mediava",
+    "mediávamos",
+    "mediavam"
+   ],
+   "futuro": [
+    "mediarei",
+    "mediará",
+    "mediaremos",
+    "mediarão"
+   ],
+   "condicional": [
+    "mediaria",
+    "mediaria",
+    "mediaríamos",
+    "mediariam"
+   ],
+   "subjpresente": [
+    "medeie",
+    "medeie",
+    "mediemos",
+    "medeiem"
+   ],
+   "subjimperfeito": [
+    "mediasse",
+    "mediasse",
+    "mediássemos",
+    "mediassem"
+   ],
+   "subjfuturo": [
+    "mediar",
+    "mediar",
+    "mediarmos",
+    "mediarem"
+   ]
+  },
+  "gerund": "mediando",
+  "participle": "mediado"
+ },
+ "medir": {
+  "tenses": {
+   "presente": [
+    "meço",
+    "mede",
+    "medimos",
+    "medem"
+   ],
+   "preterito": [
+    "medi",
+    "mediu",
+    "medimos",
+    "mediram"
+   ],
+   "imperfeito": [
+    "media",
+    "media",
+    "medíamos",
+    "mediam"
+   ],
+   "futuro": [
+    "medirei",
+    "medirá",
+    "mediremos",
+    "medirão"
+   ],
+   "condicional": [
+    "mediria",
+    "mediria",
+    "mediríamos",
+    "mediriam"
+   ],
+   "subjpresente": [
+    "meça",
+    "meça",
+    "meçamos",
+    "meçam"
+   ],
+   "subjimperfeito": [
+    "medisse",
+    "medisse",
+    "medíssemos",
+    "medissem"
+   ],
+   "subjfuturo": [
+    "medir",
+    "medir",
+    "medirmos",
+    "medirem"
+   ]
+  },
+  "gerund": "medindo",
+  "participle": "medido"
+ },
+ "mentir": {
+  "tenses": {
+   "presente": [
+    "minto",
+    "mente",
+    "mentimos",
+    "mentem"
+   ],
+   "preterito": [
+    "menti",
+    "mentiu",
+    "mentimos",
+    "mentiram"
+   ],
+   "imperfeito": [
+    "mentia",
+    "mentia",
+    "mentíamos",
+    "mentiam"
+   ],
+   "futuro": [
+    "mentirei",
+    "mentirá",
+    "mentiremos",
+    "mentirão"
+   ],
+   "condicional": [
+    "mentiria",
+    "mentiria",
+    "mentiríamos",
+    "mentiriam"
+   ],
+   "subjpresente": [
+    "minta",
+    "minta",
+    "mintamos",
+    "mintam"
+   ],
+   "subjimperfeito": [
+    "mentisse",
+    "mentisse",
+    "mentíssemos",
+    "mentissem"
+   ],
+   "subjfuturo": [
+    "mentir",
+    "mentir",
+    "mentirmos",
+    "mentirem"
+   ]
+  },
+  "gerund": "mentindo",
+  "participle": "mentido"
+ },
+ "nomear": {
+  "tenses": {
+   "presente": [
+    "nomeio",
+    "nomeia",
+    "nomeamos",
+    "nomeiam"
+   ],
+   "preterito": [
+    "nomeei",
+    "nomeou",
+    "nomeamos",
+    "nomearam"
+   ],
+   "imperfeito": [
+    "nomeava",
+    "nomeava",
+    "nomeávamos",
+    "nomeavam"
+   ],
+   "futuro": [
+    "nomearei",
+    "nomeará",
+    "nomearemos",
+    "nomearão"
+   ],
+   "condicional": [
+    "nomearia",
+    "nomearia",
+    "nomearíamos",
+    "nomeariam"
+   ],
+   "subjpresente": [
+    "nomeie",
+    "nomeie",
+    "nomeemos",
+    "nomeiem"
+   ],
+   "subjimperfeito": [
+    "nomeasse",
+    "nomeasse",
+    "nomeássemos",
+    "nomeassem"
+   ],
+   "subjfuturo": [
+    "nomear",
+    "nomear",
+    "nomearmos",
+    "nomearem"
+   ]
+  },
+  "gerund": "nomeando",
+  "participle": "nomeado"
+ },
+ "obter": {
+  "tenses": {
+   "presente": [
+    "obtenho",
+    "obtém",
+    "obtemos",
+    "obtêm"
+   ],
+   "preterito": [
+    "obtive",
+    "obteve",
+    "obtivemos",
+    "obtiveram"
+   ],
+   "imperfeito": [
+    "obtinha",
+    "obtinha",
+    "obtínhamos",
+    "obtinham"
+   ],
+   "futuro": [
+    "obterei",
+    "obterá",
+    "obteremos",
+    "obterão"
+   ],
+   "condicional": [
+    "obteria",
+    "obteria",
+    "obteríamos",
+    "obteriam"
+   ],
+   "subjpresente": [
+    "obtenha",
+    "obtenha",
+    "obtenhamos",
+    "obtenham"
+   ],
+   "subjimperfeito": [
+    "obtivesse",
+    "obtivesse",
+    "obtivéssemos",
+    "obtivessem"
+   ],
+   "subjfuturo": [
+    "obtiver",
+    "obtiver",
+    "obtivermos",
+    "obtiverem"
+   ]
+  },
+  "gerund": "obtendo",
+  "participle": "obtido"
+ },
+ "odiar": {
+  "tenses": {
+   "presente": [
+    "odeio",
+    "odeia",
+    "odiamos",
+    "odeiam"
+   ],
+   "preterito": [
+    "odiei",
+    "odiou",
+    "odiamos",
+    "odiaram"
+   ],
+   "imperfeito": [
+    "odiava",
+    "odiava",
+    "odiávamos",
+    "odiavam"
+   ],
+   "futuro": [
+    "odiarei",
+    "odiará",
+    "odiaremos",
+    "odiarão"
+   ],
+   "condicional": [
+    "odiaria",
+    "odiaria",
+    "odiaríamos",
+    "odiariam"
+   ],
+   "subjpresente": [
+    "odeie",
+    "odeie",
+    "odiemos",
+    "odeiem"
+   ],
+   "subjimperfeito": [
+    "odiasse",
+    "odiasse",
+    "odiássemos",
+    "odiassem"
+   ],
+   "subjfuturo": [
+    "odiar",
+    "odiar",
+    "odiarmos",
+    "odiarem"
+   ]
+  },
+  "gerund": "odiando",
+  "participle": "odiado"
+ },
+ "opor": {
+  "tenses": {
+   "presente": [
+    "oponho",
+    "opõe",
+    "opomos",
+    "opõem"
+   ],
+   "preterito": [
+    "opus",
+    "opôs",
+    "opusemos",
+    "opuseram"
+   ],
+   "imperfeito": [
+    "opunha",
+    "opunha",
+    "opúnhamos",
+    "opunham"
+   ],
+   "futuro": [
+    "oporei",
+    "oporá",
+    "oporemos",
+    "oporão"
+   ],
+   "condicional": [
+    "oporia",
+    "oporia",
+    "oporíamos",
+    "oporiam"
+   ],
+   "subjpresente": [
+    "oponha",
+    "oponha",
+    "oponhamos",
+    "oponham"
+   ],
+   "subjimperfeito": [
+    "opusesse",
+    "opusesse",
+    "opuséssemos",
+    "opusessem"
+   ],
+   "subjfuturo": [
+    "opuser",
+    "opuser",
+    "opusermos",
+    "opuserem"
+   ]
+  },
+  "gerund": "opondo",
+  "participle": "oposto"
+ },
+ "ouvir": {
+  "tenses": {
+   "presente": [
+    "ouço",
+    "ouve",
+    "ouvimos",
+    "ouvem"
+   ],
+   "preterito": [
+    "ouvi",
+    "ouviu",
+    "ouvimos",
+    "ouviram"
+   ],
+   "imperfeito": [
+    "ouvia",
+    "ouvia",
+    "ouvíamos",
+    "ouviam"
+   ],
+   "futuro": [
+    "ouvirei",
+    "ouvirá",
+    "ouviremos",
+    "ouvirão"
+   ],
+   "condicional": [
+    "ouviria",
+    "ouviria",
+    "ouviríamos",
+    "ouviriam"
+   ],
+   "subjpresente": [
+    "ouça",
+    "ouça",
+    "ouçamos",
+    "ouçam"
+   ],
+   "subjimperfeito": [
+    "ouvisse",
+    "ouvisse",
+    "ouvíssemos",
+    "ouvissem"
+   ],
+   "subjfuturo": [
+    "ouvir",
+    "ouvir",
+    "ouvirmos",
+    "ouvirem"
+   ]
+  },
+  "gerund": "ouvindo",
+  "participle": "ouvido"
+ },
+ "pagar": {
+  "tenses": {
+   "presente": [
+    "pago",
+    "paga",
+    "pagamos",
+    "pagam"
+   ],
+   "preterito": [
+    "paguei",
+    "pagou",
+    "pagamos",
+    "pagaram"
+   ],
+   "imperfeito": [
+    "pagava",
+    "pagava",
+    "pagávamos",
+    "pagavam"
+   ],
+   "futuro": [
+    "pagarei",
+    "pagará",
+    "pagaremos",
+    "pagarão"
+   ],
+   "condicional": [
+    "pagaria",
+    "pagaria",
+    "pagaríamos",
+    "pagariam"
+   ],
+   "subjpresente": [
+    "pague",
+    "pague",
+    "paguemos",
+    "paguem"
+   ],
+   "subjimperfeito": [
+    "pagasse",
+    "pagasse",
+    "pagássemos",
+    "pagassem"
+   ],
+   "subjfuturo": [
+    "pagar",
+    "pagar",
+    "pagarmos",
+    "pagarem"
+   ]
+  },
+  "gerund": "pagando",
+  "participle": "pago"
+ },
+ "passear": {
+  "tenses": {
+   "presente": [
+    "passeio",
+    "passeia",
+    "passeamos",
+    "passeiam"
+   ],
+   "preterito": [
+    "passeei",
+    "passeou",
+    "passeamos",
+    "passearam"
+   ],
+   "imperfeito": [
+    "passeava",
+    "passeava",
+    "passeávamos",
+    "passeavam"
+   ],
+   "futuro": [
+    "passearei",
+    "passeará",
+    "passearemos",
+    "passearão"
+   ],
+   "condicional": [
+    "passearia",
+    "passearia",
+    "passearíamos",
+    "passeariam"
+   ],
+   "subjpresente": [
+    "passeie",
+    "passeie",
+    "passeemos",
+    "passeiem"
+   ],
+   "subjimperfeito": [
+    "passeasse",
+    "passeasse",
+    "passeássemos",
+    "passeassem"
+   ],
+   "subjfuturo": [
+    "passear",
+    "passear",
+    "passearmos",
+    "passearem"
+   ]
+  },
+  "gerund": "passeando",
+  "participle": "passeado"
+ },
+ "pedir": {
+  "tenses": {
+   "presente": [
+    "peço",
+    "pede",
+    "pedimos",
+    "pedem"
+   ],
+   "preterito": [
+    "pedi",
+    "pediu",
+    "pedimos",
+    "pediram"
+   ],
+   "imperfeito": [
+    "pedia",
+    "pedia",
+    "pedíamos",
+    "pediam"
+   ],
+   "futuro": [
+    "pedirei",
+    "pedirá",
+    "pediremos",
+    "pedirão"
+   ],
+   "condicional": [
+    "pediria",
+    "pediria",
+    "pediríamos",
+    "pediriam"
+   ],
+   "subjpresente": [
+    "peça",
+    "peça",
+    "peçamos",
+    "peçam"
+   ],
+   "subjimperfeito": [
+    "pedisse",
+    "pedisse",
+    "pedíssemos",
+    "pedissem"
+   ],
+   "subjfuturo": [
+    "pedir",
+    "pedir",
+    "pedirmos",
+    "pedirem"
+   ]
+  },
+  "gerund": "pedindo",
+  "participle": "pedido"
+ },
+ "pentear": {
+  "tenses": {
+   "presente": [
+    "penteio",
+    "penteia",
+    "penteamos",
+    "penteiam"
+   ],
+   "preterito": [
+    "penteei",
+    "penteou",
+    "penteamos",
+    "pentearam"
+   ],
+   "imperfeito": [
+    "penteava",
+    "penteava",
+    "penteávamos",
+    "penteavam"
+   ],
+   "futuro": [
+    "pentearei",
+    "penteará",
+    "pentearemos",
+    "pentearão"
+   ],
+   "condicional": [
+    "pentearia",
+    "pentearia",
+    "pentearíamos",
+    "penteariam"
+   ],
+   "subjpresente": [
+    "penteie",
+    "penteie",
+    "penteemos",
+    "penteiem"
+   ],
+   "subjimperfeito": [
+    "penteasse",
+    "penteasse",
+    "penteássemos",
+    "penteassem"
+   ],
+   "subjfuturo": [
+    "pentear",
+    "pentear",
+    "pentearmos",
+    "pentearem"
+   ]
+  },
+  "gerund": "penteando",
+  "participle": "penteado"
+ },
+ "perder": {
+  "tenses": {
+   "presente": [
+    "perco",
+    "perde",
+    "perdemos",
+    "perdem"
+   ],
+   "preterito": [
+    "perdi",
+    "perdeu",
+    "perdemos",
+    "perderam"
+   ],
+   "imperfeito": [
+    "perdia",
+    "perdia",
+    "perdíamos",
+    "perdiam"
+   ],
+   "futuro": [
+    "perderei",
+    "perderá",
+    "perderemos",
+    "perderão"
+   ],
+   "condicional": [
+    "perderia",
+    "perderia",
+    "perderíamos",
+    "perderiam"
+   ],
+   "subjpresente": [
+    "perca",
+    "perca",
+    "percamos",
+    "percam"
+   ],
+   "subjimperfeito": [
+    "perdesse",
+    "perdesse",
+    "perdêssemos",
+    "perdessem"
+   ],
+   "subjfuturo": [
+    "perder",
+    "perder",
+    "perdermos",
+    "perderem"
+   ]
+  },
+  "gerund": "perdendo",
+  "participle": "perdido"
+ },
+ "perseguir": {
+  "tenses": {
+   "presente": [
+    "persigo",
+    "persegue",
+    "perseguimos",
+    "perseguem"
+   ],
+   "preterito": [
+    "persegui",
+    "perseguiu",
+    "perseguimos",
+    "perseguiram"
+   ],
+   "imperfeito": [
+    "perseguia",
+    "perseguia",
+    "perseguíamos",
+    "perseguiam"
+   ],
+   "futuro": [
+    "perseguirei",
+    "perseguirá",
+    "perseguiremos",
+    "perseguirão"
+   ],
+   "condicional": [
+    "perseguiria",
+    "perseguiria",
+    "perseguiríamos",
+    "perseguiriam"
+   ],
+   "subjpresente": [
+    "persiga",
+    "persiga",
+    "persigamos",
+    "persigam"
+   ],
+   "subjimperfeito": [
+    "perseguisse",
+    "perseguisse",
+    "perseguíssemos",
+    "perseguissem"
+   ],
+   "subjfuturo": [
+    "perseguir",
+    "perseguir",
+    "perseguirmos",
+    "perseguirem"
+   ]
+  },
+  "gerund": "perseguindo",
+  "participle": "perseguido"
+ },
+ "poder": {
+  "tenses": {
+   "presente": [
+    "posso",
+    "pode",
+    "podemos",
+    "podem"
+   ],
+   "preterito": [
+    "pude",
+    "pôde",
+    "pudemos",
+    "puderam"
+   ],
+   "imperfeito": [
+    "podia",
+    "podia",
+    "podíamos",
+    "podiam"
+   ],
+   "futuro": [
+    "poderei",
+    "poderá",
+    "poderemos",
+    "poderão"
+   ],
+   "condicional": [
+    "poderia",
+    "poderia",
+    "poderíamos",
+    "poderiam"
+   ],
+   "subjpresente": [
+    "possa",
+    "possa",
+    "possamos",
+    "possam"
+   ],
+   "subjimperfeito": [
+    "pudesse",
+    "pudesse",
+    "pudéssemos",
+    "pudessem"
+   ],
+   "subjfuturo": [
+    "puder",
+    "puder",
+    "pudermos",
+    "puderem"
+   ]
+  },
+  "gerund": "podendo",
+  "participle": "podido"
+ },
+ "polir": {
+  "tenses": {
+   "presente": [
+    "pulo",
+    "pule",
+    "polimos",
+    "pulem"
+   ],
+   "preterito": [
+    "poli",
+    "poliu",
+    "polimos",
+    "poliram"
+   ],
+   "imperfeito": [
+    "polia",
+    "polia",
+    "políamos",
+    "poliam"
+   ],
+   "futuro": [
+    "polirei",
+    "polirá",
+    "poliremos",
+    "polirão"
+   ],
+   "condicional": [
+    "poliria",
+    "poliria",
+    "poliríamos",
+    "poliriam"
+   ],
+   "subjpresente": [
+    "pula",
+    "pula",
+    "pulamos",
+    "pulam"
+   ],
+   "subjimperfeito": [
+    "polisse",
+    "polisse",
+    "políssemos",
+    "polissem"
+   ],
+   "subjfuturo": [
+    "polir",
+    "polir",
+    "polirmos",
+    "polirem"
+   ]
+  },
+  "gerund": "polindo",
+  "participle": "polido"
+ },
+ "poluir": {
+  "tenses": {
+   "presente": [
+    "poluo",
+    "polui",
+    "poluímos",
+    "poluem"
+   ],
+   "preterito": [
+    "poluí",
+    "poluiu",
+    "poluímos",
+    "poluíram"
+   ],
+   "imperfeito": [
+    "poluía",
+    "poluía",
+    "poluíamos",
+    "poluíam"
+   ],
+   "futuro": [
+    "poluirei",
+    "poluirá",
+    "poluiremos",
+    "poluirão"
+   ],
+   "condicional": [
+    "poluiria",
+    "poluiria",
+    "poluiríamos",
+    "poluiriam"
+   ],
+   "subjpresente": [
+    "polua",
+    "polua",
+    "poluamos",
+    "poluam"
+   ],
+   "subjimperfeito": [
+    "poluísse",
+    "poluísse",
+    "poluíssemos",
+    "poluíssem"
+   ],
+   "subjfuturo": [
+    "poluir",
+    "poluir",
+    "poluirmos",
+    "poluírem"
+   ]
+  },
+  "gerund": "poluindo",
+  "participle": "poluído"
+ },
+ "possuir": {
+  "tenses": {
+   "presente": [
+    "possuo",
+    "possui",
+    "possuímos",
+    "possuem"
+   ],
+   "preterito": [
+    "possuí",
+    "possuiu",
+    "possuímos",
+    "possuíram"
+   ],
+   "imperfeito": [
+    "possuía",
+    "possuía",
+    "possuíamos",
+    "possuíam"
+   ],
+   "futuro": [
+    "possuirei",
+    "possuirá",
+    "possuiremos",
+    "possuirão"
+   ],
+   "condicional": [
+    "possuiria",
+    "possuiria",
+    "possuiríamos",
+    "possuiriam"
+   ],
+   "subjpresente": [
+    "possua",
+    "possua",
+    "possuamos",
+    "possuam"
+   ],
+   "subjimperfeito": [
+    "possuísse",
+    "possuísse",
+    "possuíssemos",
+    "possuíssem"
+   ],
+   "subjfuturo": [
+    "possuir",
+    "possuir",
+    "possuirmos",
+    "possuírem"
+   ]
+  },
+  "gerund": "possuindo",
+  "participle": "possuído"
+ },
+ "preferir": {
+  "tenses": {
+   "presente": [
+    "prefiro",
+    "prefere",
+    "preferimos",
+    "preferem"
+   ],
+   "preterito": [
+    "preferi",
+    "preferiu",
+    "preferimos",
+    "preferiram"
+   ],
+   "imperfeito": [
+    "preferia",
+    "preferia",
+    "preferíamos",
+    "preferiam"
+   ],
+   "futuro": [
+    "preferirei",
+    "preferirá",
+    "preferiremos",
+    "preferirão"
+   ],
+   "condicional": [
+    "preferiria",
+    "preferiria",
+    "preferiríamos",
+    "prefeririam"
+   ],
+   "subjpresente": [
+    "prefira",
+    "prefira",
+    "prefiramos",
+    "prefiram"
+   ],
+   "subjimperfeito": [
+    "preferisse",
+    "preferisse",
+    "preferíssemos",
+    "preferissem"
+   ],
+   "subjfuturo": [
+    "preferir",
+    "preferir",
+    "preferirmos",
+    "preferirem"
+   ]
+  },
+  "gerund": "preferindo",
+  "participle": "preferido"
+ },
+ "prescrever": {
+  "tenses": {
+   "presente": [
+    "prescrevo",
+    "prescreve",
+    "prescrevemos",
+    "prescrevem"
+   ],
+   "preterito": [
+    "prescrevi",
+    "prescreveu",
+    "prescrevemos",
+    "prescreveram"
+   ],
+   "imperfeito": [
+    "prescrevia",
+    "prescrevia",
+    "prescrevíamos",
+    "prescreviam"
+   ],
+   "futuro": [
+    "prescreverei",
+    "prescreverá",
+    "prescreveremos",
+    "prescreverão"
+   ],
+   "condicional": [
+    "prescreveria",
+    "prescreveria",
+    "prescreveríamos",
+    "prescreveriam"
+   ],
+   "subjpresente": [
+    "prescreva",
+    "prescreva",
+    "prescrevamos",
+    "prescrevam"
+   ],
+   "subjimperfeito": [
+    "prescrevesse",
+    "prescrevesse",
+    "prescrevêssemos",
+    "prescrevessem"
+   ],
+   "subjfuturo": [
+    "prescrever",
+    "prescrever",
+    "prescrevermos",
+    "prescreverem"
+   ]
+  },
+  "gerund": "prescrevendo",
+  "participle": "prescrito"
+ },
+ "presentear": {
+  "tenses": {
+   "presente": [
+    "presenteio",
+    "presenteia",
+    "presenteamos",
+    "presenteiam"
+   ],
+   "preterito": [
+    "presenteei",
+    "presenteou",
+    "presenteamos",
+    "presentearam"
+   ],
+   "imperfeito": [
+    "presenteava",
+    "presenteava",
+    "presenteávamos",
+    "presenteavam"
+   ],
+   "futuro": [
+    "presentearei",
+    "presenteará",
+    "presentearemos",
+    "presentearão"
+   ],
+   "condicional": [
+    "presentearia",
+    "presentearia",
+    "presentearíamos",
+    "presenteariam"
+   ],
+   "subjpresente": [
+    "presenteie",
+    "presenteie",
+    "presenteemos",
+    "presenteiem"
+   ],
+   "subjimperfeito": [
+    "presenteasse",
+    "presenteasse",
+    "presenteássemos",
+    "presenteassem"
+   ],
+   "subjfuturo": [
+    "presentear",
+    "presentear",
+    "presentearmos",
+    "presentearem"
+   ]
+  },
+  "gerund": "presenteando",
+  "participle": "presenteado"
+ },
+ "prevenir": {
+  "tenses": {
+   "presente": [
+    "previno",
+    "previne",
+    "prevenimos",
+    "previnem"
+   ],
+   "preterito": [
+    "preveni",
+    "preveniu",
+    "prevenimos",
+    "preveniram"
+   ],
+   "imperfeito": [
+    "prevenia",
+    "prevenia",
+    "preveníamos",
+    "preveniam"
+   ],
+   "futuro": [
+    "prevenirei",
+    "prevenirá",
+    "preveniremos",
+    "prevenirão"
+   ],
+   "condicional": [
+    "preveniria",
+    "preveniria",
+    "preveniríamos",
+    "preveniriam"
+   ],
+   "subjpresente": [
+    "previna",
+    "previna",
+    "previnamos",
+    "previnam"
+   ],
+   "subjimperfeito": [
+    "prevenisse",
+    "prevenisse",
+    "preveníssemos",
+    "prevenissem"
+   ],
+   "subjfuturo": [
+    "prevenir",
+    "prevenir",
+    "prevenirmos",
+    "prevenirem"
+   ]
+  },
+  "gerund": "prevenindo",
+  "participle": "prevenido"
+ },
+ "prever": {
+  "tenses": {
+   "presente": [
+    "prevejo",
+    "prevê",
+    "prevemos",
+    "preveem"
+   ],
+   "preterito": [
+    "previ",
+    "previu",
+    "previmos",
+    "previram"
+   ],
+   "imperfeito": [
+    "previa",
+    "previa",
+    "prevíamos",
+    "previam"
+   ],
+   "futuro": [
+    "preverei",
+    "preverá",
+    "preveremos",
+    "preverão"
+   ],
+   "condicional": [
+    "preveria",
+    "preveria",
+    "preveríamos",
+    "preveriam"
+   ],
+   "subjpresente": [
+    "preveja",
+    "preveja",
+    "prevejamos",
+    "prevejam"
+   ],
+   "subjimperfeito": [
+    "previsse",
+    "previsse",
+    "prevíssemos",
+    "previssem"
+   ],
+   "subjfuturo": [
+    "previr",
+    "previr",
+    "previrmos",
+    "previrem"
+   ]
+  },
+  "gerund": "prevendo",
+  "participle": "previsto"
+ },
+ "produzir": {
+  "tenses": {
+   "presente": [
+    "produzo",
+    "produz",
+    "produzimos",
+    "produzem"
+   ],
+   "preterito": [
+    "produzi",
+    "produziu",
+    "produzimos",
+    "produziram"
+   ],
+   "imperfeito": [
+    "produzia",
+    "produzia",
+    "produzíamos",
+    "produziam"
+   ],
+   "futuro": [
+    "produzirei",
+    "produzirá",
+    "produziremos",
+    "produzirão"
+   ],
+   "condicional": [
+    "produziria",
+    "produziria",
+    "produziríamos",
+    "produziriam"
+   ],
+   "subjpresente": [
+    "produza",
+    "produza",
+    "produzamos",
+    "produzam"
+   ],
+   "subjimperfeito": [
+    "produzisse",
+    "produzisse",
+    "produzíssemos",
+    "produzissem"
+   ],
+   "subjfuturo": [
+    "produzir",
+    "produzir",
+    "produzirmos",
+    "produzirem"
+   ]
+  },
+  "gerund": "produzindo",
+  "participle": "produzido"
+ },
+ "progredir": {
+  "tenses": {
+   "presente": [
+    "progrido",
+    "progride",
+    "progredimos",
+    "progridem"
+   ],
+   "preterito": [
+    "progredi",
+    "progrediu",
+    "progredimos",
+    "progrediram"
+   ],
+   "imperfeito": [
+    "progredia",
+    "progredia",
+    "progredíamos",
+    "progrediam"
+   ],
+   "futuro": [
+    "progredirei",
+    "progredirá",
+    "progrediremos",
+    "progredirão"
+   ],
+   "condicional": [
+    "progrediria",
+    "progrediria",
+    "progrediríamos",
+    "progrediriam"
+   ],
+   "subjpresente": [
+    "progrida",
+    "progrida",
+    "progridamos",
+    "progridam"
+   ],
+   "subjimperfeito": [
+    "progredisse",
+    "progredisse",
+    "progredíssemos",
+    "progredissem"
+   ],
+   "subjfuturo": [
+    "progredir",
+    "progredir",
+    "progredirmos",
+    "progredirem"
+   ]
+  },
+  "gerund": "progredindo",
+  "participle": "progredido"
+ },
+ "proibir": {
+  "tenses": {
+   "presente": [
+    "proíbo",
+    "proíbe",
+    "proibimos",
+    "proíbem"
+   ],
+   "preterito": [
+    "proibi",
+    "proibiu",
+    "proibimos",
+    "proibiram"
+   ],
+   "imperfeito": [
+    "proibia",
+    "proibia",
+    "proibíamos",
+    "proibiam"
+   ],
+   "futuro": [
+    "proibirei",
+    "proibirá",
+    "proibiremos",
+    "proibirão"
+   ],
+   "condicional": [
+    "proibiria",
+    "proibiria",
+    "proibiríamos",
+    "proibiriam"
+   ],
+   "subjpresente": [
+    "proíba",
+    "proíba",
+    "proibamos",
+    "proíbam"
+   ],
+   "subjimperfeito": [
+    "proibisse",
+    "proibisse",
+    "proibíssemos",
+    "proibissem"
+   ],
+   "subjfuturo": [
+    "proibir",
+    "proibir",
+    "proibirmos",
+    "proibirem"
+   ]
+  },
+  "gerund": "proibindo",
+  "participle": "proibido"
+ },
+ "propor": {
+  "tenses": {
+   "presente": [
+    "proponho",
+    "propõe",
+    "propomos",
+    "propõem"
+   ],
+   "preterito": [
+    "propus",
+    "propôs",
+    "propusemos",
+    "propuseram"
+   ],
+   "imperfeito": [
+    "propunha",
+    "propunha",
+    "propúnhamos",
+    "propunham"
+   ],
+   "futuro": [
+    "proporei",
+    "proporá",
+    "proporemos",
+    "proporão"
+   ],
+   "condicional": [
+    "proporia",
+    "proporia",
+    "proporíamos",
+    "proporiam"
+   ],
+   "subjpresente": [
+    "proponha",
+    "proponha",
+    "proponhamos",
+    "proponham"
+   ],
+   "subjimperfeito": [
+    "propusesse",
+    "propusesse",
+    "propuséssemos",
+    "propusessem"
+   ],
+   "subjfuturo": [
+    "propuser",
+    "propuser",
+    "propusermos",
+    "propuserem"
+   ]
+  },
+  "gerund": "propondo",
+  "participle": "proposto"
+ },
+ "prosseguir": {
+  "tenses": {
+   "presente": [
+    "prossigo",
+    "prossegue",
+    "prosseguimos",
+    "prosseguem"
+   ],
+   "preterito": [
+    "prossegui",
+    "prosseguiu",
+    "prosseguimos",
+    "prosseguiram"
+   ],
+   "imperfeito": [
+    "prosseguia",
+    "prosseguia",
+    "prosseguíamos",
+    "prosseguiam"
+   ],
+   "futuro": [
+    "prosseguirei",
+    "prosseguirá",
+    "prosseguiremos",
+    "prosseguirão"
+   ],
+   "condicional": [
+    "prosseguiria",
+    "prosseguiria",
+    "prosseguiríamos",
+    "prosseguiriam"
+   ],
+   "subjpresente": [
+    "prossiga",
+    "prossiga",
+    "prossigamos",
+    "prossigam"
+   ],
+   "subjimperfeito": [
+    "prosseguisse",
+    "prosseguisse",
+    "prosseguíssemos",
+    "prosseguissem"
+   ],
+   "subjfuturo": [
+    "prosseguir",
+    "prosseguir",
+    "prosseguirmos",
+    "prosseguirem"
+   ]
+  },
+  "gerund": "prosseguindo",
+  "participle": "prosseguido"
+ },
+ "provir": {
+  "tenses": {
+   "presente": [
+    "provenho",
+    "provém",
+    "provimos",
+    "provêm"
+   ],
+   "preterito": [
+    "provim",
+    "proveio",
+    "proviemos",
+    "provieram"
+   ],
+   "imperfeito": [
+    "provinha",
+    "provinha",
+    "provínhamos",
+    "provinham"
+   ],
+   "futuro": [
+    "provirei",
+    "provirá",
+    "proviremos",
+    "provirão"
+   ],
+   "condicional": [
+    "proviria",
+    "proviria",
+    "proviríamos",
+    "proviriam"
+   ],
+   "subjpresente": [
+    "provenha",
+    "provenha",
+    "provenhamos",
+    "provenham"
+   ],
+   "subjimperfeito": [
+    "proviesse",
+    "proviesse",
+    "proviéssemos",
+    "proviessem"
+   ],
+   "subjfuturo": [
+    "provier",
+    "provier",
+    "proviermos",
+    "provierem"
+   ]
+  },
+  "gerund": "provindo",
+  "participle": "provindo"
+ },
+ "pôr": {
+  "tenses": {
+   "presente": [
+    "ponho",
+    "põe",
+    "pomos",
+    "põem"
+   ],
+   "preterito": [
+    "pus",
+    "pôs",
+    "pusemos",
+    "puseram"
+   ],
+   "imperfeito": [
+    "punha",
+    "punha",
+    "púnhamos",
+    "punham"
+   ],
+   "futuro": [
+    "porei",
+    "porá",
+    "poremos",
+    "porão"
+   ],
+   "condicional": [
+    "poria",
+    "poria",
+    "poríamos",
+    "poriam"
+   ],
+   "subjpresente": [
+    "ponha",
+    "ponha",
+    "ponhamos",
+    "ponham"
+   ],
+   "subjimperfeito": [
+    "pusesse",
+    "pusesse",
+    "puséssemos",
+    "pusessem"
+   ],
+   "subjfuturo": [
+    "puser",
+    "puser",
+    "pusermos",
+    "puserem"
+   ]
+  },
+  "gerund": "pondo",
+  "participle": "posto"
+ },
+ "querer": {
+  "tenses": {
+   "presente": [
+    "quero",
+    "quer",
+    "queremos",
+    "querem"
+   ],
+   "preterito": [
+    "quis",
+    "quis",
+    "quisemos",
+    "quiseram"
+   ],
+   "imperfeito": [
+    "queria",
+    "queria",
+    "queríamos",
+    "queriam"
+   ],
+   "futuro": [
+    "quererei",
+    "quererá",
+    "quereremos",
+    "quererão"
+   ],
+   "condicional": [
+    "quereria",
+    "quereria",
+    "quereríamos",
+    "quereriam"
+   ],
+   "subjpresente": [
+    "queira",
+    "queira",
+    "queiramos",
+    "queiram"
+   ],
+   "subjimperfeito": [
+    "quisesse",
+    "quisesse",
+    "quiséssemos",
+    "quisessem"
+   ],
+   "subjfuturo": [
+    "quiser",
+    "quiser",
+    "quisermos",
+    "quiserem"
+   ]
+  },
+  "gerund": "querendo",
+  "participle": "querido"
+ },
+ "recear": {
+  "tenses": {
+   "presente": [
+    "receio",
+    "receia",
+    "receamos",
+    "receiam"
+   ],
+   "preterito": [
+    "receei",
+    "receou",
+    "receamos",
+    "recearam"
+   ],
+   "imperfeito": [
+    "receava",
+    "receava",
+    "receávamos",
+    "receavam"
+   ],
+   "futuro": [
+    "recearei",
+    "receará",
+    "recearemos",
+    "recearão"
+   ],
+   "condicional": [
+    "recearia",
+    "recearia",
+    "recearíamos",
+    "receariam"
+   ],
+   "subjpresente": [
+    "receie",
+    "receie",
+    "receemos",
+    "receiem"
+   ],
+   "subjimperfeito": [
+    "receasse",
+    "receasse",
+    "receássemos",
+    "receassem"
+   ],
+   "subjfuturo": [
+    "recear",
+    "recear",
+    "recearmos",
+    "recearem"
+   ]
+  },
+  "gerund": "receando",
+  "participle": "receado"
+ },
+ "reduzir": {
+  "tenses": {
+   "presente": [
+    "reduzo",
+    "reduz",
+    "reduzimos",
+    "reduzem"
+   ],
+   "preterito": [
+    "reduzi",
+    "reduziu",
+    "reduzimos",
+    "reduziram"
+   ],
+   "imperfeito": [
+    "reduzia",
+    "reduzia",
+    "reduzíamos",
+    "reduziam"
+   ],
+   "futuro": [
+    "reduzirei",
+    "reduzirá",
+    "reduziremos",
+    "reduzirão"
+   ],
+   "condicional": [
+    "reduziria",
+    "reduziria",
+    "reduziríamos",
+    "reduziriam"
+   ],
+   "subjpresente": [
+    "reduza",
+    "reduza",
+    "reduzamos",
+    "reduzam"
+   ],
+   "subjimperfeito": [
+    "reduzisse",
+    "reduzisse",
+    "reduzíssemos",
+    "reduzissem"
+   ],
+   "subjfuturo": [
+    "reduzir",
+    "reduzir",
+    "reduzirmos",
+    "reduzirem"
+   ]
+  },
+  "gerund": "reduzindo",
+  "participle": "reduzido"
+ },
+ "refazer": {
+  "tenses": {
+   "presente": [
+    "refaço",
+    "refaz",
+    "refazemos",
+    "refazem"
+   ],
+   "preterito": [
+    "refiz",
+    "refez",
+    "refizemos",
+    "refizeram"
+   ],
+   "imperfeito": [
+    "refazia",
+    "refazia",
+    "refazíamos",
+    "refaziam"
+   ],
+   "futuro": [
+    "refarei",
+    "refará",
+    "refaremos",
+    "refarão"
+   ],
+   "condicional": [
+    "refaria",
+    "refaria",
+    "refaríamos",
+    "refariam"
+   ],
+   "subjpresente": [
+    "refaça",
+    "refaça",
+    "refaçamos",
+    "refaçam"
+   ],
+   "subjimperfeito": [
+    "refizesse",
+    "refizesse",
+    "refizéssemos",
+    "refizessem"
+   ],
+   "subjfuturo": [
+    "refizer",
+    "refizer",
+    "refizermos",
+    "refizerem"
+   ]
+  },
+  "gerund": "refazendo",
+  "participle": "refeito"
+ },
+ "referir": {
+  "tenses": {
+   "presente": [
+    "refiro",
+    "refere",
+    "referimos",
+    "referem"
+   ],
+   "preterito": [
+    "referi",
+    "referiu",
+    "referimos",
+    "referiram"
+   ],
+   "imperfeito": [
+    "referia",
+    "referia",
+    "referíamos",
+    "referiam"
+   ],
+   "futuro": [
+    "referirei",
+    "referirá",
+    "referiremos",
+    "referirão"
+   ],
+   "condicional": [
+    "referiria",
+    "referiria",
+    "referiríamos",
+    "refeririam"
+   ],
+   "subjpresente": [
+    "refira",
+    "refira",
+    "refiramos",
+    "refiram"
+   ],
+   "subjimperfeito": [
+    "referisse",
+    "referisse",
+    "referíssemos",
+    "referissem"
+   ],
+   "subjfuturo": [
+    "referir",
+    "referir",
+    "referirmos",
+    "referirem"
+   ]
+  },
+  "gerund": "referindo",
+  "participle": "referido"
+ },
+ "refletir": {
+  "tenses": {
+   "presente": [
+    "reflito",
+    "reflete",
+    "refletimos",
+    "refletem"
+   ],
+   "preterito": [
+    "refleti",
+    "refletiu",
+    "refletimos",
+    "refletiram"
+   ],
+   "imperfeito": [
+    "refletia",
+    "refletia",
+    "refletíamos",
+    "refletiam"
+   ],
+   "futuro": [
+    "refletirei",
+    "refletirá",
+    "refletiremos",
+    "refletirão"
+   ],
+   "condicional": [
+    "refletiria",
+    "refletiria",
+    "refletiríamos",
+    "refletiriam"
+   ],
+   "subjpresente": [
+    "reflita",
+    "reflita",
+    "reflitamos",
+    "reflitam"
+   ],
+   "subjimperfeito": [
+    "refletisse",
+    "refletisse",
+    "refletíssemos",
+    "refletissem"
+   ],
+   "subjfuturo": [
+    "refletir",
+    "refletir",
+    "refletirmos",
+    "refletirem"
+   ]
+  },
+  "gerund": "refletindo",
+  "participle": "refletido"
+ },
+ "remediar": {
+  "tenses": {
+   "presente": [
+    "remedeio",
+    "remedeia",
+    "remediamos",
+    "remedeiam"
+   ],
+   "preterito": [
+    "remediei",
+    "remediou",
+    "remediamos",
+    "remediaram"
+   ],
+   "imperfeito": [
+    "remediava",
+    "remediava",
+    "remediávamos",
+    "remediavam"
+   ],
+   "futuro": [
+    "remediarei",
+    "remediará",
+    "remediaremos",
+    "remediarão"
+   ],
+   "condicional": [
+    "remediaria",
+    "remediaria",
+    "remediaríamos",
+    "remediariam"
+   ],
+   "subjpresente": [
+    "remedeie",
+    "remedeie",
+    "remediemos",
+    "remedeiem"
+   ],
+   "subjimperfeito": [
+    "remediasse",
+    "remediasse",
+    "remediássemos",
+    "remediassem"
+   ],
+   "subjfuturo": [
+    "remediar",
+    "remediar",
+    "remediarmos",
+    "remediarem"
+   ]
+  },
+  "gerund": "remediando",
+  "participle": "remediado"
+ },
+ "repetir": {
+  "tenses": {
+   "presente": [
+    "repito",
+    "repete",
+    "repetimos",
+    "repetem"
+   ],
+   "preterito": [
+    "repeti",
+    "repetiu",
+    "repetimos",
+    "repetiram"
+   ],
+   "imperfeito": [
+    "repetia",
+    "repetia",
+    "repetíamos",
+    "repetiam"
+   ],
+   "futuro": [
+    "repetirei",
+    "repetirá",
+    "repetiremos",
+    "repetirão"
+   ],
+   "condicional": [
+    "repetiria",
+    "repetiria",
+    "repetiríamos",
+    "repetiriam"
+   ],
+   "subjpresente": [
+    "repita",
+    "repita",
+    "repitamos",
+    "repitam"
+   ],
+   "subjimperfeito": [
+    "repetisse",
+    "repetisse",
+    "repetíssemos",
+    "repetissem"
+   ],
+   "subjfuturo": [
+    "repetir",
+    "repetir",
+    "repetirmos",
+    "repetirem"
+   ]
+  },
+  "gerund": "repetindo",
+  "participle": "repetido"
+ },
+ "repor": {
+  "tenses": {
+   "presente": [
+    "reponho",
+    "repõe",
+    "repomos",
+    "repõem"
+   ],
+   "preterito": [
+    "repus",
+    "repôs",
+    "repusemos",
+    "repuseram"
+   ],
+   "imperfeito": [
+    "repunha",
+    "repunha",
+    "repúnhamos",
+    "repunham"
+   ],
+   "futuro": [
+    "reporei",
+    "reporá",
+    "reporemos",
+    "reporão"
+   ],
+   "condicional": [
+    "reporia",
+    "reporia",
+    "reporíamos",
+    "reporiam"
+   ],
+   "subjpresente": [
+    "reponha",
+    "reponha",
+    "reponhamos",
+    "reponham"
+   ],
+   "subjimperfeito": [
+    "repusesse",
+    "repusesse",
+    "repuséssemos",
+    "repusessem"
+   ],
+   "subjfuturo": [
+    "repuser",
+    "repuser",
+    "repusermos",
+    "repuserem"
+   ]
+  },
+  "gerund": "repondo",
+  "participle": "reposto"
+ },
+ "requerer": {
+  "tenses": {
+   "presente": [
+    "requeiro",
+    "requer",
+    "requeremos",
+    "requerem"
+   ],
+   "preterito": [
+    "requeri",
+    "requereu",
+    "requeremos",
+    "requereram"
+   ],
+   "imperfeito": [
+    "requeria",
+    "requeria",
+    "requeríamos",
+    "requeriam"
+   ],
+   "futuro": [
+    "requererei",
+    "requererá",
+    "requereremos",
+    "requererão"
+   ],
+   "condicional": [
+    "requereria",
+    "requereria",
+    "requereríamos",
+    "requereriam"
+   ],
+   "subjpresente": [
+    "requeira",
+    "requeira",
+    "requeiramos",
+    "requeiram"
+   ],
+   "subjimperfeito": [
+    "requeresse",
+    "requeresse",
+    "requerêssemos",
+    "requeressem"
+   ],
+   "subjfuturo": [
+    "requerer",
+    "requerer",
+    "requerermos",
+    "requererem"
+   ]
+  },
+  "gerund": "requerendo",
+  "participle": "requerido"
+ },
+ "reter": {
+  "tenses": {
+   "presente": [
+    "retenho",
+    "retém",
+    "retemos",
+    "retêm"
+   ],
+   "preterito": [
+    "retive",
+    "reteve",
+    "retivemos",
+    "retiveram"
+   ],
+   "imperfeito": [
+    "retinha",
+    "retinha",
+    "retínhamos",
+    "retinham"
+   ],
+   "futuro": [
+    "reterei",
+    "reterá",
+    "reteremos",
+    "reterão"
+   ],
+   "condicional": [
+    "reteria",
+    "reteria",
+    "reteríamos",
+    "reteriam"
+   ],
+   "subjpresente": [
+    "retenha",
+    "retenha",
+    "retenhamos",
+    "retenham"
+   ],
+   "subjimperfeito": [
+    "retivesse",
+    "retivesse",
+    "retivéssemos",
+    "retivessem"
+   ],
+   "subjfuturo": [
+    "retiver",
+    "retiver",
+    "retivermos",
+    "retiverem"
+   ]
+  },
+  "gerund": "retendo",
+  "participle": "retido"
+ },
+ "reunir": {
+  "tenses": {
+   "presente": [
+    "reúno",
+    "reúne",
+    "reunimos",
+    "reúnem"
+   ],
+   "preterito": [
+    "reuni",
+    "reuniu",
+    "reunimos",
+    "reuniram"
+   ],
+   "imperfeito": [
+    "reunia",
+    "reunia",
+    "reuníamos",
+    "reuniam"
+   ],
+   "futuro": [
+    "reunirei",
+    "reunirá",
+    "reuniremos",
+    "reunirão"
+   ],
+   "condicional": [
+    "reuniria",
+    "reuniria",
+    "reuniríamos",
+    "reuniriam"
+   ],
+   "subjpresente": [
+    "reúna",
+    "reúna",
+    "reunamos",
+    "reúnam"
+   ],
+   "subjimperfeito": [
+    "reunisse",
+    "reunisse",
+    "reuníssemos",
+    "reunissem"
+   ],
+   "subjfuturo": [
+    "reunir",
+    "reunir",
+    "reunirmos",
+    "reunirem"
+   ]
+  },
+  "gerund": "reunindo",
+  "participle": "reunido"
+ },
+ "rever": {
+  "tenses": {
+   "presente": [
+    "revejo",
+    "revê",
+    "revemos",
+    "reveem"
+   ],
+   "preterito": [
+    "revi",
+    "reviu",
+    "revimos",
+    "reviram"
+   ],
+   "imperfeito": [
+    "revia",
+    "revia",
+    "revíamos",
+    "reviam"
+   ],
+   "futuro": [
+    "reverei",
+    "reverá",
+    "reveremos",
+    "reverão"
+   ],
+   "condicional": [
+    "reveria",
+    "reveria",
+    "reveríamos",
+    "reveriam"
+   ],
+   "subjpresente": [
+    "reveja",
+    "reveja",
+    "revejamos",
+    "revejam"
+   ],
+   "subjimperfeito": [
+    "revisse",
+    "revisse",
+    "revíssemos",
+    "revissem"
+   ],
+   "subjfuturo": [
+    "revir",
+    "revir",
+    "revirmos",
+    "revirem"
+   ]
+  },
+  "gerund": "revendo",
+  "participle": "revisto"
+ },
+ "rir": {
+  "tenses": {
+   "presente": [
+    "rio",
+    "ri",
+    "rimos",
+    "riem"
+   ],
+   "preterito": [
+    "ri",
+    "riu",
+    "rimos",
+    "riram"
+   ],
+   "imperfeito": [
+    "ria",
+    "ria",
+    "ríamos",
+    "riam"
+   ],
+   "futuro": [
+    "rirei",
+    "rirá",
+    "riremos",
+    "rirão"
+   ],
+   "condicional": [
+    "riria",
+    "riria",
+    "riríamos",
+    "ririam"
+   ],
+   "subjpresente": [
+    "ria",
+    "ria",
+    "riamos",
+    "riam"
+   ],
+   "subjimperfeito": [
+    "risse",
+    "risse",
+    "ríssemos",
+    "rissem"
+   ],
+   "subjfuturo": [
+    "rir",
+    "rir",
+    "rirmos",
+    "rirem"
+   ]
+  },
+  "gerund": "rindo",
+  "participle": "rido"
+ },
+ "saber": {
+  "tenses": {
+   "presente": [
+    "sei",
+    "sabe",
+    "sabemos",
+    "sabem"
+   ],
+   "preterito": [
+    "soube",
+    "soube",
+    "soubemos",
+    "souberam"
+   ],
+   "imperfeito": [
+    "sabia",
+    "sabia",
+    "sabíamos",
+    "sabiam"
+   ],
+   "futuro": [
+    "saberei",
+    "saberá",
+    "saberemos",
+    "saberão"
+   ],
+   "condicional": [
+    "saberia",
+    "saberia",
+    "saberíamos",
+    "saberiam"
+   ],
+   "subjpresente": [
+    "saiba",
+    "saiba",
+    "saibamos",
+    "saibam"
+   ],
+   "subjimperfeito": [
+    "soubesse",
+    "soubesse",
+    "soubéssemos",
+    "soubessem"
+   ],
+   "subjfuturo": [
+    "souber",
+    "souber",
+    "soubermos",
+    "souberem"
+   ]
+  },
+  "gerund": "sabendo",
+  "participle": "sabido"
+ },
+ "sacudir": {
+  "tenses": {
+   "presente": [
+    "sacudo",
+    "sacode",
+    "sacudimos",
+    "sacodem"
+   ],
+   "preterito": [
+    "sacudi",
+    "sacudiu",
+    "sacudimos",
+    "sacudiram"
+   ],
+   "imperfeito": [
+    "sacudia",
+    "sacudia",
+    "sacudíamos",
+    "sacudiam"
+   ],
+   "futuro": [
+    "sacudirei",
+    "sacudirá",
+    "sacudiremos",
+    "sacudirão"
+   ],
+   "condicional": [
+    "sacudiria",
+    "sacudiria",
+    "sacudiríamos",
+    "sacudiriam"
+   ],
+   "subjpresente": [
+    "sacuda",
+    "sacuda",
+    "sacudamos",
+    "sacudam"
+   ],
+   "subjimperfeito": [
+    "sacudisse",
+    "sacudisse",
+    "sacudíssemos",
+    "sacudissem"
+   ],
+   "subjfuturo": [
+    "sacudir",
+    "sacudir",
+    "sacudirmos",
+    "sacudirem"
+   ]
+  },
+  "gerund": "sacudindo",
+  "participle": "sacudido"
+ },
+ "sair": {
+  "tenses": {
+   "presente": [
+    "saio",
+    "sai",
+    "saímos",
+    "saem"
+   ],
+   "preterito": [
+    "saí",
+    "saiu",
+    "saímos",
+    "saíram"
+   ],
+   "imperfeito": [
+    "saía",
+    "saía",
+    "saíamos",
+    "saíam"
+   ],
+   "futuro": [
+    "sairei",
+    "sairá",
+    "sairemos",
+    "sairão"
+   ],
+   "condicional": [
+    "sairia",
+    "sairia",
+    "sairíamos",
+    "sairiam"
+   ],
+   "subjpresente": [
+    "saia",
+    "saia",
+    "saiamos",
+    "saiam"
+   ],
+   "subjimperfeito": [
+    "saísse",
+    "saísse",
+    "saíssemos",
+    "saíssem"
+   ],
+   "subjfuturo": [
+    "sair",
+    "sair",
+    "sairmos",
+    "saírem"
+   ]
+  },
+  "gerund": "saindo",
+  "participle": "saído"
+ },
+ "satisfazer": {
+  "tenses": {
+   "presente": [
+    "satisfaço",
+    "satisfaz",
+    "satisfazemos",
+    "satisfazem"
+   ],
+   "preterito": [
+    "satisfiz",
+    "satisfez",
+    "satisfizemos",
+    "satisfizeram"
+   ],
+   "imperfeito": [
+    "satisfazia",
+    "satisfazia",
+    "satisfazíamos",
+    "satisfaziam"
+   ],
+   "futuro": [
+    "satisfarei",
+    "satisfará",
+    "satisfaremos",
+    "satisfarão"
+   ],
+   "condicional": [
+    "satisfaria",
+    "satisfaria",
+    "satisfaríamos",
+    "satisfariam"
+   ],
+   "subjpresente": [
+    "satisfaça",
+    "satisfaça",
+    "satisfaçamos",
+    "satisfaçam"
+   ],
+   "subjimperfeito": [
+    "satisfizesse",
+    "satisfizesse",
+    "satisfizéssemos",
+    "satisfizessem"
+   ],
+   "subjfuturo": [
+    "satisfizer",
+    "satisfizer",
+    "satisfizermos",
+    "satisfizerem"
+   ]
+  },
+  "gerund": "satisfazendo",
+  "participle": "satisfeito"
+ },
+ "saudar": {
+  "tenses": {
+   "presente": [
+    "saúdo",
+    "saúda",
+    "saudamos",
+    "saúdam"
+   ],
+   "preterito": [
+    "saudei",
+    "saudou",
+    "saudamos",
+    "saudaram"
+   ],
+   "imperfeito": [
+    "saudava",
+    "saudava",
+    "saudávamos",
+    "saudavam"
+   ],
+   "futuro": [
+    "saudarei",
+    "saudará",
+    "saudaremos",
+    "saudarão"
+   ],
+   "condicional": [
+    "saudaria",
+    "saudaria",
+    "saudaríamos",
+    "saudariam"
+   ],
+   "subjpresente": [
+    "saúde",
+    "saúde",
+    "saudemos",
+    "saúdem"
+   ],
+   "subjimperfeito": [
+    "saudasse",
+    "saudasse",
+    "saudássemos",
+    "saudassem"
+   ],
+   "subjfuturo": [
+    "saudar",
+    "saudar",
+    "saudarmos",
+    "saudarem"
+   ]
+  },
+  "gerund": "saudando",
+  "participle": "saudado"
+ },
+ "seduzir": {
+  "tenses": {
+   "presente": [
+    "seduzo",
+    "seduz",
+    "seduzimos",
+    "seduzem"
+   ],
+   "preterito": [
+    "seduzi",
+    "seduziu",
+    "seduzimos",
+    "seduziram"
+   ],
+   "imperfeito": [
+    "seduzia",
+    "seduzia",
+    "seduzíamos",
+    "seduziam"
+   ],
+   "futuro": [
+    "seduzirei",
+    "seduzirá",
+    "seduziremos",
+    "seduzirão"
+   ],
+   "condicional": [
+    "seduziria",
+    "seduziria",
+    "seduziríamos",
+    "seduziriam"
+   ],
+   "subjpresente": [
+    "seduza",
+    "seduza",
+    "seduzamos",
+    "seduzam"
+   ],
+   "subjimperfeito": [
+    "seduzisse",
+    "seduzisse",
+    "seduzíssemos",
+    "seduzissem"
+   ],
+   "subjfuturo": [
+    "seduzir",
+    "seduzir",
+    "seduzirmos",
+    "seduzirem"
+   ]
+  },
+  "gerund": "seduzindo",
+  "participle": "seduzido"
+ },
+ "seguir": {
+  "tenses": {
+   "presente": [
+    "sigo",
+    "segue",
+    "seguimos",
+    "seguem"
+   ],
+   "preterito": [
+    "segui",
+    "seguiu",
+    "seguimos",
+    "seguiram"
+   ],
+   "imperfeito": [
+    "seguia",
+    "seguia",
+    "seguíamos",
+    "seguiam"
+   ],
+   "futuro": [
+    "seguirei",
+    "seguirá",
+    "seguiremos",
+    "seguirão"
+   ],
+   "condicional": [
+    "seguiria",
+    "seguiria",
+    "seguiríamos",
+    "seguiriam"
+   ],
+   "subjpresente": [
+    "siga",
+    "siga",
+    "sigamos",
+    "sigam"
+   ],
+   "subjimperfeito": [
+    "seguisse",
+    "seguisse",
+    "seguíssemos",
+    "seguissem"
+   ],
+   "subjfuturo": [
+    "seguir",
+    "seguir",
+    "seguirmos",
+    "seguirem"
+   ]
+  },
+  "gerund": "seguindo",
+  "participle": "seguido"
+ },
+ "sentir": {
+  "tenses": {
+   "presente": [
+    "sinto",
+    "sente",
+    "sentimos",
+    "sentem"
+   ],
+   "preterito": [
+    "senti",
+    "sentiu",
+    "sentimos",
+    "sentiram"
+   ],
+   "imperfeito": [
+    "sentia",
+    "sentia",
+    "sentíamos",
+    "sentiam"
+   ],
+   "futuro": [
+    "sentirei",
+    "sentirá",
+    "sentiremos",
+    "sentirão"
+   ],
+   "condicional": [
+    "sentiria",
+    "sentiria",
+    "sentiríamos",
+    "sentiriam"
+   ],
+   "subjpresente": [
+    "sinta",
+    "sinta",
+    "sintamos",
+    "sintam"
+   ],
+   "subjimperfeito": [
+    "sentisse",
+    "sentisse",
+    "sentíssemos",
+    "sentissem"
+   ],
+   "subjfuturo": [
+    "sentir",
+    "sentir",
+    "sentirmos",
+    "sentirem"
+   ]
+  },
+  "gerund": "sentindo",
+  "participle": "sentido"
+ },
+ "ser": {
+  "tenses": {
+   "presente": [
+    "sou",
+    "é",
+    "somos",
+    "são"
+   ],
+   "preterito": [
+    "fui",
+    "foi",
+    "fomos",
+    "foram"
+   ],
+   "imperfeito": [
+    "era",
+    "era",
+    "éramos",
+    "eram"
+   ],
+   "futuro": [
+    "serei",
+    "será",
+    "seremos",
+    "serão"
+   ],
+   "condicional": [
+    "seria",
+    "seria",
+    "seríamos",
+    "seriam"
+   ],
+   "subjpresente": [
+    "seja",
+    "seja",
+    "sejamos",
+    "sejam"
+   ],
+   "subjimperfeito": [
+    "fosse",
+    "fosse",
+    "fôssemos",
+    "fossem"
+   ],
+   "subjfuturo": [
+    "for",
+    "for",
+    "formos",
+    "forem"
+   ]
+  },
+  "gerund": "sendo",
+  "participle": "sido"
+ },
+ "servir": {
+  "tenses": {
+   "presente": [
+    "sirvo",
+    "serve",
+    "servimos",
+    "servem"
+   ],
+   "preterito": [
+    "servi",
+    "serviu",
+    "servimos",
+    "serviram"
+   ],
+   "imperfeito": [
+    "servia",
+    "servia",
+    "servíamos",
+    "serviam"
+   ],
+   "futuro": [
+    "servirei",
+    "servirá",
+    "serviremos",
+    "servirão"
+   ],
+   "condicional": [
+    "serviria",
+    "serviria",
+    "serviríamos",
+    "serviriam"
+   ],
+   "subjpresente": [
+    "sirva",
+    "sirva",
+    "sirvamos",
+    "sirvam"
+   ],
+   "subjimperfeito": [
+    "servisse",
+    "servisse",
+    "servíssemos",
+    "servissem"
+   ],
+   "subjfuturo": [
+    "servir",
+    "servir",
+    "servirmos",
+    "servirem"
+   ]
+  },
+  "gerund": "servindo",
+  "participle": "servido"
+ },
+ "sorrir": {
+  "tenses": {
+   "presente": [
+    "sorrio",
+    "sorri",
+    "sorrimos",
+    "sorriem"
+   ],
+   "preterito": [
+    "sorri",
+    "sorriu",
+    "sorrimos",
+    "sorriram"
+   ],
+   "imperfeito": [
+    "sorria",
+    "sorria",
+    "sorríamos",
+    "sorriam"
+   ],
+   "futuro": [
+    "sorrirei",
+    "sorrirá",
+    "sorriremos",
+    "sorrirão"
+   ],
+   "condicional": [
+    "sorriria",
+    "sorriria",
+    "sorriríamos",
+    "sorririam"
+   ],
+   "subjpresente": [
+    "sorria",
+    "sorria",
+    "sorriamos",
+    "sorriam"
+   ],
+   "subjimperfeito": [
+    "sorrisse",
+    "sorrisse",
+    "sorríssemos",
+    "sorrissem"
+   ],
+   "subjfuturo": [
+    "sorrir",
+    "sorrir",
+    "sorrirmos",
+    "sorrirem"
+   ]
+  },
+  "gerund": "sorrindo",
+  "participle": "sorrido"
+ },
+ "sortear": {
+  "tenses": {
+   "presente": [
+    "sorteio",
+    "sorteia",
+    "sorteamos",
+    "sorteiam"
+   ],
+   "preterito": [
+    "sorteei",
+    "sorteou",
+    "sorteamos",
+    "sortearam"
+   ],
+   "imperfeito": [
+    "sorteava",
+    "sorteava",
+    "sorteávamos",
+    "sorteavam"
+   ],
+   "futuro": [
+    "sortearei",
+    "sorteará",
+    "sortearemos",
+    "sortearão"
+   ],
+   "condicional": [
+    "sortearia",
+    "sortearia",
+    "sortearíamos",
+    "sorteariam"
+   ],
+   "subjpresente": [
+    "sorteie",
+    "sorteie",
+    "sorteemos",
+    "sorteiem"
+   ],
+   "subjimperfeito": [
+    "sorteasse",
+    "sorteasse",
+    "sorteássemos",
+    "sorteassem"
+   ],
+   "subjfuturo": [
+    "sortear",
+    "sortear",
+    "sortearmos",
+    "sortearem"
+   ]
+  },
+  "gerund": "sorteando",
+  "participle": "sorteado"
+ },
+ "subir": {
+  "tenses": {
+   "presente": [
+    "subo",
+    "sobe",
+    "subimos",
+    "sobem"
+   ],
+   "preterito": [
+    "subi",
+    "subiu",
+    "subimos",
+    "subiram"
+   ],
+   "imperfeito": [
+    "subia",
+    "subia",
+    "subíamos",
+    "subiam"
+   ],
+   "futuro": [
+    "subirei",
+    "subirá",
+    "subiremos",
+    "subirão"
+   ],
+   "condicional": [
+    "subiria",
+    "subiria",
+    "subiríamos",
+    "subiriam"
+   ],
+   "subjpresente": [
+    "suba",
+    "suba",
+    "subamos",
+    "subam"
+   ],
+   "subjimperfeito": [
+    "subisse",
+    "subisse",
+    "subíssemos",
+    "subissem"
+   ],
+   "subjfuturo": [
+    "subir",
+    "subir",
+    "subirmos",
+    "subirem"
+   ]
+  },
+  "gerund": "subindo",
+  "participle": "subido"
+ },
+ "substituir": {
+  "tenses": {
+   "presente": [
+    "substituo",
+    "substitui",
+    "substituímos",
+    "substituem"
+   ],
+   "preterito": [
+    "substituí",
+    "substituiu",
+    "substituímos",
+    "substituíram"
+   ],
+   "imperfeito": [
+    "substituía",
+    "substituía",
+    "substituíamos",
+    "substituíam"
+   ],
+   "futuro": [
+    "substituirei",
+    "substituirá",
+    "substituiremos",
+    "substituirão"
+   ],
+   "condicional": [
+    "substituiria",
+    "substituiria",
+    "substituiríamos",
+    "substituiriam"
+   ],
+   "subjpresente": [
+    "substitua",
+    "substitua",
+    "substituamos",
+    "substituam"
+   ],
+   "subjimperfeito": [
+    "substituísse",
+    "substituísse",
+    "substituíssemos",
+    "substituíssem"
+   ],
+   "subjfuturo": [
+    "substituir",
+    "substituir",
+    "substituirmos",
+    "substituírem"
+   ]
+  },
+  "gerund": "substituindo",
+  "participle": "substituído"
+ },
+ "subtrair": {
+  "tenses": {
+   "presente": [
+    "subtraio",
+    "subtrai",
+    "subtraímos",
+    "subtraem"
+   ],
+   "preterito": [
+    "subtraí",
+    "subtraiu",
+    "subtraímos",
+    "subtraíram"
+   ],
+   "imperfeito": [
+    "subtraía",
+    "subtraía",
+    "subtraíamos",
+    "subtraíam"
+   ],
+   "futuro": [
+    "subtrairei",
+    "subtrairá",
+    "subtrairemos",
+    "subtrairão"
+   ],
+   "condicional": [
+    "subtrairia",
+    "subtrairia",
+    "subtrairíamos",
+    "subtrairiam"
+   ],
+   "subjpresente": [
+    "subtraia",
+    "subtraia",
+    "subtraiamos",
+    "subtraiam"
+   ],
+   "subjimperfeito": [
+    "subtraísse",
+    "subtraísse",
+    "subtraíssemos",
+    "subtraíssem"
+   ],
+   "subjfuturo": [
+    "subtrair",
+    "subtrair",
+    "subtrairmos",
+    "subtraírem"
+   ]
+  },
+  "gerund": "subtraindo",
+  "participle": "subtraído"
+ },
+ "sugerir": {
+  "tenses": {
+   "presente": [
+    "sugiro",
+    "sugere",
+    "sugerimos",
+    "sugerem"
+   ],
+   "preterito": [
+    "sugeri",
+    "sugeriu",
+    "sugerimos",
+    "sugeriram"
+   ],
+   "imperfeito": [
+    "sugeria",
+    "sugeria",
+    "sugeríamos",
+    "sugeriam"
+   ],
+   "futuro": [
+    "sugerirei",
+    "sugerirá",
+    "sugeriremos",
+    "sugerirão"
+   ],
+   "condicional": [
+    "sugeriria",
+    "sugeriria",
+    "sugeriríamos",
+    "sugeririam"
+   ],
+   "subjpresente": [
+    "sugira",
+    "sugira",
+    "sugiramos",
+    "sugiram"
+   ],
+   "subjimperfeito": [
+    "sugerisse",
+    "sugerisse",
+    "sugeríssemos",
+    "sugerissem"
+   ],
+   "subjfuturo": [
+    "sugerir",
+    "sugerir",
+    "sugerirmos",
+    "sugerirem"
+   ]
+  },
+  "gerund": "sugerindo",
+  "participle": "sugerido"
+ },
+ "sumir": {
+  "tenses": {
+   "presente": [
+    "sumo",
+    "some",
+    "sumimos",
+    "somem"
+   ],
+   "preterito": [
+    "sumi",
+    "sumiu",
+    "sumimos",
+    "sumiram"
+   ],
+   "imperfeito": [
+    "sumia",
+    "sumia",
+    "sumíamos",
+    "sumiam"
+   ],
+   "futuro": [
+    "sumirei",
+    "sumirá",
+    "sumiremos",
+    "sumirão"
+   ],
+   "condicional": [
+    "sumiria",
+    "sumiria",
+    "sumiríamos",
+    "sumiriam"
+   ],
+   "subjpresente": [
+    "suma",
+    "suma",
+    "sumamos",
+    "sumam"
+   ],
+   "subjimperfeito": [
+    "sumisse",
+    "sumisse",
+    "sumíssemos",
+    "sumissem"
+   ],
+   "subjfuturo": [
+    "sumir",
+    "sumir",
+    "sumirmos",
+    "sumirem"
+   ]
+  },
+  "gerund": "sumindo",
+  "participle": "sumido"
+ },
+ "supor": {
+  "tenses": {
+   "presente": [
+    "suponho",
+    "supõe",
+    "supomos",
+    "supõem"
+   ],
+   "preterito": [
+    "supus",
+    "supôs",
+    "supusemos",
+    "supuseram"
+   ],
+   "imperfeito": [
+    "supunha",
+    "supunha",
+    "supúnhamos",
+    "supunham"
+   ],
+   "futuro": [
+    "suporei",
+    "suporá",
+    "suporemos",
+    "suporão"
+   ],
+   "condicional": [
+    "suporia",
+    "suporia",
+    "suporíamos",
+    "suporiam"
+   ],
+   "subjpresente": [
+    "suponha",
+    "suponha",
+    "suponhamos",
+    "suponham"
+   ],
+   "subjimperfeito": [
+    "supusesse",
+    "supusesse",
+    "supuséssemos",
+    "supusessem"
+   ],
+   "subjfuturo": [
+    "supuser",
+    "supuser",
+    "supusermos",
+    "supuserem"
+   ]
+  },
+  "gerund": "supondo",
+  "participle": "suposto"
+ },
+ "ter": {
+  "tenses": {
+   "presente": [
+    "tenho",
+    "tem",
+    "temos",
+    "têm"
+   ],
+   "preterito": [
+    "tive",
+    "teve",
+    "tivemos",
+    "tiveram"
+   ],
+   "imperfeito": [
+    "tinha",
+    "tinha",
+    "tínhamos",
+    "tinham"
+   ],
+   "futuro": [
+    "terei",
+    "terá",
+    "teremos",
+    "terão"
+   ],
+   "condicional": [
+    "teria",
+    "teria",
+    "teríamos",
+    "teriam"
+   ],
+   "subjpresente": [
+    "tenha",
+    "tenha",
+    "tenhamos",
+    "tenham"
+   ],
+   "subjimperfeito": [
+    "tivesse",
+    "tivesse",
+    "tivéssemos",
+    "tivessem"
+   ],
+   "subjfuturo": [
+    "tiver",
+    "tiver",
+    "tivermos",
+    "tiverem"
+   ]
+  },
+  "gerund": "tendo",
+  "participle": "tido"
+ },
+ "tossir": {
+  "tenses": {
+   "presente": [
+    "tusso",
+    "tosse",
+    "tossimos",
+    "tossem"
+   ],
+   "preterito": [
+    "tossi",
+    "tossiu",
+    "tossimos",
+    "tossiram"
+   ],
+   "imperfeito": [
+    "tossia",
+    "tossia",
+    "tossíamos",
+    "tossiam"
+   ],
+   "futuro": [
+    "tossirei",
+    "tossirá",
+    "tossiremos",
+    "tossirão"
+   ],
+   "condicional": [
+    "tossiria",
+    "tossiria",
+    "tossiríamos",
+    "tossiriam"
+   ],
+   "subjpresente": [
+    "tussa",
+    "tussa",
+    "tussamos",
+    "tussam"
+   ],
+   "subjimperfeito": [
+    "tossisse",
+    "tossisse",
+    "tossíssemos",
+    "tossissem"
+   ],
+   "subjfuturo": [
+    "tossir",
+    "tossir",
+    "tossirmos",
+    "tossirem"
+   ]
+  },
+  "gerund": "tossindo",
+  "participle": "tossido"
+ },
+ "traduzir": {
+  "tenses": {
+   "presente": [
+    "traduzo",
+    "traduz",
+    "traduzimos",
+    "traduzem"
+   ],
+   "preterito": [
+    "traduzi",
+    "traduziu",
+    "traduzimos",
+    "traduziram"
+   ],
+   "imperfeito": [
+    "traduzia",
+    "traduzia",
+    "traduzíamos",
+    "traduziam"
+   ],
+   "futuro": [
+    "traduzirei",
+    "traduzirá",
+    "traduziremos",
+    "traduzirão"
+   ],
+   "condicional": [
+    "traduziria",
+    "traduziria",
+    "traduziríamos",
+    "traduziriam"
+   ],
+   "subjpresente": [
+    "traduza",
+    "traduza",
+    "traduzamos",
+    "traduzam"
+   ],
+   "subjimperfeito": [
+    "traduzisse",
+    "traduzisse",
+    "traduzíssemos",
+    "traduzissem"
+   ],
+   "subjfuturo": [
+    "traduzir",
+    "traduzir",
+    "traduzirmos",
+    "traduzirem"
+   ]
+  },
+  "gerund": "traduzindo",
+  "participle": "traduzido"
+ },
+ "trair": {
+  "tenses": {
+   "presente": [
+    "traio",
+    "trai",
+    "traímos",
+    "traem"
+   ],
+   "preterito": [
+    "traí",
+    "traiu",
+    "traímos",
+    "traíram"
+   ],
+   "imperfeito": [
+    "traía",
+    "traía",
+    "traíamos",
+    "traíam"
+   ],
+   "futuro": [
+    "trairei",
+    "trairá",
+    "trairemos",
+    "trairão"
+   ],
+   "condicional": [
+    "trairia",
+    "trairia",
+    "trairíamos",
+    "trairiam"
+   ],
+   "subjpresente": [
+    "traia",
+    "traia",
+    "traiamos",
+    "traiam"
+   ],
+   "subjimperfeito": [
+    "traísse",
+    "traísse",
+    "traíssemos",
+    "traíssem"
+   ],
+   "subjfuturo": [
+    "trair",
+    "trair",
+    "trairmos",
+    "traírem"
+   ]
+  },
+  "gerund": "traindo",
+  "participle": "traído"
+ },
+ "transferir": {
+  "tenses": {
+   "presente": [
+    "transfiro",
+    "transfere",
+    "transferimos",
+    "transferem"
+   ],
+   "preterito": [
+    "transferi",
+    "transferiu",
+    "transferimos",
+    "transferiram"
+   ],
+   "imperfeito": [
+    "transferia",
+    "transferia",
+    "transferíamos",
+    "transferiam"
+   ],
+   "futuro": [
+    "transferirei",
+    "transferirá",
+    "transferiremos",
+    "transferirão"
+   ],
+   "condicional": [
+    "transferiria",
+    "transferiria",
+    "transferiríamos",
+    "transfeririam"
+   ],
+   "subjpresente": [
+    "transfira",
+    "transfira",
+    "transfiramos",
+    "transfiram"
+   ],
+   "subjimperfeito": [
+    "transferisse",
+    "transferisse",
+    "transferíssemos",
+    "transferissem"
+   ],
+   "subjfuturo": [
+    "transferir",
+    "transferir",
+    "transferirmos",
+    "transferirem"
+   ]
+  },
+  "gerund": "transferindo",
+  "participle": "transferido"
+ },
+ "trazer": {
+  "tenses": {
+   "presente": [
+    "trago",
+    "traz",
+    "trazemos",
+    "trazem"
+   ],
+   "preterito": [
+    "trouxe",
+    "trouxe",
+    "trouxemos",
+    "trouxeram"
+   ],
+   "imperfeito": [
+    "trazia",
+    "trazia",
+    "trazíamos",
+    "traziam"
+   ],
+   "futuro": [
+    "trarei",
+    "trará",
+    "traremos",
+    "trarão"
+   ],
+   "condicional": [
+    "traria",
+    "traria",
+    "traríamos",
+    "trariam"
+   ],
+   "subjpresente": [
+    "traga",
+    "traga",
+    "tragamos",
+    "tragam"
+   ],
+   "subjimperfeito": [
+    "trouxesse",
+    "trouxesse",
+    "trouxéssemos",
+    "trouxessem"
+   ],
+   "subjfuturo": [
+    "trouxer",
+    "trouxer",
+    "trouxermos",
+    "trouxerem"
+   ]
+  },
+  "gerund": "trazendo",
+  "participle": "trazido"
+ },
+ "usufruir": {
+  "tenses": {
+   "presente": [
+    "usufruo",
+    "usufrui",
+    "usufruímos",
+    "usufruem"
+   ],
+   "preterito": [
+    "usufruí",
+    "usufruiu",
+    "usufruímos",
+    "usufruíram"
+   ],
+   "imperfeito": [
+    "usufruía",
+    "usufruía",
+    "usufruíamos",
+    "usufruíam"
+   ],
+   "futuro": [
+    "usufruirei",
+    "usufruirá",
+    "usufruiremos",
+    "usufruirão"
+   ],
+   "condicional": [
+    "usufruiria",
+    "usufruiria",
+    "usufruiríamos",
+    "usufruiriam"
+   ],
+   "subjpresente": [
+    "usufrua",
+    "usufrua",
+    "usufruamos",
+    "usufruam"
+   ],
+   "subjimperfeito": [
+    "usufruísse",
+    "usufruísse",
+    "usufruíssemos",
+    "usufruíssem"
+   ],
+   "subjfuturo": [
+    "usufruir",
+    "usufruir",
+    "usufruirmos",
+    "usufruírem"
+   ]
+  },
+  "gerund": "usufruindo",
+  "participle": "usufruído"
+ },
+ "valer": {
+  "tenses": {
+   "presente": [
+    "valho",
+    "vale",
+    "valemos",
+    "valem"
+   ],
+   "preterito": [
+    "vali",
+    "valeu",
+    "valemos",
+    "valeram"
+   ],
+   "imperfeito": [
+    "valia",
+    "valia",
+    "valíamos",
+    "valiam"
+   ],
+   "futuro": [
+    "valerei",
+    "valerá",
+    "valeremos",
+    "valerão"
+   ],
+   "condicional": [
+    "valeria",
+    "valeria",
+    "valeríamos",
+    "valeriam"
+   ],
+   "subjpresente": [
+    "valha",
+    "valha",
+    "valhamos",
+    "valham"
+   ],
+   "subjimperfeito": [
+    "valesse",
+    "valesse",
+    "valêssemos",
+    "valessem"
+   ],
+   "subjfuturo": [
+    "valer",
+    "valer",
+    "valermos",
+    "valerem"
+   ]
+  },
+  "gerund": "valendo",
+  "participle": "valido"
+ },
+ "ver": {
+  "tenses": {
+   "presente": [
+    "vejo",
+    "vê",
+    "vemos",
+    "veem"
+   ],
+   "preterito": [
+    "vi",
+    "viu",
+    "vimos",
+    "viram"
+   ],
+   "imperfeito": [
+    "via",
+    "via",
+    "víamos",
+    "viam"
+   ],
+   "futuro": [
+    "verei",
+    "verá",
+    "veremos",
+    "verão"
+   ],
+   "condicional": [
+    "veria",
+    "veria",
+    "veríamos",
+    "veriam"
+   ],
+   "subjpresente": [
+    "veja",
+    "veja",
+    "vejamos",
+    "vejam"
+   ],
+   "subjimperfeito": [
+    "visse",
+    "visse",
+    "víssemos",
+    "vissem"
+   ],
+   "subjfuturo": [
+    "vir",
+    "vir",
+    "virmos",
+    "virem"
+   ]
+  },
+  "gerund": "vendo",
+  "participle": "visto"
+ },
+ "vestir": {
+  "tenses": {
+   "presente": [
+    "visto",
+    "veste",
+    "vestimos",
+    "vestem"
+   ],
+   "preterito": [
+    "vesti",
+    "vestiu",
+    "vestimos",
+    "vestiram"
+   ],
+   "imperfeito": [
+    "vestia",
+    "vestia",
+    "vestíamos",
+    "vestiam"
+   ],
+   "futuro": [
+    "vestirei",
+    "vestirá",
+    "vestiremos",
+    "vestirão"
+   ],
+   "condicional": [
+    "vestiria",
+    "vestiria",
+    "vestiríamos",
+    "vestiriam"
+   ],
+   "subjpresente": [
+    "vista",
+    "vista",
+    "vistamos",
+    "vistam"
+   ],
+   "subjimperfeito": [
+    "vestisse",
+    "vestisse",
+    "vestíssemos",
+    "vestissem"
+   ],
+   "subjfuturo": [
+    "vestir",
+    "vestir",
+    "vestirmos",
+    "vestirem"
+   ]
+  },
+  "gerund": "vestindo",
+  "participle": "vestido"
+ },
+ "vir": {
+  "tenses": {
+   "presente": [
+    "venho",
+    "vem",
+    "vimos",
+    "vêm"
+   ],
+   "preterito": [
+    "vim",
+    "veio",
+    "viemos",
+    "vieram"
+   ],
+   "imperfeito": [
+    "vinha",
+    "vinha",
+    "vínhamos",
+    "vinham"
+   ],
+   "futuro": [
+    "virei",
+    "virá",
+    "viremos",
+    "virão"
+   ],
+   "condicional": [
+    "viria",
+    "viria",
+    "viríamos",
+    "viriam"
+   ],
+   "subjpresente": [
+    "venha",
+    "venha",
+    "venhamos",
+    "venham"
+   ],
+   "subjimperfeito": [
+    "viesse",
+    "viesse",
+    "viéssemos",
+    "viessem"
+   ],
+   "subjfuturo": [
+    "vier",
+    "vier",
+    "viermos",
+    "vierem"
+   ]
+  },
+  "gerund": "vindo",
+  "participle": "vindo"
+ }
+}

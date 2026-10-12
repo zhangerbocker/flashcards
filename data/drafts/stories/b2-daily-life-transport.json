@@ -1,0 +1,587 @@
+[
+ {
+  "id": "b2-daily-life-transport-1",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "title": "O apartamento novo",
+  "titleEn": "The new apartment",
+  "sentences": [
+   {
+    "pt": "Depois de três meses de procura, Júlia finalmente encontrou o apartamento certo em Curitiba.",
+    "en": "After three months of searching, Júlia finally found the right apartment in Curitiba.",
+    "glosses": {
+     "procura": "searching",
+     "finalmente": "finally",
+     "encontrou": "found",
+     "certo": "right"
+    }
+   },
+   {
+    "pt": "Ficava perto do metrô, tinha uma janela grande e o aluguel cabia no orçamento dela.",
+    "en": "It was near the metro, had a big window and the rent fit her budget.",
+    "glosses": {
+     "Ficava": "it was",
+     "do": "to the",
+     "tinha": "had",
+     "cabia": "fit",
+     "no": "in the",
+     "dela": "her"
+    }
+   },
+   {
+    "pt": "Ela ligou para a imobiliária no mesmo dia, com medo de perder a vaga para outra pessoa.",
+    "en": "She called the real estate agency the same day, afraid of losing the place to someone else.",
+    "glosses": {
+     "ligou": "called",
+     "perder": "losing",
+     "vaga": "place"
+    }
+   },
+   {
+    "pt": "A moça da imobiliária foi simpática, mas mandou por e-mail uma página inteira de papéis necessários.",
+    "en": "The young woman at the agency was friendly, but sent a whole page of required papers by email.",
+    "glosses": {
+     "moça": "young woman",
+     "da": "from the",
+     "foi": "was",
+     "mandou": "sent",
+     "papéis": "papers",
+     "necessários": "required"
+    }
+   },
+   {
+    "pt": "Era preciso mandar comprovante de residência, contrato de trabalho e os três últimos salários.",
+    "en": "She had to send proof of address, her employment contract and her last three pay slips.",
+    "glosses": {
+     "Era preciso": "it was necessary",
+     "mandar": "send",
+     "salários": "pay slips"
+    }
+   },
+   {
+    "pt": "Além disso, a imobiliária pedia um fiador com imóvel próprio na cidade.",
+    "en": "In addition, the agency required a guarantor with his own property in the city.",
+    "glosses": {
+     "pedia": "required",
+     "próprio": "own",
+     "na": "in the"
+    }
+   },
+   {
+    "pt": "Júlia não conhecia ninguém em Curitiba que tivesse um imóvel.",
+    "en": "Júlia didn't know anyone in Curitiba who owned a property.",
+    "glosses": {
+     "conhecia": "knew",
+     "tivesse": "had (subjunctive)"
+    }
+   },
+   {
+    "pt": "Afinal, tinha se mudado para lá fazia apenas seis meses, por causa de um emprego novo.",
+    "en": "After all, she had moved there only six months earlier, because of a new job.",
+    "glosses": {
+     "tinha se mudado": "had moved",
+     "fazia": "ago"
+    }
+   },
+   {
+    "pt": "Ligou então para o pai, em Florianópolis, que concordou em ajudar sem pensar duas vezes.",
+    "en": "So she called her father, in Florianópolis, who agreed to help without thinking twice.",
+    "glosses": {
+     "Ligou": "she called",
+     "concordou": "agreed"
+    }
+   },
+   {
+    "pt": "O problema é que a assinatura dele precisava ser reconhecida em cartório.",
+    "en": "The problem was that his signature had to be notarized.",
+    "glosses": {
+     "é": "is",
+     "dele": "his",
+     "precisava": "needed",
+     "ser reconhecida em cartório": "be notarized"
+    }
+   },
+   {
+    "pt": "O pai foi ao cartório numa segunda-feira e esperou duas horas até chegar a vez dele.",
+    "en": "Her father went to the notary's office on a Monday and waited two hours until his turn came.",
+    "glosses": {
+     "foi": "went",
+     "ao": "to the",
+     "numa": "on a",
+     "esperou": "waited",
+     "chegar": "came",
+     "vez": "turn",
+     "dele": "his"
+    }
+   },
+   {
+    "pt": "Lá, soube que precisava autenticar também a carteira de motorista.",
+    "en": "There, he learned that he also needed to authenticate his driver's license.",
+    "glosses": {
+     "soube": "learned",
+     "precisava": "needed",
+     "autenticar": "to authenticate"
+    }
+   },
+   {
+    "pt": "Teve que voltar no dia seguinte, e depois mandar tudo para Curitiba pelo correio.",
+    "en": "He had to come back the next day, and then send everything to Curitiba by mail.",
+    "glosses": {
+     "Teve que": "had to",
+     "voltar": "come back",
+     "seguinte": "next",
+     "mandar": "send",
+     "pelo": "by the"
+    }
+   },
+   {
+    "pt": "\"Essa burocracia é horrível\", reclamou Júlia ao telefone.",
+    "en": "\"This red tape is horrible,\" Júlia complained on the phone.",
+    "glosses": {
+     "é": "is",
+     "reclamou": "complained",
+     "ao": "on the"
+    }
+   },
+   {
+    "pt": "\"É assim mesmo, filha. Pelo menos ninguém alugou o apartamento ainda\", respondeu o pai.",
+    "en": "\"That's just how it is, dear. At least no one has rented the apartment yet,\" her father answered.",
+    "glosses": {
+     "É assim mesmo": "that's just how it is",
+     "filha": "dear",
+     "alugou": "has rented",
+     "respondeu": "answered"
+    }
+   },
+   {
+    "pt": "Uma semana depois, os papéis chegaram, e ela pôde finalmente assinar o contrato.",
+    "en": "A week later, the papers arrived, and she was finally able to sign the contract.",
+    "glosses": {
+     "chegaram": "arrived",
+     "pôde": "was able",
+     "finalmente": "finally"
+    }
+   },
+   {
+    "pt": "Antes de receber as chaves, porém, houve a vistoria do imóvel.",
+    "en": "Before receiving the keys, however, there was the property inspection.",
+    "glosses": {
+     "receber": "receiving",
+     "houve": "there was",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "O homem da imobiliária olhou tudo com pressa, como se tivesse outro compromisso.",
+    "en": "The man from the agency looked over everything in a hurry, as if he had another appointment.",
+    "glosses": {
+     "da": "from the",
+     "olhou": "looked over",
+     "com pressa": "in a hurry",
+     "como se": "as if",
+     "tivesse": "had (subjunctive)"
+    }
+   },
+   {
+    "pt": "Júlia tirou fotos de cada parede, cada porta e cada janela, como uma amiga tinha dito para fazer.",
+    "en": "Júlia took photos of every wall, every door and every window, as a friend had told her to do.",
+    "glosses": {
+     "tirou fotos": "took photos",
+     "parede": "wall",
+     "tinha dito": "had told"
+    }
+   },
+   {
+    "pt": "No banheiro, encontrou um vazamento pequeno embaixo do chuveiro.",
+    "en": "In the bathroom, she found a small leak under the shower.",
+    "glosses": {
+     "No": "in the",
+     "encontrou": "found",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Ela colocou tudo no relatório, a fim de que ninguém pudesse cobrar dela depois.",
+    "en": "She put everything in the report, so that no one could charge her for it later.",
+    "glosses": {
+     "colocou": "put",
+     "no": "in the",
+     "pudesse": "could (subjunctive)",
+     "cobrar": "charge",
+     "dela": "her"
+    }
+   },
+   {
+    "pt": "Por fim, ela pôs o aluguel, a conta de luz e o seguro do apartamento em débito automático.",
+    "en": "Finally, she put the rent, the electricity bill and the apartment insurance on direct debit.",
+    "glosses": {
+     "Por fim": "finally",
+     "pôs": "put",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Assim, nunca mais teria que lembrar a data de vencimento de cada fatura.",
+    "en": "That way, she would never again have to remember the due date of each bill.",
+    "glosses": {
+     "nunca mais": "never again",
+     "teria que": "would have to"
+    }
+   },
+   {
+    "pt": "Na primeira noite, sentada no chão entre as caixas, ela pediu uma pizza e ligou para o pai.",
+    "en": "On the first night, sitting on the floor among the boxes, she ordered a pizza and called her father.",
+    "glosses": {
+     "Na": "on the",
+     "sentada": "sitting",
+     "no": "on the",
+     "chão": "floor",
+     "caixas": "boxes",
+     "pediu": "ordered",
+     "ligou": "called"
+    }
+   },
+   {
+    "pt": "\"Valeu a pena, pai. Obrigada por tudo.\"",
+    "en": "\"It was worth it, Dad. Thank you for everything.\"",
+    "glosses": {
+     "Valeu a pena": "it was worth it",
+     "Obrigada": "thank you (female speaker)"
+    }
+   },
+   {
+    "pt": "\"Só não esquece de pagar em dia, senão quem paga sou eu\", respondeu ele, rindo.",
+    "en": "\"Just don't forget to pay on time, otherwise I'm the one who pays,\" he answered, laughing.",
+    "glosses": {
+     "esquece": "forget",
+     "em dia": "on time",
+     "senão": "otherwise",
+     "paga": "pays",
+     "sou": "am",
+     "respondeu": "answered",
+     "rindo": "laughing"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Por que Júlia precisou do pai?",
+    "qEn": "Why did Júlia need her father?",
+    "options": [
+     "Ele pagaria o aluguel",
+     "Ele seria o fiador",
+     "Ele faria a vistoria",
+     "Ele moraria com ela"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Qual foi o problema no cartório?",
+    "qEn": "What was the problem at the notary's office?",
+    "options": [
+     "O cartório estava fechado",
+     "O pai esqueceu a caneta",
+     "Não tinha ninguém lá",
+     "Faltava autenticar outro papel"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "O que Júlia encontrou na vistoria?",
+    "qEn": "What did Júlia find during the inspection?",
+    "options": [
+     "Uma janela quebrada",
+     "Um gato",
+     "Um vazamento no banheiro",
+     "Nada de errado"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "b2-daily-life-transport-2",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "title": "Carro ou metrô?",
+  "titleEn": "Car or metro?",
+  "sentences": [
+   {
+    "pt": "Todos os dias, Marcos leva uma hora e meia para ir de casa até o trabalho, em São Paulo.",
+    "en": "Every day, Marcos takes an hour and a half to get from home to work in São Paulo.",
+    "glosses": {
+     "leva": "takes"
+    }
+   },
+   {
+    "pt": "Ele pega um ônibus até a estação, passa pela catraca, faz uma baldeação e ainda anda dez minutos.",
+    "en": "He takes a bus to the station, goes through the turnstile, changes lines once and still walks ten minutes.",
+    "glosses": {
+     "pega": "takes",
+     "passa": "goes",
+     "pela": "through the",
+     "faz": "makes",
+     "anda": "walks"
+    }
+   },
+   {
+    "pt": "No horário de pico, o metrô fica tão lotado que ele mal consegue respirar.",
+    "en": "At rush hour, the metro gets so packed that he can barely breathe.",
+    "glosses": {
+     "fica": "gets",
+     "mal": "barely",
+     "consegue": "can"
+    }
+   },
+   {
+    "pt": "Por isso, quando o banco ofereceu um financiamento para comprar um carro, ele ficou tentado.",
+    "en": "So when the bank offered him financing to buy a car, he was tempted.",
+    "glosses": {
+     "ofereceu": "offered",
+     "ficou": "was",
+     "tentado": "tempted"
+    }
+   },
+   {
+    "pt": "A prestação seria de mil e duzentos reais por mês, durante quatro anos.",
+    "en": "The installment would be one thousand two hundred reais a month, for four years.",
+    "glosses": {
+     "seria": "would be"
+    }
+   },
+   {
+    "pt": "À noite, ele mostrou o contrato para a esposa, Patrícia, que trabalha num banco.",
+    "en": "In the evening, he showed the contract to his wife, Patrícia, who works at a bank.",
+    "glosses": {
+     "mostrou": "showed",
+     "trabalha": "works",
+     "num": "at a"
+    }
+   },
+   {
+    "pt": "Ela pegou uma folha de papel e começou a fazer contas.",
+    "en": "She took a sheet of paper and started doing sums.",
+    "glosses": {
+     "pegou": "took",
+     "começou": "started"
+    }
+   },
+   {
+    "pt": "\"Além da prestação, tem a gasolina, o seguro, o estacionamento e a manutenção\", disse ela.",
+    "en": "\"Besides the installment, there's the gas, the insurance, the parking and the maintenance,\" she said.",
+    "glosses": {
+     "da": "of the",
+     "tem": "there is",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "\"Sem contar as multas de radar e o pedágio, se você pegar a rodovia.\"",
+    "en": "\"Not counting speed camera fines and the toll, if you take the highway.\"",
+    "glosses": {
+     "contar": "counting",
+     "pegar": "take (future subjunctive)"
+    }
+   },
+   {
+    "pt": "Ao todo, o carro custaria quase o dobro da prestação por mês.",
+    "en": "Altogether, the car would cost almost double the installment per month.",
+    "glosses": {
+     "custaria": "would cost",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Marcos ficou em silêncio, mas não desistiu.",
+    "en": "Marcos fell silent, but didn't give up.",
+    "glosses": {
+     "ficou em silêncio": "fell silent",
+     "desistiu": "give up"
+    }
+   },
+   {
+    "pt": "\"Pelo menos eu ganharia tempo e chegaria menos cansado\", argumentou ele.",
+    "en": "\"At least I'd gain time and arrive less tired,\" he argued.",
+    "glosses": {
+     "ganharia": "would gain",
+     "chegaria": "would arrive",
+     "argumentou": "argued"
+    }
+   },
+   {
+    "pt": "Patrícia disse que ele devia tentar antes de decidir.",
+    "en": "Patrícia said he should try it before deciding.",
+    "glosses": {
+     "disse": "said",
+     "devia": "should",
+     "tentar": "try",
+     "decidir": "deciding"
+    }
+   },
+   {
+    "pt": "Durante uma semana, ele iria de carro emprestado do cunhado, e depois comparariam.",
+    "en": "For a week, he would drive a car borrowed from his brother-in-law, and then they would compare.",
+    "glosses": {
+     "iria": "would go",
+     "emprestado": "borrowed",
+     "do": "from the",
+     "comparariam": "they would compare"
+    }
+   },
+   {
+    "pt": "Na segunda-feira, Marcos saiu de casa animado, com o café na mão e a música alta.",
+    "en": "On Monday, Marcos left home excited, with coffee in hand and the music loud.",
+    "glosses": {
+     "Na": "on",
+     "saiu": "left",
+     "na": "in the",
+     "alta": "loud"
+    }
+   },
+   {
+    "pt": "Pela primeira vez em anos, não ia ficar de pé durante uma hora.",
+    "en": "For the first time in years, he wasn't going to stand for an hour.",
+    "glosses": {
+     "Pela": "for the",
+     "ia": "was going to",
+     "ficar de pé": "stand"
+    }
+   },
+   {
+    "pt": "Quarenta minutos depois, estava parado num congestionamento de doze quilômetros.",
+    "en": "Forty minutes later, he was stuck in a twelve-kilometer traffic jam.",
+    "glosses": {
+     "estava": "was",
+     "parado": "stuck",
+     "num": "in a"
+    }
+   },
+   {
+    "pt": "Na quarta, um pneu furado o fez chegar ao escritório quase ao meio-dia.",
+    "en": "On Wednesday, a flat tire made him arrive at the office almost at noon.",
+    "glosses": {
+     "Na": "on",
+     "o fez": "made him",
+     "chegar": "arrive",
+     "ao": "at the"
+    }
+   },
+   {
+    "pt": "Na sexta-feira, um radar o pegou correndo demais, e veio uma multa.",
+    "en": "On Friday, a speed camera caught him going too fast, and a fine came.",
+    "glosses": {
+     "Na": "on",
+     "o pegou": "caught him",
+     "correndo demais": "going too fast",
+     "veio": "came"
+    }
+   },
+   {
+    "pt": "No fim da semana, ele somou tudo: tinha passado mais tempo no trânsito engarrafado do que no metrô.",
+    "en": "At the end of the week, he added it all up: he had spent more time in gridlocked traffic than on the metro.",
+    "glosses": {
+     "da": "of the",
+     "somou": "added up",
+     "tinha passado": "had spent",
+     "no": "on the",
+     "do que": "than"
+    }
+   },
+   {
+    "pt": "E ainda tinha chegado ao trabalho mais cansado e mais irritado.",
+    "en": "And he had also arrived at work more tired and more irritated.",
+    "glosses": {
+     "ainda": "also",
+     "tinha chegado": "had arrived",
+     "ao": "at"
+    }
+   },
+   {
+    "pt": "Na segunda seguinte, voltou ao transporte público, quase aliviado.",
+    "en": "The following Monday, he went back to public transport, almost relieved.",
+    "glosses": {
+     "Na": "on",
+     "seguinte": "following",
+     "voltou": "went back",
+     "ao": "to the"
+    }
+   },
+   {
+    "pt": "Mas fez uma mudança: passou a sair de casa meia hora mais cedo, antes do horário de pico.",
+    "en": "But he made one change: he started leaving home half an hour earlier, before rush hour.",
+    "glosses": {
+     "fez": "made",
+     "passou a": "started",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Agora consegue sentar no metrô e lê um livro por semana no caminho.",
+    "en": "Now he manages to sit down on the metro and reads a book a week on the way.",
+    "glosses": {
+     "consegue": "manages",
+     "no": "on the",
+     "lê": "reads",
+     "caminho": "way"
+    }
+   },
+   {
+    "pt": "O dinheiro que iria para a prestação fica no banco, e o vale-transporte da empresa paga quase toda a passagem.",
+    "en": "The money that would have gone to the installment stays in the bank, and the company's transport allowance pays almost the whole fare.",
+    "glosses": {
+     "iria": "would have gone",
+     "fica": "stays",
+     "no": "in the",
+     "da": "of the",
+     "paga": "pays"
+    }
+   },
+   {
+    "pt": "\"Quem sabe um dia eu compre um carro à vista\", diz ele. \"Mas só para viajar no fim de semana.\"",
+    "en": "\"Maybe one day I'll buy a car paying cash,\" he says. \"But only for weekend trips.\"",
+    "glosses": {
+     "Quem sabe": "maybe",
+     "compre": "buy (subjunctive)",
+     "diz": "says",
+     "viajar": "travel",
+     "no": "on the"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Por que Marcos queria um carro?",
+    "qEn": "Why did Marcos want a car?",
+    "options": [
+     "Ele mudou de emprego",
+     "Patrícia pediu",
+     "O metrô era muito lotado",
+     "Ele ganhou um carro"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "O que aconteceu na semana com o carro?",
+    "qEn": "What happened during the week with the car?",
+    "options": [
+     "Ele perdeu muito tempo no trânsito",
+     "Ele chegou sempre cedo",
+     "Ele gostou muito",
+     "Ele não usou o carro"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "O que Marcos mudou no fim?",
+    "qEn": "What did Marcos change in the end?",
+    "options": [
+     "Comprou um carro",
+     "Mudou de casa",
+     "Trabalha de casa",
+     "Começou a sair mais cedo"
+    ],
+    "answer": 3
+   }
+  ]
+ }
+]

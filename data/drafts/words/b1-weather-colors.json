@@ -1,0 +1,666 @@
+[
+ {
+  "pt": "previsão do tempo",
+  "pos": "n.",
+  "english": "weather forecast",
+  "level": 3,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "previsões do tempo"
+  ],
+  "example": {
+   "pt": "Segundo a previsão do tempo, vai chover amanhã.",
+   "en": "According to the weather forecast, it will rain tomorrow."
+  }
+ },
+ {
+  "pt": "temperatura",
+  "pos": "n.",
+  "english": "temperature",
+  "level": 3,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "temperaturas"
+  ],
+  "example": {
+   "pt": "A temperatura caiu muito durante a noite.",
+   "en": "The temperature dropped a lot during the night."
+  }
+ },
+ {
+  "pt": "grau",
+  "pos": "n.",
+  "english": "degree",
+  "level": 3,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "graus"
+  ],
+  "example": {
+   "pt": "Hoje está fazendo trinta e cinco graus.",
+   "en": "It's thirty-five degrees today."
+  }
+ },
+ {
+  "pt": "umidade",
+  "pos": "n.",
+  "english": "humidity",
+  "level": 3,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "umidades"
+  ],
+  "example": {
+   "pt": "A umidade do ar está muito baixa em Brasília.",
+   "en": "The air humidity is very low in Brasília."
+  }
+ },
+ {
+  "pt": "úmido",
+  "pos": "adj.",
+  "english": "humid, damp",
+  "level": 3,
+  "topic": "Weather & colors",
+  "forms": [
+   "úmida",
+   "úmidos",
+   "úmidas"
+  ],
+  "example": {
+   "pt": "O verão no Rio é quente e úmido.",
+   "en": "Summer in Rio is hot and humid."
+  }
+ },
+ {
+  "pt": "seco",
+  "pos": "adj.",
+  "english": "dry",
+  "level": 3,
+  "topic": "Weather & colors",
+  "forms": [
+   "seca",
+   "secos",
+   "secas"
+  ],
+  "example": {
+   "pt": "No inverno, o tempo fica muito seco.",
+   "en": "In winter, the weather gets very dry."
+  }
+ },
+ {
+  "pt": "tempestade",
+  "pos": "n.",
+  "english": "storm",
+  "level": 3,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "tempestades"
+  ],
+  "example": {
+   "pt": "Uma tempestade derrubou várias árvores na cidade.",
+   "en": "A storm knocked down several trees in the city."
+  }
+ },
+ {
+  "pt": "trovão",
+  "pos": "n.",
+  "english": "thunder",
+  "level": 3,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "trovões"
+  ],
+  "example": {
+   "pt": "O cachorro tem medo de trovão.",
+   "en": "The dog is afraid of thunder."
+  }
+ },
+ {
+  "pt": "relâmpago",
+  "pos": "n.",
+  "english": "lightning (flash)",
+  "level": 3,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "relâmpagos"
+  ],
+  "example": {
+   "pt": "Vimos um relâmpago e logo depois ouvimos o trovão.",
+   "en": "We saw a flash of lightning and soon after heard the thunder."
+  }
+ },
+ {
+  "pt": "raio",
+  "pos": "n.",
+  "english": "lightning bolt; ray",
+  "level": 3,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "raios"
+  ],
+  "example": {
+   "pt": "Um raio caiu perto da nossa casa.",
+   "en": "A lightning bolt struck near our house."
+  }
+ },
+ {
+  "pt": "neblina",
+  "pos": "n.",
+  "english": "fog, mist",
+  "level": 3,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "neblinas"
+  ],
+  "example": {
+   "pt": "Por causa da neblina, o aeroporto fechou.",
+   "en": "Because of the fog, the airport closed."
+  }
+ },
+ {
+  "pt": "garoa",
+  "pos": "n.",
+  "english": "drizzle",
+  "level": 3,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "garoas"
+  ],
+  "example": {
+   "pt": "São Paulo é conhecida como a terra da garoa.",
+   "en": "São Paulo is known as the land of drizzle."
+  }
+ },
+ {
+  "pt": "granizo",
+  "pos": "n.",
+  "english": "hail",
+  "level": 3,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "granizos"
+  ],
+  "example": {
+   "pt": "O granizo estragou vários carros ontem.",
+   "en": "The hail damaged several cars yesterday."
+  }
+ },
+ {
+  "pt": "furacão",
+  "pos": "n.",
+  "english": "hurricane",
+  "level": 3,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "furacões"
+  ],
+  "example": {
+   "pt": "O furacão causou muita destruição no Caribe.",
+   "en": "The hurricane caused a lot of destruction in the Caribbean."
+  }
+ },
+ {
+  "pt": "nevar",
+  "pos": "v.",
+  "english": "to snow",
+  "level": 3,
+  "topic": "Weather & colors",
+  "example": {
+   "pt": "No sul do Brasil, às vezes neva no inverno.",
+   "en": "In southern Brazil, it sometimes snows in winter."
+  }
+ },
+ {
+  "pt": "geada",
+  "pos": "n.",
+  "english": "frost",
+  "level": 3,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "geadas"
+  ],
+  "example": {
+   "pt": "A geada destruiu parte da plantação de café.",
+   "en": "The frost destroyed part of the coffee crop."
+  }
+ },
+ {
+  "pt": "onda de calor",
+  "pos": "n.",
+  "english": "heat wave",
+  "level": 3,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "ondas de calor"
+  ],
+  "example": {
+   "pt": "A cidade está enfrentando uma onda de calor.",
+   "en": "The city is facing a heat wave."
+  }
+ },
+ {
+  "pt": "abafado",
+  "pos": "adj.",
+  "english": "muggy, stuffy",
+  "level": 3,
+  "topic": "Weather & colors",
+  "forms": [
+   "abafada",
+   "abafados",
+   "abafadas"
+  ],
+  "example": {
+   "pt": "Está muito abafado, acho que vai chover.",
+   "en": "It's really muggy, I think it's going to rain."
+  }
+ },
+ {
+  "pt": "ensolarado",
+  "pos": "adj.",
+  "english": "sunny",
+  "level": 3,
+  "topic": "Weather & colors",
+  "forms": [
+   "ensolarada",
+   "ensolarados",
+   "ensolaradas"
+  ],
+  "example": {
+   "pt": "O fim de semana vai ser ensolarado.",
+   "en": "The weekend is going to be sunny."
+  }
+ },
+ {
+  "pt": "chuvoso",
+  "pos": "adj.",
+  "english": "rainy",
+  "level": 3,
+  "topic": "Weather & colors",
+  "forms": [
+   "chuvosa",
+   "chuvosos",
+   "chuvosas"
+  ],
+  "example": {
+   "pt": "Março é um mês chuvoso aqui.",
+   "en": "March is a rainy month here."
+  }
+ },
+ {
+  "pt": "ventania",
+  "pos": "n.",
+  "english": "strong wind, gale",
+  "level": 3,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "ventanias"
+  ],
+  "example": {
+   "pt": "A ventania levou o guarda-chuva dela.",
+   "en": "The strong wind carried her umbrella away."
+  }
+ },
+ {
+  "pt": "brisa",
+  "pos": "n.",
+  "english": "breeze",
+  "level": 3,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "brisas"
+  ],
+  "example": {
+   "pt": "À tarde sempre bate uma brisa do mar.",
+   "en": "In the afternoon there's always a sea breeze."
+  }
+ },
+ {
+  "pt": "derreter",
+  "pos": "v.",
+  "english": "to melt",
+  "level": 3,
+  "topic": "Weather & colors",
+  "example": {
+   "pt": "O sorvete derreteu no sol.",
+   "en": "The ice cream melted in the sun."
+  }
+ },
+ {
+  "pt": "congelar",
+  "pos": "v.",
+  "english": "to freeze",
+  "level": 3,
+  "topic": "Weather & colors",
+  "example": {
+   "pt": "A água do lago congelou durante a noite.",
+   "en": "The lake water froze during the night."
+  }
+ },
+ {
+  "pt": "molhado",
+  "pos": "adj.",
+  "english": "wet",
+  "level": 3,
+  "topic": "Weather & colors",
+  "forms": [
+   "molhada",
+   "molhados",
+   "molhadas"
+  ],
+  "example": {
+   "pt": "Cheguei em casa todo molhado por causa da chuva.",
+   "en": "I got home all wet because of the rain."
+  }
+ },
+ {
+  "pt": "encharcado",
+  "pos": "adj.",
+  "english": "soaked, drenched",
+  "level": 3,
+  "topic": "Weather & colors",
+  "forms": [
+   "encharcada",
+   "encharcados",
+   "encharcadas"
+  ],
+  "example": {
+   "pt": "Esqueci o guarda-chuva e fiquei encharcada.",
+   "en": "I forgot my umbrella and got soaked."
+  }
+ },
+ {
+  "pt": "esquentar",
+  "pos": "v.",
+  "english": "to warm up, to get hot",
+  "level": 3,
+  "topic": "Weather & colors",
+  "example": {
+   "pt": "Amanhã o tempo vai esquentar de novo.",
+   "en": "Tomorrow the weather will warm up again."
+  }
+ },
+ {
+  "pt": "esfriar",
+  "pos": "v.",
+  "english": "to cool down, to get cold",
+  "level": 3,
+  "topic": "Weather & colors",
+  "example": {
+   "pt": "Leve um casaco, porque à noite esfria.",
+   "en": "Take a coat, because it gets cold at night."
+  }
+ },
+ {
+  "pt": "bege",
+  "pos": "adj.",
+  "english": "beige",
+  "level": 3,
+  "topic": "Weather & colors",
+  "forms": [
+   "beges"
+  ],
+  "example": {
+   "pt": "Ela comprou um sofá bege para a sala.",
+   "en": "She bought a beige sofa for the living room."
+  }
+ },
+ {
+  "pt": "dourado",
+  "pos": "adj.",
+  "english": "golden, gold-colored",
+  "level": 3,
+  "topic": "Weather & colors",
+  "forms": [
+   "dourada",
+   "dourados",
+   "douradas"
+  ],
+  "example": {
+   "pt": "Ele usava um relógio dourado.",
+   "en": "He was wearing a gold watch."
+  }
+ },
+ {
+  "pt": "prateado",
+  "pos": "adj.",
+  "english": "silver(-colored)",
+  "level": 3,
+  "topic": "Weather & colors",
+  "forms": [
+   "prateada",
+   "prateados",
+   "prateadas"
+  ],
+  "example": {
+   "pt": "Meu carro novo é prateado.",
+   "en": "My new car is silver."
+  }
+ },
+ {
+  "pt": "lilás",
+  "pos": "adj.",
+  "english": "lilac",
+  "level": 3,
+  "topic": "Weather & colors",
+  "forms": [
+   "lilases"
+  ],
+  "example": {
+   "pt": "Ela pintou o quarto de lilás.",
+   "en": "She painted the bedroom lilac."
+  }
+ },
+ {
+  "pt": "turquesa",
+  "pos": "adj.",
+  "english": "turquoise",
+  "level": 3,
+  "topic": "Weather & colors",
+  "forms": [
+   "turquesas"
+  ],
+  "example": {
+   "pt": "A água daquela praia é turquesa.",
+   "en": "The water at that beach is turquoise."
+  }
+ },
+ {
+  "pt": "vinho",
+  "pos": "adj.",
+  "english": "burgundy, wine-colored",
+  "level": 3,
+  "topic": "Weather & colors",
+  "example": {
+   "pt": "Ele foi à festa com uma camisa vinho.",
+   "en": "He went to the party in a burgundy shirt."
+  }
+ },
+ {
+  "pt": "tom",
+  "pos": "n.",
+  "english": "shade, tone",
+  "level": 3,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "tons"
+  ],
+  "example": {
+   "pt": "Prefiro tons mais claros para a cozinha.",
+   "en": "I prefer lighter shades for the kitchen."
+  }
+ },
+ {
+  "pt": "colorido",
+  "pos": "adj.",
+  "english": "colorful",
+  "level": 3,
+  "topic": "Weather & colors",
+  "forms": [
+   "colorida",
+   "coloridos",
+   "coloridas"
+  ],
+  "example": {
+   "pt": "As casas de Salvador são muito coloridas.",
+   "en": "The houses in Salvador are very colorful."
+  }
+ },
+ {
+  "pt": "pálido",
+  "pos": "adj.",
+  "english": "pale",
+  "level": 3,
+  "topic": "Weather & colors",
+  "forms": [
+   "pálida",
+   "pálidos",
+   "pálidas"
+  ],
+  "example": {
+   "pt": "Você está pálido. Está se sentindo bem?",
+   "en": "You look pale. Are you feeling okay?"
+  }
+ },
+ {
+  "pt": "vivo",
+  "pos": "adj.",
+  "english": "bright, vivid (color); alive",
+  "level": 3,
+  "topic": "Weather & colors",
+  "forms": [
+   "viva",
+   "vivos",
+   "vivas"
+  ],
+  "example": {
+   "pt": "Ela gosta de roupas de cores vivas.",
+   "en": "She likes clothes in bright colors."
+  }
+ },
+ {
+  "pt": "listrado",
+  "pos": "adj.",
+  "english": "striped",
+  "level": 3,
+  "topic": "Weather & colors",
+  "forms": [
+   "listrada",
+   "listrados",
+   "listradas"
+  ],
+  "example": {
+   "pt": "Ele estava de camiseta listrada azul e branca.",
+   "en": "He was wearing a blue and white striped T-shirt."
+  }
+ },
+ {
+  "pt": "estampado",
+  "pos": "adj.",
+  "english": "patterned, printed",
+  "level": 3,
+  "topic": "Weather & colors",
+  "forms": [
+   "estampada",
+   "estampados",
+   "estampadas"
+  ],
+  "example": {
+   "pt": "Comprei um vestido estampado para o verão.",
+   "en": "I bought a patterned dress for the summer."
+  }
+ },
+ {
+  "pt": "liso",
+  "pos": "adj.",
+  "english": "plain (no pattern); smooth; straight (hair)",
+  "level": 3,
+  "topic": "Weather & colors",
+  "forms": [
+   "lisa",
+   "lisos",
+   "lisas"
+  ],
+  "example": {
+   "pt": "Prefiro camisas lisas, sem desenho.",
+   "en": "I prefer plain shirts, without a design."
+  }
+ },
+ {
+  "pt": "bronzeado",
+  "pos": "adj.",
+  "english": "tanned",
+  "level": 3,
+  "topic": "Weather & colors",
+  "forms": [
+   "bronzeada",
+   "bronzeados",
+   "bronzeadas"
+  ],
+  "example": {
+   "pt": "Ela voltou da praia toda bronzeada.",
+   "en": "She came back from the beach all tanned."
+  }
+ },
+ {
+  "pt": "desbotado",
+  "pos": "adj.",
+  "english": "faded",
+  "level": 3,
+  "topic": "Weather & colors",
+  "forms": [
+   "desbotada",
+   "desbotados",
+   "desbotadas"
+  ],
+  "example": {
+   "pt": "Minha calça jeans já está desbotada.",
+   "en": "My jeans are already faded."
+  }
+ },
+ {
+  "pt": "transparente",
+  "pos": "adj.",
+  "english": "transparent, clear",
+  "level": 3,
+  "topic": "Weather & colors",
+  "forms": [
+   "transparentes"
+  ],
+  "example": {
+   "pt": "Guarde os documentos num saco transparente.",
+   "en": "Keep the documents in a clear bag."
+  }
+ },
+ {
+  "pt": "tinta",
+  "pos": "n.",
+  "english": "paint; ink",
+  "level": 3,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "tintas"
+  ],
+  "example": {
+   "pt": "Precisamos de mais tinta branca para terminar a parede.",
+   "en": "We need more white paint to finish the wall."
+  }
+ }
+]

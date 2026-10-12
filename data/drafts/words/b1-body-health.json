@@ -1,0 +1,685 @@
+[
+ {
+  "pt": "sintoma",
+  "pos": "n.",
+  "english": "symptom",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "sintomas"
+  ],
+  "example": {
+   "pt": "Quais são os sintomas da gripe?",
+   "en": "What are the symptoms of the flu?"
+  }
+ },
+ {
+  "pt": "tratamento",
+  "pos": "n.",
+  "english": "treatment",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "tratamentos"
+  ],
+  "example": {
+   "pt": "O tratamento vai durar três meses.",
+   "en": "The treatment will last three months."
+  }
+ },
+ {
+  "pt": "consulta",
+  "pos": "n.",
+  "english": "(medical) appointment, consultation",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "consultas"
+  ],
+  "example": {
+   "pt": "Marquei uma consulta com o dentista para sexta.",
+   "en": "I made an appointment with the dentist for Friday."
+  }
+ },
+ {
+  "pt": "alergia",
+  "pos": "n.",
+  "english": "allergy",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "alergias"
+  ],
+  "example": {
+   "pt": "Eu tenho alergia a camarão.",
+   "en": "I'm allergic to shrimp."
+  }
+ },
+ {
+  "pt": "cirurgia",
+  "pos": "n.",
+  "english": "surgery",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "cirurgias"
+  ],
+  "example": {
+   "pt": "A cirurgia correu bem e ela já está em casa.",
+   "en": "The surgery went well and she's already home."
+  }
+ },
+ {
+  "pt": "recuperar",
+  "pos": "v.",
+  "english": "to recover, to get back",
+  "level": 3,
+  "topic": "Body & health",
+  "example": {
+   "pt": "Ele está se recuperando rápido depois do acidente.",
+   "en": "He is recovering quickly after the accident."
+  }
+ },
+ {
+  "pt": "paciente",
+  "pos": "n./adj.",
+  "english": "patient",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "mf",
+  "forms": [
+   "pacientes"
+  ],
+  "example": {
+   "pt": "O médico atende vinte pacientes por dia.",
+   "en": "The doctor sees twenty patients a day."
+  }
+ },
+ {
+  "pt": "enfermeiro",
+  "pos": "n.",
+  "english": "nurse",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "enfermeira",
+   "enfermeiros",
+   "enfermeiras"
+  ],
+  "example": {
+   "pt": "A enfermeira mediu a minha pressão.",
+   "en": "The nurse took my blood pressure."
+  }
+ },
+ {
+  "pt": "receita",
+  "pos": "n.",
+  "english": "prescription; recipe",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "receitas"
+  ],
+  "example": {
+   "pt": "Esse remédio só pode ser vendido com receita.",
+   "en": "This medicine can only be sold with a prescription."
+  }
+ },
+ {
+  "pt": "vacina",
+  "pos": "n.",
+  "english": "vaccine",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "vacinas"
+  ],
+  "example": {
+   "pt": "Você já tomou a vacina contra a gripe este ano?",
+   "en": "Have you had the flu vaccine this year?"
+  }
+ },
+ {
+  "pt": "infecção",
+  "pos": "n.",
+  "english": "infection",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "infecções"
+  ],
+  "example": {
+   "pt": "Ele teve uma infecção no ouvido.",
+   "en": "He had an ear infection."
+  }
+ },
+ {
+  "pt": "ferida",
+  "pos": "n.",
+  "english": "wound, sore",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "feridas"
+  ],
+  "example": {
+   "pt": "Lave bem a ferida antes de colocar o curativo.",
+   "en": "Wash the wound well before putting on the bandage."
+  }
+ },
+ {
+  "pt": "ferido",
+  "pos": "adj.",
+  "english": "injured, wounded",
+  "level": 3,
+  "topic": "Body & health",
+  "forms": [
+   "ferida",
+   "feridos",
+   "feridas"
+  ],
+  "example": {
+   "pt": "Duas pessoas ficaram feridas no acidente.",
+   "en": "Two people were injured in the accident."
+  }
+ },
+ {
+  "pt": "machucar",
+  "pos": "v.",
+  "english": "to hurt, to injure",
+  "level": 3,
+  "topic": "Body & health",
+  "example": {
+   "pt": "Eu machuquei o joelho jogando futebol.",
+   "en": "I hurt my knee playing soccer."
+  }
+ },
+ {
+  "pt": "machucado",
+  "pos": "adj.",
+  "english": "hurt, injured",
+  "level": 3,
+  "topic": "Body & health",
+  "forms": [
+   "machucada",
+   "machucados",
+   "machucadas"
+  ],
+  "example": {
+   "pt": "O cachorro estava com a pata machucada.",
+   "en": "The dog had an injured paw."
+  }
+ },
+ {
+  "pt": "lesão",
+  "pos": "n.",
+  "english": "injury, lesion",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "lesões"
+  ],
+  "example": {
+   "pt": "O jogador teve uma lesão no tornozelo.",
+   "en": "The player had an ankle injury."
+  }
+ },
+ {
+  "pt": "pressão",
+  "pos": "n.",
+  "english": "pressure; blood pressure",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "pressões"
+  ],
+  "example": {
+   "pt": "Minha avó precisa controlar a pressão.",
+   "en": "My grandmother needs to keep her blood pressure under control."
+  }
+ },
+ {
+  "pt": "exame",
+  "pos": "n.",
+  "english": "(medical) test, exam",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "exames"
+  ],
+  "example": {
+   "pt": "O médico pediu um exame de sangue.",
+   "en": "The doctor ordered a blood test."
+  }
+ },
+ {
+  "pt": "diagnóstico",
+  "pos": "n.",
+  "english": "diagnosis",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "diagnósticos"
+  ],
+  "example": {
+   "pt": "O diagnóstico só sai na semana que vem.",
+   "en": "The diagnosis will only come out next week."
+  }
+ },
+ {
+  "pt": "saudável",
+  "pos": "adj.",
+  "english": "healthy",
+  "level": 3,
+  "topic": "Body & health",
+  "forms": [
+   "saudáveis"
+  ],
+  "example": {
+   "pt": "Ela tenta ter uma alimentação mais saudável.",
+   "en": "She tries to have a healthier diet."
+  }
+ },
+ {
+  "pt": "dieta",
+  "pos": "n.",
+  "english": "diet",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "dietas"
+  ],
+  "example": {
+   "pt": "Estou de dieta, então vou pular a sobremesa.",
+   "en": "I'm on a diet, so I'll skip dessert."
+  }
+ },
+ {
+  "pt": "peso",
+  "pos": "n.",
+  "english": "weight",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "pesos"
+  ],
+  "example": {
+   "pt": "Ele perdeu peso depois que começou a correr.",
+   "en": "He lost weight after he started running."
+  }
+ },
+ {
+  "pt": "emagrecer",
+  "pos": "v.",
+  "english": "to lose weight",
+  "level": 3,
+  "topic": "Body & health",
+  "example": {
+   "pt": "Ela emagreceu cinco quilos em dois meses.",
+   "en": "She lost five kilos in two months."
+  }
+ },
+ {
+  "pt": "engordar",
+  "pos": "v.",
+  "english": "to gain weight",
+  "level": 3,
+  "topic": "Body & health",
+  "example": {
+   "pt": "Se eu comer doce todo dia, vou engordar.",
+   "en": "If I eat sweets every day, I'll gain weight."
+  }
+ },
+ {
+  "pt": "respirar",
+  "pos": "v.",
+  "english": "to breathe",
+  "level": 3,
+  "topic": "Body & health",
+  "example": {
+   "pt": "Respire fundo e tente se acalmar.",
+   "en": "Take a deep breath and try to calm down."
+  }
+ },
+ {
+  "pt": "respiração",
+  "pos": "n.",
+  "english": "breathing, respiration",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "respirações"
+  ],
+  "example": {
+   "pt": "A ioga ajuda a controlar a respiração.",
+   "en": "Yoga helps you control your breathing."
+  }
+ },
+ {
+  "pt": "tossir",
+  "pos": "v.",
+  "english": "to cough",
+  "level": 3,
+  "topic": "Body & health",
+  "example": {
+   "pt": "Ele tossiu a noite inteira.",
+   "en": "He coughed all night long."
+  }
+ },
+ {
+  "pt": "espirrar",
+  "pos": "v.",
+  "english": "to sneeze",
+  "level": 3,
+  "topic": "Body & health",
+  "example": {
+   "pt": "Eu sempre espirro quando tem poeira.",
+   "en": "I always sneeze when there's dust."
+  }
+ },
+ {
+  "pt": "desmaiar",
+  "pos": "v.",
+  "english": "to faint",
+  "level": 3,
+  "topic": "Body & health",
+  "example": {
+   "pt": "Ela desmaiou por causa do calor.",
+   "en": "She fainted because of the heat."
+  }
+ },
+ {
+  "pt": "grávida",
+  "pos": "adj.",
+  "english": "pregnant",
+  "level": 3,
+  "topic": "Body & health",
+  "forms": [
+   "grávidas"
+  ],
+  "example": {
+   "pt": "Minha irmã está grávida de seis meses.",
+   "en": "My sister is six months pregnant."
+  }
+ },
+ {
+  "pt": "gravidez",
+  "pos": "n.",
+  "english": "pregnancy",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "gravidezes"
+  ],
+  "example": {
+   "pt": "Durante a gravidez, ela parou de tomar café.",
+   "en": "During her pregnancy, she stopped drinking coffee."
+  }
+ },
+ {
+  "pt": "osso",
+  "pos": "n.",
+  "english": "bone",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "ossos"
+  ],
+  "example": {
+   "pt": "O leite é bom para os ossos.",
+   "en": "Milk is good for your bones."
+  }
+ },
+ {
+  "pt": "músculo",
+  "pos": "n.",
+  "english": "muscle",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "músculos"
+  ],
+  "example": {
+   "pt": "Depois da academia, meus músculos estão doendo.",
+   "en": "After the gym, my muscles are sore."
+  }
+ },
+ {
+  "pt": "sangue",
+  "pos": "n.",
+  "english": "blood",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "sangues"
+  ],
+  "example": {
+   "pt": "Ele doa sangue duas vezes por ano.",
+   "en": "He donates blood twice a year."
+  }
+ },
+ {
+  "pt": "cérebro",
+  "pos": "n.",
+  "english": "brain",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "cérebros"
+  ],
+  "example": {
+   "pt": "Dormir bem é importante para o cérebro.",
+   "en": "Sleeping well is important for the brain."
+  }
+ },
+ {
+  "pt": "pulmão",
+  "pos": "n.",
+  "english": "lung",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "pulmões"
+  ],
+  "example": {
+   "pt": "Fumar faz muito mal aos pulmões.",
+   "en": "Smoking is very bad for the lungs."
+  }
+ },
+ {
+  "pt": "plano de saúde",
+  "pos": "n.",
+  "english": "health insurance (plan)",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "planos de saúde"
+  ],
+  "example": {
+   "pt": "O meu plano de saúde não cobre esse exame.",
+   "en": "My health insurance doesn't cover this test."
+  }
+ },
+ {
+  "pt": "emergência",
+  "pos": "n.",
+  "english": "emergency; emergency room",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "emergências"
+  ],
+  "example": {
+   "pt": "Levamos o meu pai para a emergência de madrugada.",
+   "en": "We took my father to the emergency room in the early morning."
+  }
+ },
+ {
+  "pt": "ambulância",
+  "pos": "n.",
+  "english": "ambulance",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "ambulâncias"
+  ],
+  "example": {
+   "pt": "A ambulância chegou em dez minutos.",
+   "en": "The ambulance arrived in ten minutes."
+  }
+ },
+ {
+  "pt": "curar",
+  "pos": "v.",
+  "english": "to cure, to heal",
+  "level": 3,
+  "topic": "Body & health",
+  "example": {
+   "pt": "Esse remédio não cura a doença, mas alivia a dor.",
+   "en": "This medicine doesn't cure the disease, but it relieves the pain."
+  }
+ },
+ {
+  "pt": "prevenir",
+  "pos": "v.",
+  "english": "to prevent",
+  "level": 3,
+  "topic": "Body & health",
+  "example": {
+   "pt": "Lavar as mãos ajuda a prevenir doenças.",
+   "en": "Washing your hands helps prevent diseases."
+  }
+ },
+ {
+  "pt": "estresse",
+  "pos": "n.",
+  "english": "stress",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "estresses"
+  ],
+  "example": {
+   "pt": "O estresse do trabalho está me deixando doente.",
+   "en": "Stress from work is making me sick."
+  }
+ },
+ {
+  "pt": "cansaço",
+  "pos": "n.",
+  "english": "tiredness, fatigue",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "cansaços"
+  ],
+  "example": {
+   "pt": "Senti um cansaço enorme depois da viagem.",
+   "en": "I felt enormously tired after the trip."
+  }
+ },
+ {
+  "pt": "enjoo",
+  "pos": "n.",
+  "english": "nausea; motion sickness",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "enjoos"
+  ],
+  "example": {
+   "pt": "Eu sinto enjoo quando leio no carro.",
+   "en": "I feel sick when I read in the car."
+  }
+ },
+ {
+  "pt": "tontura",
+  "pos": "n.",
+  "english": "dizziness",
+  "level": 3,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "tonturas"
+  ],
+  "example": {
+   "pt": "Se sentir tontura, sente-se um pouco.",
+   "en": "If you feel dizzy, sit down for a bit."
+  }
+ },
+ {
+  "pt": "inchado",
+  "pos": "adj.",
+  "english": "swollen",
+  "level": 3,
+  "topic": "Body & health",
+  "forms": [
+   "inchada",
+   "inchados",
+   "inchadas"
+  ],
+  "example": {
+   "pt": "Meu tornozelo ficou inchado depois da queda.",
+   "en": "My ankle got swollen after the fall."
+  }
+ },
+ {
+  "pt": "mental",
+  "pos": "adj.",
+  "english": "mental",
+  "level": 3,
+  "topic": "Body & health",
+  "forms": [
+   "mentais"
+  ],
+  "example": {
+   "pt": "A saúde mental é tão importante quanto a física.",
+   "en": "Mental health is as important as physical health."
+  }
+ },
+ {
+  "pt": "físico",
+  "pos": "adj.",
+  "english": "physical",
+  "level": 3,
+  "topic": "Body & health",
+  "forms": [
+   "física",
+   "físicos",
+   "físicas"
+  ],
+  "example": {
+   "pt": "Ele faz atividade física todos os dias.",
+   "en": "He does physical activity every day."
+  }
+ }
+]

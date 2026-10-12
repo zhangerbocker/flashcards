@@ -1,0 +1,830 @@
+[
+ {
+  "pt": "lei",
+  "pos": "n.",
+  "english": "law",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "leis"
+  ],
+  "example": {
+   "pt": "A nova lei entra em vigor no mês que vem.",
+   "en": "The new law comes into force next month."
+  }
+ },
+ {
+  "pt": "direito",
+  "pos": "n.",
+  "english": "right; law (field of study)",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "direitos"
+  ],
+  "example": {
+   "pt": "Todos têm direito à educação.",
+   "en": "Everyone has the right to education."
+  }
+ },
+ {
+  "pt": "cidadão",
+  "pos": "n.",
+  "english": "citizen",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "cidadã",
+   "cidadãos",
+   "cidadãs"
+  ],
+  "example": {
+   "pt": "Todo cidadão deve votar.",
+   "en": "Every citizen should vote."
+  }
+ },
+ {
+  "pt": "desigualdade",
+  "pos": "n.",
+  "english": "inequality",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "desigualdades"
+  ],
+  "example": {
+   "pt": "A desigualdade social ainda é um grande problema no país.",
+   "en": "Social inequality is still a big problem in the country."
+  }
+ },
+ {
+  "pt": "violência",
+  "pos": "n.",
+  "english": "violence",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "violências"
+  ],
+  "example": {
+   "pt": "A violência diminuiu no bairro depois do projeto.",
+   "en": "Violence went down in the neighborhood after the project."
+  }
+ },
+ {
+  "pt": "imposto",
+  "pos": "n.",
+  "english": "tax",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "impostos"
+  ],
+  "example": {
+   "pt": "Os brasileiros pagam muito imposto.",
+   "en": "Brazilians pay a lot of taxes."
+  }
+ },
+ {
+  "pt": "protesto",
+  "pos": "n.",
+  "english": "protest",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "protestos"
+  ],
+  "example": {
+   "pt": "Milhares de pessoas participaram do protesto.",
+   "en": "Thousands of people took part in the protest."
+  }
+ },
+ {
+  "pt": "jornal",
+  "pos": "n.",
+  "english": "newspaper; news (program)",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "jornais"
+  ],
+  "example": {
+   "pt": "Meu pai lê o jornal todas as manhãs.",
+   "en": "My father reads the newspaper every morning."
+  }
+ },
+ {
+  "pt": "reportagem",
+  "pos": "n.",
+  "english": "news report, story",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "reportagens"
+  ],
+  "example": {
+   "pt": "Vi uma reportagem interessante sobre a Amazônia.",
+   "en": "I saw an interesting report about the Amazon."
+  }
+ },
+ {
+  "pt": "notícia",
+  "pos": "n.",
+  "english": "news (item)",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "notícias"
+  ],
+  "example": {
+   "pt": "Você viu a notícia sobre o acidente?",
+   "en": "Did you see the news about the accident?"
+  }
+ },
+ {
+  "pt": "jornalista",
+  "pos": "n.",
+  "english": "journalist",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "mf",
+  "forms": [
+   "jornalistas"
+  ],
+  "example": {
+   "pt": "A jornalista entrevistou o prefeito.",
+   "en": "The journalist interviewed the mayor."
+  }
+ },
+ {
+  "pt": "manchete",
+  "pos": "n.",
+  "english": "headline",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "manchetes"
+  ],
+  "example": {
+   "pt": "A manchete do jornal de hoje é sobre a economia.",
+   "en": "Today's newspaper headline is about the economy."
+  }
+ },
+ {
+  "pt": "entrevista",
+  "pos": "n.",
+  "english": "interview",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "entrevistas"
+  ],
+  "example": {
+   "pt": "O presidente deu uma entrevista na televisão.",
+   "en": "The president gave an interview on television."
+  }
+ },
+ {
+  "pt": "governo",
+  "pos": "n.",
+  "english": "government",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "governos"
+  ],
+  "example": {
+   "pt": "O governo anunciou novas medidas.",
+   "en": "The government announced new measures."
+  }
+ },
+ {
+  "pt": "eleição",
+  "pos": "n.",
+  "english": "election",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "eleições"
+  ],
+  "example": {
+   "pt": "As eleições acontecem em outubro.",
+   "en": "The elections take place in October."
+  }
+ },
+ {
+  "pt": "votar",
+  "pos": "v.",
+  "english": "to vote",
+  "level": 3,
+  "topic": "Society & news",
+  "example": {
+   "pt": "Em quem você vai votar?",
+   "en": "Who are you going to vote for?"
+  }
+ },
+ {
+  "pt": "voto",
+  "pos": "n.",
+  "english": "vote",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "votos"
+  ],
+  "example": {
+   "pt": "No Brasil, o voto é obrigatório.",
+   "en": "In Brazil, voting is mandatory."
+  }
+ },
+ {
+  "pt": "político",
+  "pos": "n./adj.",
+  "english": "politician; political",
+  "level": 3,
+  "topic": "Society & news",
+  "forms": [
+   "política",
+   "políticos",
+   "políticas"
+  ],
+  "example": {
+   "pt": "Ele não confia em nenhum político.",
+   "en": "He doesn't trust any politician."
+  }
+ },
+ {
+  "pt": "política",
+  "pos": "n.",
+  "english": "politics; policy",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "políticas"
+  ],
+  "example": {
+   "pt": "Eles nunca falam de política no jantar.",
+   "en": "They never talk about politics at dinner."
+  }
+ },
+ {
+  "pt": "partido",
+  "pos": "n.",
+  "english": "(political) party",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "partidos"
+  ],
+  "example": {
+   "pt": "Qual partido ganhou a eleição?",
+   "en": "Which party won the election?"
+  }
+ },
+ {
+  "pt": "prefeito",
+  "pos": "n.",
+  "english": "mayor",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "prefeita",
+   "prefeitos",
+   "prefeitas"
+  ],
+  "example": {
+   "pt": "A prefeita prometeu melhorar o transporte público.",
+   "en": "The mayor promised to improve public transport."
+  }
+ },
+ {
+  "pt": "crime",
+  "pos": "n.",
+  "english": "crime",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "crimes"
+  ],
+  "example": {
+   "pt": "O número de crimes caiu este ano.",
+   "en": "The number of crimes fell this year."
+  }
+ },
+ {
+  "pt": "criminoso",
+  "pos": "n./adj.",
+  "english": "criminal",
+  "level": 3,
+  "topic": "Society & news",
+  "forms": [
+   "criminosa",
+   "criminosos",
+   "criminosas"
+  ],
+  "example": {
+   "pt": "A polícia prendeu o criminoso ontem à noite.",
+   "en": "The police arrested the criminal last night."
+  }
+ },
+ {
+  "pt": "ladrão",
+  "pos": "n.",
+  "english": "thief",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "ladra",
+   "ladrões",
+   "ladras"
+  ],
+  "example": {
+   "pt": "O ladrão levou a bolsa dela.",
+   "en": "The thief took her bag."
+  }
+ },
+ {
+  "pt": "roubar",
+  "pos": "v.",
+  "english": "to steal, to rob",
+  "level": 3,
+  "topic": "Society & news",
+  "example": {
+   "pt": "Roubaram o meu celular no ônibus.",
+   "en": "Someone stole my phone on the bus."
+  }
+ },
+ {
+  "pt": "roubo",
+  "pos": "n.",
+  "english": "theft, robbery",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "roubos"
+  ],
+  "example": {
+   "pt": "Ela registrou o roubo na delegacia.",
+   "en": "She reported the theft at the police station."
+  }
+ },
+ {
+  "pt": "assalto",
+  "pos": "n.",
+  "english": "robbery, mugging, holdup",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "assaltos"
+  ],
+  "example": {
+   "pt": "Houve um assalto ao banco ontem.",
+   "en": "There was a bank robbery yesterday."
+  }
+ },
+ {
+  "pt": "prisão",
+  "pos": "n.",
+  "english": "prison; arrest",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "prisões"
+  ],
+  "example": {
+   "pt": "Ele foi condenado a dez anos de prisão.",
+   "en": "He was sentenced to ten years in prison."
+  }
+ },
+ {
+  "pt": "justiça",
+  "pos": "n.",
+  "english": "justice; the courts",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "justiças"
+  ],
+  "example": {
+   "pt": "As famílias das vítimas pedem justiça.",
+   "en": "The victims' families are demanding justice."
+  }
+ },
+ {
+  "pt": "juiz",
+  "pos": "n.",
+  "english": "judge; referee",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "juíza",
+   "juízes",
+   "juízas"
+  ],
+  "example": {
+   "pt": "O juiz decidiu o caso ontem.",
+   "en": "The judge decided the case yesterday."
+  }
+ },
+ {
+  "pt": "corrupção",
+  "pos": "n.",
+  "english": "corruption",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "corrupções"
+  ],
+  "example": {
+   "pt": "A corrupção é um dos maiores problemas do país.",
+   "en": "Corruption is one of the country's biggest problems."
+  }
+ },
+ {
+  "pt": "pobreza",
+  "pos": "n.",
+  "english": "poverty",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "pobrezas"
+  ],
+  "example": {
+   "pt": "Muitas famílias ainda vivem na pobreza.",
+   "en": "Many families still live in poverty."
+  }
+ },
+ {
+  "pt": "desemprego",
+  "pos": "n.",
+  "english": "unemployment",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "desempregos"
+  ],
+  "example": {
+   "pt": "O desemprego caiu pelo terceiro mês seguido.",
+   "en": "Unemployment fell for the third month in a row."
+  }
+ },
+ {
+  "pt": "crise",
+  "pos": "n.",
+  "english": "crisis",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "crises"
+  ],
+  "example": {
+   "pt": "A crise econômica afetou muitas empresas.",
+   "en": "The economic crisis affected many companies."
+  }
+ },
+ {
+  "pt": "economia",
+  "pos": "n.",
+  "english": "economy; savings",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "economias"
+  ],
+  "example": {
+   "pt": "A economia do país está crescendo.",
+   "en": "The country's economy is growing."
+  }
+ },
+ {
+  "pt": "população",
+  "pos": "n.",
+  "english": "population",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "populações"
+  ],
+  "example": {
+   "pt": "A população da cidade dobrou em vinte anos.",
+   "en": "The city's population doubled in twenty years."
+  }
+ },
+ {
+  "pt": "sociedade",
+  "pos": "n.",
+  "english": "society",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "sociedades"
+  ],
+  "example": {
+   "pt": "Vivemos numa sociedade cada vez mais conectada.",
+   "en": "We live in an increasingly connected society."
+  }
+ },
+ {
+  "pt": "comunidade",
+  "pos": "n.",
+  "english": "community",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "comunidades"
+  ],
+  "example": {
+   "pt": "A comunidade se uniu para ajudar as famílias.",
+   "en": "The community came together to help the families."
+  }
+ },
+ {
+  "pt": "manifestação",
+  "pos": "n.",
+  "english": "demonstration, protest",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "manifestações"
+  ],
+  "example": {
+   "pt": "A manifestação fechou a avenida Paulista.",
+   "en": "The demonstration shut down Avenida Paulista."
+  }
+ },
+ {
+  "pt": "greve",
+  "pos": "n.",
+  "english": "strike",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "greves"
+  ],
+  "example": {
+   "pt": "Os professores estão em greve há duas semanas.",
+   "en": "The teachers have been on strike for two weeks."
+  }
+ },
+ {
+  "pt": "guerra",
+  "pos": "n.",
+  "english": "war",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "guerras"
+  ],
+  "example": {
+   "pt": "A guerra obrigou milhões de pessoas a sair do país.",
+   "en": "The war forced millions of people to leave the country."
+  }
+ },
+ {
+  "pt": "paz",
+  "pos": "n.",
+  "english": "peace",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "pazes"
+  ],
+  "example": {
+   "pt": "Todos querem viver em paz.",
+   "en": "Everyone wants to live in peace."
+  }
+ },
+ {
+  "pt": "refugiado",
+  "pos": "n.",
+  "english": "refugee",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "refugiada",
+   "refugiados",
+   "refugiadas"
+  ],
+  "example": {
+   "pt": "O Brasil recebeu muitos refugiados nos últimos anos.",
+   "en": "Brazil has taken in many refugees in recent years."
+  }
+ },
+ {
+  "pt": "imigrante",
+  "pos": "n.",
+  "english": "immigrant",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "mf",
+  "forms": [
+   "imigrantes"
+  ],
+  "example": {
+   "pt": "São Paulo tem muitos imigrantes japoneses e italianos.",
+   "en": "São Paulo has many Japanese and Italian immigrants."
+  }
+ },
+ {
+  "pt": "preconceito",
+  "pos": "n.",
+  "english": "prejudice",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "preconceitos"
+  ],
+  "example": {
+   "pt": "Precisamos combater o preconceito.",
+   "en": "We need to fight prejudice."
+  }
+ },
+ {
+  "pt": "igualdade",
+  "pos": "n.",
+  "english": "equality",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "igualdades"
+  ],
+  "example": {
+   "pt": "Eles lutam pela igualdade de direitos.",
+   "en": "They fight for equal rights."
+  }
+ },
+ {
+  "pt": "liberdade",
+  "pos": "n.",
+  "english": "freedom, liberty",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "liberdades"
+  ],
+  "example": {
+   "pt": "A liberdade de expressão é um direito fundamental.",
+   "en": "Freedom of expression is a fundamental right."
+  }
+ },
+ {
+  "pt": "segurança",
+  "pos": "n.",
+  "english": "safety, security",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "seguranças"
+  ],
+  "example": {
+   "pt": "A segurança pública é a principal preocupação dos eleitores.",
+   "en": "Public safety is voters' main concern."
+  }
+ },
+ {
+  "pt": "vítima",
+  "pos": "n.",
+  "english": "victim",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "vítimas"
+  ],
+  "example": {
+   "pt": "Ninguém foi vítima do incêndio, felizmente.",
+   "en": "Fortunately, nobody was a victim of the fire."
+  }
+ },
+ {
+  "pt": "investigar",
+  "pos": "v.",
+  "english": "to investigate",
+  "level": 3,
+  "topic": "Society & news",
+  "example": {
+   "pt": "A polícia está investigando o caso.",
+   "en": "The police are investigating the case."
+  }
+ },
+ {
+  "pt": "investigação",
+  "pos": "n.",
+  "english": "investigation",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "investigações"
+  ],
+  "example": {
+   "pt": "A investigação ainda não terminou.",
+   "en": "The investigation isn't over yet."
+  }
+ },
+ {
+  "pt": "denunciar",
+  "pos": "v.",
+  "english": "to report (a crime), to denounce",
+  "level": 3,
+  "topic": "Society & news",
+  "example": {
+   "pt": "Os moradores denunciaram o problema à prefeitura.",
+   "en": "The residents reported the problem to city hall."
+  }
+ },
+ {
+  "pt": "publicar",
+  "pos": "v.",
+  "english": "to publish, to post",
+  "level": 3,
+  "topic": "Society & news",
+  "example": {
+   "pt": "O jornal publicou uma matéria sobre o caso.",
+   "en": "The newspaper published an article about the case."
+  }
+ },
+ {
+  "pt": "divulgar",
+  "pos": "v.",
+  "english": "to make public, to release, to spread",
+  "level": 3,
+  "topic": "Society & news",
+  "example": {
+   "pt": "O governo divulgou os resultados da pesquisa.",
+   "en": "The government released the survey results."
+  }
+ },
+ {
+  "pt": "mídia",
+  "pos": "n.",
+  "english": "media",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "mídias"
+  ],
+  "example": {
+   "pt": "A mídia deu muita atenção ao caso.",
+   "en": "The media gave the case a lot of attention."
+  }
+ },
+ {
+  "pt": "rede social",
+  "pos": "n.",
+  "english": "social network, social media",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "redes sociais"
+  ],
+  "example": {
+   "pt": "Ela passa horas nas redes sociais.",
+   "en": "She spends hours on social media."
+  }
+ }
+]

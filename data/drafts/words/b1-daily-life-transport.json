@@ -1,0 +1,763 @@
+[
+ {
+  "pt": "aluguel",
+  "pos": "n.",
+  "english": "rent",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "aluguéis"
+  ],
+  "example": {
+   "pt": "O aluguel aumentou muito este ano.",
+   "en": "The rent went up a lot this year."
+  }
+ },
+ {
+  "pt": "conta de luz",
+  "pos": "n.",
+  "english": "electricity bill",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "contas de luz"
+  ],
+  "example": {
+   "pt": "A conta de luz veio muito alta este mês.",
+   "en": "The electricity bill was very high this month."
+  }
+ },
+ {
+  "pt": "reformar",
+  "pos": "v.",
+  "english": "to renovate, to remodel",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Vamos reformar a cozinha no ano que vem.",
+   "en": "We're going to renovate the kitchen next year."
+  }
+ },
+ {
+  "pt": "reforma",
+  "pos": "n.",
+  "english": "renovation; reform",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "reformas"
+  ],
+  "example": {
+   "pt": "O apartamento está em reforma.",
+   "en": "The apartment is being renovated."
+  }
+ },
+ {
+  "pt": "mudar",
+  "pos": "v.",
+  "english": "to move (house); to change",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Nós nos mudamos para um apartamento maior.",
+   "en": "We moved to a bigger apartment."
+  }
+ },
+ {
+  "pt": "mudança",
+  "pos": "n.",
+  "english": "move (house); change",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "mudanças"
+  ],
+  "example": {
+   "pt": "A mudança vai ser no sábado.",
+   "en": "The move will be on Saturday."
+  }
+ },
+ {
+  "pt": "inquilino",
+  "pos": "n.",
+  "english": "tenant",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "inquilina",
+   "inquilinos",
+   "inquilinas"
+  ],
+  "example": {
+   "pt": "O inquilino sempre paga em dia.",
+   "en": "The tenant always pays on time."
+  }
+ },
+ {
+  "pt": "proprietário",
+  "pos": "n.",
+  "english": "owner, landlord",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "proprietária",
+   "proprietários",
+   "proprietárias"
+  ],
+  "example": {
+   "pt": "Liguei para o proprietário por causa do vazamento.",
+   "en": "I called the landlord about the leak."
+  }
+ },
+ {
+  "pt": "imobiliária",
+  "pos": "n.",
+  "english": "real estate agency",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "imobiliárias"
+  ],
+  "example": {
+   "pt": "Alugamos o apartamento por uma imobiliária.",
+   "en": "We rented the apartment through a real estate agency."
+  }
+ },
+ {
+  "pt": "condomínio",
+  "pos": "n.",
+  "english": "condominium; building/condo fee",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "condomínios"
+  ],
+  "example": {
+   "pt": "O condomínio aqui custa quinhentos reais.",
+   "en": "The condo fee here costs five hundred reais."
+  }
+ },
+ {
+  "pt": "eletrodoméstico",
+  "pos": "n.",
+  "english": "household appliance",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "eletrodomésticos"
+  ],
+  "example": {
+   "pt": "Compramos todos os eletrodomésticos novos.",
+   "en": "We bought all new appliances."
+  }
+ },
+ {
+  "pt": "máquina de lavar",
+  "pos": "n.",
+  "english": "washing machine",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "máquinas de lavar"
+  ],
+  "example": {
+   "pt": "A máquina de lavar quebrou de novo.",
+   "en": "The washing machine broke again."
+  }
+ },
+ {
+  "pt": "faxina",
+  "pos": "n.",
+  "english": "(heavy) cleaning",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "faxinas"
+  ],
+  "example": {
+   "pt": "Hoje é dia de faxina lá em casa.",
+   "en": "Today is cleaning day at home."
+  }
+ },
+ {
+  "pt": "louça",
+  "pos": "n.",
+  "english": "dishes",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "louças"
+  ],
+  "example": {
+   "pt": "Quem vai lavar a louça hoje?",
+   "en": "Who's going to wash the dishes today?"
+  }
+ },
+ {
+  "pt": "varrer",
+  "pos": "v.",
+  "english": "to sweep",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Varri a casa toda antes da visita chegar.",
+   "en": "I swept the whole house before the guests arrived."
+  }
+ },
+ {
+  "pt": "pendurar",
+  "pos": "v.",
+  "english": "to hang (up)",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Pendure a roupa no varal.",
+   "en": "Hang the clothes on the clothesline."
+  }
+ },
+ {
+  "pt": "consertar",
+  "pos": "v.",
+  "english": "to fix, to repair",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Preciso consertar a torneira da cozinha.",
+   "en": "I need to fix the kitchen faucet."
+  }
+ },
+ {
+  "pt": "conserto",
+  "pos": "n.",
+  "english": "repair",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "consertos"
+  ],
+  "example": {
+   "pt": "O conserto do celular ficou caro.",
+   "en": "The phone repair was expensive."
+  }
+ },
+ {
+  "pt": "encanador",
+  "pos": "n.",
+  "english": "plumber",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "encanadora",
+   "encanadores",
+   "encanadoras"
+  ],
+  "example": {
+   "pt": "Chamei um encanador para ver o banheiro.",
+   "en": "I called a plumber to look at the bathroom."
+  }
+ },
+ {
+  "pt": "vazamento",
+  "pos": "n.",
+  "english": "leak",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "vazamentos"
+  ],
+  "example": {
+   "pt": "Tem um vazamento no teto.",
+   "en": "There's a leak in the ceiling."
+  }
+ },
+ {
+  "pt": "engarrafamento",
+  "pos": "n.",
+  "english": "traffic jam",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "engarrafamentos"
+  ],
+  "example": {
+   "pt": "Fiquei duas horas no engarrafamento.",
+   "en": "I was stuck in a traffic jam for two hours."
+  }
+ },
+ {
+  "pt": "horário de pico",
+  "pos": "n.",
+  "english": "rush hour",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "horários de pico"
+  ],
+  "example": {
+   "pt": "O metrô fica lotado no horário de pico.",
+   "en": "The subway gets packed at rush hour."
+  }
+ },
+ {
+  "pt": "lotado",
+  "pos": "adj.",
+  "english": "packed, full",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "forms": [
+   "lotada",
+   "lotados",
+   "lotadas"
+  ],
+  "example": {
+   "pt": "O ônibus estava lotado.",
+   "en": "The bus was packed."
+  }
+ },
+ {
+  "pt": "embarque",
+  "pos": "n.",
+  "english": "boarding",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "embarques"
+  ],
+  "example": {
+   "pt": "O embarque começa às dez horas.",
+   "en": "Boarding begins at ten o'clock."
+  }
+ },
+ {
+  "pt": "embarcar",
+  "pos": "v.",
+  "english": "to board",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Os passageiros já podem embarcar.",
+   "en": "Passengers may now board."
+  }
+ },
+ {
+  "pt": "desembarcar",
+  "pos": "v.",
+  "english": "to get off, disembark",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Desembarcamos em Fortaleza ao meio-dia.",
+   "en": "We got off the plane in Fortaleza at noon."
+  }
+ },
+ {
+  "pt": "conexão",
+  "pos": "n.",
+  "english": "connection; layover",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "conexões"
+  ],
+  "example": {
+   "pt": "Tenho uma conexão de três horas em Brasília.",
+   "en": "I have a three-hour layover in Brasília."
+  }
+ },
+ {
+  "pt": "atrasar",
+  "pos": "v.",
+  "english": "to delay; to be late",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "O voo atrasou por causa do mau tempo.",
+   "en": "The flight was delayed because of bad weather."
+  }
+ },
+ {
+  "pt": "cancelar",
+  "pos": "v.",
+  "english": "to cancel",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Tive que cancelar a viagem.",
+   "en": "I had to cancel the trip."
+  }
+ },
+ {
+  "pt": "carteira de motorista",
+  "pos": "n.",
+  "english": "driver's license",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "carteiras de motorista"
+  ],
+  "example": {
+   "pt": "Você já tirou a carteira de motorista?",
+   "en": "Have you gotten your driver's license yet?"
+  }
+ },
+ {
+  "pt": "multa",
+  "pos": "n.",
+  "english": "fine, ticket",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "multas"
+  ],
+  "example": {
+   "pt": "Levei uma multa por excesso de velocidade.",
+   "en": "I got a speeding ticket."
+  }
+ },
+ {
+  "pt": "estacionar",
+  "pos": "v.",
+  "english": "to park",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Não dá para estacionar aqui.",
+   "en": "You can't park here."
+  }
+ },
+ {
+  "pt": "estacionamento",
+  "pos": "n.",
+  "english": "parking lot, parking",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "estacionamentos"
+  ],
+  "example": {
+   "pt": "O shopping tem estacionamento gratuito.",
+   "en": "The mall has free parking."
+  }
+ },
+ {
+  "pt": "pneu",
+  "pos": "n.",
+  "english": "tire",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "pneus"
+  ],
+  "example": {
+   "pt": "O pneu do carro furou.",
+   "en": "The car tire got a flat."
+  }
+ },
+ {
+  "pt": "gasolina",
+  "pos": "n.",
+  "english": "gasoline, gas",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "gasolinas"
+  ],
+  "example": {
+   "pt": "O preço da gasolina subiu de novo.",
+   "en": "The price of gas went up again."
+  }
+ },
+ {
+  "pt": "posto de gasolina",
+  "pos": "n.",
+  "english": "gas station",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "postos de gasolina"
+  ],
+  "example": {
+   "pt": "Vamos parar no próximo posto de gasolina.",
+   "en": "Let's stop at the next gas station."
+  }
+ },
+ {
+  "pt": "abastecer",
+  "pos": "v.",
+  "english": "to fill up (with fuel); to supply",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Preciso abastecer o carro antes da viagem.",
+   "en": "I need to fill up the car before the trip."
+  }
+ },
+ {
+  "pt": "combustível",
+  "pos": "n.",
+  "english": "fuel",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "combustíveis"
+  ],
+  "example": {
+   "pt": "O carro está quase sem combustível.",
+   "en": "The car is almost out of fuel."
+  }
+ },
+ {
+  "pt": "freio",
+  "pos": "n.",
+  "english": "brake",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "freios"
+  ],
+  "example": {
+   "pt": "O freio da bicicleta não está funcionando.",
+   "en": "The bicycle brake isn't working."
+  }
+ },
+ {
+  "pt": "ultrapassar",
+  "pos": "v.",
+  "english": "to overtake, to pass; to exceed",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "É proibido ultrapassar nessa curva.",
+   "en": "It's forbidden to overtake on this curve."
+  }
+ },
+ {
+  "pt": "batida",
+  "pos": "n.",
+  "english": "(car) crash; beat",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "batidas"
+  ],
+  "example": {
+   "pt": "Houve uma batida na avenida principal.",
+   "en": "There was a crash on the main avenue."
+  }
+ },
+ {
+  "pt": "carona",
+  "pos": "n.",
+  "english": "ride, lift",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "caronas"
+  ],
+  "example": {
+   "pt": "Você me dá uma carona até o trabalho?",
+   "en": "Can you give me a ride to work?"
+  }
+ },
+ {
+  "pt": "aplicativo",
+  "pos": "n.",
+  "english": "app",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "aplicativos"
+  ],
+  "example": {
+   "pt": "Pedi um carro pelo aplicativo.",
+   "en": "I ordered a car through the app."
+  }
+ },
+ {
+  "pt": "corrida",
+  "pos": "n.",
+  "english": "ride (taxi, app); race; run",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "corridas"
+  ],
+  "example": {
+   "pt": "A corrida até o aeroporto custou oitenta reais.",
+   "en": "The ride to the airport cost eighty reais."
+  }
+ },
+ {
+  "pt": "entrega",
+  "pos": "n.",
+  "english": "delivery",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "entregas"
+  ],
+  "example": {
+   "pt": "A entrega é grátis para pedidos acima de cem reais.",
+   "en": "Delivery is free for orders over a hundred reais."
+  }
+ },
+ {
+  "pt": "encomenda",
+  "pos": "n.",
+  "english": "package, order",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "encomendas"
+  ],
+  "example": {
+   "pt": "Minha encomenda ainda não chegou.",
+   "en": "My package still hasn't arrived."
+  }
+ },
+ {
+  "pt": "boleto",
+  "pos": "n.",
+  "english": "payment slip, bank bill",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "boletos"
+  ],
+  "example": {
+   "pt": "Paguei o boleto pelo celular.",
+   "en": "I paid the bank slip on my phone."
+  }
+ },
+ {
+  "pt": "agendar",
+  "pos": "v.",
+  "english": "to schedule, book",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Liguei para agendar uma consulta.",
+   "en": "I called to schedule an appointment."
+  }
+ },
+ {
+  "pt": "compromisso",
+  "pos": "n.",
+  "english": "appointment, engagement; commitment",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "compromissos"
+  ],
+  "example": {
+   "pt": "Hoje não posso, tenho um compromisso.",
+   "en": "I can't today, I have an appointment."
+  }
+ },
+ {
+  "pt": "pressa",
+  "pos": "n.",
+  "english": "hurry, rush",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "pressas"
+  ],
+  "example": {
+   "pt": "Desculpa, estou com pressa.",
+   "en": "Sorry, I'm in a hurry."
+  }
+ },
+ {
+  "pt": "despertador",
+  "pos": "n.",
+  "english": "alarm clock",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "despertadores"
+  ],
+  "example": {
+   "pt": "O despertador não tocou hoje.",
+   "en": "The alarm clock didn't go off today."
+  }
+ },
+ {
+  "pt": "cochilar",
+  "pos": "v.",
+  "english": "to nap, to doze",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Depois do almoço, gosto de cochilar um pouco.",
+   "en": "After lunch, I like to take a little nap."
+  }
+ },
+ {
+  "pt": "lavanderia",
+  "pos": "n.",
+  "english": "laundry; laundromat",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "lavanderias"
+  ],
+  "example": {
+   "pt": "Levei as camisas para a lavanderia.",
+   "en": "I took the shirts to the laundromat."
+  }
+ },
+ {
+  "pt": "assinatura",
+  "pos": "n.",
+  "english": "signature; subscription",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "assinaturas"
+  ],
+  "example": {
+   "pt": "Cancelei a assinatura da revista.",
+   "en": "I canceled my magazine subscription."
+  }
+ }
+]

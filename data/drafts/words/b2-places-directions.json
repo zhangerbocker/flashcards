@@ -1,0 +1,716 @@
+[
+ {
+  "pt": "periferia",
+  "pos": "n.",
+  "english": "outskirts, poor outlying areas",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "periferias"
+  ],
+  "example": {
+   "pt": "Muitos trabalhadores moram na periferia e gastam horas no ônibus.",
+   "en": "Many workers live on the outskirts and spend hours on the bus."
+  }
+ },
+ {
+  "pt": "infraestrutura",
+  "pos": "n.",
+  "english": "infrastructure",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "infraestruturas"
+  ],
+  "example": {
+   "pt": "A cidade precisa investir em infraestrutura.",
+   "en": "The city needs to invest in infrastructure."
+  }
+ },
+ {
+  "pt": "saneamento",
+  "pos": "n.",
+  "english": "sanitation",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "m",
+  "example": {
+   "pt": "Muitos bairros ainda não têm saneamento básico.",
+   "en": "Many neighborhoods still lack basic sanitation."
+  }
+ },
+ {
+  "pt": "entorno",
+  "pos": "n.",
+  "english": "surroundings, surrounding area",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "entornos"
+  ],
+  "example": {
+   "pt": "O entorno do estádio fica lotado em dia de jogo.",
+   "en": "The area around the stadium gets packed on game days."
+  }
+ },
+ {
+  "pt": "arredores",
+  "pos": "n.",
+  "english": "surroundings, outskirts",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "m",
+  "example": {
+   "pt": "Ficamos num hotel nos arredores da cidade.",
+   "en": "We stayed at a hotel on the outskirts of the city."
+  }
+ },
+ {
+  "pt": "bairro nobre",
+  "pos": "n.",
+  "english": "upscale neighborhood",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "bairros nobres"
+  ],
+  "example": {
+   "pt": "O aluguel em bairro nobre é caríssimo.",
+   "en": "Rent in an upscale neighborhood is very expensive."
+  }
+ },
+ {
+  "pt": "favela",
+  "pos": "n.",
+  "english": "favela, informal settlement",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "favelas"
+  ],
+  "example": {
+   "pt": "A favela fica no morro, perto da praia.",
+   "en": "The favela is on the hill, near the beach."
+  }
+ },
+ {
+  "pt": "comunidade",
+  "pos": "n.",
+  "english": "community; (euphemism) favela",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "comunidades"
+  ],
+  "example": {
+   "pt": "O projeto oferece aulas de música na comunidade.",
+   "en": "The project offers music classes in the community."
+  }
+ },
+ {
+  "pt": "cortiço",
+  "pos": "n.",
+  "english": "tenement",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "cortiços"
+  ],
+  "example": {
+   "pt": "Várias famílias dividiam um cortiço no centro.",
+   "en": "Several families shared a tenement downtown."
+  }
+ },
+ {
+  "pt": "condomínio",
+  "pos": "n.",
+  "english": "condominium, gated complex",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "condomínios"
+  ],
+  "example": {
+   "pt": "Eles moram num condomínio fechado.",
+   "en": "They live in a gated community."
+  }
+ },
+ {
+  "pt": "zona rural",
+  "pos": "n.",
+  "english": "rural area, countryside",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "zonas rurais"
+  ],
+  "example": {
+   "pt": "A escola atende crianças da zona rural.",
+   "en": "The school serves children from the rural area."
+  }
+ },
+ {
+  "pt": "zona urbana",
+  "pos": "n.",
+  "english": "urban area",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "zonas urbanas"
+  ],
+  "example": {
+   "pt": "A maior parte da população vive na zona urbana.",
+   "en": "Most of the population lives in urban areas."
+  }
+ },
+ {
+  "pt": "município",
+  "pos": "n.",
+  "english": "municipality",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "municípios"
+  ],
+  "example": {
+   "pt": "O estado tem mais de seiscentos municípios.",
+   "en": "The state has over six hundred municipalities."
+  }
+ },
+ {
+  "pt": "prefeitura",
+  "pos": "n.",
+  "english": "city hall, municipal government",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "prefeituras"
+  ],
+  "example": {
+   "pt": "A prefeitura prometeu asfaltar a rua.",
+   "en": "City hall promised to pave the street."
+  }
+ },
+ {
+  "pt": "interior",
+  "pos": "n.",
+  "english": "countryside, inland region",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "interiores"
+  ],
+  "example": {
+   "pt": "Meus pais moram no interior de Minas.",
+   "en": "My parents live in the interior of Minas Gerais."
+  }
+ },
+ {
+  "pt": "litoral",
+  "pos": "n.",
+  "english": "coast, coastline",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "litorais"
+  ],
+  "example": {
+   "pt": "Passamos o feriado no litoral norte.",
+   "en": "We spent the holiday on the north coast."
+  }
+ },
+ {
+  "pt": "fronteira",
+  "pos": "n.",
+  "english": "border, frontier",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "fronteiras"
+  ],
+  "example": {
+   "pt": "A cidade fica na fronteira com o Paraguai.",
+   "en": "The city is on the border with Paraguay."
+  }
+ },
+ {
+  "pt": "região metropolitana",
+  "pos": "n.",
+  "english": "metropolitan area",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "regiões metropolitanas"
+  ],
+  "example": {
+   "pt": "A região metropolitana de São Paulo tem mais de vinte milhões de habitantes.",
+   "en": "The São Paulo metropolitan area has over twenty million inhabitants."
+  }
+ },
+ {
+  "pt": "centro histórico",
+  "pos": "n.",
+  "english": "historic center, old town",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "centros históricos"
+  ],
+  "example": {
+   "pt": "O centro histórico de Salvador é patrimônio mundial.",
+   "en": "Salvador's historic center is a world heritage site."
+  }
+ },
+ {
+  "pt": "orla",
+  "pos": "n.",
+  "english": "waterfront, seafront",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "orlas"
+  ],
+  "example": {
+   "pt": "Corremos na orla todas as manhãs.",
+   "en": "We run along the seafront every morning."
+  }
+ },
+ {
+  "pt": "calçadão",
+  "pos": "n.",
+  "english": "promenade, pedestrian street",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "calçadões"
+  ],
+  "example": {
+   "pt": "O calçadão de Copacabana é famoso pelo desenho em ondas.",
+   "en": "The Copacabana promenade is famous for its wave pattern."
+  }
+ },
+ {
+  "pt": "viaduto",
+  "pos": "n.",
+  "english": "overpass, viaduct",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "viadutos"
+  ],
+  "example": {
+   "pt": "O ônibus passa por baixo do viaduto.",
+   "en": "The bus goes under the overpass."
+  }
+ },
+ {
+  "pt": "túnel",
+  "pos": "n.",
+  "english": "tunnel",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "túneis"
+  ],
+  "example": {
+   "pt": "O túnel liga os dois lados da montanha.",
+   "en": "The tunnel connects both sides of the mountain."
+  }
+ },
+ {
+  "pt": "passarela",
+  "pos": "n.",
+  "english": "footbridge; catwalk",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "passarelas"
+  ],
+  "example": {
+   "pt": "Use a passarela para atravessar a avenida.",
+   "en": "Use the footbridge to cross the avenue."
+  }
+ },
+ {
+  "pt": "rodovia",
+  "pos": "n.",
+  "english": "highway",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "rodovias"
+  ],
+  "example": {
+   "pt": "A rodovia estava congestionada por causa do feriado.",
+   "en": "The highway was congested because of the holiday."
+  }
+ },
+ {
+  "pt": "acostamento",
+  "pos": "n.",
+  "english": "road shoulder",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "acostamentos"
+  ],
+  "example": {
+   "pt": "O carro quebrou e paramos no acostamento.",
+   "en": "The car broke down and we stopped on the shoulder."
+  }
+ },
+ {
+  "pt": "cruzamento",
+  "pos": "n.",
+  "english": "intersection, crossroads",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "cruzamentos"
+  ],
+  "example": {
+   "pt": "O acidente aconteceu no cruzamento das duas avenidas.",
+   "en": "The accident happened at the intersection of the two avenues."
+  }
+ },
+ {
+  "pt": "rotatória",
+  "pos": "n.",
+  "english": "roundabout",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "rotatórias"
+  ],
+  "example": {
+   "pt": "Na rotatória, pegue a segunda saída.",
+   "en": "At the roundabout, take the second exit."
+  }
+ },
+ {
+  "pt": "quarteirão",
+  "pos": "n.",
+  "english": "city block",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "quarteirões"
+  ],
+  "example": {
+   "pt": "A farmácia fica a dois quarteirões daqui.",
+   "en": "The pharmacy is two blocks from here."
+  }
+ },
+ {
+  "pt": "sinalização",
+  "pos": "n.",
+  "english": "signage, road signs",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "sinalizações"
+  ],
+  "example": {
+   "pt": "A sinalização da estrada é péssima.",
+   "en": "The road signage is terrible."
+  }
+ },
+ {
+  "pt": "ponto de referência",
+  "pos": "n.",
+  "english": "landmark, reference point",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "pontos de referência"
+  ],
+  "example": {
+   "pt": "Qual é o ponto de referência perto da sua casa?",
+   "en": "What's the landmark near your house?"
+  }
+ },
+ {
+  "pt": "localização",
+  "pos": "n.",
+  "english": "location",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "localizações"
+  ],
+  "example": {
+   "pt": "O apartamento tem uma ótima localização.",
+   "en": "The apartment has a great location."
+  }
+ },
+ {
+  "pt": "localizar",
+  "pos": "v.",
+  "english": "to locate",
+  "level": 4,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "Não consegui localizar o endereço no mapa.",
+   "en": "I couldn't locate the address on the map."
+  }
+ },
+ {
+  "pt": "situar",
+  "pos": "v.",
+  "english": "to situate, locate",
+  "level": 4,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "A loja se situa no térreo do shopping.",
+   "en": "The store is located on the ground floor of the mall."
+  }
+ },
+ {
+  "pt": "deslocamento",
+  "pos": "n.",
+  "english": "commute, travel, movement",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "deslocamentos"
+  ],
+  "example": {
+   "pt": "O deslocamento até o trabalho leva uma hora.",
+   "en": "The commute to work takes an hour."
+  }
+ },
+ {
+  "pt": "deslocar",
+  "pos": "v.",
+  "english": "to move, travel, get around",
+  "level": 4,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "É difícil se deslocar pela cidade na hora do rush.",
+   "en": "It's hard to get around the city at rush hour."
+  }
+ },
+ {
+  "pt": "trajeto",
+  "pos": "n.",
+  "english": "route, way, journey",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "trajetos"
+  ],
+  "example": {
+   "pt": "Faço o mesmo trajeto todos os dias.",
+   "en": "I take the same route every day."
+  }
+ },
+ {
+  "pt": "percurso",
+  "pos": "n.",
+  "english": "route, course, distance covered",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "percursos"
+  ],
+  "example": {
+   "pt": "O percurso da maratona passa pela orla.",
+   "en": "The marathon route goes along the seafront."
+  }
+ },
+ {
+  "pt": "desvio",
+  "pos": "n.",
+  "english": "detour, diversion",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "desvios"
+  ],
+  "example": {
+   "pt": "Por causa da obra, há um desvio na avenida.",
+   "en": "Because of the roadwork, there is a detour on the avenue."
+  }
+ },
+ {
+  "pt": "sentido",
+  "pos": "n.",
+  "english": "direction (of traffic)",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "sentidos"
+  ],
+  "example": {
+   "pt": "A pista no sentido centro está bloqueada.",
+   "en": "The lane heading downtown is blocked."
+  }
+ },
+ {
+  "pt": "contramão",
+  "pos": "n.",
+  "english": "wrong way (against traffic)",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "contramãos"
+  ],
+  "example": {
+   "pt": "O motorista entrou na contramão.",
+   "en": "The driver went the wrong way down the street."
+  }
+ },
+ {
+  "pt": "ao longo de",
+  "pos": "prep.",
+  "english": "along; throughout",
+  "level": 4,
+  "topic": "Places & directions",
+  "forms": [
+   "ao longo do",
+   "ao longo da",
+   "ao longo dos",
+   "ao longo das",
+   "ao longo dum",
+   "ao longo duma"
+  ],
+  "example": {
+   "pt": "Há vários quiosques ao longo da praia.",
+   "en": "There are several kiosks along the beach."
+  }
+ },
+ {
+  "pt": "nas proximidades de",
+  "pos": "expr.",
+  "english": "in the vicinity of, near",
+  "level": 4,
+  "topic": "Places & directions",
+  "forms": [
+   "nas proximidades do",
+   "nas proximidades da",
+   "nas proximidades dos",
+   "nas proximidades das",
+   "nas proximidades dum",
+   "nas proximidades duma"
+  ],
+  "example": {
+   "pt": "Há um posto nas proximidades do aeroporto.",
+   "en": "There is a gas station near the airport."
+  }
+ },
+ {
+  "pt": "à beira de",
+  "pos": "prep.",
+  "english": "at the edge of; on the verge of",
+  "level": 4,
+  "topic": "Places & directions",
+  "forms": [
+   "à beira do",
+   "à beira da",
+   "à beira dos",
+   "à beira das",
+   "à beira dum",
+   "à beira duma"
+  ],
+  "example": {
+   "pt": "Eles têm uma casa à beira do rio.",
+   "en": "They have a house on the riverbank."
+  }
+ },
+ {
+  "pt": "área verde",
+  "pos": "n.",
+  "english": "green space",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "áreas verdes"
+  ],
+  "example": {
+   "pt": "O bairro tem poucas áreas verdes.",
+   "en": "The neighborhood has few green spaces."
+  }
+ },
+ {
+  "pt": "terreno",
+  "pos": "n.",
+  "english": "plot of land, lot; terrain",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "terrenos"
+  ],
+  "example": {
+   "pt": "Compraram um terreno para construir uma casa.",
+   "en": "They bought a plot to build a house."
+  }
+ },
+ {
+  "pt": "imóvel",
+  "pos": "n.",
+  "english": "property, real estate",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "imóveis"
+  ],
+  "example": {
+   "pt": "O preço dos imóveis subiu muito na região.",
+   "en": "Property prices rose a lot in the area."
+  }
+ },
+ {
+  "pt": "urbanização",
+  "pos": "n.",
+  "english": "urbanization",
+  "level": 4,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "urbanizações"
+  ],
+  "example": {
+   "pt": "A urbanização acelerada trouxe novos problemas.",
+   "en": "Rapid urbanization brought new problems."
+  }
+ }
+]

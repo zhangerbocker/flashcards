@@ -1,0 +1,112 @@
+[
+ {
+  "id": "ser-estar",
+  "level": 1,
+  "title": "Ser vs. estar",
+  "pattern": "ser = what something is · estar = how/where it is now",
+  "explanation": "Use ser for identity, origin, profession and lasting traits (sou estudante, é de Boston). Use estar for states and conditions that can change (estou cansado, o café está quente) and for where people are.",
+  "examples": [
+   {
+    "pt": "Eu sou de Boston.",
+    "en": "I am from Boston.",
+    "highlight": [
+     "sou"
+    ]
+   },
+   {
+    "pt": "O café está quente.",
+    "en": "The coffee is hot.",
+    "highlight": [
+     "está"
+    ]
+   },
+   {
+    "pt": "Ela é professora.",
+    "en": "She is a teacher.",
+    "highlight": [
+     "é"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Eu estou de Boston.",
+   "right": "Eu sou de Boston.",
+   "en": "I am from Boston.",
+   "reason": "Where you are from is part of who you are, so it takes ser."
+  }
+ },
+ {
+  "id": "articles-gender",
+  "level": 1,
+  "title": "Articles and gender",
+  "pattern": "o / a / os / as · um / uma",
+  "explanation": "Every noun is masculine or feminine, and the article agrees: o livro, a casa, os livros, as casas; um livro, uma casa. Most nouns ending in -o are masculine and most ending in -a are feminine, but learn each noun with its article (o dia, a mãe).",
+  "examples": [
+   {
+    "pt": "A casa é pequena.",
+    "en": "The house is small.",
+    "highlight": [
+     "A",
+     "pequena"
+    ]
+   },
+   {
+    "pt": "Eu tenho um livro novo.",
+    "en": "I have a new book.",
+    "highlight": [
+     "um",
+     "novo"
+    ]
+   },
+   {
+    "pt": "O dia está bonito.",
+    "en": "The day is beautiful.",
+    "highlight": [
+     "O"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "O casa é pequeno.",
+   "right": "A casa é pequena.",
+   "en": "The house is small.",
+   "reason": "Casa is feminine, so both the article and the adjective take the feminine form."
+  }
+ },
+ {
+  "id": "ir-infinitive",
+  "level": 1,
+  "title": "Future with ir + infinitive",
+  "pattern": "ir (vou, vai, vamos, vão) + infinitive",
+  "explanation": "Everyday Brazilian Portuguese talks about the future with the present of ir plus an infinitive: vou comer = I'm going to eat. It's far more common in speech than the simple future (comerei).",
+  "examples": [
+   {
+    "pt": "Amanhã eu vou trabalhar.",
+    "en": "Tomorrow I'm going to work.",
+    "highlight": [
+     "vou trabalhar"
+    ]
+   },
+   {
+    "pt": "Nós vamos comer no restaurante.",
+    "en": "We're going to eat at the restaurant.",
+    "highlight": [
+     "vamos comer"
+    ]
+   },
+   {
+    "pt": "Ela vai falar com a mãe.",
+    "en": "She's going to talk to her mother.",
+    "highlight": [
+     "vai falar"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "Amanhã eu vou trabalho.",
+   "right": "Amanhã eu vou trabalhar.",
+   "en": "Tomorrow I'm going to work.",
+   "reason": "After a form of ir, the next verb stays in the infinitive."
+  }
+ }
+]

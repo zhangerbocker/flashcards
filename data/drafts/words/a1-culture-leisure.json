@@ -1,0 +1,340 @@
+[
+ {
+  "pt": "música",
+  "pos": "n.",
+  "english": "music; song",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "músicas"
+  ],
+  "example": {
+   "pt": "Eu gosto de música brasileira.",
+   "en": "I like Brazilian music."
+  }
+ },
+ {
+  "pt": "filme",
+  "pos": "n.",
+  "english": "movie, film",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "filmes"
+  ],
+  "example": {
+   "pt": "Vamos ver um filme hoje?",
+   "en": "Shall we watch a movie today?"
+  }
+ },
+ {
+  "pt": "cinema",
+  "pos": "n.",
+  "english": "movie theater, cinema",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "cinemas"
+  ],
+  "example": {
+   "pt": "Nós fomos ao cinema no sábado.",
+   "en": "We went to the movies on Saturday."
+  }
+ },
+ {
+  "pt": "festa",
+  "pos": "n.",
+  "english": "party",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "festas"
+  ],
+  "example": {
+   "pt": "A festa é na casa da Ana.",
+   "en": "The party is at Ana's house."
+  }
+ },
+ {
+  "pt": "futebol",
+  "pos": "n.",
+  "english": "soccer, football",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "example": {
+   "pt": "O futebol é muito popular no Brasil.",
+   "en": "Soccer is very popular in Brazil."
+  }
+ },
+ {
+  "pt": "esporte",
+  "pos": "n.",
+  "english": "sport",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "esportes"
+  ],
+  "example": {
+   "pt": "Qual esporte você pratica?",
+   "en": "Which sport do you play?"
+  }
+ },
+ {
+  "pt": "jogo",
+  "pos": "n.",
+  "english": "game; match",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "jogos"
+  ],
+  "example": {
+   "pt": "O jogo começa às quatro.",
+   "en": "The game starts at four."
+  }
+ },
+ {
+  "pt": "férias",
+  "pos": "n.",
+  "english": "vacation, holidays",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "example": {
+   "pt": "Eu vou viajar nas férias.",
+   "en": "I'm going to travel on vacation."
+  }
+ },
+ {
+  "pt": "viagem",
+  "pos": "n.",
+  "english": "trip, journey",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "viagens"
+  ],
+  "example": {
+   "pt": "Boa viagem!",
+   "en": "Have a good trip!"
+  }
+ },
+ {
+  "pt": "foto",
+  "pos": "n.",
+  "english": "photo",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "fotos"
+  ],
+  "example": {
+   "pt": "Vou tirar uma foto.",
+   "en": "I'm going to take a photo."
+  }
+ },
+ {
+  "pt": "televisão",
+  "pos": "n.",
+  "english": "television",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "televisões"
+  ],
+  "example": {
+   "pt": "Eu vejo televisão à noite.",
+   "en": "I watch television at night."
+  }
+ },
+ {
+  "pt": "show",
+  "pos": "n.",
+  "english": "show, concert",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "shows"
+  ],
+  "example": {
+   "pt": "O show foi incrível.",
+   "en": "The concert was amazing."
+  }
+ },
+ {
+  "pt": "teatro",
+  "pos": "n.",
+  "english": "theater",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "teatros"
+  ],
+  "example": {
+   "pt": "Nós vamos ao teatro amanhã.",
+   "en": "We are going to the theater tomorrow."
+  }
+ },
+ {
+  "pt": "museu",
+  "pos": "n.",
+  "english": "museum",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "museus"
+  ],
+  "example": {
+   "pt": "O museu abre às dez.",
+   "en": "The museum opens at ten."
+  }
+ },
+ {
+  "pt": "Carnaval",
+  "pos": "n.",
+  "english": "Carnival",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "example": {
+   "pt": "O Carnaval é em fevereiro.",
+   "en": "Carnival is in February."
+  }
+ },
+ {
+  "pt": "samba",
+  "pos": "n.",
+  "english": "samba",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "sambas"
+  ],
+  "example": {
+   "pt": "Ela dança samba muito bem.",
+   "en": "She dances samba very well."
+  }
+ },
+ {
+  "pt": "violão",
+  "pos": "n.",
+  "english": "acoustic guitar",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "violões"
+  ],
+  "example": {
+   "pt": "Ele toca violão.",
+   "en": "He plays the guitar."
+  }
+ },
+ {
+  "pt": "passeio",
+  "pos": "n.",
+  "english": "outing, walk, tour",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "passeios"
+  ],
+  "example": {
+   "pt": "Vamos fazer um passeio no parque?",
+   "en": "Shall we go for a walk in the park?"
+  }
+ },
+ {
+  "pt": "cantar",
+  "pos": "v.",
+  "english": "to sing",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "example": {
+   "pt": "Ela canta muito bem.",
+   "en": "She sings very well."
+  }
+ },
+ {
+  "pt": "dançar",
+  "pos": "v.",
+  "english": "to dance",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "example": {
+   "pt": "Vamos dançar?",
+   "en": "Shall we dance?"
+  }
+ },
+ {
+  "pt": "tocar",
+  "pos": "v.",
+  "english": "to play (an instrument); to touch",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "example": {
+   "pt": "Eu toco piano.",
+   "en": "I play the piano."
+  }
+ },
+ {
+  "pt": "nadar",
+  "pos": "v.",
+  "english": "to swim",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "example": {
+   "pt": "Eu nado no mar.",
+   "en": "I swim in the sea."
+  }
+ },
+ {
+  "pt": "assistir",
+  "pos": "v.",
+  "english": "to watch (assistir a)",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "example": {
+   "pt": "Eu assisto TV à noite.",
+   "en": "I watch TV at night."
+  }
+ },
+ {
+  "pt": "passear",
+  "pos": "v.",
+  "english": "to go for a walk, to stroll",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "example": {
+   "pt": "Nós passeamos no domingo.",
+   "en": "We went for a walk on Sunday."
+  }
+ },
+ {
+  "pt": "convidar",
+  "pos": "v.",
+  "english": "to invite",
+  "level": 1,
+  "topic": "Culture & leisure",
+  "example": {
+   "pt": "Eu convidei a Ana para a festa.",
+   "en": "I invited Ana to the party."
+  }
+ }
+]

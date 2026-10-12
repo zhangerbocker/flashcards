@@ -1,0 +1,709 @@
+[
+ {
+  "pt": "oi",
+  "pos": "interj.",
+  "english": "hi",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Oi, tudo bem?",
+   "en": "Hi, how are you?"
+  }
+ },
+ {
+  "pt": "olá",
+  "pos": "interj.",
+  "english": "hello",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Olá, meu nome é Ana.",
+   "en": "Hello, my name is Ana."
+  }
+ },
+ {
+  "pt": "tchau",
+  "pos": "interj.",
+  "english": "bye",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Tchau, até amanhã!",
+   "en": "Bye, see you tomorrow!"
+  }
+ },
+ {
+  "pt": "tudo bem",
+  "pos": "expr.",
+  "english": "how are you?; all good, OK",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Tudo bem com você?",
+   "en": "Is everything OK with you?"
+  }
+ },
+ {
+  "pt": "desculpa",
+  "pos": "expr.",
+  "english": "sorry, excuse me",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "forms": [
+   "desculpe"
+  ],
+  "example": {
+   "pt": "Desculpa, eu não entendi.",
+   "en": "Sorry, I didn't understand."
+  }
+ },
+ {
+  "pt": "com licença",
+  "pos": "expr.",
+  "english": "excuse me (to pass or interrupt)",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Com licença, onde fica o banheiro?",
+   "en": "Excuse me, where is the bathroom?"
+  }
+ },
+ {
+  "pt": "de nada",
+  "pos": "expr.",
+  "english": "you're welcome",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Obrigado! — De nada.",
+   "en": "Thank you! — You're welcome."
+  }
+ },
+ {
+  "pt": "ônibus",
+  "pos": "n.",
+  "english": "bus",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "example": {
+   "pt": "Eu vou para o trabalho de ônibus.",
+   "en": "I go to work by bus."
+  }
+ },
+ {
+  "pt": "carro",
+  "pos": "n.",
+  "english": "car",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "carros"
+  ],
+  "example": {
+   "pt": "Meu carro é branco.",
+   "en": "My car is white."
+  }
+ },
+ {
+  "pt": "trem",
+  "pos": "n.",
+  "english": "train",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "trens"
+  ],
+  "example": {
+   "pt": "O trem chega às dez.",
+   "en": "The train arrives at ten."
+  }
+ },
+ {
+  "pt": "metrô",
+  "pos": "n.",
+  "english": "subway, metro",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "metrôs"
+  ],
+  "example": {
+   "pt": "Eu pego o metrô todo dia.",
+   "en": "I take the subway every day."
+  }
+ },
+ {
+  "pt": "avião",
+  "pos": "n.",
+  "english": "airplane",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "aviões"
+  ],
+  "example": {
+   "pt": "O avião sai às oito.",
+   "en": "The plane leaves at eight."
+  }
+ },
+ {
+  "pt": "bicicleta",
+  "pos": "n.",
+  "english": "bicycle",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "bicicletas"
+  ],
+  "example": {
+   "pt": "Eu ando de bicicleta no parque.",
+   "en": "I ride a bike in the park."
+  }
+ },
+ {
+  "pt": "táxi",
+  "pos": "n.",
+  "english": "taxi",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "táxis"
+  ],
+  "example": {
+   "pt": "Vamos de táxi?",
+   "en": "Shall we take a taxi?"
+  }
+ },
+ {
+  "pt": "passagem",
+  "pos": "n.",
+  "english": "ticket, fare",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "passagens"
+  ],
+  "example": {
+   "pt": "Quanto custa a passagem?",
+   "en": "How much is the ticket?"
+  }
+ },
+ {
+  "pt": "celular",
+  "pos": "n.",
+  "english": "cell phone",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "celulares"
+  ],
+  "example": {
+   "pt": "Meu celular é novo.",
+   "en": "My cell phone is new."
+  }
+ },
+ {
+  "pt": "telefone",
+  "pos": "n.",
+  "english": "telephone",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "telefones"
+  ],
+  "example": {
+   "pt": "Qual é o seu telefone?",
+   "en": "What's your phone number?"
+  }
+ },
+ {
+  "pt": "cartão",
+  "pos": "n.",
+  "english": "card",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "cartões"
+  ],
+  "example": {
+   "pt": "Posso pagar com cartão?",
+   "en": "Can I pay by card?"
+  }
+ },
+ {
+  "pt": "roupa",
+  "pos": "n.",
+  "english": "clothes, clothing",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "roupas"
+  ],
+  "example": {
+   "pt": "Eu lavo a roupa no sábado.",
+   "en": "I do the laundry on Saturday."
+  }
+ },
+ {
+  "pt": "cama",
+  "pos": "n.",
+  "english": "bed",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "camas"
+  ],
+  "example": {
+   "pt": "A cama é confortável.",
+   "en": "The bed is comfortable."
+  }
+ },
+ {
+  "pt": "mesa",
+  "pos": "n.",
+  "english": "table",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "mesas"
+  ],
+  "example": {
+   "pt": "O livro está na mesa.",
+   "en": "The book is on the table."
+  }
+ },
+ {
+  "pt": "chave",
+  "pos": "n.",
+  "english": "key",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "chaves"
+  ],
+  "example": {
+   "pt": "Onde está a chave de casa?",
+   "en": "Where is the house key?"
+  }
+ },
+ {
+  "pt": "banho",
+  "pos": "n.",
+  "english": "bath, shower",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "banhos"
+  ],
+  "example": {
+   "pt": "Eu tomo banho de manhã.",
+   "en": "I take a shower in the morning."
+  }
+ },
+ {
+  "pt": "lavar",
+  "pos": "v.",
+  "english": "to wash",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Eu lavo as mãos antes de comer.",
+   "en": "I wash my hands before eating."
+  }
+ },
+ {
+  "pt": "limpar",
+  "pos": "v.",
+  "english": "to clean",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Nós limpamos a casa no sábado.",
+   "en": "We clean the house on Saturday."
+  }
+ },
+ {
+  "pt": "andar",
+  "pos": "v.",
+  "english": "to walk; to ride",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Eu ando muito na cidade.",
+   "en": "I walk a lot in the city."
+  }
+ },
+ {
+  "pt": "dirigir",
+  "pos": "v.",
+  "english": "to drive",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Eu não dirijo no centro.",
+   "en": "I don't drive downtown."
+  }
+ },
+ {
+  "pt": "conversar",
+  "pos": "v.",
+  "english": "to talk, to chat",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Nós conversamos muito no almoço.",
+   "en": "We talk a lot at lunch."
+  }
+ },
+ {
+  "pt": "ponto de ônibus",
+  "pos": "n.",
+  "english": "bus stop",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "pontos de ônibus"
+  ],
+  "example": {
+   "pt": "Eu espero no ponto de ônibus.",
+   "en": "I wait at the bus stop."
+  }
+ },
+ {
+  "pt": "motorista",
+  "pos": "n.",
+  "english": "driver",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "mf",
+  "forms": [
+   "motoristas"
+  ],
+  "example": {
+   "pt": "O motorista do ônibus é simpático.",
+   "en": "The bus driver is nice."
+  }
+ },
+ {
+  "pt": "rodoviária",
+  "pos": "n.",
+  "english": "bus station",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "rodoviárias"
+  ],
+  "example": {
+   "pt": "O ônibus sai da rodoviária às nove.",
+   "en": "The bus leaves the bus station at nine."
+  }
+ },
+ {
+  "pt": "estrada",
+  "pos": "n.",
+  "english": "road, highway",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "estradas"
+  ],
+  "example": {
+   "pt": "A estrada para a praia é bonita.",
+   "en": "The road to the beach is beautiful."
+  }
+ },
+ {
+  "pt": "trânsito",
+  "pos": "n.",
+  "english": "traffic",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "example": {
+   "pt": "Tem muito trânsito no centro.",
+   "en": "There's a lot of traffic downtown."
+  }
+ },
+ {
+  "pt": "mala",
+  "pos": "n.",
+  "english": "suitcase",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "malas"
+  ],
+  "example": {
+   "pt": "Minha mala é muito pesada.",
+   "en": "My suitcase is very heavy."
+  }
+ },
+ {
+  "pt": "bolsa",
+  "pos": "n.",
+  "english": "bag, purse",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "bolsas"
+  ],
+  "example": {
+   "pt": "O celular está na bolsa.",
+   "en": "The phone is in the bag."
+  }
+ },
+ {
+  "pt": "mochila",
+  "pos": "n.",
+  "english": "backpack",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "mochilas"
+  ],
+  "example": {
+   "pt": "Eu levo o livro na mochila.",
+   "en": "I carry the book in my backpack."
+  }
+ },
+ {
+  "pt": "camisa",
+  "pos": "n.",
+  "english": "shirt",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "camisas"
+  ],
+  "example": {
+   "pt": "Eu comprei uma camisa nova.",
+   "en": "I bought a new shirt."
+  }
+ },
+ {
+  "pt": "calça",
+  "pos": "n.",
+  "english": "pants, trousers",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "calças"
+  ],
+  "example": {
+   "pt": "Ele usa calça jeans.",
+   "en": "He wears jeans."
+  }
+ },
+ {
+  "pt": "sapato",
+  "pos": "n.",
+  "english": "shoe",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "sapatos"
+  ],
+  "example": {
+   "pt": "Meus sapatos são pretos.",
+   "en": "My shoes are black."
+  }
+ },
+ {
+  "pt": "presente",
+  "pos": "n.",
+  "english": "gift, present",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "presentes"
+  ],
+  "example": {
+   "pt": "Eu comprei um presente para ela.",
+   "en": "I bought a present for her."
+  }
+ },
+ {
+  "pt": "mensagem",
+  "pos": "n.",
+  "english": "message",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "mensagens"
+  ],
+  "example": {
+   "pt": "Eu mando uma mensagem para você.",
+   "en": "I'll send you a message."
+  }
+ },
+ {
+  "pt": "vida",
+  "pos": "n.",
+  "english": "life",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "vidas"
+  ],
+  "example": {
+   "pt": "A vida no Rio é boa.",
+   "en": "Life in Rio is good."
+  }
+ },
+ {
+  "pt": "geladeira",
+  "pos": "n.",
+  "english": "refrigerator",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "geladeiras"
+  ],
+  "example": {
+   "pt": "O leite está na geladeira.",
+   "en": "The milk is in the fridge."
+  }
+ },
+ {
+  "pt": "sofá",
+  "pos": "n.",
+  "english": "sofa, couch",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "sofás"
+  ],
+  "example": {
+   "pt": "O gato dorme no sofá.",
+   "en": "The cat sleeps on the sofa."
+  }
+ },
+ {
+  "pt": "cadeira",
+  "pos": "n.",
+  "english": "chair",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "cadeiras"
+  ],
+  "example": {
+   "pt": "A cadeira é confortável.",
+   "en": "The chair is comfortable."
+  }
+ },
+ {
+  "pt": "chuveiro",
+  "pos": "n.",
+  "english": "shower (fixture)",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "chuveiros"
+  ],
+  "example": {
+   "pt": "O chuveiro está quente.",
+   "en": "The shower is hot."
+  }
+ },
+ {
+  "pt": "toalha",
+  "pos": "n.",
+  "english": "towel",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "toalhas"
+  ],
+  "example": {
+   "pt": "Preciso de uma toalha.",
+   "en": "I need a towel."
+  }
+ },
+ {
+  "pt": "compras",
+  "pos": "n.",
+  "english": "shopping, groceries",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "example": {
+   "pt": "Eu faço compras no sábado.",
+   "en": "I do the shopping on Saturday."
+  }
+ },
+ {
+  "pt": "tomar banho",
+  "pos": "expr.",
+  "english": "to take a shower, to bathe",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "forms": [
+   "tomo banho",
+   "toma banho",
+   "tomamos banho",
+   "tomam banho",
+   "tomei banho",
+   "tomou banho"
+  ],
+  "example": {
+   "pt": "Eu tomo banho de manhã.",
+   "en": "I take a shower in the morning."
+  }
+ },
+ {
+  "pt": "escovar",
+  "pos": "v.",
+  "english": "to brush",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Eu escovo os dentes depois do café.",
+   "en": "I brush my teeth after breakfast."
+  }
+ },
+ {
+  "pt": "arrumar",
+  "pos": "v.",
+  "english": "to tidy, to arrange; to pack",
+  "level": 1,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Eu arrumo o quarto no domingo.",
+   "en": "I tidy my room on Sunday."
+  }
+ }
+]

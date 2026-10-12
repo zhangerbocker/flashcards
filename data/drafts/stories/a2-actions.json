@@ -1,0 +1,443 @@
+[
+ {
+  "id": "a2-actions-1",
+  "level": 2,
+  "topic": "Actions",
+  "title": "Júlia muda de casa",
+  "titleEn": "Júlia moves house",
+  "sentences": [
+   {
+    "pt": "No sábado, Júlia ia mudar para um apartamento novo.",
+    "en": "On Saturday, Júlia was going to move to a new apartment.",
+    "glosses": {
+     "no": "on",
+     "ia": "was going to",
+     "mudar": "move"
+    }
+   },
+   {
+    "pt": "Ela acordou às seis horas e tomou um café rápido.",
+    "en": "She woke up at six o'clock and had a quick coffee.",
+    "glosses": {
+     "acordou": "woke up",
+     "às": "at",
+     "tomou": "had"
+    }
+   },
+   {
+    "pt": "Os amigos Bruno e Rafael chegaram às sete para ajudar.",
+    "en": "Her friends Bruno and Rafael arrived at seven to help.",
+    "glosses": {
+     "chegaram": "arrived",
+     "às": "at"
+    }
+   },
+   {
+    "pt": "Primeiro, eles colocaram as roupas e os livros nas malas.",
+    "en": "First, they put the clothes and the books in the suitcases.",
+    "glosses": {
+     "colocaram": "put",
+     "nas": "in the"
+    }
+   },
+   {
+    "pt": "Depois, Bruno e Rafael carregaram o sofá pela escada.",
+    "en": "Then, Bruno and Rafael carried the sofa down the stairs.",
+    "glosses": {
+     "depois": "then",
+     "carregaram": "carried",
+     "pela": "down the"
+    }
+   },
+   {
+    "pt": "O sofá era muito pesado, e Rafael quase caiu.",
+    "en": "The sofa was very heavy, and Rafael almost fell.",
+    "glosses": {
+     "era": "was",
+     "caiu": "fell"
+    }
+   },
+   {
+    "pt": "\"Cuidado!\", disse Júlia.",
+    "en": "\"Careful!\" said Júlia.",
+    "glosses": {
+     "cuidado": "careful",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Bruno puxava e Rafael empurrava.",
+    "en": "Bruno pulled and Rafael pushed.",
+    "glosses": {
+     "puxava": "pulled",
+     "empurrava": "pushed"
+    }
+   },
+   {
+    "pt": "No caminhão, eles guardaram as cadeiras, a mesa e a cama.",
+    "en": "In the truck, they put away the chairs, the table and the bed.",
+    "glosses": {
+     "no": "in the",
+     "guardaram": "put away"
+    }
+   },
+   {
+    "pt": "Na estrada, o caminhão parou num semáforo, e um copo caiu e quebrou.",
+    "en": "On the road, the truck stopped at a traffic light, and a glass fell and broke.",
+    "glosses": {
+     "na": "on the",
+     "parou": "stopped",
+     "num": "at a",
+     "caiu": "fell",
+     "quebrou": "broke"
+    }
+   },
+   {
+    "pt": "\"Não tem problema, é só um copo\", disse Júlia, rindo.",
+    "en": "\"No problem, it's just a glass,\" said Júlia, laughing.",
+    "glosses": {
+     "tem": "there is",
+     "disse": "said",
+     "rindo": "laughing"
+    }
+   },
+   {
+    "pt": "No prédio novo, eles subiram com tudo pelo elevador.",
+    "en": "At the new building, they went up with everything in the elevator.",
+    "glosses": {
+     "no": "at the",
+     "subiram": "went up",
+     "pelo": "in the"
+    }
+   },
+   {
+    "pt": "Júlia abriu a porta e entrou primeiro.",
+    "en": "Júlia opened the door and went in first.",
+    "glosses": {
+     "abriu": "opened",
+     "entrou": "went in"
+    }
+   },
+   {
+    "pt": "O apartamento era pequeno, mas tinha uma janela grande.",
+    "en": "The apartment was small, but it had a big window.",
+    "glosses": {
+     "era": "was",
+     "tinha": "had"
+    }
+   },
+   {
+    "pt": "Os três tiraram tudo das malas e arrumaram os quartos.",
+    "en": "The three of them took everything out of the suitcases and tidied the rooms.",
+    "glosses": {
+     "tiraram": "took out",
+     "das": "of the",
+     "arrumaram": "tidied"
+    }
+   },
+   {
+    "pt": "A porta do banheiro estava quebrada, mas Bruno conseguiu consertar.",
+    "en": "The bathroom door was broken, but Bruno managed to fix it.",
+    "glosses": {
+     "do": "of the",
+     "estava": "was",
+     "quebrada": "broken",
+     "conseguiu": "managed"
+    }
+   },
+   {
+    "pt": "À noite, eles estavam muito cansados e com fome.",
+    "en": "In the evening, they were very tired and hungry.",
+    "glosses": {
+     "estavam": "were",
+     "com fome": "hungry"
+    }
+   },
+   {
+    "pt": "Júlia pediu uma pizza, e eles comeram sentados no sofá.",
+    "en": "Júlia ordered a pizza, and they ate sitting on the sofa.",
+    "glosses": {
+     "pediu": "ordered",
+     "comeram": "ate",
+     "sentados": "sitting",
+     "no": "on the"
+    }
+   },
+   {
+    "pt": "\"Muito obrigada! Vocês são os melhores amigos do mundo\", ela disse.",
+    "en": "\"Thank you so much! You're the best friends in the world,\" she said.",
+    "glosses": {
+     "obrigada": "thank you (f)",
+     "são": "are",
+     "melhores": "best",
+     "do": "in the",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Antes de dormir, ela olhou pela janela e se sentiu feliz na casa nova.",
+    "en": "Before sleeping, she looked out the window and felt happy in her new home.",
+    "glosses": {
+     "olhou": "looked",
+     "pela": "out the",
+     "sentiu": "felt",
+     "na": "in the"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Quem ajudou Júlia?",
+    "qEn": "Who helped Júlia?",
+    "options": [
+     "Bruno e Rafael",
+     "Diego e Paulo",
+     "A mãe e o pai",
+     "Os vizinhos"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "O que caiu e quebrou?",
+    "qEn": "What fell and broke?",
+    "options": [
+     "Uma cadeira",
+     "Um copo",
+     "A mesa",
+     "O celular"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "O que eles comeram à noite?",
+    "qEn": "What did they eat in the evening?",
+    "options": [
+     "Arroz e feijão",
+     "Pizza",
+     "Sopa",
+     "Bolo"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "a2-actions-2",
+  "level": 2,
+  "topic": "Actions",
+  "title": "O celular perdido",
+  "titleEn": "The lost phone",
+  "sentences": [
+   {
+    "pt": "Na terça-feira, Thiago saiu do trabalho às seis e pegou o ônibus.",
+    "en": "On Tuesday, Thiago left work at six and took the bus.",
+    "glosses": {
+     "na": "on",
+     "saiu": "left",
+     "do": "from",
+     "às": "at",
+     "pegou": "took"
+    }
+   },
+   {
+    "pt": "Ele estava muito cansado e quase dormiu no ônibus.",
+    "en": "He was very tired and almost fell asleep on the bus.",
+    "glosses": {
+     "estava": "was",
+     "dormiu": "fell asleep",
+     "no": "on the"
+    }
+   },
+   {
+    "pt": "Quando ele desceu no ponto, procurou o celular na mochila.",
+    "en": "When he got off at the stop, he looked for his phone in his backpack.",
+    "glosses": {
+     "desceu": "got off",
+     "no": "at the",
+     "ponto": "stop",
+     "procurou": "looked for",
+     "na": "in the"
+    }
+   },
+   {
+    "pt": "O celular não estava lá!",
+    "en": "The phone wasn't there!",
+    "glosses": {
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "Ele procurou na calça e na mochila de novo, mas não encontrou nada.",
+    "en": "He looked in his pants and in his backpack again, but didn't find anything.",
+    "glosses": {
+     "procurou": "looked",
+     "na": "in the",
+     "novo": "again",
+     "encontrou": "found",
+     "nada": "anything"
+    }
+   },
+   {
+    "pt": "Thiago ficou nervoso.",
+    "en": "Thiago got nervous.",
+    "glosses": {
+     "ficou": "got"
+    }
+   },
+   {
+    "pt": "\"Eu esqueci o celular no ônibus!\", ele pensou.",
+    "en": "\"I forgot my phone on the bus!\" he thought.",
+    "glosses": {
+     "esqueci": "forgot",
+     "no": "on the",
+     "pensou": "thought"
+    }
+   },
+   {
+    "pt": "Ele correu até uma padaria e pediu para usar o telefone.",
+    "en": "He ran to a bakery and asked to use the phone.",
+    "glosses": {
+     "correu": "ran",
+     "até": "to",
+     "pediu": "asked"
+    }
+   },
+   {
+    "pt": "Ele ligou para o próprio número, mas ninguém respondeu.",
+    "en": "He called his own number, but nobody answered.",
+    "glosses": {
+     "ligou": "called",
+     "próprio": "own",
+     "respondeu": "answered"
+    }
+   },
+   {
+    "pt": "\"Esse ônibus volta daqui a quarenta minutos\", explicou o homem da padaria.",
+    "en": "\"That bus comes back in forty minutes,\" explained the man from the bakery.",
+    "glosses": {
+     "volta": "comes back",
+     "daqui a": "in",
+     "explicou": "explained",
+     "da": "from the"
+    }
+   },
+   {
+    "pt": "Thiago esperou no ponto e contou os minutos.",
+    "en": "Thiago waited at the stop and counted the minutes.",
+    "glosses": {
+     "esperou": "waited",
+     "no": "at the",
+     "ponto": "stop",
+     "contou": "counted"
+    }
+   },
+   {
+    "pt": "Quando o ônibus chegou, ele subiu e falou com o motorista.",
+    "en": "When the bus arrived, he got on and talked to the driver.",
+    "glosses": {
+     "chegou": "arrived",
+     "subiu": "got on",
+     "falou": "talked"
+    }
+   },
+   {
+    "pt": "\"Desculpa, eu deixei meu celular aqui\", ele disse.",
+    "en": "\"Sorry, I left my phone here,\" he said.",
+    "glosses": {
+     "deixei": "left",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "O motorista riu e mostrou um celular preto.",
+    "en": "The driver laughed and showed him a black phone.",
+    "glosses": {
+     "riu": "laughed",
+     "mostrou": "showed"
+    }
+   },
+   {
+    "pt": "\"Uma senhora encontrou isto embaixo de um banco\", ele disse.",
+    "en": "\"A lady found this under a seat,\" he said.",
+    "glosses": {
+     "senhora": "lady",
+     "encontrou": "found",
+     "banco": "seat",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Thiago pegou o celular e disse: \"Muito obrigado!\"",
+    "en": "Thiago took the phone and said: \"Thank you very much!\"",
+    "glosses": {
+     "pegou": "took",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Ele desceu do ônibus aliviado e voltou para casa andando.",
+    "en": "He got off the bus relieved and walked back home.",
+    "glosses": {
+     "desceu": "got off",
+     "do": "the",
+     "voltou": "went back",
+     "andando": "walking"
+    }
+   },
+   {
+    "pt": "Em casa, ele contou a história para a esposa.",
+    "en": "At home, he told the story to his wife.",
+    "glosses": {
+     "contou": "told"
+    }
+   },
+   {
+    "pt": "\"Da próxima vez, guarde o celular na mochila!\", ela disse, rindo.",
+    "en": "\"Next time, keep your phone in your backpack!\" she said, laughing.",
+    "glosses": {
+     "próxima": "next",
+     "vez": "time",
+     "guarde": "keep",
+     "na": "in the",
+     "disse": "said",
+     "rindo": "laughing"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Onde Thiago esqueceu o celular?",
+    "qEn": "Where did Thiago forget his phone?",
+    "options": [
+     "No trabalho",
+     "Na padaria",
+     "No ônibus",
+     "Em casa"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Quem encontrou o celular?",
+    "qEn": "Who found the phone?",
+    "options": [
+     "O motorista",
+     "Uma senhora",
+     "A esposa",
+     "O homem da padaria"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Como Thiago ficou no fim?",
+    "qEn": "How did Thiago feel in the end?",
+    "options": [
+     "Aliviado",
+     "Bravo",
+     "Triste",
+     "Com medo"
+    ],
+    "answer": 0
+   }
+  ]
+ }
+]

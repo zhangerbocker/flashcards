@@ -1,0 +1,399 @@
+[
+ {
+  "id": "a2-descriptions-1",
+  "level": 2,
+  "topic": "Descriptions",
+  "title": "Os gêmeos",
+  "titleEn": "The twins",
+  "sentences": [
+   {
+    "pt": "Dona Lúcia tem dois netos gêmeos, Lucas e Gabriel.",
+    "en": "Mrs. Lúcia has two twin grandsons, Lucas and Gabriel.",
+    "glosses": {
+     "tem": "has",
+     "netos": "grandsons"
+    }
+   },
+   {
+    "pt": "Eles têm dezesseis anos e moram em Salvador.",
+    "en": "They are sixteen years old and live in Salvador.",
+    "glosses": {
+     "têm": "are (have)",
+     "moram": "live"
+    }
+   },
+   {
+    "pt": "Os dois são altos e magros, com cabelo escuro e liso.",
+    "en": "Both are tall and thin, with dark, straight hair.",
+    "glosses": {
+     "dois": "both",
+     "são": "are",
+     "liso": "straight"
+    }
+   },
+   {
+    "pt": "Os olhos deles são grandes e marrons.",
+    "en": "Their eyes are big and brown.",
+    "glosses": {
+     "deles": "their",
+     "são": "are"
+    }
+   },
+   {
+    "pt": "Muitas pessoas acham os meninos iguais.",
+    "en": "Many people think the boys are the same.",
+    "glosses": {
+     "acham": "think"
+    }
+   },
+   {
+    "pt": "Mas Dona Lúcia diz: \"Eles são parecidos, mas muito diferentes!\"",
+    "en": "But Mrs. Lúcia says: \"They're alike, but very different!\"",
+    "glosses": {
+     "diz": "says",
+     "são": "are"
+    }
+   },
+   {
+    "pt": "Lucas é calmo e silencioso.",
+    "en": "Lucas is calm and quiet.",
+    "glosses": {
+     "silencioso": "quiet"
+    }
+   },
+   {
+    "pt": "Ele gosta de ler romances e desenhar no quarto.",
+    "en": "He likes to read novels and draw in his room.",
+    "glosses": {
+     "gosta": "likes",
+     "romances": "novels",
+     "no": "in the"
+    }
+   },
+   {
+    "pt": "O quarto dele está sempre limpo e arrumado.",
+    "en": "His room is always clean and tidy.",
+    "glosses": {
+     "dele": "his",
+     "está": "is",
+     "arrumado": "tidy"
+    }
+   },
+   {
+    "pt": "Gabriel é barulhento e muito engraçado.",
+    "en": "Gabriel is noisy and very funny.",
+    "glosses": {}
+   },
+   {
+    "pt": "Ele adora futebol e tem muitos amigos na escola.",
+    "en": "He loves soccer and has many friends at school.",
+    "glosses": {
+     "adora": "loves",
+     "tem": "has",
+     "na": "at"
+    }
+   },
+   {
+    "pt": "O quarto de Gabriel está sempre sujo e cheio de roupas e sapatos.",
+    "en": "Gabriel's room is always dirty and full of clothes and shoes.",
+    "glosses": {
+     "está": "is"
+    }
+   },
+   {
+    "pt": "Na escola, Lucas tira notas altas em matemática, e Gabriel prefere as aulas de esporte.",
+    "en": "At school, Lucas gets high grades in math, and Gabriel prefers sports classes.",
+    "glosses": {
+     "na": "at",
+     "tira": "gets",
+     "notas": "grades",
+     "prefere": "prefers"
+    }
+   },
+   {
+    "pt": "Lucas usa camisas brancas e simples.",
+    "en": "Lucas wears simple white shirts.",
+    "glosses": {
+     "usa": "wears"
+    }
+   },
+   {
+    "pt": "Gabriel prefere camisas coloridas, amarelas ou vermelhas.",
+    "en": "Gabriel prefers colorful shirts, yellow or red.",
+    "glosses": {
+     "prefere": "prefers"
+    }
+   },
+   {
+    "pt": "No domingo, os gêmeos visitaram a avó.",
+    "en": "On Sunday, the twins visited their grandmother.",
+    "glosses": {
+     "no": "on",
+     "visitaram": "visited"
+    }
+   },
+   {
+    "pt": "Ela fez um bolo enorme de chocolate.",
+    "en": "She made a huge chocolate cake.",
+    "glosses": {
+     "fez": "made"
+    }
+   },
+   {
+    "pt": "Gabriel comeu três fatias, e Lucas comeu só uma.",
+    "en": "Gabriel ate three slices, and Lucas ate only one.",
+    "glosses": {
+     "comeu": "ate"
+    }
+   },
+   {
+    "pt": "\"Vocês são tão diferentes!\", disse a avó, rindo.",
+    "en": "\"You're so different!\" said their grandmother, laughing.",
+    "glosses": {
+     "são": "are",
+     "disse": "said",
+     "rindo": "laughing"
+    }
+   },
+   {
+    "pt": "\"Mas os dois são lindos e inteligentes\", ela falou, orgulhosa.",
+    "en": "\"But both of you are handsome and smart,\" she said, proud.",
+    "glosses": {
+     "dois": "both",
+     "são": "are",
+     "lindos": "handsome",
+     "falou": "said"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Como é o cabelo dos gêmeos?",
+    "qEn": "What is the twins' hair like?",
+    "options": [
+     "Escuro e liso",
+     "Claro e comprido",
+     "Branco",
+     "Vermelho"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Quem é barulhento?",
+    "qEn": "Who is noisy?",
+    "options": [
+     "Lucas",
+     "Gabriel",
+     "Dona Lúcia",
+     "Um amigo"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quantas fatias de bolo Gabriel comeu?",
+    "qEn": "How many slices of cake did Gabriel eat?",
+    "options": [
+     "Uma",
+     "Duas",
+     "Três",
+     "Quatro"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "a2-descriptions-2",
+  "level": 2,
+  "topic": "Descriptions",
+  "title": "Dois apartamentos",
+  "titleEn": "Two apartments",
+  "sentences": [
+   {
+    "pt": "Mariana conseguiu um emprego novo no Rio e precisa alugar um apartamento.",
+    "en": "Mariana got a new job in Rio and needs to rent an apartment.",
+    "glosses": {
+     "conseguiu": "got",
+     "no": "in",
+     "precisa": "needs"
+    }
+   },
+   {
+    "pt": "No sábado, ela visitou dois apartamentos com a amiga Luíza.",
+    "en": "On Saturday, she visited two apartments with her friend Luíza.",
+    "glosses": {
+     "no": "on",
+     "visitou": "visited",
+     "amiga": "friend (f)"
+    }
+   },
+   {
+    "pt": "O primeiro apartamento ficava em Copacabana, perto da praia.",
+    "en": "The first apartment was in Copacabana, near the beach.",
+    "glosses": {
+     "ficava": "was located",
+     "da": "the"
+    }
+   },
+   {
+    "pt": "Era antigo, mas muito bonito.",
+    "en": "It was old, but very pretty.",
+    "glosses": {
+     "era": "it was"
+    }
+   },
+   {
+    "pt": "A sala era larga e clara, com duas janelas enormes.",
+    "en": "The living room was wide and bright, with two huge windows.",
+    "glosses": {
+     "era": "was",
+     "clara": "bright"
+    }
+   },
+   {
+    "pt": "O quarto era confortável, mas o banheiro era pequeno e estreito.",
+    "en": "The bedroom was comfortable, but the bathroom was small and narrow.",
+    "glosses": {
+     "era": "was"
+    }
+   },
+   {
+    "pt": "A rua também era muito barulhenta, com carros e ônibus o dia todo.",
+    "en": "The street was also very noisy, with cars and buses all day.",
+    "glosses": {
+     "era": "was",
+     "todo": "all"
+    }
+   },
+   {
+    "pt": "E o preço era alto: três mil reais por mês.",
+    "en": "And the price was high: three thousand reais a month.",
+    "glosses": {
+     "era": "was",
+     "reais": "reais",
+     "por": "a"
+    }
+   },
+   {
+    "pt": "O segundo apartamento ficava num bairro longe do centro.",
+    "en": "The second apartment was in a neighborhood far from downtown.",
+    "glosses": {
+     "ficava": "was located",
+     "num": "in a",
+     "centro": "downtown"
+    }
+   },
+   {
+    "pt": "O prédio era moderno e tinha um jardim com árvores.",
+    "en": "The building was modern and had a garden with trees.",
+    "glosses": {
+     "era": "was",
+     "tinha": "had"
+    }
+   },
+   {
+    "pt": "O apartamento era pequeno, mas limpo e silencioso.",
+    "en": "The apartment was small, but clean and quiet.",
+    "glosses": {
+     "era": "was"
+    }
+   },
+   {
+    "pt": "A cozinha era nova e tinha uma geladeira grande.",
+    "en": "The kitchen was new and had a big refrigerator.",
+    "glosses": {
+     "era": "was",
+     "tinha": "had"
+    }
+   },
+   {
+    "pt": "O preço era mais barato: dois mil reais.",
+    "en": "The price was cheaper: two thousand reais.",
+    "glosses": {
+     "era": "was",
+     "mais": "more"
+    }
+   },
+   {
+    "pt": "\"Qual você prefere?\", perguntou Luíza.",
+    "en": "\"Which one do you prefer?\" asked Luíza.",
+    "glosses": {
+     "prefere": "prefer",
+     "perguntou": "asked"
+    }
+   },
+   {
+    "pt": "Mariana pensou um pouco.",
+    "en": "Mariana thought for a bit.",
+    "glosses": {
+     "pensou": "thought",
+     "pouco": "a little"
+    }
+   },
+   {
+    "pt": "\"O primeiro é lindo, mas é caro e barulhento\", ela disse.",
+    "en": "\"The first one is beautiful, but it's expensive and noisy,\" she said.",
+    "glosses": {
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "\"O segundo é simples, mas é quieto e confortável.\"",
+    "en": "\"The second one is simple, but it's quiet and comfortable.\"",
+    "glosses": {}
+   },
+   {
+    "pt": "No fim, ela escolheu o segundo apartamento.",
+    "en": "In the end, she chose the second apartment.",
+    "glosses": {
+     "no": "in the",
+     "fim": "end",
+     "escolheu": "chose"
+    }
+   },
+   {
+    "pt": "Na segunda-feira, ela assinou o contrato, muito feliz.",
+    "en": "On Monday, she signed the contract, very happy.",
+    "glosses": {
+     "na": "on",
+     "assinou": "signed"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Onde ficava o primeiro apartamento?",
+    "qEn": "Where was the first apartment?",
+    "options": [
+     "Em Copacabana",
+     "Em Ipanema",
+     "No centro",
+     "Em Paraty"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Como era a rua do primeiro apartamento?",
+    "qEn": "What was the street of the first apartment like?",
+    "options": [
+     "Quieta",
+     "Barulhenta",
+     "Escura",
+     "Vazia"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quanto custava o segundo apartamento?",
+    "qEn": "How much did the second apartment cost?",
+    "options": [
+     "Mil reais",
+     "Dois mil reais",
+     "Três mil reais",
+     "Quinhentos reais"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

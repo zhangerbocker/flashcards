@@ -1,0 +1,721 @@
+[
+ {
+  "pt": "arredores",
+  "pos": "n.",
+  "english": "surroundings, outskirts",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "m",
+  "example": {
+   "pt": "Há muitas cachoeiras nos arredores da cidade.",
+   "en": "There are many waterfalls around the city."
+  }
+ },
+ {
+  "pt": "calçada",
+  "pos": "n.",
+  "english": "sidewalk",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "calçadas"
+  ],
+  "example": {
+   "pt": "Não estacione na calçada!",
+   "en": "Don't park on the sidewalk!"
+  }
+ },
+ {
+  "pt": "cruzamento",
+  "pos": "n.",
+  "english": "intersection, crossroads",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "cruzamentos"
+  ],
+  "example": {
+   "pt": "Vire à direita no próximo cruzamento.",
+   "en": "Turn right at the next intersection."
+  }
+ },
+ {
+  "pt": "subúrbio",
+  "pos": "n.",
+  "english": "suburb (often working-class area)",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "subúrbios"
+  ],
+  "example": {
+   "pt": "Ele cresceu num subúrbio do Rio.",
+   "en": "He grew up in a suburb of Rio."
+  }
+ },
+ {
+  "pt": "periferia",
+  "pos": "n.",
+  "english": "outskirts, periphery",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "periferias"
+  ],
+  "example": {
+   "pt": "Muitos trabalhadores moram na periferia.",
+   "en": "Many workers live on the outskirts."
+  }
+ },
+ {
+  "pt": "quarteirão",
+  "pos": "n.",
+  "english": "(city) block",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "quarteirões"
+  ],
+  "example": {
+   "pt": "A padaria fica a dois quarteirões daqui.",
+   "en": "The bakery is two blocks from here."
+  }
+ },
+ {
+  "pt": "faixa de pedestres",
+  "pos": "n.",
+  "english": "crosswalk",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "faixas de pedestres"
+  ],
+  "example": {
+   "pt": "Atravesse sempre na faixa de pedestres.",
+   "en": "Always cross at the crosswalk."
+  }
+ },
+ {
+  "pt": "semáforo",
+  "pos": "n.",
+  "english": "traffic light",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "semáforos"
+  ],
+  "example": {
+   "pt": "O semáforo está vermelho.",
+   "en": "The traffic light is red."
+  }
+ },
+ {
+  "pt": "sinal",
+  "pos": "n.",
+  "english": "traffic light (colloquial); sign, signal",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "sinais"
+  ],
+  "example": {
+   "pt": "Vire à esquerda depois do sinal.",
+   "en": "Turn left after the traffic light."
+  }
+ },
+ {
+  "pt": "viaduto",
+  "pos": "n.",
+  "english": "overpass, viaduct",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "viadutos"
+  ],
+  "example": {
+   "pt": "O ônibus passa por baixo do viaduto.",
+   "en": "The bus goes under the overpass."
+  }
+ },
+ {
+  "pt": "túnel",
+  "pos": "n.",
+  "english": "tunnel",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "túneis"
+  ],
+  "example": {
+   "pt": "O túnel estava fechado para obras.",
+   "en": "The tunnel was closed for construction."
+  }
+ },
+ {
+  "pt": "beira",
+  "pos": "n.",
+  "english": "edge, side, bank",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "beiras"
+  ],
+  "example": {
+   "pt": "Almoçamos num restaurante à beira do rio.",
+   "en": "We had lunch at a restaurant on the riverbank."
+  }
+ },
+ {
+  "pt": "margem",
+  "pos": "n.",
+  "english": "bank (of a river); margin",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "margens"
+  ],
+  "example": {
+   "pt": "A cidade fica na margem do rio.",
+   "en": "The city is on the bank of the river."
+  }
+ },
+ {
+  "pt": "litoral",
+  "pos": "n.",
+  "english": "coast, coastline",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "litorais"
+  ],
+  "example": {
+   "pt": "No verão, vamos para o litoral.",
+   "en": "In summer, we go to the coast."
+  }
+ },
+ {
+  "pt": "interior",
+  "pos": "n.",
+  "english": "countryside, inland; interior",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "interiores"
+  ],
+  "example": {
+   "pt": "Meus avós moram no interior de São Paulo.",
+   "en": "My grandparents live in the countryside of São Paulo state."
+  }
+ },
+ {
+  "pt": "região",
+  "pos": "n.",
+  "english": "region, area",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "regiões"
+  ],
+  "example": {
+   "pt": "Essa região é famosa pelo café.",
+   "en": "This region is famous for its coffee."
+  }
+ },
+ {
+  "pt": "município",
+  "pos": "n.",
+  "english": "municipality, town",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "municípios"
+  ],
+  "example": {
+   "pt": "O município tem cerca de vinte mil habitantes.",
+   "en": "The municipality has about twenty thousand inhabitants."
+  }
+ },
+ {
+  "pt": "prefeitura",
+  "pos": "n.",
+  "english": "city hall",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "prefeituras"
+  ],
+  "example": {
+   "pt": "Preciso ir à prefeitura pagar uma taxa.",
+   "en": "I need to go to city hall to pay a fee."
+  }
+ },
+ {
+  "pt": "zona",
+  "pos": "n.",
+  "english": "zone, area, district",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "zonas"
+  ],
+  "example": {
+   "pt": "Eles moram na zona sul.",
+   "en": "They live in the south zone."
+  }
+ },
+ {
+  "pt": "localização",
+  "pos": "n.",
+  "english": "location",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "localizações"
+  ],
+  "example": {
+   "pt": "Me manda a sua localização pelo celular.",
+   "en": "Send me your location on your phone."
+  }
+ },
+ {
+  "pt": "localizar",
+  "pos": "v.",
+  "english": "to locate, find",
+  "level": 3,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "Não consegui localizar o endereço no mapa.",
+   "en": "I couldn't find the address on the map."
+  }
+ },
+ {
+  "pt": "situado",
+  "pos": "adj.",
+  "english": "located, situated",
+  "level": 3,
+  "topic": "Places & directions",
+  "forms": [
+   "situada",
+   "situados",
+   "situadas"
+  ],
+  "example": {
+   "pt": "O hotel está situado no centro histórico.",
+   "en": "The hotel is located in the historic center."
+  }
+ },
+ {
+  "pt": "sentido",
+  "pos": "n.",
+  "english": "direction (of traffic); sense, meaning",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "sentidos"
+  ],
+  "example": {
+   "pt": "Pegue o ônibus no sentido centro.",
+   "en": "Take the bus heading downtown."
+  }
+ },
+ {
+  "pt": "rumo",
+  "pos": "n.",
+  "english": "direction, course",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "rumos"
+  ],
+  "example": {
+   "pt": "O navio seguiu rumo ao norte.",
+   "en": "The ship headed north."
+  }
+ },
+ {
+  "pt": "em direção a",
+  "pos": "prep.",
+  "english": "toward, in the direction of",
+  "level": 3,
+  "topic": "Places & directions",
+  "forms": [
+   "em direção ao",
+   "em direção à",
+   "em direção aos",
+   "em direção às"
+  ],
+  "example": {
+   "pt": "Caminhamos em direção à praia.",
+   "en": "We walked toward the beach."
+  }
+ },
+ {
+  "pt": "ao redor de",
+  "pos": "prep.",
+  "english": "around",
+  "level": 3,
+  "topic": "Places & directions",
+  "forms": [
+   "ao redor do",
+   "ao redor da",
+   "ao redor dos",
+   "ao redor das"
+  ],
+  "example": {
+   "pt": "Há muitas lojas ao redor da praça.",
+   "en": "There are many shops around the square."
+  }
+ },
+ {
+  "pt": "ao longo de",
+  "pos": "prep.",
+  "english": "along; throughout",
+  "level": 3,
+  "topic": "Places & directions",
+  "forms": [
+   "ao longo do",
+   "ao longo da",
+   "ao longo dos",
+   "ao longo das"
+  ],
+  "example": {
+   "pt": "Há árvores ao longo da avenida.",
+   "en": "There are trees along the avenue."
+  }
+ },
+ {
+  "pt": "distante",
+  "pos": "adj.",
+  "english": "distant, far away",
+  "level": 3,
+  "topic": "Places & directions",
+  "forms": [
+   "distantes"
+  ],
+  "example": {
+   "pt": "A rodoviária é um pouco distante daqui.",
+   "en": "The bus station is a bit far from here."
+  }
+ },
+ {
+  "pt": "afastado",
+  "pos": "adj.",
+  "english": "remote, out of the way",
+  "level": 3,
+  "topic": "Places & directions",
+  "forms": [
+   "afastada",
+   "afastados",
+   "afastadas"
+  ],
+  "example": {
+   "pt": "Eles moram num bairro afastado.",
+   "en": "They live in a remote neighborhood."
+  }
+ },
+ {
+  "pt": "atravessar",
+  "pos": "v.",
+  "english": "to cross",
+  "level": 3,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "Cuidado ao atravessar a rua.",
+   "en": "Be careful when crossing the street."
+  }
+ },
+ {
+  "pt": "cruzar",
+  "pos": "v.",
+  "english": "to cross",
+  "level": 3,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "Cruzamos a ponte a pé.",
+   "en": "We crossed the bridge on foot."
+  }
+ },
+ {
+  "pt": "retornar",
+  "pos": "v.",
+  "english": "to return, go back",
+  "level": 3,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "Retorne na próxima rua.",
+   "en": "Turn back at the next street."
+  }
+ },
+ {
+  "pt": "retorno",
+  "pos": "n.",
+  "english": "U-turn; return",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "retornos"
+  ],
+  "example": {
+   "pt": "Faça o retorno depois do posto.",
+   "en": "Make a U-turn after the gas station."
+  }
+ },
+ {
+  "pt": "desviar",
+  "pos": "v.",
+  "english": "to detour, to avoid; to swerve",
+  "level": 3,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "Tivemos que desviar por causa das obras.",
+   "en": "We had to take a detour because of the roadwork."
+  }
+ },
+ {
+  "pt": "desvio",
+  "pos": "n.",
+  "english": "detour",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "desvios"
+  ],
+  "example": {
+   "pt": "Há um desvio por causa do acidente.",
+   "en": "There's a detour because of the accident."
+  }
+ },
+ {
+  "pt": "placa",
+  "pos": "n.",
+  "english": "sign; license plate",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "placas"
+  ],
+  "example": {
+   "pt": "Siga as placas para o aeroporto.",
+   "en": "Follow the signs to the airport."
+  }
+ },
+ {
+  "pt": "trajeto",
+  "pos": "n.",
+  "english": "route, way",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "trajetos"
+  ],
+  "example": {
+   "pt": "Qual é o trajeto mais rápido até o centro?",
+   "en": "What's the fastest route downtown?"
+  }
+ },
+ {
+  "pt": "percurso",
+  "pos": "n.",
+  "english": "route, course, distance traveled",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "percursos"
+  ],
+  "example": {
+   "pt": "O percurso de bicicleta tem dez quilômetros.",
+   "en": "The bike route is ten kilometers long."
+  }
+ },
+ {
+  "pt": "ponto de referência",
+  "pos": "n.",
+  "english": "landmark, reference point",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "pontos de referência"
+  ],
+  "example": {
+   "pt": "Me dá um ponto de referência perto da sua casa?",
+   "en": "Can you give me a landmark near your house?"
+  }
+ },
+ {
+  "pt": "subida",
+  "pos": "n.",
+  "english": "climb, uphill slope",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "subidas"
+  ],
+  "example": {
+   "pt": "A subida até o mirante é bem cansativa.",
+   "en": "The climb to the lookout is quite tiring."
+  }
+ },
+ {
+  "pt": "descida",
+  "pos": "n.",
+  "english": "descent, downhill slope",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "descidas"
+  ],
+  "example": {
+   "pt": "Na descida, vá devagar.",
+   "en": "Go slowly on the way down."
+  }
+ },
+ {
+  "pt": "ladeira",
+  "pos": "n.",
+  "english": "steep street, slope",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "ladeiras"
+  ],
+  "example": {
+   "pt": "Salvador tem muitas ladeiras.",
+   "en": "Salvador has many steep streets."
+  }
+ },
+ {
+  "pt": "morro",
+  "pos": "n.",
+  "english": "hill",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "morros"
+  ],
+  "example": {
+   "pt": "Subimos o morro para ver o pôr do sol.",
+   "en": "We climbed the hill to watch the sunset."
+  }
+ },
+ {
+  "pt": "beco",
+  "pos": "n.",
+  "english": "alley",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "becos"
+  ],
+  "example": {
+   "pt": "O bar fica num beco perto da praça.",
+   "en": "The bar is in an alley near the square."
+  }
+ },
+ {
+  "pt": "rodovia",
+  "pos": "n.",
+  "english": "highway",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "rodovias"
+  ],
+  "example": {
+   "pt": "A rodovia estava cheia no feriado.",
+   "en": "The highway was packed on the holiday."
+  }
+ },
+ {
+  "pt": "pedágio",
+  "pos": "n.",
+  "english": "toll; toll booth",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "pedágios"
+  ],
+  "example": {
+   "pt": "Pagamos três pedágios até a praia.",
+   "en": "We paid three tolls on the way to the beach."
+  }
+ },
+ {
+  "pt": "acostamento",
+  "pos": "n.",
+  "english": "(road) shoulder",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "acostamentos"
+  ],
+  "example": {
+   "pt": "O carro parou no acostamento.",
+   "en": "The car stopped on the shoulder."
+  }
+ },
+ {
+  "pt": "edifício",
+  "pos": "n.",
+  "english": "building",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "edifícios"
+  ],
+  "example": {
+   "pt": "O escritório fica num edifício de vinte andares.",
+   "en": "The office is in a twenty-story building."
+  }
+ },
+ {
+  "pt": "térreo",
+  "pos": "n.",
+  "english": "ground floor",
+  "level": 3,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "térreos"
+  ],
+  "example": {
+   "pt": "A recepção fica no térreo.",
+   "en": "The reception is on the ground floor."
+  }
+ }
+]

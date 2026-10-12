@@ -1,6 +1,6 @@
 import type { ReactNode } from "react";
 import type { CardContent } from "@/lib/card-content";
-import { PERSONS, TENSE_NAMES } from "@/lib/verbs";
+import { PERSONS, TENSE_CUE, TENSE_NAMES, type Verb } from "@/lib/verbs";
 import { withArticle } from "@/lib/words";
 import { Correction } from "../Correction";
 import { Highlighted } from "./Highlighted";
@@ -16,6 +16,30 @@ function Panel({ children }: { children: ReactNode }) {
 
 function Prompt({ children }: { children: ReactNode }) {
   return <p className="mb-3 text-xs font-medium uppercase tracking-wide text-stone-400">{children}</p>;
+}
+
+/** Present and preterite side by side, for a verb's word card. */
+function VerbTable({ verb }: { verb: Verb }) {
+  return (
+    <table className="font-pt mt-3 w-full text-left text-base">
+      <thead>
+        <tr className="font-sans text-xs uppercase tracking-wide text-stone-400">
+          <th className="pb-1 font-medium" />
+          <th className="pb-1 font-medium">Present</th>
+          <th className="pb-1 font-medium">Past</th>
+        </tr>
+      </thead>
+      <tbody>
+        {PERSONS.map((person, i) => (
+          <tr key={person}>
+            <td className="py-0.5 pr-3 font-sans text-sm text-stone-500">{person}</td>
+            <td className="py-0.5 pr-3">{verb.tenses.presente[i]}</td>
+            <td className="py-0.5">{verb.tenses.preterito[i]}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  );
 }
 
 function Front({ card }: { card: CardContent }) {
@@ -64,6 +88,7 @@ function Front({ card }: { card: CardContent }) {
           <p className="font-pt text-4xl">{card.verb.infinitive}</p>
           <Muted>{card.word.english}</Muted>
           <p className="font-pt mt-6 text-3xl">
+            {TENSE_CUE[card.tense] && <span className="text-stone-400">{TENSE_CUE[card.tense]} </span>}
             {PERSONS[card.person]} <span className="text-stone-400">…</span>
           </p>
         </>
@@ -86,6 +111,11 @@ function Back({ card }: { card: CardContent }) {
           {card.face === "p" && <p className="font-pt text-5xl leading-tight">{withArticle(card.word)}</p>}
           <p className="mt-2 text-lg">{card.word.english}</p>
           <Muted>{card.word.pos}</Muted>
+          {card.verb && (
+            <Panel>
+              <VerbTable verb={card.verb} />
+            </Panel>
+          )}
           <Panel>
             <div className="flex items-start justify-between gap-2">
               <Highlighted text={card.word.example.pt} parts={[card.word.pt, ...card.word.forms]} className="text-xl" />
@@ -135,6 +165,7 @@ function Back({ card }: { card: CardContent }) {
       return (
         <>
           <p className="font-pt mt-4 text-4xl">
+            {TENSE_CUE[card.tense] && <span className="text-stone-400">{TENSE_CUE[card.tense]} </span>}
             {PERSONS[card.person].split(" / ")[0]} <span className="text-red-700 dark:text-red-400">{card.form}</span>
           </p>
           <Panel>

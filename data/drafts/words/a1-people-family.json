@@ -1,0 +1,499 @@
+[
+ {
+  "pt": "pessoa",
+  "pos": "n.",
+  "english": "person",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "f",
+  "forms": [
+   "pessoas"
+  ],
+  "example": {
+   "pt": "Ela é uma pessoa muito boa.",
+   "en": "She is a very good person."
+  }
+ },
+ {
+  "pt": "gente",
+  "pos": "n.",
+  "english": "people, folks",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "f",
+  "example": {
+   "pt": "Tem muita gente na praia.",
+   "en": "There are a lot of people at the beach."
+  }
+ },
+ {
+  "pt": "homem",
+  "pos": "n.",
+  "english": "man",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "homens"
+  ],
+  "example": {
+   "pt": "Aquele homem é meu tio.",
+   "en": "That man is my uncle."
+  }
+ },
+ {
+  "pt": "mulher",
+  "pos": "n.",
+  "english": "woman; wife",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "f",
+  "forms": [
+   "mulheres"
+  ],
+  "example": {
+   "pt": "A mulher dele é médica.",
+   "en": "His wife is a doctor."
+  }
+ },
+ {
+  "pt": "criança",
+  "pos": "n.",
+  "english": "child",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "f",
+  "forms": [
+   "crianças"
+  ],
+  "example": {
+   "pt": "As crianças estão na escola.",
+   "en": "The children are at school."
+  }
+ },
+ {
+  "pt": "menino",
+  "pos": "n.",
+  "english": "boy",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "menina",
+   "meninos",
+   "meninas"
+  ],
+  "example": {
+   "pt": "A menina tem cinco anos.",
+   "en": "The girl is five years old."
+  }
+ },
+ {
+  "pt": "garoto",
+  "pos": "n.",
+  "english": "boy, kid",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "garota",
+   "garotos",
+   "garotas"
+  ],
+  "example": {
+   "pt": "O garoto joga futebol.",
+   "en": "The boy plays soccer."
+  }
+ },
+ {
+  "pt": "filho",
+  "pos": "n.",
+  "english": "son",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "filha",
+   "filhos",
+   "filhas"
+  ],
+  "example": {
+   "pt": "Eu tenho dois filhos.",
+   "en": "I have two children."
+  }
+ },
+ {
+  "pt": "marido",
+  "pos": "n.",
+  "english": "husband",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "maridos"
+  ],
+  "example": {
+   "pt": "Meu marido trabalha num banco.",
+   "en": "My husband works at a bank."
+  }
+ },
+ {
+  "pt": "esposa",
+  "pos": "n.",
+  "english": "wife",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "f",
+  "forms": [
+   "esposas"
+  ],
+  "example": {
+   "pt": "Ele mora com a esposa.",
+   "en": "He lives with his wife."
+  }
+ },
+ {
+  "pt": "avô",
+  "pos": "n.",
+  "english": "grandfather",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "avó",
+   "avôs",
+   "avós"
+  ],
+  "example": {
+   "pt": "Minha avó mora no interior.",
+   "en": "My grandmother lives in the countryside."
+  }
+ },
+ {
+  "pt": "tio",
+  "pos": "n.",
+  "english": "uncle",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "tia",
+   "tios",
+   "tias"
+  ],
+  "example": {
+   "pt": "Minha tia mora em Recife.",
+   "en": "My aunt lives in Recife."
+  }
+ },
+ {
+  "pt": "primo",
+  "pos": "n.",
+  "english": "cousin",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "prima",
+   "primos",
+   "primas"
+  ],
+  "example": {
+   "pt": "Meus primos moram perto daqui.",
+   "en": "My cousins live near here."
+  }
+ },
+ {
+  "pt": "neto",
+  "pos": "n.",
+  "english": "grandson",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "neta",
+   "netos",
+   "netas"
+  ],
+  "example": {
+   "pt": "Ela tem três netos.",
+   "en": "She has three grandchildren."
+  }
+ },
+ {
+  "pt": "bebê",
+  "pos": "n.",
+  "english": "baby",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "bebês"
+  ],
+  "example": {
+   "pt": "O bebê está dormindo.",
+   "en": "The baby is sleeping."
+  }
+ },
+ {
+  "pt": "namorado",
+  "pos": "n.",
+  "english": "boyfriend",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "namorada",
+   "namorados",
+   "namoradas"
+  ],
+  "example": {
+   "pt": "Minha namorada é brasileira.",
+   "en": "My girlfriend is Brazilian."
+  }
+ },
+ {
+  "pt": "senhor",
+  "pos": "n.",
+  "english": "sir, Mr.; gentleman",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "senhora",
+   "senhores",
+   "senhoras"
+  ],
+  "example": {
+   "pt": "Bom dia, senhora!",
+   "en": "Good morning, ma'am!"
+  }
+ },
+ {
+  "pt": "vizinho",
+  "pos": "n.",
+  "english": "neighbor",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "vizinha",
+   "vizinhos",
+   "vizinhas"
+  ],
+  "example": {
+   "pt": "Meu vizinho é muito simpático.",
+   "en": "My neighbor is very nice."
+  }
+ },
+ {
+  "pt": "colega",
+  "pos": "n.",
+  "english": "colleague, classmate",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "mf",
+  "forms": [
+   "colegas"
+  ],
+  "example": {
+   "pt": "Ela é minha colega de trabalho.",
+   "en": "She is my coworker."
+  }
+ },
+ {
+  "pt": "nome",
+  "pos": "n.",
+  "english": "name",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "nomes"
+  ],
+  "example": {
+   "pt": "Meu nome é Ana.",
+   "en": "My name is Ana."
+  }
+ },
+ {
+  "pt": "idade",
+  "pos": "n.",
+  "english": "age",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "f",
+  "forms": [
+   "idades"
+  ],
+  "example": {
+   "pt": "Qual é a sua idade?",
+   "en": "What is your age?"
+  }
+ },
+ {
+  "pt": "brasileiro",
+  "pos": "n./adj.",
+  "english": "Brazilian",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "brasileira",
+   "brasileiros",
+   "brasileiras"
+  ],
+  "example": {
+   "pt": "Meu amigo é brasileiro.",
+   "en": "My friend is Brazilian."
+  }
+ },
+ {
+  "pt": "americano",
+  "pos": "n./adj.",
+  "english": "American",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "americana",
+   "americanos",
+   "americanas"
+  ],
+  "example": {
+   "pt": "Eu sou americana.",
+   "en": "I am American."
+  }
+ },
+ {
+  "pt": "casado",
+  "pos": "adj.",
+  "english": "married",
+  "level": 1,
+  "topic": "People & family",
+  "forms": [
+   "casada",
+   "casados",
+   "casadas"
+  ],
+  "example": {
+   "pt": "Você é casado?",
+   "en": "Are you married?"
+  }
+ },
+ {
+  "pt": "solteiro",
+  "pos": "adj.",
+  "english": "single, unmarried",
+  "level": 1,
+  "topic": "People & family",
+  "forms": [
+   "solteira",
+   "solteiros",
+   "solteiras"
+  ],
+  "example": {
+   "pt": "Minha irmã é solteira.",
+   "en": "My sister is single."
+  }
+ },
+ {
+  "pt": "nascer",
+  "pos": "v.",
+  "english": "to be born",
+  "level": 1,
+  "topic": "People & family",
+  "example": {
+   "pt": "Eu nasci em Boston.",
+   "en": "I was born in Boston."
+  }
+ },
+ {
+  "pt": "casar",
+  "pos": "v.",
+  "english": "to marry",
+  "level": 1,
+  "topic": "People & family",
+  "example": {
+   "pt": "Eles casaram no ano passado.",
+   "en": "They got married last year."
+  }
+ },
+ {
+  "pt": "visitar",
+  "pos": "v.",
+  "english": "to visit",
+  "level": 1,
+  "topic": "People & family",
+  "example": {
+   "pt": "Nós visitamos nossos avós no domingo.",
+   "en": "We visit our grandparents on Sunday."
+  }
+ },
+ {
+  "pt": "moço",
+  "pos": "n.",
+  "english": "young man",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "moça",
+   "moços",
+   "moças"
+  ],
+  "example": {
+   "pt": "A moça trabalha na padaria.",
+   "en": "The young woman works at the bakery."
+  }
+ },
+ {
+  "pt": "parente",
+  "pos": "n.",
+  "english": "relative",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "mf",
+  "forms": [
+   "parentes"
+  ],
+  "example": {
+   "pt": "Eu tenho muitos parentes no Brasil.",
+   "en": "I have many relatives in Brazil."
+  }
+ },
+ {
+  "pt": "adulto",
+  "pos": "n.",
+  "english": "adult",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "adulta",
+   "adultos",
+   "adultas"
+  ],
+  "example": {
+   "pt": "A passagem custa dez reais para adultos.",
+   "en": "The fare is ten reais for adults."
+  }
+ },
+ {
+  "pt": "sobrinho",
+  "pos": "n.",
+  "english": "nephew",
+  "level": 1,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "sobrinha",
+   "sobrinhos",
+   "sobrinhas"
+  ],
+  "example": {
+   "pt": "Minha sobrinha tem seis anos.",
+   "en": "My niece is six years old."
+  }
+ }
+]

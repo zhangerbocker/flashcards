@@ -11,12 +11,18 @@ export interface KeyValueStorage {
 export interface Settings {
   autoplayAudio: boolean;
   typeAnswers: boolean;
+  /** Show B1–B2 content everywhere (cards, reading, chat); off means A1–A2 only. */
+  includeB1B2: boolean;
 }
 
 export const DEFAULT_SETTINGS: Settings = {
   autoplayAudio: false,
   typeAnswers: false,
+  includeB1B2: false,
 };
+
+/** Fired on window when settings are saved, so every screen can follow the level switch. */
+export const SETTINGS_EVENT = "pt:settings";
 
 export interface ReviewEntry {
   key: string;
@@ -78,12 +84,14 @@ export function loadSettings(storage: KeyValueStorage): Settings {
   return {
     autoplayAudio: typeof s.autoplayAudio === "boolean" ? s.autoplayAudio : DEFAULT_SETTINGS.autoplayAudio,
     typeAnswers: typeof s.typeAnswers === "boolean" ? s.typeAnswers : DEFAULT_SETTINGS.typeAnswers,
+    includeB1B2: typeof s.includeB1B2 === "boolean" ? s.includeB1B2 : DEFAULT_SETTINGS.includeB1B2,
   };
 }
 
 export function saveSettings(storage: KeyValueStorage, settings: Settings): void {
   storage.setItem(SETTINGS_KEY, JSON.stringify(settings));
   enqueue(storage, { type: "settings", settings });
+  if (typeof globalThis.dispatchEvent === "function") globalThis.dispatchEvent(new Event(SETTINGS_EVENT));
 }
 
 /** Whether settings were ever saved on this device (rather than the defaults being in use). */

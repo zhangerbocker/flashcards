@@ -1,0 +1,595 @@
+[
+ {
+  "id": "b2-people-family-1",
+  "level": 4,
+  "topic": "People & family",
+  "title": "Quem cuida da mãe?",
+  "titleEn": "Who looks after Mom?",
+  "sentences": [
+   {
+    "pt": "Dona Lúcia fez oitenta e dois anos em maio e, pela primeira vez, esqueceu o próprio aniversário.",
+    "en": "Mrs. Lúcia turned eighty-two in May and, for the first time, forgot her own birthday.",
+    "glosses": {
+     "fez": "turned",
+     "pela": "for the",
+     "esqueceu": "forgot"
+    }
+   },
+   {
+    "pt": "Quem percebeu foi Camila, a filha caçula, que mora a dois quarteirões dela em Porto Alegre.",
+    "en": "The one who noticed was Camila, the youngest daughter, who lives two blocks from her in Porto Alegre.",
+    "glosses": {
+     "percebeu": "noticed",
+     "foi": "was",
+     "mora": "lives",
+     "dela": "from her"
+    }
+   },
+   {
+    "pt": "Depois disso, vieram outros sinais: o fogão ligado de madrugada, a porta aberta, os remédios trocados.",
+    "en": "After that came other signs: the stove on in the early hours, the door open, the medicines mixed up.",
+    "glosses": {
+     "disso": "that",
+     "vieram": "came",
+     "ligado": "on",
+     "trocados": "mixed up"
+    }
+   },
+   {
+    "pt": "Camila agendou uma consulta, e o médico disse o que ela já esperava.",
+    "en": "Camila booked an appointment, and the doctor said what she was already expecting.",
+    "glosses": {
+     "agendou": "booked",
+     "disse": "said",
+     "esperava": "was expecting"
+    }
+   },
+   {
+    "pt": "\"Ela não pode mais morar sozinha\", disse ele, com cuidado.",
+    "en": "\"She can't live alone anymore,\" he said, carefully.",
+    "glosses": {
+     "pode": "can",
+     "disse": "said",
+     "com cuidado": "carefully"
+    }
+   },
+   {
+    "pt": "Naquela noite, Camila ligou para os dois irmãos.",
+    "en": "That night, Camila called her two brothers.",
+    "glosses": {
+     "Naquela": "that",
+     "ligou": "called"
+    }
+   },
+   {
+    "pt": "Bruno, o primogênito, mora em Brasília e trabalha muitas horas por dia para o governo.",
+    "en": "Bruno, the firstborn, lives in Brasília and works many hours a day for the government.",
+    "glosses": {
+     "mora": "lives",
+     "trabalha": "works"
+    }
+   },
+   {
+    "pt": "Diego, o filho do meio, é autônomo e passa metade do ano viajando.",
+    "en": "Diego, the middle son, is self-employed and spends half the year traveling.",
+    "glosses": {
+     "do meio": "middle",
+     "é": "is",
+     "passa": "spends",
+     "viajando": "traveling"
+    }
+   },
+   {
+    "pt": "Fazia anos que os três não conversavam em paz, desde uma desavença antiga sobre a herança do pai.",
+    "en": "For years the three hadn't talked peacefully, ever since an old falling-out over their father's inheritance.",
+    "glosses": {
+     "Fazia anos": "for years",
+     "conversavam": "talked",
+     "em paz": "peacefully",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Mesmo assim, agendaram uma conversa pela internet para o domingo.",
+    "en": "Even so, they scheduled a conversation over the internet for Sunday.",
+    "glosses": {
+     "agendaram": "scheduled",
+     "conversa": "conversation",
+     "pela": "over the"
+    }
+   },
+   {
+    "pt": "Bruno foi o primeiro a falar e, como sempre, já sabia o que queria.",
+    "en": "Bruno was the first to speak and, as always, already knew what he wanted.",
+    "glosses": {
+     "foi": "was",
+     "sabia": "knew",
+     "queria": "wanted"
+    }
+   },
+   {
+    "pt": "\"A gente contrata uma cuidadora, e eu pago quase tudo\", disse ele.",
+    "en": "\"We hire a caregiver, and I pay for almost all of it,\" he said.",
+    "glosses": {
+     "contrata": "hire",
+     "cuidadora": "caregiver (female)",
+     "pago": "pay",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Camila sentiu um ressentimento antigo voltar.",
+    "en": "Camila felt an old resentment come back.",
+    "glosses": {
+     "sentiu": "felt",
+     "voltar": "come back"
+    }
+   },
+   {
+    "pt": "Afinal, era ela quem passava todas as tardes com a mãe desde que o pai tinha falecido.",
+    "en": "After all, she was the one who spent every afternoon with their mother since their father had passed away.",
+    "glosses": {
+     "era": "was",
+     "passava": "spent",
+     "tinha falecido": "had passed away"
+    }
+   },
+   {
+    "pt": "\"Dinheiro não resolve tudo, Bruno. Ela precisa de afeto, não só de remédio na hora certa.\"",
+    "en": "\"Money doesn't solve everything, Bruno. She needs affection, not just medicine at the right time.\"",
+    "glosses": {
+     "resolve": "solves",
+     "precisa": "needs",
+     "na": "at the",
+     "certa": "right"
+    }
+   },
+   {
+    "pt": "Diego, que até então estava quieto, enfim falou.",
+    "en": "Diego, who until then had been quiet, finally spoke.",
+    "glosses": {
+     "estava": "had been",
+     "enfim": "finally",
+     "falou": "spoke"
+    }
+   },
+   {
+    "pt": "\"Eu posso trabalhar de qualquer lugar, contanto que tenha internet\", disse ele.",
+    "en": "\"I can work from anywhere, as long as I have internet,\" he said.",
+    "glosses": {
+     "posso": "can",
+     "tenha": "have (subjunctive)",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "\"Se vocês concordarem, eu volto para Porto Alegre e fico com ela durante a semana.\"",
+    "en": "\"If you agree, I'll come back to Porto Alegre and stay with her during the week.\"",
+    "glosses": {
+     "concordarem": "agree (future subjunctive)",
+     "volto": "come back",
+     "fico": "stay"
+    }
+   },
+   {
+    "pt": "Por um longo instante, ninguém disse nada.",
+    "en": "For a long moment, nobody said anything.",
+    "glosses": {
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Ninguém esperava aquilo do irmão que sempre tinha evitado qualquer responsabilidade.",
+    "en": "Nobody expected that from the brother who had always avoided any responsibility.",
+    "glosses": {
+     "esperava": "expected",
+     "do": "from the",
+     "tinha evitado": "had avoided"
+    }
+   },
+   {
+    "pt": "No fim, os três chegaram a um acordo.",
+    "en": "In the end, the three reached an agreement.",
+    "glosses": {
+     "chegaram a um acordo": "reached an agreement"
+    }
+   },
+   {
+    "pt": "Diego cuidaria da mãe de segunda a sexta-feira, Camila ficaria com ela nos fins de semana, e Bruno pagaria uma diarista e o plano de saúde.",
+    "en": "Diego would look after their mother from Monday to Friday, Camila would stay with her on weekends, and Bruno would pay for a cleaner and the health insurance.",
+    "glosses": {
+     "cuidaria": "would look after",
+     "da": "of the",
+     "ficaria": "would stay",
+     "nos": "on the",
+     "pagaria": "would pay"
+    }
+   },
+   {
+    "pt": "Os primeiros meses não foram fáceis.",
+    "en": "The first months were not easy.",
+    "glosses": {
+     "foram": "were"
+    }
+   },
+   {
+    "pt": "Diego trabalhava à noite, depois que a mãe dormia, e quase não descansava.",
+    "en": "Diego worked at night, after his mother fell asleep, and hardly rested.",
+    "glosses": {
+     "trabalhava": "worked",
+     "dormia": "slept",
+     "descansava": "rested"
+    }
+   },
+   {
+    "pt": "Dona Lúcia às vezes chamava Diego pelo nome do marido, que tinha falecido quinze anos antes.",
+    "en": "Mrs. Lúcia sometimes called Diego by her husband's name, who had passed away fifteen years earlier.",
+    "glosses": {
+     "às vezes": "sometimes",
+     "chamava": "called",
+     "pelo": "by the",
+     "do": "of the",
+     "tinha falecido": "had passed away",
+     "antes": "earlier"
+    }
+   },
+   {
+    "pt": "Em vez de corrigir a mãe, ele aprendeu a rir e responder com afeto.",
+    "en": "Instead of correcting his mother, he learned to laugh and answer with affection.",
+    "glosses": {
+     "aprendeu": "learned"
+    }
+   },
+   {
+    "pt": "Aos poucos, o convívio de todos os dias mudou também os irmãos.",
+    "en": "Little by little, everyday life together also changed the siblings.",
+    "glosses": {
+     "de todos os dias": "everyday",
+     "mudou": "changed"
+    }
+   },
+   {
+    "pt": "Bruno começou a visitar a mãe uma vez por mês, e as desavenças sobre a herança ficaram no passado.",
+    "en": "Bruno started visiting his mother once a month, and the disagreements over the inheritance stayed in the past.",
+    "glosses": {
+     "começou": "started",
+     "ficaram": "stayed"
+    }
+   },
+   {
+    "pt": "Talvez amadurecer seja isso: perceber, enfim, quem precisa de nós.",
+    "en": "Perhaps growing up is this: finally realizing who needs us.",
+    "glosses": {
+     "seja": "is (subjunctive)",
+     "perceber": "realizing",
+     "enfim": "finally"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Por que Dona Lúcia não podia mais morar sozinha?",
+    "qEn": "Why couldn't Mrs. Lúcia live alone anymore?",
+    "options": [
+     "Ela queria mudar de cidade",
+     "Ela estava esquecendo muito",
+     "A casa era muito grande",
+     "Ela casou de novo"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "O que Diego ofereceu?",
+    "qEn": "What did Diego offer?",
+    "options": [
+     "Pagar uma cuidadora",
+     "Levar a mãe para Brasília",
+     "Comprar um apartamento",
+     "Voltar e ficar com a mãe"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "O que mudou entre os irmãos?",
+    "qEn": "What changed between the siblings?",
+    "options": [
+     "Eles ficaram mais distantes",
+     "Eles pararam de conversar",
+     "Eles ficaram mais próximos",
+     "Bruno saiu da família"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "b2-people-family-2",
+  "level": 4,
+  "topic": "People & family",
+  "title": "O meio-irmão",
+  "titleEn": "The half-brother",
+  "sentences": [
+   {
+    "pt": "Três meses depois do falecimento do pai, Rodrigo recebeu uma mensagem do cartório.",
+    "en": "Three months after his father's death, Rodrigo received a message from the notary's office.",
+    "glosses": {
+     "do": "of the",
+     "recebeu": "received"
+    }
+   },
+   {
+    "pt": "A advogada da família queria conversar com ele no escritório, e não quis explicar por telefone.",
+    "en": "The family's lawyer wanted to talk with him at the office, and wouldn't explain over the phone.",
+    "glosses": {
+     "advogada": "lawyer (female)",
+     "queria": "wanted",
+     "quis": "wanted"
+    }
+   },
+   {
+    "pt": "Ele foi ao centro numa segunda-feira chuvosa, sem saber o que o esperava.",
+    "en": "He went downtown on a rainy Monday, without knowing what awaited him.",
+    "glosses": {
+     "foi": "went",
+     "ao": "to the",
+     "numa": "on a",
+     "o esperava": "awaited him"
+    }
+   },
+   {
+    "pt": "\"O senhor tem um irmão, que também é herdeiro\", disse a advogada, mostrando um papel.",
+    "en": "\"You have a brother, who is also an heir,\" said the lawyer, showing a document.",
+    "glosses": {
+     "O senhor": "you (formal)",
+     "tem": "have",
+     "é": "is",
+     "disse": "said",
+     "mostrando": "showing",
+     "papel": "document"
+    }
+   },
+   {
+    "pt": "O pai dele tinha um filho de antes de casar, nascido em Manaus.",
+    "en": "His father had a son from before he married, born in Manaus.",
+    "glosses": {
+     "dele": "his",
+     "tinha": "had",
+     "casar": "marrying",
+     "nascido": "born"
+    }
+   },
+   {
+    "pt": "O moço se chamava Thiago, tinha trinta e um anos e era professor de matemática.",
+    "en": "The young man was called Thiago, was thirty-one and was a math teacher.",
+    "glosses": {
+     "se chamava": "was called",
+     "tinha": "was (had)",
+     "era": "was"
+    }
+   },
+   {
+    "pt": "Rodrigo saiu do cartório sem saber se estava com raiva, triste ou apenas confuso.",
+    "en": "Rodrigo left the notary's office without knowing if he was angry, sad or just confused.",
+    "glosses": {
+     "saiu": "left",
+     "do": "from the",
+     "saber": "knowing",
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "Em casa, contou tudo à esposa, Aline.",
+    "en": "At home, he told his wife, Aline, everything.",
+    "glosses": {
+     "contou": "told",
+     "à": "to the"
+    }
+   },
+   {
+    "pt": "\"Ele sabia de você?\", perguntou ela.",
+    "en": "\"Did he know about you?\" she asked.",
+    "glosses": {
+     "sabia": "knew",
+     "perguntou": "asked"
+    }
+   },
+   {
+    "pt": "Rodrigo não tinha resposta, mas a pergunta não saiu da cabeça dele durante dias.",
+    "en": "Rodrigo had no answer, but the question didn't leave his head for days.",
+    "glosses": {
+     "tinha": "had",
+     "saiu": "left",
+     "dele": "his"
+    }
+   },
+   {
+    "pt": "Por um lado, sentia ciúme de um irmão que o pai talvez tivesse escondido de todos.",
+    "en": "On the one hand, he felt jealous of a brother his father had perhaps hidden from everyone.",
+    "glosses": {
+     "Por um lado": "on the one hand",
+     "sentia": "felt",
+     "tivesse escondido": "had hidden (subjunctive)"
+    }
+   },
+   {
+    "pt": "Por outro lado, sentia compaixão de alguém que tinha crescido sem pai.",
+    "en": "On the other hand, he felt compassion for someone who had grown up without a father.",
+    "glosses": {
+     "sentia": "felt",
+     "tinha crescido": "had grown up"
+    }
+   },
+   {
+    "pt": "Foi Aline quem encontrou Thiago numa rede social.",
+    "en": "It was Aline who found Thiago on a social network.",
+    "glosses": {
+     "Foi": "it was",
+     "encontrou": "found",
+     "numa": "on a"
+    }
+   },
+   {
+    "pt": "Na foto, ele tinha os olhos do pai e a mesma cicatriz pequena perto da boca.",
+    "en": "In the photo, he had his father's eyes and the same small scar near the mouth.",
+    "glosses": {
+     "Na": "in the",
+     "tinha": "had",
+     "do": "of the",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Rodrigo escreveu e apagou a mensagem umas dez vezes antes de enviar.",
+    "en": "Rodrigo wrote and deleted the message about ten times before sending it.",
+    "glosses": {
+     "escreveu": "wrote",
+     "apagou": "deleted",
+     "umas": "about"
+    }
+   },
+   {
+    "pt": "A resposta veio no mesmo dia, longa e cheia de perguntas.",
+    "en": "The reply came the same day, long and full of questions.",
+    "glosses": {
+     "veio": "came",
+     "cheia": "full"
+    }
+   },
+   {
+    "pt": "Thiago queria saber como o pai era, do que gostava e por que nunca tinha voltado.",
+    "en": "Thiago wanted to know what their father was like, what he liked and why he had never come back.",
+    "glosses": {
+     "queria": "wanted",
+     "era": "was like",
+     "gostava": "liked",
+     "tinha voltado": "had come back"
+    }
+   },
+   {
+    "pt": "Thiago sabia o nome do pai, mas o tinha visto apenas uma vez, quando tinha seis anos.",
+    "en": "Thiago knew his father's name, but had seen him only once, when he was six.",
+    "glosses": {
+     "sabia": "knew",
+     "do": "of the",
+     "o tinha visto": "had seen him",
+     "tinha seis anos": "was six"
+    }
+   },
+   {
+    "pt": "A mãe dele tinha recebido pensão alimentícia até ele fazer dezoito anos, e depois disso, nada.",
+    "en": "His mother had received child support until he turned eighteen, and after that, nothing.",
+    "glosses": {
+     "dele": "his",
+     "tinha recebido": "had received",
+     "fazer": "turned",
+     "disso": "that"
+    }
+   },
+   {
+    "pt": "Em julho, Rodrigo pegou um avião para Manaus.",
+    "en": "In July, Rodrigo took a plane to Manaus.",
+    "glosses": {
+     "pegou": "took"
+    }
+   },
+   {
+    "pt": "Aline quis ir junto, mas ele preferiu ir sozinho.",
+    "en": "Aline wanted to go along, but he preferred to go alone.",
+    "glosses": {
+     "quis": "wanted",
+     "junto": "along",
+     "preferiu": "preferred"
+    }
+   },
+   {
+    "pt": "Os dois se encontraram num café perto do rio, nervosos como dois adolescentes.",
+    "en": "The two met in a café near the river, nervous as two teenagers.",
+    "glosses": {
+     "se encontraram": "met",
+     "num": "in a",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Conversaram durante cinco horas sobre o pai que cada um tinha conhecido de forma diferente.",
+    "en": "They talked for five hours about the father each of them had known in a different way.",
+    "glosses": {
+     "Conversaram": "they talked",
+     "tinha conhecido": "had known",
+     "de forma diferente": "in a different way"
+    }
+   },
+   {
+    "pt": "No fim, Thiago disse que não queria nada da herança, salvo uma foto do pai jovem.",
+    "en": "In the end, Thiago said he didn't want anything from the inheritance, except a photo of their father as a young man.",
+    "glosses": {
+     "disse": "said",
+     "queria": "wanted",
+     "da": "from the",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Rodrigo, contudo, insistiu que a herança também era um direito do irmão, e não um presente.",
+    "en": "Rodrigo, however, insisted that the inheritance was also his brother's right, not a gift.",
+    "glosses": {
+     "insistiu": "insisted",
+     "era": "was",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Hoje, eles se falam toda semana, e os filhos de Rodrigo chamam Thiago de tio.",
+    "en": "Today, they talk every week, and Rodrigo's children call Thiago uncle.",
+    "glosses": {
+     "se falam": "talk to each other",
+     "chamam": "call"
+    }
+   },
+   {
+    "pt": "Nenhum papel de cartório cria um laço assim; ele precisa ser construído aos poucos.",
+    "en": "No notary's paper creates a bond like that; it has to be built little by little.",
+    "glosses": {
+     "cria": "creates",
+     "precisa": "needs",
+     "construído": "built"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Onde Rodrigo soube que tinha um irmão?",
+    "qEn": "Where did Rodrigo learn he had a brother?",
+    "options": [
+     "Numa rede social",
+     "Em Manaus",
+     "No cartório",
+     "No hospital"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Quantas vezes Thiago tinha visto o pai?",
+    "qEn": "How many times had Thiago seen the father?",
+    "options": [
+     "Uma vez",
+     "Nunca",
+     "Todo ano",
+     "Duas vezes"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "O que Thiago queria da herança?",
+    "qEn": "What did Thiago want from the inheritance?",
+    "options": [
+     "A casa do pai",
+     "Metade do dinheiro",
+     "Nada, nem a foto",
+     "Apenas uma foto do pai"
+    ],
+    "answer": 3
+   }
+  ]
+ }
+]

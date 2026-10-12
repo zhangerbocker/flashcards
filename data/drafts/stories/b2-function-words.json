@@ -1,0 +1,561 @@
+[
+ {
+  "id": "b2-function-words-1",
+  "level": 4,
+  "topic": "Function words",
+  "title": "O terreno vazio",
+  "titleEn": "The empty lot",
+  "sentences": [
+   {
+    "pt": "No fim da rua onde Seu Antônio mora, fica um terreno vazio há mais de dez anos.",
+    "en": "At the end of the street where Mr. Antônio lives, there has been an empty lot for more than ten years.",
+    "glosses": {
+     "fica": "there is",
+     "há": "for",
+     "mora": "lives"
+    }
+   },
+   {
+    "pt": "Em março, a prefeitura anunciou que o terreno vai virar um estacionamento, a menos que os moradores tenham um projeto melhor.",
+    "en": "In March, the city hall announced that the lot will become a parking lot, unless the residents have a better project.",
+    "glosses": {
+     "anunciou": "announced",
+     "vai": "is going to",
+     "virar": "become",
+     "tenham": "have (subjunctive)"
+    }
+   },
+   {
+    "pt": "Diante de uma notícia como essa, os vizinhos fizeram uma reunião na igreja do bairro.",
+    "en": "In view of news like that, the neighbors held a meeting at the neighborhood church.",
+    "glosses": {
+     "essa": "that",
+     "fizeram": "held",
+     "na": "at the",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Seu Antônio, que é aposentado e conhece todo mundo, foi o primeiro a falar.",
+    "en": "Mr. Antônio, who is retired and knows everyone, was the first to speak.",
+    "glosses": {
+     "é": "is",
+     "conhece": "knows",
+     "todo mundo": "everyone",
+     "foi": "was"
+    }
+   },
+   {
+    "pt": "\"Na minha opinião, o bairro precisa de uma área verde, e não de mais carros\", disse ele.",
+    "en": "\"In my opinion, the neighborhood needs a green space, not more cars,\" he said.",
+    "glosses": {
+     "precisa": "needs",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "\"Ademais, as crianças não têm onde brincar, salvo na calçada.\"",
+    "en": "\"Moreover, the children have nowhere to play, except on the sidewalk.\"",
+    "glosses": {
+     "têm": "have",
+     "na": "on the"
+    }
+   },
+   {
+    "pt": "Juliana, que tem uma loja na esquina, discordou dele, mas de forma educada.",
+    "en": "Juliana, who has a shop on the corner, disagreed with him, but politely.",
+    "glosses": {
+     "tem": "has",
+     "discordou": "disagreed",
+     "dele": "with him",
+     "de forma educada": "politely"
+    }
+   },
+   {
+    "pt": "\"Entendo o seu ponto de vista; todavia, os meus clientes não têm onde estacionar\", argumentou.",
+    "en": "\"I understand your point of view; however, my customers have nowhere to park,\" she argued.",
+    "glosses": {
+     "Entendo": "I understand",
+     "argumentou": "she argued"
+    }
+   },
+   {
+    "pt": "\"Dado que a rua é estreita, quanto mais carros na calçada, mais perigoso fica para todos.\"",
+    "en": "\"Given that the street is narrow, the more cars on the sidewalk, the more dangerous it gets for everyone.\"",
+    "glosses": {
+     "é": "is",
+     "fica": "it gets"
+    }
+   },
+   {
+    "pt": "Então Rafael, um engenheiro jovem, levantou a mão e pediu a palavra.",
+    "en": "Then Rafael, a young engineer, raised his hand and asked for the floor.",
+    "glosses": {
+     "levantou": "raised",
+     "pediu a palavra": "asked to speak"
+    }
+   },
+   {
+    "pt": "\"Por que temos que escolher entre um e outro?\", perguntou ele.",
+    "en": "\"Why do we have to choose between one and the other?\" he asked.",
+    "glosses": {
+     "temos que": "we have to",
+     "perguntou": "asked"
+    }
+   },
+   {
+    "pt": "Ele explicou que o terreno tem cerca de dois mil metros quadrados, de modo que daria para fazer uma praça pequena e algumas vagas.",
+    "en": "He explained that the lot is about two thousand square meters, so there would be room for a small square and a few parking spaces.",
+    "glosses": {
+     "explicou": "explained",
+     "tem": "has",
+     "daria para": "it would be possible to"
+    }
+   },
+   {
+    "pt": "\"Contanto que as vagas fiquem do lado da rua, as crianças estariam seguras no fundo do terreno.\"",
+    "en": "\"As long as the spaces are on the street side, the children would be safe at the back of the lot.\"",
+    "glosses": {
+     "fiquem": "are (subjunctive)",
+     "estariam": "would be",
+     "seguras": "safe",
+     "no": "at the"
+    }
+   },
+   {
+    "pt": "Alguns aplaudiram; outros, no entanto, continuaram céticos.",
+    "en": "Some applauded; others, however, remained skeptical.",
+    "glosses": {
+     "aplaudiram": "applauded",
+     "continuaram": "remained"
+    }
+   },
+   {
+    "pt": "Dona Lúcia lembrou que, anteriormente, a prefeitura já tinha dito que faria uma praça ali e nunca cumpriu.",
+    "en": "Mrs. Lúcia recalled that, previously, the city hall had already said it would build a square there and never kept its word.",
+    "glosses": {
+     "lembrou": "recalled",
+     "tinha dito": "had said",
+     "faria": "would build",
+     "cumpriu": "kept its word"
+    }
+   },
+   {
+    "pt": "\"Ou seja, um projeto bonito é inútil se ninguém cobrar\", disse ela.",
+    "en": "\"In other words, a pretty project is useless if no one holds them to account,\" she said.",
+    "glosses": {
+     "é": "is",
+     "cobrar": "demands it (subjunctive)",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Tendo em vista essa experiência, os moradores decidiram fazer diferente.",
+    "en": "In view of that experience, the residents decided to do things differently.",
+    "glosses": {
+     "decidiram": "decided",
+     "diferente": "differently"
+    }
+   },
+   {
+    "pt": "Em vez de esperar pela prefeitura, eles mesmos fariam o desenho do projeto, a fim de que o vereador do bairro o levasse ao prefeito.",
+    "en": "Instead of waiting for the city hall, they would draw up the project themselves, so that the neighborhood councilor would take it to the mayor.",
+    "glosses": {
+     "pela": "for the",
+     "fariam": "would make",
+     "o levasse": "would take it",
+     "ao": "to the"
+    }
+   },
+   {
+    "pt": "Rafael ficou responsável pelo desenho, ao passo que Juliana cuidaria das contas.",
+    "en": "Rafael was in charge of the drawing, whereas Juliana would take care of the budget.",
+    "glosses": {
+     "ficou": "was",
+     "pelo": "for the",
+     "cuidaria": "would take care",
+     "das": "of the",
+     "contas": "accounts"
+    }
+   },
+   {
+    "pt": "Embora tivesse dúvidas, Seu Antônio deu o braço a torcer e decidiu ajudar.",
+    "en": "Although he had doubts, Mr. Antônio gave in and decided to help.",
+    "glosses": {
+     "tivesse": "had (subjunctive)",
+     "deu o braço a torcer": "gave in",
+     "decidiu": "decided"
+    }
+   },
+   {
+    "pt": "Durante três semanas, os vizinhos se encontraram todas as noites para conversar sobre o projeto.",
+    "en": "For three weeks, the neighbors met every night to talk about the project.",
+    "glosses": {
+     "se encontraram": "met"
+    }
+   },
+   {
+    "pt": "Não obstante as desavenças, ninguém desistiu do projeto.",
+    "en": "Notwithstanding the disagreements, no one gave up on the project.",
+    "glosses": {
+     "desistiu": "gave up",
+     "do": "on the"
+    }
+   },
+   {
+    "pt": "No dia da reunião na prefeitura, o vereador defendeu o projeto perante o prefeito.",
+    "en": "On the day of the meeting at city hall, the councilor defended the project before the mayor.",
+    "glosses": {
+     "da": "of the",
+     "na": "at the",
+     "defendeu": "defended"
+    }
+   },
+   {
+    "pt": "Em virtude de pressão de dezenas de moradores, o projeto foi aprovado.",
+    "en": "Owing to pressure from dozens of residents, the project was approved.",
+    "glosses": {
+     "foi aprovado": "was approved"
+    }
+   },
+   {
+    "pt": "Seja como for, ainda falta dinheiro para as obras, isto é, o trabalho não acabou.",
+    "en": "Be that as it may, money for the construction is still lacking, that is, the work isn't over.",
+    "glosses": {
+     "falta": "is lacking",
+     "acabou": "has ended"
+    }
+   },
+   {
+    "pt": "Em suma, o terreno continua vazio, mas agora tem um responsável: a própria vizinhança.",
+    "en": "In short, the lot is still empty, but now it has someone responsible for it: the neighborhood itself.",
+    "glosses": {
+     "continua": "is still",
+     "tem": "has"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "O que a prefeitura queria fazer com o terreno?",
+    "qEn": "What did the city hall want to do with the lot?",
+    "options": [
+     "Uma escola",
+     "Um estacionamento",
+     "Uma igreja",
+     "Um prédio"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "O que Rafael queria fazer com o terreno?",
+    "qEn": "What did Rafael want to do with the lot?",
+    "options": [
+     "Só um estacionamento",
+     "Nada, deixar vazio",
+     "Uma loja grande",
+     "Uma praça pequena e algumas vagas"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "Por que Dona Lúcia estava cética?",
+    "qEn": "Why was Mrs. Lúcia skeptical?",
+    "options": [
+     "Ela não gosta de crianças",
+     "Ela tem uma loja",
+     "A prefeitura nunca cumpriu o que disse",
+     "O vereador mora longe"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "b2-function-words-2",
+  "level": 4,
+  "topic": "Function words",
+  "title": "Lisboa ou São Paulo",
+  "titleEn": "Lisbon or São Paulo",
+  "sentences": [
+   {
+    "pt": "Gustavo tinha vinte e seis anos quando recebeu duas respostas no mesmo dia.",
+    "en": "Gustavo was twenty-six when he received two answers on the same day.",
+    "glosses": {
+     "tinha": "was (had)",
+     "recebeu": "received"
+    }
+   },
+   {
+    "pt": "A primeira era de uma universidade em Lisboa, que lhe oferecia uma bolsa de estudos para um mestrado.",
+    "en": "The first was from a university in Lisbon, which offered him a scholarship for a master's degree.",
+    "glosses": {
+     "era": "was",
+     "lhe": "him",
+     "oferecia": "offered"
+    }
+   },
+   {
+    "pt": "A segunda era de uma empresa em São Paulo, que queria que ele trabalhasse lá com carteira assinada.",
+    "en": "The second was from a company in São Paulo, which wanted him to work there with a formal employment contract.",
+    "glosses": {
+     "era": "was",
+     "queria": "wanted",
+     "trabalhasse": "work (subjunctive)",
+     "com carteira assinada": "formally employed"
+    }
+   },
+   {
+    "pt": "À primeira vista, a escolha parecia fácil, mas não era.",
+    "en": "At first glance, the choice seemed easy, but it wasn't.",
+    "glosses": {
+     "À primeira vista": "at first glance",
+     "escolha": "choice",
+     "parecia": "seemed",
+     "era": "was"
+    }
+   },
+   {
+    "pt": "No domingo, ele almoçou com os pais a fim de ouvir a opinião deles.",
+    "en": "On Sunday, he had lunch with his parents in order to hear their opinion.",
+    "glosses": {
+     "almoçou": "had lunch",
+     "deles": "their"
+    }
+   },
+   {
+    "pt": "O pai respondeu logo: \"Se eu tivesse a sua idade, iria para Lisboa sem pensar duas vezes.\"",
+    "en": "His father answered right away: \"If I were your age, I'd go to Lisbon without thinking twice.\"",
+    "glosses": {
+     "respondeu": "answered",
+     "tivesse": "had (subjunctive)",
+     "iria": "would go"
+    }
+   },
+   {
+    "pt": "A mãe, por outro lado, discordou dele.",
+    "en": "His mother, on the other hand, disagreed with him.",
+    "glosses": {
+     "discordou": "disagreed",
+     "dele": "with him"
+    }
+   },
+   {
+    "pt": "\"Uma bolsa dura dois anos; um emprego bom, contudo, pode durar a vida inteira\", disse ela.",
+    "en": "\"A scholarship lasts two years; a good job, however, can last a whole lifetime,\" she said.",
+    "glosses": {
+     "dura": "lasts",
+     "pode": "can",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "\"Além disso, o salário em São Paulo é alto, ao passo que a bolsa mal paga o aluguel.\"",
+    "en": "\"Besides, the salary in São Paulo is high, whereas the scholarship barely pays the rent.\"",
+    "glosses": {
+     "é": "is",
+     "mal": "barely",
+     "paga": "pays"
+    }
+   },
+   {
+    "pt": "Gustavo ouviu os dois sem dizer nada, pois sabia que ambos estavam certos.",
+    "en": "Gustavo listened to both without saying anything, because he knew they were both right.",
+    "glosses": {
+     "ouviu": "listened to",
+     "os dois": "both",
+     "sabia": "knew",
+     "estavam certos": "were right"
+    }
+   },
+   {
+    "pt": "À noite, ligou para a irmã caçula, Letícia, que mora em Curitiba.",
+    "en": "At night, he called his youngest sister, Letícia, who lives in Curitiba.",
+    "glosses": {
+     "ligou": "called",
+     "mora": "lives"
+    }
+   },
+   {
+    "pt": "\"A meu ver, você está fazendo a pergunta errada\", disse ela.",
+    "en": "\"As I see it, you're asking the wrong question,\" she said.",
+    "glosses": {
+     "está fazendo": "are asking",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "\"Em vez de perguntar o que é melhor, pergunte o que você quer daqui a dez anos.\"",
+    "en": "\"Instead of asking what is better, ask what you want ten years from now.\"",
+    "glosses": {
+     "é": "is",
+     "pergunte": "ask",
+     "quer": "want"
+    }
+   },
+   {
+    "pt": "Gustavo ficou quieto por um instante.",
+    "en": "Gustavo was quiet for a moment.",
+    "glosses": {
+     "ficou": "was"
+    }
+   },
+   {
+    "pt": "\"Mesmo que eu escolha errado, pelo menos vou saber por que escolhi\", pensou ele.",
+    "en": "\"Even if I choose wrong, at least I'll know why I chose,\" he thought.",
+    "glosses": {
+     "escolha": "choose (subjunctive)",
+     "vou saber": "I'll know",
+     "escolhi": "I chose",
+     "pensou": "thought"
+    }
+   },
+   {
+    "pt": "Ele sempre quis dar aula numa universidade, de modo que o mestrado seria uma etapa necessária.",
+    "en": "He had always wanted to teach at a university, so the master's would be a necessary step.",
+    "glosses": {
+     "quis": "wanted",
+     "dar aula": "to teach",
+     "numa": "at a",
+     "seria": "would be"
+    }
+   },
+   {
+    "pt": "Ao mesmo tempo, tinha medo de perder um emprego tão bom.",
+    "en": "At the same time, he was afraid of losing such a good job.",
+    "glosses": {
+     "tinha medo": "was afraid"
+    }
+   },
+   {
+    "pt": "No outro dia, decidiu escrever um e-mail para a empresa.",
+    "en": "The next day, he decided to write an email to the company.",
+    "glosses": {
+     "outro dia": "next day",
+     "decidiu": "decided"
+    }
+   },
+   {
+    "pt": "Explicou tudo, sem esconder nada, e perguntou se a vaga poderia esperar.",
+    "en": "He explained everything, hiding nothing, and asked if the position could wait.",
+    "glosses": {
+     "Explicou": "he explained",
+     "perguntou": "asked",
+     "poderia": "could"
+    }
+   },
+   {
+    "pt": "Para a sua surpresa, a gestora respondeu prontamente.",
+    "en": "To his surprise, the manager replied promptly.",
+    "glosses": {
+     "surpresa": "surprise",
+     "gestora": "manager (female)",
+     "respondeu": "replied"
+    }
+   },
+   {
+    "pt": "\"Não podemos guardar a vaga; no entanto, a empresa tem uma filial em Lisboa\", escreveu ela.",
+    "en": "\"We can't hold the position; however, the company has a branch in Lisbon,\" she wrote.",
+    "glosses": {
+     "podemos": "we can",
+     "guardar": "hold",
+     "tem": "has",
+     "escreveu": "wrote"
+    }
+   },
+   {
+    "pt": "\"Desde que você trabalhe meio período, poderia fazer o mestrado e trabalhar conosco ao mesmo tempo.\"",
+    "en": "\"As long as you work part-time, you could do the master's and work with us at the same time.\"",
+    "glosses": {
+     "trabalhe": "work (subjunctive)",
+     "meio período": "part-time",
+     "poderia": "could"
+    }
+   },
+   {
+    "pt": "Gustavo leu a mensagem três vezes antes de acreditar.",
+    "en": "Gustavo read the message three times before believing it.",
+    "glosses": {
+     "leu": "read"
+    }
+   },
+   {
+    "pt": "Afinal, ele nunca tinha pensado que uma empresa brasileira tivesse escritório em Portugal.",
+    "en": "After all, he had never thought that a Brazilian company had an office in Portugal.",
+    "glosses": {
+     "tinha pensado": "had thought",
+     "tivesse": "had (subjunctive)"
+    }
+   },
+   {
+    "pt": "Dado que a resposta resolvia quase tudo, ele nem pensou duas vezes.",
+    "en": "Given that the reply solved almost everything, he didn't even think twice.",
+    "glosses": {
+     "resolvia": "solved",
+     "pensou": "think"
+    }
+   },
+   {
+    "pt": "Claro que a carga horária seria pesada, mas, para ele, valia a pena.",
+    "en": "Of course the workload would be heavy, but, for him, it was worth it.",
+    "glosses": {
+     "seria": "would be",
+     "valia a pena": "was worth it"
+    }
+   },
+   {
+    "pt": "Quando contou aos pais, ambos ficaram satisfeitos e orgulhosos.",
+    "en": "When he told his parents, both were pleased and proud.",
+    "glosses": {
+     "contou": "told",
+     "aos": "to the",
+     "ficaram": "were"
+    }
+   },
+   {
+    "pt": "Em suma, às vezes a melhor resposta não está em escolher, mas em perguntar de outra forma.",
+    "en": "In short, sometimes the best answer isn't in choosing, but in asking a different way.",
+    "glosses": {
+     "às vezes": "sometimes",
+     "está": "is",
+     "de outra forma": "differently"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "O que a universidade em Lisboa oferecia?",
+    "qEn": "What did the university in Lisbon offer?",
+    "options": [
+     "Um emprego em Curitiba",
+     "Um apartamento",
+     "Uma bolsa para um mestrado",
+     "Uma viagem"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "O que Letícia disse a Gustavo?",
+    "qEn": "What did Letícia tell Gustavo?",
+    "options": [
+     "Pensar no que ele quer daqui a dez anos",
+     "Ficar em São Paulo",
+     "Ouvir só o pai",
+     "Esquecer o mestrado"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Como a empresa resolveu o problema?",
+    "qEn": "How did the company solve the problem?",
+    "options": [
+     "Aumentou o salário",
+     "Esperou dois anos",
+     "Demitiu a gestora",
+     "Ofereceu trabalho na filial de Lisboa"
+    ],
+    "answer": 3
+   }
+  ]
+ }
+]

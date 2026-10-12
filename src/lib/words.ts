@@ -1,16 +1,9 @@
 import rawWords from "../../data/words.json";
 import { isTopic, type Topic } from "./topics";
 
-/** CEFR level: 1 = A1, 2 = A2. */
-export type Level = 1 | 2;
+import { isLevel, type Level } from "./levels";
 
-export const LEVELS: readonly Level[] = [1, 2];
-
-export const LEVEL_NAMES: Record<Level, string> = { 1: "A1", 2: "A2" };
-
-export function isLevel(value: unknown): value is Level {
-  return value === 1 || value === 2;
-}
+export { activeLevels, isLevel, LEVEL_NAMES, LEVELS, type Level } from "./levels";
 
 /** Noun gender: "mf" for nouns that take either article (o/a estudante). */
 export type Gender = "m" | "f" | "mf";

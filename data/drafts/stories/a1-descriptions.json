@@ -1,0 +1,325 @@
+[
+ {
+  "id": "a1-descriptions-1",
+  "level": 1,
+  "topic": "Descriptions",
+  "title": "O bairro novo",
+  "titleEn": "The new neighborhood",
+  "sentences": [
+   {
+    "pt": "Mariana mora em um apartamento novo em Belo Horizonte.",
+    "en": "Mariana lives in a new apartment in Belo Horizonte.",
+    "glosses": {
+     "mora": "lives"
+    }
+   },
+   {
+    "pt": "O apartamento é pequeno, mas é claro e limpo.",
+    "en": "The apartment is small, but it's bright and clean.",
+    "glosses": {
+     "é": "is",
+     "claro": "bright"
+    }
+   },
+   {
+    "pt": "A sala tem uma janela grande e um sofá verde.",
+    "en": "The living room has a big window and a green sofa.",
+    "glosses": {
+     "tem": "has"
+    }
+   },
+   {
+    "pt": "O quarto é simples, com uma cama e uma mesa.",
+    "en": "The bedroom is simple, with a bed and a table.",
+    "glosses": {
+     "é": "is"
+    }
+   },
+   {
+    "pt": "O prédio é antigo e muito bonito.",
+    "en": "The building is old and very pretty.",
+    "glosses": {
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Perto do prédio, tem uma praça com árvores altas.",
+    "en": "Near the building, there's a square with tall trees.",
+    "glosses": {
+     "Perto do": "near the",
+     "tem": "there is",
+     "altas": "tall"
+    }
+   },
+   {
+    "pt": "O vizinho de Mariana é Seu Antônio.",
+    "en": "Mariana's neighbor is Mr. Antônio.",
+    "glosses": {
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Ele é velho, alto e magro.",
+    "en": "He is old, tall and thin.",
+    "glosses": {
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Ele tem cabelo branco e olhos azuis.",
+    "en": "He has white hair and blue eyes.",
+    "glosses": {
+     "tem": "has"
+    }
+   },
+   {
+    "pt": "Seu Antônio é muito simpático e engraçado.",
+    "en": "Mr. Antônio is very nice and funny.",
+    "glosses": {
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Ele tem um cachorro pequeno e gordo.",
+    "en": "He has a small, fat dog.",
+    "glosses": {
+     "tem": "has"
+    }
+   },
+   {
+    "pt": "O cachorro é marrom e muito calmo.",
+    "en": "The dog is brown and very calm.",
+    "glosses": {
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Todo dia, Seu Antônio passeia com o cachorro na praça.",
+    "en": "Every day, Mr. Antônio walks the dog in the square.",
+    "glosses": {
+     "Todo": "every",
+     "passeia com": "walks",
+     "na": "in the"
+    }
+   },
+   {
+    "pt": "Hoje, Mariana vai passear com eles.",
+    "en": "Today Mariana is going for a walk with them.",
+    "glosses": {
+     "vai": "is going",
+     "passear": "to go for a walk",
+     "eles": "them"
+    }
+   },
+   {
+    "pt": "Ela está feliz no bairro novo.",
+    "en": "She is happy in the new neighborhood.",
+    "glosses": {
+     "está": "is",
+     "no": "in the"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Como é o apartamento de Mariana?",
+    "qEn": "What is Mariana's apartment like?",
+    "options": [
+     "Grande e escuro",
+     "Velho e sujo",
+     "Pequeno, claro e limpo",
+     "Caro e moderno"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Como é Seu Antônio?",
+    "qEn": "What is Mr. Antônio like?",
+    "options": [
+     "Velho, alto e magro",
+     "Jovem e baixo",
+     "Gordo e bravo",
+     "Baixo e triste"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "De que cor é o cachorro?",
+    "qEn": "What color is the dog?",
+    "options": [
+     "Preto",
+     "Marrom",
+     "Branco",
+     "Cinza"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "a1-descriptions-2",
+  "level": 1,
+  "topic": "Descriptions",
+  "title": "Duas irmãs",
+  "titleEn": "Two sisters",
+  "sentences": [
+   {
+    "pt": "Júlia e Aline são irmãs, mas são muito diferentes.",
+    "en": "Júlia and Aline are sisters, but they are very different.",
+    "glosses": {
+     "são": "are",
+     "irmãs": "sisters"
+    }
+   },
+   {
+    "pt": "Júlia tem vinte anos, e Aline tem dezesseis.",
+    "en": "Júlia is twenty, and Aline is sixteen.",
+    "glosses": {
+     "tem vinte anos": "is twenty",
+     "tem dezesseis": "is sixteen"
+    }
+   },
+   {
+    "pt": "Júlia é alta e tem cabelo comprido e preto.",
+    "en": "Júlia is tall and has long black hair.",
+    "glosses": {
+     "é": "is",
+     "tem": "has"
+    }
+   },
+   {
+    "pt": "Aline é baixa e tem cabelo curto e vermelho.",
+    "en": "Aline is short and has short red hair.",
+    "glosses": {
+     "é": "is",
+     "baixa": "short",
+     "tem": "has"
+    }
+   },
+   {
+    "pt": "Júlia é calma e gosta de ler livros.",
+    "en": "Júlia is calm and likes to read books.",
+    "glosses": {
+     "é": "is",
+     "gosta de": "likes"
+    }
+   },
+   {
+    "pt": "Aline é alegre e adora música e esporte.",
+    "en": "Aline is cheerful and loves music and sports.",
+    "glosses": {
+     "é": "is",
+     "adora": "loves"
+    }
+   },
+   {
+    "pt": "O quarto de Júlia está sempre limpo.",
+    "en": "Júlia's room is always clean.",
+    "glosses": {
+     "está": "is"
+    }
+   },
+   {
+    "pt": "O quarto de Aline está sujo e cheio de roupas.",
+    "en": "Aline's room is dirty and full of clothes.",
+    "glosses": {
+     "está": "is"
+    }
+   },
+   {
+    "pt": "Júlia estuda na universidade.",
+    "en": "Júlia studies at the university.",
+    "glosses": {
+     "estuda": "studies",
+     "na": "at the"
+    }
+   },
+   {
+    "pt": "Aline ainda está na escola.",
+    "en": "Aline is still in school.",
+    "glosses": {
+     "está": "is",
+     "na": "in"
+    }
+   },
+   {
+    "pt": "Hoje é o aniversário da mãe delas.",
+    "en": "Today is their mother's birthday.",
+    "glosses": {
+     "é": "is",
+     "da": "of the",
+     "delas": "their"
+    }
+   },
+   {
+    "pt": "As duas irmãs vão ao shopping para comprar um presente.",
+    "en": "The two sisters go to the mall to buy a present.",
+    "glosses": {
+     "duas": "two",
+     "vão": "go",
+     "ao": "to the",
+     "shopping": "mall"
+    }
+   },
+   {
+    "pt": "Júlia quer um livro, mas Aline quer uma bolsa.",
+    "en": "Júlia wants a book, but Aline wants a bag.",
+    "glosses": {
+     "quer": "wants"
+    }
+   },
+   {
+    "pt": "No fim, elas compram uma bolsa bonita e um livro.",
+    "en": "In the end, they buy a pretty bag and a book.",
+    "glosses": {
+     "No fim": "in the end",
+     "elas": "they",
+     "compram": "buy"
+    }
+   },
+   {
+    "pt": "A mãe fica muito feliz com os dois presentes.",
+    "en": "Their mother is very happy with both presents.",
+    "glosses": {
+     "fica": "is",
+     "os dois": "both"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Quantos anos Aline tem?",
+    "qEn": "How old is Aline?",
+    "options": [
+     "Vinte",
+     "Dezoito",
+     "Catorze",
+     "Dezesseis"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "Como está o quarto de Aline?",
+    "qEn": "What is Aline's room like?",
+    "options": [
+     "Limpo",
+     "Sujo e cheio de roupas",
+     "Grande e vazio",
+     "Escuro"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "O que as irmãs compram?",
+    "qEn": "What do the sisters buy?",
+    "options": [
+     "Uma bolsa e um livro",
+     "Um bolo",
+     "Flores",
+     "Um celular"
+    ],
+    "answer": 0
+   }
+  ]
+ }
+]

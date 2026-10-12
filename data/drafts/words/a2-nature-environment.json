@@ -1,0 +1,543 @@
+[
+ {
+  "pt": "rio",
+  "pos": "n.",
+  "english": "river",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "rios"
+  ],
+  "example": {
+   "pt": "O rio passa no meio da cidade.",
+   "en": "The river runs through the middle of the city."
+  }
+ },
+ {
+  "pt": "montanha",
+  "pos": "n.",
+  "english": "mountain",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "montanhas"
+  ],
+  "example": {
+   "pt": "Subimos a montanha no fim de semana.",
+   "en": "We climbed the mountain on the weekend."
+  }
+ },
+ {
+  "pt": "floresta",
+  "pos": "n.",
+  "english": "forest",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "florestas"
+  ],
+  "example": {
+   "pt": "A floresta Amazônica é enorme.",
+   "en": "The Amazon forest is huge."
+  }
+ },
+ {
+  "pt": "lago",
+  "pos": "n.",
+  "english": "lake",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "lagos"
+  ],
+  "example": {
+   "pt": "Nadamos no lago ontem.",
+   "en": "We swam in the lake yesterday."
+  }
+ },
+ {
+  "pt": "ilha",
+  "pos": "n.",
+  "english": "island",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "ilhas"
+  ],
+  "example": {
+   "pt": "Florianópolis fica numa ilha.",
+   "en": "Florianópolis is on an island."
+  }
+ },
+ {
+  "pt": "campo",
+  "pos": "n.",
+  "english": "countryside; field",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "campos"
+  ],
+  "example": {
+   "pt": "Meus avós moram no campo.",
+   "en": "My grandparents live in the countryside."
+  }
+ },
+ {
+  "pt": "árvore",
+  "pos": "n.",
+  "english": "tree",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "árvores"
+  ],
+  "example": {
+   "pt": "Tem uma árvore grande no quintal.",
+   "en": "There's a big tree in the backyard."
+  }
+ },
+ {
+  "pt": "flor",
+  "pos": "n.",
+  "english": "flower",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "flores"
+  ],
+  "example": {
+   "pt": "Ele me deu flores no meu aniversário.",
+   "en": "He gave me flowers on my birthday."
+  }
+ },
+ {
+  "pt": "folha",
+  "pos": "n.",
+  "english": "leaf; sheet (of paper)",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "folhas"
+  ],
+  "example": {
+   "pt": "As folhas estão caindo.",
+   "en": "The leaves are falling."
+  }
+ },
+ {
+  "pt": "planta",
+  "pos": "n.",
+  "english": "plant",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "plantas"
+  ],
+  "example": {
+   "pt": "Eu rego as plantas toda manhã.",
+   "en": "I water the plants every morning."
+  }
+ },
+ {
+  "pt": "grama",
+  "pos": "n.",
+  "english": "grass",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "gramas"
+  ],
+  "example": {
+   "pt": "As crianças estão brincando na grama.",
+   "en": "The children are playing on the grass."
+  }
+ },
+ {
+  "pt": "pedra",
+  "pos": "n.",
+  "english": "stone, rock",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "pedras"
+  ],
+  "example": {
+   "pt": "Sentamos numa pedra perto do rio.",
+   "en": "We sat on a rock near the river."
+  }
+ },
+ {
+  "pt": "areia",
+  "pos": "n.",
+  "english": "sand",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "areias"
+  ],
+  "example": {
+   "pt": "A areia da praia estava quente.",
+   "en": "The sand on the beach was hot."
+  }
+ },
+ {
+  "pt": "terra",
+  "pos": "n.",
+  "english": "earth, soil, land",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "terras"
+  ],
+  "example": {
+   "pt": "A terra aqui é boa para plantar.",
+   "en": "The soil here is good for planting."
+  }
+ },
+ {
+  "pt": "céu",
+  "pos": "n.",
+  "english": "sky",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "céus"
+  ],
+  "example": {
+   "pt": "O céu está azul hoje.",
+   "en": "The sky is blue today."
+  }
+ },
+ {
+  "pt": "estrela",
+  "pos": "n.",
+  "english": "star",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "estrelas"
+  ],
+  "example": {
+   "pt": "À noite, dá para ver muitas estrelas.",
+   "en": "At night, you can see lots of stars."
+  }
+ },
+ {
+  "pt": "lua",
+  "pos": "n.",
+  "english": "moon",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "luas"
+  ],
+  "example": {
+   "pt": "A lua está linda hoje.",
+   "en": "The moon is beautiful tonight."
+  }
+ },
+ {
+  "pt": "animal",
+  "pos": "n.",
+  "english": "animal",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "animais"
+  ],
+  "example": {
+   "pt": "Ela adora animais.",
+   "en": "She loves animals."
+  }
+ },
+ {
+  "pt": "pássaro",
+  "pos": "n.",
+  "english": "bird",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "pássaros"
+  ],
+  "example": {
+   "pt": "Os pássaros cantam de manhã.",
+   "en": "The birds sing in the morning."
+  }
+ },
+ {
+  "pt": "inseto",
+  "pos": "n.",
+  "english": "insect",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "insetos"
+  ],
+  "example": {
+   "pt": "Tem muitos insetos no verão.",
+   "en": "There are lots of insects in summer."
+  }
+ },
+ {
+  "pt": "cavalo",
+  "pos": "n.",
+  "english": "horse",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "cavalos"
+  ],
+  "example": {
+   "pt": "Ele aprendeu a andar a cavalo.",
+   "en": "He learned to ride a horse."
+  }
+ },
+ {
+  "pt": "vaca",
+  "pos": "n.",
+  "english": "cow",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "vacas"
+  ],
+  "example": {
+   "pt": "Tem vacas na fazenda do meu tio.",
+   "en": "There are cows on my uncle's farm."
+  }
+ },
+ {
+  "pt": "cobra",
+  "pos": "n.",
+  "english": "snake",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "cobras"
+  ],
+  "example": {
+   "pt": "Vimos uma cobra na trilha.",
+   "en": "We saw a snake on the trail."
+  }
+ },
+ {
+  "pt": "fazenda",
+  "pos": "n.",
+  "english": "farm",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "fazendas"
+  ],
+  "example": {
+   "pt": "Passamos as férias numa fazenda.",
+   "en": "We spent the holidays on a farm."
+  }
+ },
+ {
+  "pt": "cachoeira",
+  "pos": "n.",
+  "english": "waterfall",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "cachoeiras"
+  ],
+  "example": {
+   "pt": "Fomos nadar na cachoeira.",
+   "en": "We went swimming at the waterfall."
+  }
+ },
+ {
+  "pt": "trilha",
+  "pos": "n.",
+  "english": "trail, hiking path",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "trilhas"
+  ],
+  "example": {
+   "pt": "Fizemos uma trilha na montanha.",
+   "en": "We did a hike on the mountain."
+  }
+ },
+ {
+  "pt": "onda",
+  "pos": "n.",
+  "english": "wave",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "ondas"
+  ],
+  "example": {
+   "pt": "As ondas estão grandes hoje.",
+   "en": "The waves are big today."
+  }
+ },
+ {
+  "pt": "paisagem",
+  "pos": "n.",
+  "english": "landscape, scenery",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "paisagens"
+  ],
+  "example": {
+   "pt": "A paisagem aqui é linda.",
+   "en": "The scenery here is beautiful."
+  }
+ },
+ {
+  "pt": "natureza",
+  "pos": "n.",
+  "english": "nature",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "naturezas"
+  ],
+  "example": {
+   "pt": "Gosto de passar o tempo na natureza.",
+   "en": "I like spending time in nature."
+  }
+ },
+ {
+  "pt": "meio ambiente",
+  "pos": "n.",
+  "english": "environment",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [],
+  "example": {
+   "pt": "Precisamos proteger o meio ambiente.",
+   "en": "We need to protect the environment."
+  }
+ },
+ {
+  "pt": "poluição",
+  "pos": "n.",
+  "english": "pollution",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "poluições"
+  ],
+  "example": {
+   "pt": "A poluição nas grandes cidades é um problema.",
+   "en": "Pollution in big cities is a problem."
+  }
+ },
+ {
+  "pt": "lixo",
+  "pos": "n.",
+  "english": "trash, garbage",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "lixos"
+  ],
+  "example": {
+   "pt": "Não jogue lixo na rua.",
+   "en": "Don't throw trash in the street."
+  }
+ },
+ {
+  "pt": "reciclagem",
+  "pos": "n.",
+  "english": "recycling",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "reciclagens"
+  ],
+  "example": {
+   "pt": "A reciclagem ajuda o planeta.",
+   "en": "Recycling helps the planet."
+  }
+ },
+ {
+  "pt": "planeta",
+  "pos": "n.",
+  "english": "planet",
+  "level": 2,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "planetas"
+  ],
+  "example": {
+   "pt": "A Terra é o nosso planeta.",
+   "en": "Earth is our planet."
+  }
+ },
+ {
+  "pt": "reciclar",
+  "pos": "v.",
+  "english": "to recycle",
+  "level": 2,
+  "topic": "Nature & environment",
+  "example": {
+   "pt": "Nós reciclamos papel e plástico.",
+   "en": "We recycle paper and plastic."
+  }
+ },
+ {
+  "pt": "plantar",
+  "pos": "v.",
+  "english": "to plant",
+  "level": 2,
+  "topic": "Nature & environment",
+  "example": {
+   "pt": "Meu avô plantou uma árvore no quintal.",
+   "en": "My grandfather planted a tree in the backyard."
+  }
+ },
+ {
+  "pt": "proteger",
+  "pos": "v.",
+  "english": "to protect",
+  "level": 2,
+  "topic": "Nature & environment",
+  "example": {
+   "pt": "Vamos proteger os animais da floresta.",
+   "en": "Let's protect the animals of the forest."
+  }
+ }
+]

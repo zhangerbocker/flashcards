@@ -1,0 +1,691 @@
+[
+ {
+  "pt": "nutritivo",
+  "pos": "adj.",
+  "english": "nutritious",
+  "level": 4,
+  "topic": "Food & drink",
+  "forms": [
+   "nutritiva",
+   "nutritivos",
+   "nutritivas"
+  ],
+  "example": {
+   "pt": "O feijão com arroz é um prato bastante nutritivo.",
+   "en": "Rice and beans is a very nutritious dish."
+  }
+ },
+ {
+  "pt": "desperdício",
+  "pos": "n.",
+  "english": "waste",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "desperdícios"
+  ],
+  "example": {
+   "pt": "O desperdício de comida no Brasil é enorme.",
+   "en": "Food waste in Brazil is enormous."
+  }
+ },
+ {
+  "pt": "safra",
+  "pos": "n.",
+  "english": "harvest, crop; vintage",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "safras"
+  ],
+  "example": {
+   "pt": "A safra de café deste ano foi excelente.",
+   "en": "This year's coffee harvest was excellent."
+  }
+ },
+ {
+  "pt": "orgânico",
+  "pos": "adj.",
+  "english": "organic",
+  "level": 4,
+  "topic": "Food & drink",
+  "forms": [
+   "orgânica",
+   "orgânicos",
+   "orgânicas"
+  ],
+  "example": {
+   "pt": "Ela só compra verduras orgânicas na feira.",
+   "en": "She only buys organic vegetables at the market."
+  }
+ },
+ {
+  "pt": "agrotóxico",
+  "pos": "n.",
+  "english": "pesticide",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "agrotóxicos"
+  ],
+  "example": {
+   "pt": "O uso de agrotóxicos preocupa os ambientalistas.",
+   "en": "The use of pesticides worries environmentalists."
+  }
+ },
+ {
+  "pt": "transgênico",
+  "pos": "adj.",
+  "english": "genetically modified (GMO)",
+  "level": 4,
+  "topic": "Food & drink",
+  "forms": [
+   "transgênica",
+   "transgênicos",
+   "transgênicas"
+  ],
+  "example": {
+   "pt": "O rótulo informa se o produto é transgênico.",
+   "en": "The label says whether the product is genetically modified."
+  }
+ },
+ {
+  "pt": "alimentação",
+  "pos": "n.",
+  "english": "diet, nutrition, food",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "alimentações"
+  ],
+  "example": {
+   "pt": "Uma alimentação equilibrada faz toda a diferença.",
+   "en": "A balanced diet makes all the difference."
+  }
+ },
+ {
+  "pt": "nutriente",
+  "pos": "n.",
+  "english": "nutrient",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "nutrientes"
+  ],
+  "example": {
+   "pt": "Os legumes são ricos em nutrientes.",
+   "en": "Vegetables are rich in nutrients."
+  }
+ },
+ {
+  "pt": "proteína",
+  "pos": "n.",
+  "english": "protein",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "proteínas"
+  ],
+  "example": {
+   "pt": "Atletas precisam de mais proteína.",
+   "en": "Athletes need more protein."
+  }
+ },
+ {
+  "pt": "carboidrato",
+  "pos": "n.",
+  "english": "carbohydrate",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "carboidratos"
+  ],
+  "example": {
+   "pt": "Estou tentando comer menos carboidratos.",
+   "en": "I'm trying to eat fewer carbs."
+  }
+ },
+ {
+  "pt": "gordura",
+  "pos": "n.",
+  "english": "fat",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "gorduras"
+  ],
+  "example": {
+   "pt": "Esse molho tem muita gordura.",
+   "en": "This sauce has a lot of fat."
+  }
+ },
+ {
+  "pt": "caloria",
+  "pos": "n.",
+  "english": "calorie",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "calorias"
+  ],
+  "example": {
+   "pt": "Uma lata de refrigerante tem muitas calorias.",
+   "en": "A can of soda has a lot of calories."
+  }
+ },
+ {
+  "pt": "vegano",
+  "pos": "adj./n.",
+  "english": "vegan",
+  "level": 4,
+  "topic": "Food & drink",
+  "forms": [
+   "vegana",
+   "veganos",
+   "veganas"
+  ],
+  "example": {
+   "pt": "O restaurante tem várias opções veganas.",
+   "en": "The restaurant has several vegan options."
+  }
+ },
+ {
+  "pt": "integral",
+  "pos": "adj.",
+  "english": "whole-grain; full",
+  "level": 4,
+  "topic": "Food & drink",
+  "forms": [
+   "integrais"
+  ],
+  "example": {
+   "pt": "Prefiro pão integral no café da manhã.",
+   "en": "I prefer whole-grain bread for breakfast."
+  }
+ },
+ {
+  "pt": "industrializado",
+  "pos": "adj.",
+  "english": "processed (food); industrialized",
+  "level": 4,
+  "topic": "Food & drink",
+  "forms": [
+   "industrializada",
+   "industrializados",
+   "industrializadas"
+  ],
+  "example": {
+   "pt": "Evite alimentos industrializados.",
+   "en": "Avoid processed foods."
+  }
+ },
+ {
+  "pt": "ultraprocessado",
+  "pos": "adj.",
+  "english": "ultra-processed",
+  "level": 4,
+  "topic": "Food & drink",
+  "forms": [
+   "ultraprocessada",
+   "ultraprocessados",
+   "ultraprocessadas"
+  ],
+  "example": {
+   "pt": "O consumo de ultraprocessados cresceu entre os jovens.",
+   "en": "Consumption of ultra-processed food has grown among young people."
+  }
+ },
+ {
+  "pt": "conservante",
+  "pos": "n.",
+  "english": "preservative",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "conservantes"
+  ],
+  "example": {
+   "pt": "Este suco não tem conservantes.",
+   "en": "This juice has no preservatives."
+  }
+ },
+ {
+  "pt": "validade",
+  "pos": "n.",
+  "english": "expiry date, validity",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "validades"
+  ],
+  "example": {
+   "pt": "Verifique a validade do leite antes de comprar.",
+   "en": "Check the milk's expiry date before buying it."
+  }
+ },
+ {
+  "pt": "vencido",
+  "pos": "adj.",
+  "english": "expired, out of date",
+  "level": 4,
+  "topic": "Food & drink",
+  "forms": [
+   "vencida",
+   "vencidos",
+   "vencidas"
+  ],
+  "example": {
+   "pt": "Joguei fora o iogurte vencido.",
+   "en": "I threw away the expired yogurt."
+  }
+ },
+ {
+  "pt": "perecível",
+  "pos": "adj.",
+  "english": "perishable",
+  "level": 4,
+  "topic": "Food & drink",
+  "forms": [
+   "perecíveis"
+  ],
+  "example": {
+   "pt": "Alimentos perecíveis devem ficar na geladeira.",
+   "en": "Perishable foods must be kept in the fridge."
+  }
+ },
+ {
+  "pt": "tempero",
+  "pos": "n.",
+  "english": "seasoning, spice",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "temperos"
+  ],
+  "example": {
+   "pt": "O segredo da comida dela está no tempero.",
+   "en": "The secret of her food is in the seasoning."
+  }
+ },
+ {
+  "pt": "temperar",
+  "pos": "v.",
+  "english": "to season",
+  "level": 4,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Tempere o frango com alho e limão.",
+   "en": "Season the chicken with garlic and lime."
+  }
+ },
+ {
+  "pt": "refogar",
+  "pos": "v.",
+  "english": "to sauté",
+  "level": 4,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Primeiro, refogue a cebola no azeite.",
+   "en": "First, sauté the onion in olive oil."
+  }
+ },
+ {
+  "pt": "grelhar",
+  "pos": "v.",
+  "english": "to grill",
+  "level": 4,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Ele grelhou o peixe na brasa.",
+   "en": "He grilled the fish over the coals."
+  }
+ },
+ {
+  "pt": "descascar",
+  "pos": "v.",
+  "english": "to peel",
+  "level": 4,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Você pode descascar as batatas para mim?",
+   "en": "Can you peel the potatoes for me?"
+  }
+ },
+ {
+  "pt": "picar",
+  "pos": "v.",
+  "english": "to chop, mince",
+  "level": 4,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Pique a salsinha bem fininha.",
+   "en": "Chop the parsley very finely."
+  }
+ },
+ {
+  "pt": "ralar",
+  "pos": "v.",
+  "english": "to grate",
+  "level": 4,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Rale o queijo e coloque por cima.",
+   "en": "Grate the cheese and put it on top."
+  }
+ },
+ {
+  "pt": "ferver",
+  "pos": "v.",
+  "english": "to boil",
+  "level": 4,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Deixe a água ferver antes de colocar o macarrão.",
+   "en": "Let the water boil before adding the pasta."
+  }
+ },
+ {
+  "pt": "escorrer",
+  "pos": "v.",
+  "english": "to drain",
+  "level": 4,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Escorra o macarrão e misture com o molho.",
+   "en": "Drain the pasta and mix it with the sauce."
+  }
+ },
+ {
+  "pt": "porção",
+  "pos": "n.",
+  "english": "portion, serving; (bar) shared plate",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "porções"
+  ],
+  "example": {
+   "pt": "Pedimos uma porção de batata frita para dividir.",
+   "en": "We ordered a plate of fries to share."
+  }
+ },
+ {
+  "pt": "iguaria",
+  "pos": "n.",
+  "english": "delicacy",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "iguarias"
+  ],
+  "example": {
+   "pt": "O pato no tucupi é uma iguaria paraense.",
+   "en": "Duck in tucupi is a delicacy from Pará."
+  }
+ },
+ {
+  "pt": "culinária",
+  "pos": "n.",
+  "english": "cuisine, cooking",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "culinárias"
+  ],
+  "example": {
+   "pt": "A culinária mineira é famosa no Brasil todo.",
+   "en": "Minas Gerais cuisine is famous all over Brazil."
+  }
+ },
+ {
+  "pt": "gastronomia",
+  "pos": "n.",
+  "english": "gastronomy",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "gastronomias"
+  ],
+  "example": {
+   "pt": "A cidade é conhecida pela gastronomia.",
+   "en": "The city is known for its gastronomy."
+  }
+ },
+ {
+  "pt": "paladar",
+  "pos": "n.",
+  "english": "palate, taste",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "paladares"
+  ],
+  "example": {
+   "pt": "Esse prato agrada a todos os paladares.",
+   "en": "This dish pleases every palate."
+  }
+ },
+ {
+  "pt": "insosso",
+  "pos": "adj.",
+  "english": "bland, lacking salt",
+  "level": 4,
+  "topic": "Food & drink",
+  "forms": [
+   "insossa",
+   "insossos",
+   "insossas"
+  ],
+  "example": {
+   "pt": "A sopa ficou insossa; falta sal.",
+   "en": "The soup turned out bland; it needs salt."
+  }
+ },
+ {
+  "pt": "apimentado",
+  "pos": "adj.",
+  "english": "spicy, peppery",
+  "level": 4,
+  "topic": "Food & drink",
+  "forms": [
+   "apimentada",
+   "apimentados",
+   "apimentadas"
+  ],
+  "example": {
+   "pt": "A comida baiana costuma ser apimentada.",
+   "en": "Bahian food is usually spicy."
+  }
+ },
+ {
+  "pt": "crocante",
+  "pos": "adj.",
+  "english": "crunchy, crispy",
+  "level": 4,
+  "topic": "Food & drink",
+  "forms": [
+   "crocantes"
+  ],
+  "example": {
+   "pt": "Gosto do pastel bem crocante.",
+   "en": "I like my pastel really crispy."
+  }
+ },
+ {
+  "pt": "suculento",
+  "pos": "adj.",
+  "english": "juicy, succulent",
+  "level": 4,
+  "topic": "Food & drink",
+  "forms": [
+   "suculenta",
+   "suculentos",
+   "suculentas"
+  ],
+  "example": {
+   "pt": "A picanha estava suculenta.",
+   "en": "The picanha was juicy."
+  }
+ },
+ {
+  "pt": "rodízio",
+  "pos": "n.",
+  "english": "all-you-can-eat (served at the table)",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "rodízios"
+  ],
+  "example": {
+   "pt": "Fomos a um rodízio de pizza no sábado.",
+   "en": "We went to an all-you-can-eat pizza place on Saturday."
+  }
+ },
+ {
+  "pt": "marmita",
+  "pos": "n.",
+  "english": "packed lunch, lunchbox",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "marmitas"
+  ],
+  "example": {
+   "pt": "Levo marmita para o trabalho para economizar.",
+   "en": "I take a packed lunch to work to save money."
+  }
+ },
+ {
+  "pt": "petisco",
+  "pos": "n.",
+  "english": "snack, appetizer",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "petiscos"
+  ],
+  "example": {
+   "pt": "O bar serve ótimos petiscos.",
+   "en": "The bar serves great snacks."
+  }
+ },
+ {
+  "pt": "tira-gosto",
+  "pos": "n.",
+  "english": "bar snack, appetizer",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "tira-gostos"
+  ],
+  "example": {
+   "pt": "Pedimos uns tira-gostos para acompanhar a cerveja.",
+   "en": "We ordered some bar snacks to go with the beer."
+  }
+ },
+ {
+  "pt": "boteco",
+  "pos": "n.",
+  "english": "neighborhood bar, dive bar",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "botecos"
+  ],
+  "example": {
+   "pt": "Depois do trabalho, a turma vai ao boteco da esquina.",
+   "en": "After work, the gang goes to the corner bar."
+  }
+ },
+ {
+  "pt": "gorjeta",
+  "pos": "n.",
+  "english": "tip",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "gorjetas"
+  ],
+  "example": {
+   "pt": "No Brasil, a gorjeta de dez por cento já vem na conta.",
+   "en": "In Brazil, the ten percent tip already comes on the bill."
+  }
+ },
+ {
+  "pt": "escassez",
+  "pos": "n.",
+  "english": "shortage, scarcity",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "f",
+  "example": {
+   "pt": "A seca provocou escassez de alimentos.",
+   "en": "The drought caused a food shortage."
+  }
+ },
+ {
+  "pt": "colheita",
+  "pos": "n.",
+  "english": "harvest",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "colheitas"
+  ],
+  "example": {
+   "pt": "A colheita da uva começa em fevereiro.",
+   "en": "The grape harvest starts in February."
+  }
+ },
+ {
+  "pt": "abastecimento",
+  "pos": "n.",
+  "english": "supply, provisioning",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "m",
+  "example": {
+   "pt": "A greve afetou o abastecimento dos supermercados.",
+   "en": "The strike affected supermarket supplies."
+  }
+ },
+ {
+  "pt": "embalagem",
+  "pos": "n.",
+  "english": "packaging, package",
+  "level": 4,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "embalagens"
+  ],
+  "example": {
+   "pt": "Leia as informações na embalagem.",
+   "en": "Read the information on the package."
+  }
+ }
+]

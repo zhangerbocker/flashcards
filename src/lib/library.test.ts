@@ -1,9 +1,17 @@
 import { describe, expect, it } from "vitest";
 import { LIBRARY } from "./reading";
 import { lookupForm } from "./segment";
-import { WORDS_BY_ID } from "./words";
+import { TOPICS } from "./topics";
+import { LEVELS, WORDS_BY_ID } from "./words";
 
 describe("reading library", () => {
+  it("has at least 2 stories for every topic at every level", () => {
+    const thin = LEVELS.flatMap((level) =>
+      TOPICS.filter((topic) => LIBRARY.filter((s) => s.level === level && s.topic === topic).length < 2).map((t) => `${level} ${t}`),
+    );
+    expect(thin).toEqual([]);
+  });
+
   it("uses only words at or below each story's level", () => {
     const tooHard = LIBRARY.flatMap((s) =>
       s.wordIds.filter((id) => (WORDS_BY_ID.get(id)?.level ?? 99) > s.level).map((id) => `${s.id}: ${WORDS_BY_ID.get(id)?.pt}`),

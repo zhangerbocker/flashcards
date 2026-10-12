@@ -1,0 +1,922 @@
+[
+ {
+  "pt": "currículo",
+  "pos": "n.",
+  "english": "résumé, CV; curriculum",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "currículos"
+  ],
+  "example": {
+   "pt": "Mandei meu currículo para três empresas.",
+   "en": "I sent my résumé to three companies."
+  }
+ },
+ {
+  "pt": "vaga",
+  "pos": "n.",
+  "english": "opening, vacancy; parking space",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "vagas"
+  ],
+  "example": {
+   "pt": "A empresa abriu uma vaga para engenheiro.",
+   "en": "The company opened a position for an engineer."
+  }
+ },
+ {
+  "pt": "promoção",
+  "pos": "n.",
+  "english": "promotion; sale",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "promoções"
+  ],
+  "example": {
+   "pt": "Ela conseguiu uma promoção no trabalho.",
+   "en": "She got a promotion at work."
+  }
+ },
+ {
+  "pt": "demissão",
+  "pos": "n.",
+  "english": "dismissal; resignation",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "demissões"
+  ],
+  "example": {
+   "pt": "Ele pediu demissão para abrir o próprio negócio.",
+   "en": "He quit his job to start his own business."
+  }
+ },
+ {
+  "pt": "demitir",
+  "pos": "v.",
+  "english": "to fire, dismiss",
+  "level": 3,
+  "topic": "School & work",
+  "example": {
+   "pt": "A fábrica demitiu cem funcionários.",
+   "en": "The factory fired a hundred employees."
+  }
+ },
+ {
+  "pt": "carreira",
+  "pos": "n.",
+  "english": "career",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "carreiras"
+  ],
+  "example": {
+   "pt": "Ela quer seguir carreira na medicina.",
+   "en": "She wants to pursue a career in medicine."
+  }
+ },
+ {
+  "pt": "negociar",
+  "pos": "v.",
+  "english": "to negotiate",
+  "level": 3,
+  "topic": "School & work",
+  "example": {
+   "pt": "Precisamos negociar o salário antes de assinar.",
+   "en": "We need to negotiate the salary before signing."
+  }
+ },
+ {
+  "pt": "contratar",
+  "pos": "v.",
+  "english": "to hire",
+  "level": 3,
+  "topic": "School & work",
+  "example": {
+   "pt": "A loja vai contratar mais vendedores no Natal.",
+   "en": "The store will hire more salespeople at Christmas."
+  }
+ },
+ {
+  "pt": "contrato",
+  "pos": "n.",
+  "english": "contract",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "contratos"
+  ],
+  "example": {
+   "pt": "Li o contrato com atenção antes de assinar.",
+   "en": "I read the contract carefully before signing."
+  }
+ },
+ {
+  "pt": "aumento",
+  "pos": "n.",
+  "english": "raise; increase",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "aumentos"
+  ],
+  "example": {
+   "pt": "Pedi um aumento ao meu chefe.",
+   "en": "I asked my boss for a raise."
+  }
+ },
+ {
+  "pt": "candidato",
+  "pos": "n.",
+  "english": "candidate, applicant",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "candidata",
+   "candidatos",
+   "candidatas"
+  ],
+  "example": {
+   "pt": "Havia vinte candidatos para a vaga.",
+   "en": "There were twenty applicants for the position."
+  }
+ },
+ {
+  "pt": "candidatar",
+  "pos": "v.",
+  "english": "to apply (for a job); to run (for office)",
+  "level": 3,
+  "topic": "School & work",
+  "example": {
+   "pt": "Vou me candidatar a uma vaga no banco.",
+   "en": "I'm going to apply for a position at the bank."
+  }
+ },
+ {
+  "pt": "estágio",
+  "pos": "n.",
+  "english": "internship",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "estágios"
+  ],
+  "example": {
+   "pt": "Ele está fazendo estágio num escritório de advocacia.",
+   "en": "He's doing an internship at a law firm."
+  }
+ },
+ {
+  "pt": "estagiário",
+  "pos": "n.",
+  "english": "intern",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "estagiária",
+   "estagiários",
+   "estagiárias"
+  ],
+  "example": {
+   "pt": "A estagiária nova é muito competente.",
+   "en": "The new intern is very competent."
+  }
+ },
+ {
+  "pt": "cargo",
+  "pos": "n.",
+  "english": "position, post, job title",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "cargos"
+  ],
+  "example": {
+   "pt": "Qual é o seu cargo na empresa?",
+   "en": "What is your position at the company?"
+  }
+ },
+ {
+  "pt": "função",
+  "pos": "n.",
+  "english": "function, role, duty",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "funções"
+  ],
+  "example": {
+   "pt": "Minha função é atender os clientes.",
+   "en": "My role is to serve customers."
+  }
+ },
+ {
+  "pt": "setor",
+  "pos": "n.",
+  "english": "sector, department",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "setores"
+  ],
+  "example": {
+   "pt": "Ela trabalha no setor de vendas.",
+   "en": "She works in the sales department."
+  }
+ },
+ {
+  "pt": "departamento",
+  "pos": "n.",
+  "english": "department",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "departamentos"
+  ],
+  "example": {
+   "pt": "Fale com o departamento de recursos humanos.",
+   "en": "Talk to the human resources department."
+  }
+ },
+ {
+  "pt": "empresário",
+  "pos": "n.",
+  "english": "businessperson, entrepreneur",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "empresária",
+   "empresários",
+   "empresárias"
+  ],
+  "example": {
+   "pt": "O pai dela é um empresário de sucesso.",
+   "en": "Her father is a successful businessman."
+  }
+ },
+ {
+  "pt": "equipe",
+  "pos": "n.",
+  "english": "team",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "equipes"
+  ],
+  "example": {
+   "pt": "Nossa equipe tem oito pessoas.",
+   "en": "Our team has eight people."
+  }
+ },
+ {
+  "pt": "meta",
+  "pos": "n.",
+  "english": "goal, target",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "metas"
+  ],
+  "example": {
+   "pt": "Batemos a meta de vendas do mês.",
+   "en": "We hit the monthly sales target."
+  }
+ },
+ {
+  "pt": "relatório",
+  "pos": "n.",
+  "english": "report",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "relatórios"
+  ],
+  "example": {
+   "pt": "Preciso terminar o relatório até amanhã.",
+   "en": "I need to finish the report by tomorrow."
+  }
+ },
+ {
+  "pt": "planilha",
+  "pos": "n.",
+  "english": "spreadsheet",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "planilhas"
+  ],
+  "example": {
+   "pt": "Coloquei todos os gastos numa planilha.",
+   "en": "I put all the expenses in a spreadsheet."
+  }
+ },
+ {
+  "pt": "tarefa",
+  "pos": "n.",
+  "english": "task, chore; homework",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "tarefas"
+  ],
+  "example": {
+   "pt": "Cada um tem uma tarefa diferente.",
+   "en": "Each person has a different task."
+  }
+ },
+ {
+  "pt": "desempenho",
+  "pos": "n.",
+  "english": "performance",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "desempenhos"
+  ],
+  "example": {
+   "pt": "O desempenho dele melhorou muito.",
+   "en": "His performance has improved a lot."
+  }
+ },
+ {
+  "pt": "responsabilidade",
+  "pos": "n.",
+  "english": "responsibility",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "responsabilidades"
+  ],
+  "example": {
+   "pt": "Esse projeto é responsabilidade sua.",
+   "en": "This project is your responsibility."
+  }
+ },
+ {
+  "pt": "responsável",
+  "pos": "adj./n.",
+  "english": "responsible; person in charge",
+  "level": 3,
+  "topic": "School & work",
+  "forms": [
+   "responsáveis"
+  ],
+  "example": {
+   "pt": "Quem é o responsável pelo setor?",
+   "en": "Who is in charge of the department?"
+  }
+ },
+ {
+  "pt": "fornecedor",
+  "pos": "n.",
+  "english": "supplier",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "fornecedores"
+  ],
+  "example": {
+   "pt": "Mudamos de fornecedor para economizar.",
+   "en": "We changed suppliers to save money."
+  }
+ },
+ {
+  "pt": "lucro",
+  "pos": "n.",
+  "english": "profit",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "lucros"
+  ],
+  "example": {
+   "pt": "A empresa teve lucro este ano.",
+   "en": "The company made a profit this year."
+  }
+ },
+ {
+  "pt": "prejuízo",
+  "pos": "n.",
+  "english": "loss, damage",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "prejuízos"
+  ],
+  "example": {
+   "pt": "A loja teve prejuízo com a crise.",
+   "en": "The store took a loss because of the crisis."
+  }
+ },
+ {
+  "pt": "sindicato",
+  "pos": "n.",
+  "english": "(labor) union",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "sindicatos"
+  ],
+  "example": {
+   "pt": "O sindicato está negociando com a empresa.",
+   "en": "The union is negotiating with the company."
+  }
+ },
+ {
+  "pt": "greve",
+  "pos": "n.",
+  "english": "strike",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "greves"
+  ],
+  "example": {
+   "pt": "Os professores entraram em greve.",
+   "en": "The teachers went on strike."
+  }
+ },
+ {
+  "pt": "aposentadoria",
+  "pos": "n.",
+  "english": "retirement; pension",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "aposentadorias"
+  ],
+  "example": {
+   "pt": "Ele está planejando a aposentadoria.",
+   "en": "He's planning his retirement."
+  }
+ },
+ {
+  "pt": "aposentar",
+  "pos": "v.",
+  "english": "to retire",
+  "level": 3,
+  "topic": "School & work",
+  "example": {
+   "pt": "Minha mãe se aposentou no ano passado.",
+   "en": "My mother retired last year."
+  }
+ },
+ {
+  "pt": "desemprego",
+  "pos": "n.",
+  "english": "unemployment",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "desempregos"
+  ],
+  "example": {
+   "pt": "O desemprego entre os jovens é alto.",
+   "en": "Unemployment among young people is high."
+  }
+ },
+ {
+  "pt": "desempregado",
+  "pos": "adj.",
+  "english": "unemployed",
+  "level": 3,
+  "topic": "School & work",
+  "forms": [
+   "desempregada",
+   "desempregados",
+   "desempregadas"
+  ],
+  "example": {
+   "pt": "Ele está desempregado há seis meses.",
+   "en": "He has been unemployed for six months."
+  }
+ },
+ {
+  "pt": "autônomo",
+  "pos": "n./adj.",
+  "english": "self-employed, freelance",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "autônoma",
+   "autônomos",
+   "autônomas"
+  ],
+  "example": {
+   "pt": "Ela trabalha como autônoma.",
+   "en": "She works as a self-employed person."
+  }
+ },
+ {
+  "pt": "carteira de trabalho",
+  "pos": "n.",
+  "english": "work permit booklet (employment record)",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "carteiras de trabalho"
+  ],
+  "example": {
+   "pt": "Ele trabalha com carteira de trabalho assinada.",
+   "en": "He works with a formal employment contract."
+  }
+ },
+ {
+  "pt": "benefício",
+  "pos": "n.",
+  "english": "benefit",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "benefícios"
+  ],
+  "example": {
+   "pt": "A empresa oferece vários benefícios.",
+   "en": "The company offers several benefits."
+  }
+ },
+ {
+  "pt": "hora extra",
+  "pos": "n.",
+  "english": "overtime",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "horas extras"
+  ],
+  "example": {
+   "pt": "Fiz muitas horas extras este mês.",
+   "en": "I did a lot of overtime this month."
+  }
+ },
+ {
+  "pt": "turno",
+  "pos": "n.",
+  "english": "shift",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "turnos"
+  ],
+  "example": {
+   "pt": "Ela trabalha no turno da noite.",
+   "en": "She works the night shift."
+  }
+ },
+ {
+  "pt": "plantão",
+  "pos": "n.",
+  "english": "(on-call) shift, duty",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "plantões"
+  ],
+  "example": {
+   "pt": "O médico está de plantão hoje.",
+   "en": "The doctor is on duty today."
+  }
+ },
+ {
+  "pt": "matrícula",
+  "pos": "n.",
+  "english": "enrollment, registration",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "matrículas"
+  ],
+  "example": {
+   "pt": "A matrícula termina na sexta-feira.",
+   "en": "Enrollment ends on Friday."
+  }
+ },
+ {
+  "pt": "matricular",
+  "pos": "v.",
+  "english": "to enroll",
+  "level": 3,
+  "topic": "School & work",
+  "example": {
+   "pt": "Matriculei meu filho numa escola nova.",
+   "en": "I enrolled my son in a new school."
+  }
+ },
+ {
+  "pt": "mensalidade",
+  "pos": "n.",
+  "english": "monthly fee, tuition",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "mensalidades"
+  ],
+  "example": {
+   "pt": "A mensalidade da faculdade é muito cara.",
+   "en": "The college tuition is very expensive."
+  }
+ },
+ {
+  "pt": "bolsa de estudos",
+  "pos": "n.",
+  "english": "scholarship",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "bolsas de estudos"
+  ],
+  "example": {
+   "pt": "Ela ganhou uma bolsa de estudos para estudar fora.",
+   "en": "She won a scholarship to study abroad."
+  }
+ },
+ {
+  "pt": "vestibular",
+  "pos": "n.",
+  "english": "university entrance exam",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "vestibulares"
+  ],
+  "example": {
+   "pt": "Ele está estudando para o vestibular.",
+   "en": "He's studying for the university entrance exam."
+  }
+ },
+ {
+  "pt": "graduação",
+  "pos": "n.",
+  "english": "undergraduate degree",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "graduações"
+  ],
+  "example": {
+   "pt": "Fiz graduação em economia.",
+   "en": "I did my undergraduate degree in economics."
+  }
+ },
+ {
+  "pt": "formatura",
+  "pos": "n.",
+  "english": "graduation (ceremony)",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "formaturas"
+  ],
+  "example": {
+   "pt": "A festa de formatura foi incrível.",
+   "en": "The graduation party was amazing."
+  }
+ },
+ {
+  "pt": "formar",
+  "pos": "v.",
+  "english": "to graduate (formar-se); to form",
+  "level": 3,
+  "topic": "School & work",
+  "example": {
+   "pt": "Ela se formou em direito no ano passado.",
+   "en": "She graduated in law last year."
+  }
+ },
+ {
+  "pt": "diploma",
+  "pos": "n.",
+  "english": "diploma, degree certificate",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "diplomas"
+  ],
+  "example": {
+   "pt": "Ainda não recebi meu diploma.",
+   "en": "I haven't received my diploma yet."
+  }
+ },
+ {
+  "pt": "mestrado",
+  "pos": "n.",
+  "english": "master's degree",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "mestrados"
+  ],
+  "example": {
+   "pt": "Ele está fazendo mestrado em biologia.",
+   "en": "He's doing a master's in biology."
+  }
+ },
+ {
+  "pt": "doutorado",
+  "pos": "n.",
+  "english": "doctorate, PhD",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "doutorados"
+  ],
+  "example": {
+   "pt": "Ela terminou o doutorado em Portugal.",
+   "en": "She finished her PhD in Portugal."
+  }
+ },
+ {
+  "pt": "disciplina",
+  "pos": "n.",
+  "english": "(school) subject, course; discipline",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "disciplinas"
+  ],
+  "example": {
+   "pt": "Estou cursando quatro disciplinas este semestre.",
+   "en": "I'm taking four courses this semester."
+  }
+ },
+ {
+  "pt": "reprovar",
+  "pos": "v.",
+  "english": "to fail (a student, a test)",
+  "level": 3,
+  "topic": "School & work",
+  "example": {
+   "pt": "Ele foi reprovado em matemática.",
+   "en": "He failed math."
+  }
+ },
+ {
+  "pt": "aprovado",
+  "pos": "adj.",
+  "english": "approved; passed (exam)",
+  "level": 3,
+  "topic": "School & work",
+  "forms": [
+   "aprovada",
+   "aprovados",
+   "aprovadas"
+  ],
+  "example": {
+   "pt": "Fui aprovado no vestibular!",
+   "en": "I passed the entrance exam!"
+  }
+ },
+ {
+  "pt": "apostila",
+  "pos": "n.",
+  "english": "course handout, workbook",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "apostilas"
+  ],
+  "example": {
+   "pt": "O professor distribuiu as apostilas.",
+   "en": "The teacher handed out the workbooks."
+  }
+ },
+ {
+  "pt": "redação",
+  "pos": "n.",
+  "english": "essay, composition",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "redações"
+  ],
+  "example": {
+   "pt": "A redação do vestibular vale muitos pontos.",
+   "en": "The entrance exam essay is worth a lot of points."
+  }
+ },
+ {
+  "pt": "pesquisa",
+  "pos": "n.",
+  "english": "research; survey; search",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "pesquisas"
+  ],
+  "example": {
+   "pt": "Estou fazendo uma pesquisa sobre o meio ambiente.",
+   "en": "I'm doing research on the environment."
+  }
+ },
+ {
+  "pt": "palestra",
+  "pos": "n.",
+  "english": "lecture, talk",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "palestras"
+  ],
+  "example": {
+   "pt": "Assisti a uma palestra sobre inteligência artificial.",
+   "en": "I attended a talk on artificial intelligence."
+  }
+ },
+ {
+  "pt": "orientador",
+  "pos": "n.",
+  "english": "advisor, supervisor (academic)",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "orientadora",
+   "orientadores",
+   "orientadoras"
+  ],
+  "example": {
+   "pt": "Minha orientadora leu a tese inteira.",
+   "en": "My advisor read the whole thesis."
+  }
+ },
+ {
+  "pt": "faltar",
+  "pos": "v.",
+  "english": "to miss, be absent; to be lacking",
+  "level": 3,
+  "topic": "School & work",
+  "example": {
+   "pt": "Faltei à aula porque estava doente.",
+   "en": "I missed class because I was sick."
+  }
+ },
+ {
+  "pt": "falta",
+  "pos": "n.",
+  "english": "absence; lack; foul",
+  "level": 3,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "faltas"
+  ],
+  "example": {
+   "pt": "Se tiver mais de dez faltas, você reprova.",
+   "en": "If you have more than ten absences, you fail."
+  }
+ }
+]

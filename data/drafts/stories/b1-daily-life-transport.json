@@ -1,0 +1,476 @@
+[
+ {
+  "id": "b1-daily-life-transport-1",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "title": "A carona",
+  "titleEn": "The ride",
+  "sentences": [
+   {
+    "pt": "Paulo mora na periferia de São Paulo e trabalha num escritório no centro.",
+    "en": "Paulo lives on the outskirts of São Paulo and works in an office downtown.",
+    "glosses": {
+     "mora": "lives",
+     "trabalha": "works",
+     "num": "in an",
+     "no": "in the"
+    }
+   },
+   {
+    "pt": "Todos os dias, ele pega dois ônibus e o metrô, e a viagem dura quase duas horas.",
+    "en": "Every day, he takes two buses and the subway, and the trip takes almost two hours.",
+    "glosses": {
+     "pega": "takes",
+     "dura": "lasts"
+    }
+   },
+   {
+    "pt": "No horário de pico, os ônibus estão sempre lotados, e ele quase nunca consegue sentar.",
+    "en": "At rush hour, the buses are always packed, and he almost never manages to sit down.",
+    "glosses": {
+     "estão": "are",
+     "consegue": "manages"
+    }
+   },
+   {
+    "pt": "Numa segunda-feira, houve uma greve do metrô, e a cidade inteira parou.",
+    "en": "One Monday, there was a subway strike, and the whole city stopped.",
+    "glosses": {
+     "numa": "on a",
+     "houve": "there was",
+     "do": "of the",
+     "parou": "stopped"
+    }
+   },
+   {
+    "pt": "Paulo estava no ponto de ônibus, sem saber o que fazer, quando um carro parou na frente dele.",
+    "en": "Paulo was at the bus stop, not knowing what to do, when a car stopped in front of him.",
+    "glosses": {
+     "estava": "was",
+     "no": "at the",
+     "saber": "knowing",
+     "parou": "stopped",
+     "na": "in the",
+     "frente": "front",
+     "dele": "of him"
+    }
+   },
+   {
+    "pt": "Era Fernanda, uma colega do departamento de projetos que morava no mesmo bairro.",
+    "en": "It was Fernanda, a colleague from the projects department who lived in the same neighborhood.",
+    "glosses": {
+     "era": "it was",
+     "do": "from the",
+     "morava": "lived"
+    }
+   },
+   {
+    "pt": "\"Quer uma carona?\", perguntou ela.",
+    "en": "\"Want a ride?\" she asked.",
+    "glosses": {
+     "quer": "do you want",
+     "perguntou": "asked"
+    }
+   },
+   {
+    "pt": "Paulo aceitou na hora, embora os dois quase nunca tivessem conversado antes.",
+    "en": "Paulo accepted immediately, although the two had hardly ever talked before.",
+    "glosses": {
+     "aceitou": "accepted",
+     "na": "on the",
+     "hora": "time (right then)",
+     "tivessem": "had (subjunctive)",
+     "conversado": "talked"
+    }
+   },
+   {
+    "pt": "No caminho, havia um engarrafamento enorme na avenida principal.",
+    "en": "On the way, there was a huge traffic jam on the main avenue.",
+    "glosses": {
+     "no": "on the",
+     "caminho": "way",
+     "havia": "there was",
+     "na": "on the"
+    }
+   },
+   {
+    "pt": "Fernanda decidiu pegar a rodovia, que é mais rápida, mesmo com o pedágio.",
+    "en": "Fernanda decided to take the highway, which is faster, even with the toll.",
+    "glosses": {
+     "decidiu": "decided",
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Depois de dez minutos, no entanto, o carro começou a puxar para a direita.",
+    "en": "After ten minutes, however, the car started pulling to the right.",
+    "glosses": {
+     "começou": "started",
+     "puxar": "pull"
+    }
+   },
+   {
+    "pt": "Ela parou no acostamento e os dois viram que um pneu estava vazio.",
+    "en": "She stopped on the shoulder and the two saw that a tire was flat.",
+    "glosses": {
+     "parou": "stopped",
+     "no": "on the",
+     "viram": "saw",
+     "estava": "was",
+     "vazio": "flat"
+    }
+   },
+   {
+    "pt": "Fernanda nunca tinha trocado um pneu, mas Paulo tinha aprendido com o pai, que era motorista de caminhão.",
+    "en": "Fernanda had never changed a tire, but Paulo had learned from his father, who was a truck driver.",
+    "glosses": {
+     "tinha": "had",
+     "trocado": "changed",
+     "aprendido": "learned",
+     "era": "was"
+    }
+   },
+   {
+    "pt": "Em vinte minutos, ele trocou o pneu, enquanto ela segurava o guarda-chuva, porque tinha começado a chover.",
+    "en": "In twenty minutes, he changed the tire, while she held the umbrella, because it had started to rain.",
+    "glosses": {
+     "trocou": "changed",
+     "segurava": "held",
+     "guarda-chuva": "umbrella",
+     "tinha": "had",
+     "começado": "started"
+    }
+   },
+   {
+    "pt": "Eles chegaram ao escritório uma hora atrasados, sujos e molhados.",
+    "en": "They got to the office an hour late, dirty and wet.",
+    "glosses": {
+     "chegaram": "arrived",
+     "ao": "at the"
+    }
+   },
+   {
+    "pt": "Mesmo assim, o chefe não reclamou, porque metade da equipe nem tinha conseguido chegar.",
+    "en": "Even so, the boss didn't complain, because half the team hadn't even managed to get there.",
+    "glosses": {
+     "mesmo": "even",
+     "assim": "so",
+     "reclamou": "complained",
+     "da": "of the",
+     "tinha": "had",
+     "conseguido": "managed"
+    }
+   },
+   {
+    "pt": "À tarde, Fernanda deu uma ideia: \"E se a gente dividisse o carro todos os dias?\"",
+    "en": "In the afternoon, Fernanda had an idea: \"What if we shared the car every day?\"",
+    "glosses": {
+     "deu": "gave",
+     "ideia": "idea",
+     "dividisse": "shared (subjunctive)"
+    }
+   },
+   {
+    "pt": "Paulo pagaria metade da gasolina e do pedágio, e ela não ficaria sozinha no trânsito.",
+    "en": "Paulo would pay half of the gas and the toll, and she wouldn't be alone in traffic.",
+    "glosses": {
+     "pagaria": "would pay",
+     "da": "of the",
+     "do": "of the",
+     "ficaria": "would be",
+     "no": "in the"
+    }
+   },
+   {
+    "pt": "Desde então, eles vão juntos para o trabalho, ouvindo música e conversando sobre a vida.",
+    "en": "Since then, they go to work together, listening to music and talking about life.",
+    "glosses": {
+     "vão": "go",
+     "juntos": "together",
+     "ouvindo": "listening to",
+     "conversando": "talking"
+    }
+   },
+   {
+    "pt": "Paulo agora chega ao escritório em quarenta minutos e muito menos cansado.",
+    "en": "Paulo now gets to the office in forty minutes and much less tired.",
+    "glosses": {
+     "chega": "arrives",
+     "ao": "at the"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Por que Paulo não pegou o metrô na segunda-feira?",
+    "qEn": "Why didn't Paulo take the subway on Monday?",
+    "options": [
+     "Por causa de uma greve",
+     "Porque acordou tarde",
+     "Por causa da chuva",
+     "Porque estava doente"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "O que aconteceu com o carro na rodovia?",
+    "qEn": "What happened to the car on the highway?",
+    "options": [
+     "O freio quebrou",
+     "Acabou a gasolina",
+     "Ficou sem freio",
+     "O pneu ficou vazio"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "Com quem Paulo aprendeu a trocar pneu?",
+    "qEn": "Who did Paulo learn to change a tire from?",
+    "options": [
+     "Com o pai",
+     "Com Fernanda",
+     "Com o chefe",
+     "Com um amigo"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "b1-daily-life-transport-2",
+  "level": 3,
+  "topic": "Daily life & transport",
+  "title": "O vazamento",
+  "titleEn": "The leak",
+  "sentences": [
+   {
+    "pt": "Seu Antônio é aposentado e mora sozinho num apartamento pequeno em Fortaleza.",
+    "en": "Mr. Antônio is retired and lives alone in a small apartment in Fortaleza.",
+    "glosses": {
+     "é": "is",
+     "mora": "lives",
+     "num": "in a"
+    }
+   },
+   {
+    "pt": "O cotidiano dele é simples e calmo.",
+    "en": "His daily life is simple and calm.",
+    "glosses": {
+     "dele": "his",
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Ele acorda às seis, faz café, lê o jornal e depois varre a casa e lava a louça.",
+    "en": "He wakes up at six, makes coffee, reads the newspaper and then sweeps the house and washes the dishes.",
+    "glosses": {
+     "acorda": "wakes up",
+     "às": "at",
+     "faz": "makes",
+     "lê": "reads",
+     "varre": "sweeps",
+     "lava": "washes"
+    }
+   },
+   {
+    "pt": "Uma vez por semana, faz a faxina do apartamento inteiro, e na sexta-feira vai à feira comprar frutas e verduras.",
+    "en": "Once a week, he cleans the whole apartment, and on Friday he goes to the market to buy fruit and vegetables.",
+    "glosses": {
+     "vez": "time",
+     "faz": "does",
+     "do": "of the",
+     "na": "on",
+     "vai": "goes",
+     "à": "to the"
+    }
+   },
+   {
+    "pt": "Numa terça-feira, quando entrou na cozinha, encontrou a mesa e o fogão molhados.",
+    "en": "One Tuesday, when he went into the kitchen, he found the table and the stove wet.",
+    "glosses": {
+     "numa": "on a",
+     "entrou": "went",
+     "na": "into the",
+     "encontrou": "found"
+    }
+   },
+   {
+    "pt": "Ele mora no segundo andar, e a água vinha do apartamento do terceiro.",
+    "en": "He lives on the second floor, and the water was coming from the apartment on the third.",
+    "glosses": {
+     "mora": "lives",
+     "no": "on the",
+     "vinha": "was coming",
+     "do": "from the"
+    }
+   },
+   {
+    "pt": "Ele colocou panelas e toalhas na cozinha e subiu a escada para falar com a vizinha.",
+    "en": "He put pots and towels in the kitchen and went up the stairs to talk to the neighbor.",
+    "glosses": {
+     "colocou": "put",
+     "na": "in the",
+     "subiu": "went up"
+    }
+   },
+   {
+    "pt": "Ninguém abriu a porta.",
+    "en": "No one opened the door.",
+    "glosses": {
+     "abriu": "opened"
+    }
+   },
+   {
+    "pt": "O funcionário do prédio explicou que a moça, uma estudante chamada Luíza, estava viajando e só voltaria no domingo.",
+    "en": "The building employee explained that the young woman, a student named Luíza, was traveling and would only be back on Sunday.",
+    "glosses": {
+     "funcionário": "employee",
+     "explicou": "explained",
+     "chamada": "named",
+     "estava": "was",
+     "viajando": "traveling",
+     "voltaria": "would return"
+    }
+   },
+   {
+    "pt": "Seu Antônio ficou irritado, porque o vazamento piorava a cada hora.",
+    "en": "Mr. Antônio got annoyed, because the leak was getting worse every hour.",
+    "glosses": {
+     "ficou": "got",
+     "piorava": "was getting worse"
+    }
+   },
+   {
+    "pt": "Ele ligou para um encanador, mas o encanador só poderia ir no dia seguinte.",
+    "en": "He called a plumber, but the plumber could only come the next day.",
+    "glosses": {
+     "ligou": "called",
+     "poderia": "could",
+     "seguinte": "next"
+    }
+   },
+   {
+    "pt": "Então o funcionário conseguiu o celular de Luíza no escritório do condomínio.",
+    "en": "So the building employee got Luíza's cell number at the building office.",
+    "glosses": {
+     "conseguiu": "got",
+     "no": "at the",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Quando Seu Antônio ligou, ela ficou muito envergonhada e pediu desculpa muitas vezes.",
+    "en": "When Mr. Antônio called, she was very embarrassed and apologized many times.",
+    "glosses": {
+     "ligou": "called",
+     "ficou": "was",
+     "pediu": "asked for",
+     "desculpa": "forgiveness (apologized)",
+     "vezes": "times"
+    }
+   },
+   {
+    "pt": "Ela explicou que tinha deixado a máquina de lavar ligada antes de sair para o aeroporto.",
+    "en": "She explained that she had left the washing machine on before leaving for the airport.",
+    "glosses": {
+     "explicou": "explained",
+     "tinha": "had",
+     "deixado": "left",
+     "ligada": "on",
+     "sair": "leaving"
+    }
+   },
+   {
+    "pt": "Luíza deixou o funcionário entrar no apartamento para fechar a água.",
+    "en": "Luíza let the employee go into the apartment to shut off the water.",
+    "glosses": {
+     "deixou": "let",
+     "no": "into the",
+     "fechar": "shut off"
+    }
+   },
+   {
+    "pt": "No dia seguinte, o encanador veio e consertou a máquina de lavar, que estava quebrada.",
+    "en": "The next day, the plumber came and fixed the washing machine, which was broken.",
+    "glosses": {
+     "seguinte": "next",
+     "veio": "came",
+     "consertou": "fixed",
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "O conserto custou 400 reais, e Luíza insistiu em pagar tudo.",
+    "en": "The repair cost 400 reais, and Luíza insisted on paying for everything.",
+    "glosses": {
+     "custou": "cost",
+     "insistiu": "insisted"
+    }
+   },
+   {
+    "pt": "No domingo, quando voltou, ela foi até a porta de Seu Antônio com um bolo de laranja.",
+    "en": "On Sunday, when she came back, she went to Mr. Antônio's door with an orange cake.",
+    "glosses": {
+     "voltou": "came back",
+     "foi": "went"
+    }
+   },
+   {
+    "pt": "Ele, que estava pronto para reclamar, acabou convidando a moça para tomar um café.",
+    "en": "He, who was ready to complain, ended up inviting the young woman for a coffee.",
+    "glosses": {
+     "estava": "was",
+     "pronto": "ready",
+     "acabou": "ended up",
+     "convidando": "inviting"
+    }
+   },
+   {
+    "pt": "Desde então, ela ajuda o vizinho com o celular, e ele ensina a ela umas receitas antigas da mãe dele.",
+    "en": "Since then, she helps her neighbor with his phone, and he teaches her some old recipes from his mother.",
+    "glosses": {
+     "ajuda": "helps",
+     "ensina": "teaches",
+     "umas": "some",
+     "da": "of the",
+     "dele": "his"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Onde Seu Antônio encontrou a água?",
+    "qEn": "Where did Mr. Antônio find the water?",
+    "options": [
+     "Na cozinha",
+     "No quarto",
+     "Na sala",
+     "No banheiro"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "De onde veio o vazamento?",
+    "qEn": "Where did the leak come from?",
+    "options": [
+     "A máquina de lavar",
+     "O chuveiro",
+     "A chuva",
+     "A geladeira"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "O que Luíza levou para Seu Antônio?",
+    "qEn": "What did Luíza bring Mr. Antônio?",
+    "options": [
+     "Frutas",
+     "Um vinho",
+     "Um bolo",
+     "Flores"
+    ],
+    "answer": 2
+   }
+  ]
+ }
+]

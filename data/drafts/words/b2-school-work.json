@@ -1,0 +1,862 @@
+[
+ {
+  "pt": "empreendedor",
+  "pos": "n./adj.",
+  "english": "entrepreneur; entrepreneurial",
+  "level": 4,
+  "topic": "School & work",
+  "forms": [
+   "empreendedora",
+   "empreendedores",
+   "empreendedoras"
+  ],
+  "example": {
+   "pt": "Ela é uma empreendedora de sucesso no ramo de cosméticos.",
+   "en": "She is a successful entrepreneur in the cosmetics business."
+  }
+ },
+ {
+  "pt": "empreendedorismo",
+  "pos": "n.",
+  "english": "entrepreneurship",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "example": {
+   "pt": "O curso incentiva o empreendedorismo entre os jovens.",
+   "en": "The course encourages entrepreneurship among young people."
+  }
+ },
+ {
+  "pt": "licitação",
+  "pos": "n.",
+  "english": "public tender, bidding process",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "licitações"
+  ],
+  "example": {
+   "pt": "A prefeitura abriu uma licitação para a obra.",
+   "en": "City hall opened a public tender for the construction."
+  }
+ },
+ {
+  "pt": "rendimento",
+  "pos": "n.",
+  "english": "income; yield; (academic) performance",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "rendimentos"
+  ],
+  "example": {
+   "pt": "O rendimento da poupança caiu.",
+   "en": "The savings account yield fell."
+  }
+ },
+ {
+  "pt": "cargo",
+  "pos": "n.",
+  "english": "position, post",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "cargos"
+  ],
+  "example": {
+   "pt": "Ele ocupa um cargo de chefia.",
+   "en": "He holds a management position."
+  }
+ },
+ {
+  "pt": "terceirizar",
+  "pos": "v.",
+  "english": "to outsource",
+  "level": 4,
+  "topic": "School & work",
+  "example": {
+   "pt": "A empresa terceirizou o serviço de limpeza.",
+   "en": "The company outsourced the cleaning service."
+  }
+ },
+ {
+  "pt": "home office",
+  "pos": "n.",
+  "english": "working from home, remote work",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "example": {
+   "pt": "Trabalho de home office três dias por semana.",
+   "en": "I work from home three days a week."
+  }
+ },
+ {
+  "pt": "desempenho",
+  "pos": "n.",
+  "english": "performance",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "desempenhos"
+  ],
+  "example": {
+   "pt": "O desempenho da equipe melhorou bastante este ano.",
+   "en": "The team's performance improved a lot this year."
+  }
+ },
+ {
+  "pt": "meta",
+  "pos": "n.",
+  "english": "goal, target",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "metas"
+  ],
+  "example": {
+   "pt": "Batemos a meta de vendas do mês.",
+   "en": "We hit the monthly sales target."
+  }
+ },
+ {
+  "pt": "processo seletivo",
+  "pos": "n.",
+  "english": "selection process, recruitment",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "processos seletivos"
+  ],
+  "example": {
+   "pt": "O processo seletivo tem três etapas.",
+   "en": "The selection process has three stages."
+  }
+ },
+ {
+  "pt": "estágio",
+  "pos": "n.",
+  "english": "internship; stage",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "estágios"
+  ],
+  "example": {
+   "pt": "Consegui um estágio numa agência de publicidade.",
+   "en": "I got an internship at an advertising agency."
+  }
+ },
+ {
+  "pt": "estagiário",
+  "pos": "n.",
+  "english": "intern",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "estagiária",
+   "estagiários",
+   "estagiárias"
+  ],
+  "example": {
+   "pt": "A estagiária foi efetivada depois de um ano.",
+   "en": "The intern was hired permanently after a year."
+  }
+ },
+ {
+  "pt": "contratação",
+  "pos": "n.",
+  "english": "hiring",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "contratações"
+  ],
+  "example": {
+   "pt": "A empresa suspendeu novas contratações.",
+   "en": "The company suspended new hiring."
+  }
+ },
+ {
+  "pt": "demissão",
+  "pos": "n.",
+  "english": "dismissal; resignation",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "demissões"
+  ],
+  "example": {
+   "pt": "Ele pediu demissão para abrir o próprio negócio.",
+   "en": "He resigned to start his own business."
+  }
+ },
+ {
+  "pt": "demitir",
+  "pos": "v.",
+  "english": "to fire, dismiss",
+  "level": 4,
+  "topic": "School & work",
+  "example": {
+   "pt": "A fábrica demitiu cem funcionários.",
+   "en": "The factory fired a hundred employees."
+  }
+ },
+ {
+  "pt": "carteira assinada",
+  "pos": "n.",
+  "english": "formal employment (signed work card)",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "example": {
+   "pt": "Ele trabalha de carteira assinada há dez anos.",
+   "en": "He has been formally employed for ten years."
+  }
+ },
+ {
+  "pt": "autônomo",
+  "pos": "adj./n.",
+  "english": "self-employed, freelance",
+  "level": 4,
+  "topic": "School & work",
+  "forms": [
+   "autônoma",
+   "autônomos",
+   "autônomas"
+  ],
+  "example": {
+   "pt": "Como autônoma, ela não tem férias remuneradas.",
+   "en": "As a self-employed worker, she has no paid vacation."
+  }
+ },
+ {
+  "pt": "carga horária",
+  "pos": "n.",
+  "english": "workload (hours), course hours",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "cargas horárias"
+  ],
+  "example": {
+   "pt": "A carga horária é de quarenta horas semanais.",
+   "en": "The workload is forty hours a week."
+  }
+ },
+ {
+  "pt": "hora extra",
+  "pos": "n.",
+  "english": "overtime",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "horas extras"
+  ],
+  "example": {
+   "pt": "Fiz muitas horas extras este mês.",
+   "en": "I did a lot of overtime this month."
+  }
+ },
+ {
+  "pt": "plantão",
+  "pos": "n.",
+  "english": "(on-call) shift",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "plantões"
+  ],
+  "example": {
+   "pt": "A médica está de plantão no fim de semana.",
+   "en": "The doctor is on call this weekend."
+  }
+ },
+ {
+  "pt": "folga",
+  "pos": "n.",
+  "english": "day off; slack",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "folgas"
+  ],
+  "example": {
+   "pt": "Amanhã é minha folga.",
+   "en": "Tomorrow is my day off."
+  }
+ },
+ {
+  "pt": "aposentadoria",
+  "pos": "n.",
+  "english": "retirement; pension",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "aposentadorias"
+  ],
+  "example": {
+   "pt": "Meu pai está pensando na aposentadoria.",
+   "en": "My father is thinking about retirement."
+  }
+ },
+ {
+  "pt": "aposentar",
+  "pos": "v.",
+  "english": "to retire",
+  "level": 4,
+  "topic": "School & work",
+  "example": {
+   "pt": "Ela se aposentou depois de trinta anos de trabalho.",
+   "en": "She retired after thirty years of work."
+  }
+ },
+ {
+  "pt": "salário mínimo",
+  "pos": "n.",
+  "english": "minimum wage",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "salários mínimos"
+  ],
+  "example": {
+   "pt": "O salário mínimo foi reajustado em janeiro.",
+   "en": "The minimum wage was adjusted in January."
+  }
+ },
+ {
+  "pt": "benefício",
+  "pos": "n.",
+  "english": "benefit, perk",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "benefícios"
+  ],
+  "example": {
+   "pt": "A vaga oferece vale-refeição e outros benefícios.",
+   "en": "The job offers meal vouchers and other benefits."
+  }
+ },
+ {
+  "pt": "vale-transporte",
+  "pos": "n.",
+  "english": "transport allowance",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "vales-transporte"
+  ],
+  "example": {
+   "pt": "A empresa paga vale-transporte aos funcionários.",
+   "en": "The company pays employees a transport allowance."
+  }
+ },
+ {
+  "pt": "décimo terceiro",
+  "pos": "n.",
+  "english": "13th-month salary (year-end bonus)",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "example": {
+   "pt": "Vou usar o décimo terceiro para pagar dívidas.",
+   "en": "I'll use my 13th-month salary to pay off debts."
+  }
+ },
+ {
+  "pt": "gestor",
+  "pos": "n.",
+  "english": "manager",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "gestora",
+   "gestores",
+   "gestoras"
+  ],
+  "example": {
+   "pt": "A gestora elogiou o trabalho da equipe.",
+   "en": "The manager praised the team's work."
+  }
+ },
+ {
+  "pt": "gestão",
+  "pos": "n.",
+  "english": "management, administration",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "gestões"
+  ],
+  "example": {
+   "pt": "Ela fez um MBA em gestão de pessoas.",
+   "en": "She did an MBA in people management."
+  }
+ },
+ {
+  "pt": "liderança",
+  "pos": "n.",
+  "english": "leadership",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "lideranças"
+  ],
+  "example": {
+   "pt": "Ele tem talento para liderança.",
+   "en": "He has a talent for leadership."
+  }
+ },
+ {
+  "pt": "colaborador",
+  "pos": "n.",
+  "english": "employee, staff member (corporate)",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "colaboradora",
+   "colaboradores",
+   "colaboradoras"
+  ],
+  "example": {
+   "pt": "A empresa tem mais de mil colaboradores.",
+   "en": "The company has over a thousand employees."
+  }
+ },
+ {
+  "pt": "pauta",
+  "pos": "n.",
+  "english": "agenda (of a meeting)",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "pautas"
+  ],
+  "example": {
+   "pt": "Qual é a pauta da reunião de hoje?",
+   "en": "What's on today's meeting agenda?"
+  }
+ },
+ {
+  "pt": "relatório",
+  "pos": "n.",
+  "english": "report",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "relatórios"
+  ],
+  "example": {
+   "pt": "Preciso entregar o relatório até sexta.",
+   "en": "I need to hand in the report by Friday."
+  }
+ },
+ {
+  "pt": "planilha",
+  "pos": "n.",
+  "english": "spreadsheet",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "planilhas"
+  ],
+  "example": {
+   "pt": "Coloquei todos os dados na planilha.",
+   "en": "I put all the data in the spreadsheet."
+  }
+ },
+ {
+  "pt": "demanda",
+  "pos": "n.",
+  "english": "demand; workload, request",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "demandas"
+  ],
+  "example": {
+   "pt": "Estamos com muita demanda esta semana.",
+   "en": "We have a heavy workload this week."
+  }
+ },
+ {
+  "pt": "fornecedor",
+  "pos": "n.",
+  "english": "supplier",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "fornecedores"
+  ],
+  "example": {
+   "pt": "Trocamos de fornecedor para reduzir custos.",
+   "en": "We switched suppliers to cut costs."
+  }
+ },
+ {
+  "pt": "delegar",
+  "pos": "v.",
+  "english": "to delegate",
+  "level": 4,
+  "topic": "School & work",
+  "example": {
+   "pt": "Um bom chefe sabe delegar tarefas.",
+   "en": "A good boss knows how to delegate tasks."
+  }
+ },
+ {
+  "pt": "cobrar",
+  "pos": "v.",
+  "english": "to charge; to demand, pressure (for results)",
+  "level": 4,
+  "topic": "School & work",
+  "example": {
+   "pt": "O chefe cobra resultados toda semana.",
+   "en": "The boss demands results every week."
+  }
+ },
+ {
+  "pt": "capacitação",
+  "pos": "n.",
+  "english": "training, skills development",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "capacitações"
+  ],
+  "example": {
+   "pt": "Os funcionários passaram por uma capacitação.",
+   "en": "The employees went through training."
+  }
+ },
+ {
+  "pt": "qualificação",
+  "pos": "n.",
+  "english": "qualification",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "qualificações"
+  ],
+  "example": {
+   "pt": "Faltam profissionais com qualificação técnica.",
+   "en": "There is a lack of professionals with technical qualifications."
+  }
+ },
+ {
+  "pt": "pós-graduação",
+  "pos": "n.",
+  "english": "postgraduate studies",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "pós-graduações"
+  ],
+  "example": {
+   "pt": "Ela está fazendo pós-graduação em direito.",
+   "en": "She is doing postgraduate studies in law."
+  }
+ },
+ {
+  "pt": "mestrado",
+  "pos": "n.",
+  "english": "master's degree",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "mestrados"
+  ],
+  "example": {
+   "pt": "Ele terminou o mestrado em economia.",
+   "en": "He finished his master's in economics."
+  }
+ },
+ {
+  "pt": "doutorado",
+  "pos": "n.",
+  "english": "doctorate, PhD",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "doutorados"
+  ],
+  "example": {
+   "pt": "Ela defendeu a tese de doutorado ontem.",
+   "en": "She defended her doctoral thesis yesterday."
+  }
+ },
+ {
+  "pt": "vestibular",
+  "pos": "n.",
+  "english": "university entrance exam",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "vestibulares"
+  ],
+  "example": {
+   "pt": "Ele passou no vestibular de medicina.",
+   "en": "He passed the medical school entrance exam."
+  }
+ },
+ {
+  "pt": "bolsa de estudos",
+  "pos": "n.",
+  "english": "scholarship",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "bolsas de estudos"
+  ],
+  "example": {
+   "pt": "Ela ganhou uma bolsa de estudos integral.",
+   "en": "She won a full scholarship."
+  }
+ },
+ {
+  "pt": "matrícula",
+  "pos": "n.",
+  "english": "enrollment, registration",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "matrículas"
+  ],
+  "example": {
+   "pt": "O período de matrícula termina amanhã.",
+   "en": "The enrollment period ends tomorrow."
+  }
+ },
+ {
+  "pt": "mensalidade",
+  "pos": "n.",
+  "english": "monthly fee, tuition",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "mensalidades"
+  ],
+  "example": {
+   "pt": "A mensalidade da faculdade aumentou.",
+   "en": "The college's monthly tuition went up."
+  }
+ },
+ {
+  "pt": "ensino superior",
+  "pos": "n.",
+  "english": "higher education",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "example": {
+   "pt": "O acesso ao ensino superior cresceu nas últimas décadas.",
+   "en": "Access to higher education has grown in recent decades."
+  }
+ },
+ {
+  "pt": "orientador",
+  "pos": "n.",
+  "english": "(academic) advisor, supervisor",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "orientadora",
+   "orientadores",
+   "orientadoras"
+  ],
+  "example": {
+   "pt": "Meu orientador revisou a monografia.",
+   "en": "My advisor reviewed the thesis."
+  }
+ },
+ {
+  "pt": "monografia",
+  "pos": "n.",
+  "english": "undergraduate thesis, monograph",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "monografias"
+  ],
+  "example": {
+   "pt": "Preciso entregar a monografia no fim do semestre.",
+   "en": "I need to hand in my thesis at the end of the semester."
+  }
+ },
+ {
+  "pt": "reprovado",
+  "pos": "adj.",
+  "english": "failed (exam/course)",
+  "level": 4,
+  "topic": "School & work",
+  "forms": [
+   "reprovada",
+   "reprovados",
+   "reprovadas"
+  ],
+  "example": {
+   "pt": "Ele foi reprovado em matemática.",
+   "en": "He failed math."
+  }
+ },
+ {
+  "pt": "sindicato",
+  "pos": "n.",
+  "english": "trade union",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "sindicatos"
+  ],
+  "example": {
+   "pt": "O sindicato negociou o reajuste salarial.",
+   "en": "The union negotiated the pay raise."
+  }
+ },
+ {
+  "pt": "greve",
+  "pos": "n.",
+  "english": "strike",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "greves"
+  ],
+  "example": {
+   "pt": "Os professores entraram em greve.",
+   "en": "The teachers went on strike."
+  }
+ },
+ {
+  "pt": "produtividade",
+  "pos": "n.",
+  "english": "productivity",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "example": {
+   "pt": "O home office aumentou a produtividade.",
+   "en": "Working from home increased productivity."
+  }
+ },
+ {
+  "pt": "faturamento",
+  "pos": "n.",
+  "english": "revenue, turnover",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "faturamentos"
+  ],
+  "example": {
+   "pt": "O faturamento da empresa dobrou.",
+   "en": "The company's revenue doubled."
+  }
+ },
+ {
+  "pt": "sócio",
+  "pos": "n.",
+  "english": "business partner; member",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "sócia",
+   "sócios",
+   "sócias"
+  ],
+  "example": {
+   "pt": "Ele abriu o restaurante com dois sócios.",
+   "en": "He opened the restaurant with two partners."
+  }
+ },
+ {
+  "pt": "filial",
+  "pos": "n.",
+  "english": "branch (office)",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "filiais"
+  ],
+  "example": {
+   "pt": "A empresa tem filiais em cinco estados.",
+   "en": "The company has branches in five states."
+  }
+ },
+ {
+  "pt": "sede",
+  "pos": "n.",
+  "english": "headquarters",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "sedes"
+  ],
+  "example": {
+   "pt": "A sede do banco fica em São Paulo.",
+   "en": "The bank's headquarters is in São Paulo."
+  }
+ },
+ {
+  "pt": "expediente",
+  "pos": "n.",
+  "english": "working hours, office hours",
+  "level": 4,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "expedientes"
+  ],
+  "example": {
+   "pt": "O expediente termina às seis.",
+   "en": "Office hours end at six."
+  }
+ }
+]

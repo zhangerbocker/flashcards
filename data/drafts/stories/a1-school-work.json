@@ -1,0 +1,351 @@
+[
+ {
+  "id": "a1-school-work-1",
+  "level": 1,
+  "topic": "School & work",
+  "title": "O primeiro dia de aula",
+  "titleEn": "The first day of school",
+  "sentences": [
+   {
+    "pt": "Hoje é o primeiro dia de aula de Sofia.",
+    "en": "Today is Sofia's first day of school.",
+    "glosses": {
+     "é": "is",
+     "aula": "school, class"
+    }
+   },
+   {
+    "pt": "Ela tem seis anos e está um pouco nervosa.",
+    "en": "She is six years old and a little nervous.",
+    "glosses": {
+     "tem": "is",
+     "está": "is",
+     "anos": "years old",
+     "um pouco": "a little"
+    }
+   },
+   {
+    "pt": "A mãe dela leva Sofia à escola de carro.",
+    "en": "Her mother takes Sofia to school by car.",
+    "glosses": {
+     "dela": "her",
+     "leva": "takes",
+     "à": "to",
+     "de": "by"
+    }
+   },
+   {
+    "pt": "A escola é grande e tem um jardim bonito.",
+    "en": "The school is big and has a pretty garden.",
+    "glosses": {
+     "é": "is",
+     "tem": "has"
+    }
+   },
+   {
+    "pt": "A professora se chama Dona Lúcia.",
+    "en": "The teacher's name is Mrs. Lúcia.",
+    "glosses": {
+     "professora": "teacher (woman)",
+     "se chama": "is called"
+    }
+   },
+   {
+    "pt": "Ela é calma e simpática.",
+    "en": "She is calm and friendly.",
+    "glosses": {
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Na sala, tem vinte alunos.",
+    "en": "In the classroom, there are twenty students.",
+    "glosses": {
+     "na": "in the",
+     "tem": "there are",
+     "sala": "classroom"
+    }
+   },
+   {
+    "pt": "Sofia senta ao lado de um menino, Pedro.",
+    "en": "Sofia sits next to a boy, Pedro.",
+    "glosses": {
+     "senta": "sits",
+     "ao": "(at the)",
+     "ao lado de": "next to",
+     "lado": "side"
+    }
+   },
+   {
+    "pt": "Primeiro, eles aprendem as cores.",
+    "en": "First, they learn the colors.",
+    "glosses": {
+     "aprendem": "learn"
+    }
+   },
+   {
+    "pt": "Depois, eles escrevem o nome no caderno.",
+    "en": "Then they write their names in their notebooks.",
+    "glosses": {
+     "escrevem": "write",
+     "no": "in the"
+    }
+   },
+   {
+    "pt": "No lanche, Sofia come uma maçã e Pedro come uma banana.",
+    "en": "At snack time, Sofia eats an apple and Pedro eats a banana.",
+    "glosses": {
+     "no": "at",
+     "come": "eats",
+     "lanche": "snack (time)"
+    }
+   },
+   {
+    "pt": "Eles brincam no jardim e riem muito.",
+    "en": "They play in the garden and laugh a lot.",
+    "glosses": {
+     "brincam": "play",
+     "no": "in the",
+     "riem": "laugh",
+     "muito": "a lot"
+    }
+   },
+   {
+    "pt": "Ao meio-dia, a mãe volta à escola.",
+    "en": "At noon, her mother comes back to the school.",
+    "glosses": {
+     "ao": "at",
+     "volta": "comes back",
+     "à": "to the"
+    }
+   },
+   {
+    "pt": "\"E então, você gostou da escola?\", pergunta a mãe.",
+    "en": "\"So, did you like school?\" asks her mother.",
+    "glosses": {
+     "gostou": "did you like",
+     "da": "(of) the",
+     "pergunta": "asks",
+     "então": "so"
+    }
+   },
+   {
+    "pt": "\"Gostei! Amanhã eu vou voltar!\", diz Sofia.",
+    "en": "\"I liked it! Tomorrow I'm going to come back!\" says Sofia.",
+    "glosses": {
+     "gostei": "I liked it",
+     "vou": "I'm going",
+     "diz": "says",
+     "voltar": "come back"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Quantos anos Sofia tem?",
+    "qEn": "How old is Sofia?",
+    "options": [
+     "Cinco",
+     "Seis",
+     "Sete",
+     "Oito"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quantos alunos tem na sala?",
+    "qEn": "How many students are in the classroom?",
+    "options": [
+     "Dez",
+     "Trinta",
+     "Vinte",
+     "Quinze"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "O que Sofia come no lanche?",
+    "qEn": "What does Sofia eat at snack time?",
+    "options": [
+     "Uma maçã",
+     "Uma banana",
+     "Um bolo",
+     "Um pão"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "a1-school-work-2",
+  "level": 1,
+  "topic": "School & work",
+  "title": "Uma reunião importante",
+  "titleEn": "An important meeting",
+  "sentences": [
+   {
+    "pt": "Paulo é advogado em uma empresa no Rio de Janeiro.",
+    "en": "Paulo is a lawyer at a company in Rio de Janeiro.",
+    "glosses": {
+     "é": "is",
+     "no": "in the",
+     "em": "at"
+    }
+   },
+   {
+    "pt": "O escritório dele fica em um prédio alto no centro.",
+    "en": "His office is in a tall building downtown.",
+    "glosses": {
+     "dele": "his",
+     "fica": "is",
+     "no": "in the",
+     "centro": "downtown"
+    }
+   },
+   {
+    "pt": "Hoje ele tem uma reunião importante com um cliente.",
+    "en": "Today he has an important meeting with a client.",
+    "glosses": {
+     "tem": "has"
+    }
+   },
+   {
+    "pt": "A reunião é às dez horas.",
+    "en": "The meeting is at ten o'clock.",
+    "glosses": {
+     "é": "is",
+     "às": "at"
+    }
+   },
+   {
+    "pt": "Paulo chega cedo, às oito, e lê os papéis do cliente.",
+    "en": "Paulo arrives early, at eight, and reads the client's papers.",
+    "glosses": {
+     "chega": "arrives",
+     "às": "at",
+     "lê": "reads",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Às nove e meia, ele não encontra um papel importante.",
+    "en": "At nine thirty, he can't find an important paper.",
+    "glosses": {
+     "às": "at",
+     "encontra": "can find",
+     "meia": "half (past)"
+    }
+   },
+   {
+    "pt": "Ele procura na mesa, na bolsa e na mochila.",
+    "en": "He looks on the desk, in the bag and in the backpack.",
+    "glosses": {
+     "procura": "looks for",
+     "na": "on / in the",
+     "mesa": "desk"
+    }
+   },
+   {
+    "pt": "Ele fica muito nervoso.",
+    "en": "He gets very nervous.",
+    "glosses": {
+     "fica": "gets"
+    }
+   },
+   {
+    "pt": "Então a secretária, Juliana, entra no escritório.",
+    "en": "Then the secretary, Juliana, comes into the office.",
+    "glosses": {
+     "entra": "comes in",
+     "no": "in the",
+     "secretária": "secretary (woman)"
+    }
+   },
+   {
+    "pt": "\"Paulo, o papel está aqui, na sala de reunião\", ela diz.",
+    "en": "\"Paulo, the paper is here, in the meeting room,\" she says.",
+    "glosses": {
+     "está": "is",
+     "na": "in the",
+     "diz": "says"
+    }
+   },
+   {
+    "pt": "Paulo fica calmo de novo.",
+    "en": "Paulo is calm again.",
+    "glosses": {
+     "fica": "becomes",
+     "de novo": "again"
+    }
+   },
+   {
+    "pt": "O cliente chega às dez horas.",
+    "en": "The client arrives at ten o'clock.",
+    "glosses": {
+     "chega": "arrives",
+     "às": "at"
+    }
+   },
+   {
+    "pt": "A reunião demora duas horas e tudo vai bem.",
+    "en": "The meeting takes two hours and everything goes well.",
+    "glosses": {
+     "demora": "takes",
+     "vai": "goes"
+    }
+   },
+   {
+    "pt": "Depois, Paulo convida Juliana para almoçar.",
+    "en": "Afterwards, Paulo invites Juliana to have lunch.",
+    "glosses": {
+     "convida": "invites",
+     "para": "to"
+    }
+   },
+   {
+    "pt": "\"Obrigado pela ajuda!\", ele diz.",
+    "en": "\"Thanks for the help!\" he says.",
+    "glosses": {
+     "pela": "for the",
+     "diz": "says",
+     "ajuda": "help"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Qual é a profissão de Paulo?",
+    "qEn": "What is Paulo's job?",
+    "options": [
+     "Médico",
+     "Advogado",
+     "Professor",
+     "Engenheiro"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "A que horas é a reunião?",
+    "qEn": "What time is the meeting?",
+    "options": [
+     "Às oito",
+     "Às nove e meia",
+     "Às dez",
+     "Ao meio-dia"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Quem encontra o papel?",
+    "qEn": "Who finds the paper?",
+    "options": [
+     "Juliana",
+     "O cliente",
+     "O chefe",
+     "Paulo"
+    ],
+    "answer": 0
+   }
+  ]
+ }
+]

@@ -1,0 +1,329 @@
+[
+ {
+  "id": "a1-nature-environment-1",
+  "level": 1,
+  "topic": "Nature & environment",
+  "title": "Férias no Pantanal",
+  "titleEn": "Vacation in the Pantanal",
+  "sentences": [
+   {
+    "pt": "Felipe e Letícia estão de férias.",
+    "en": "Felipe and Letícia are on vacation.",
+    "glosses": {
+     "estão de férias": "are on vacation"
+    }
+   },
+   {
+    "pt": "Eles viajam de avião para o Pantanal.",
+    "en": "They travel by plane to the Pantanal.",
+    "glosses": {
+     "viajam": "travel",
+     "de": "by"
+    }
+   },
+   {
+    "pt": "O Pantanal é um lugar incrível, com muita natureza.",
+    "en": "The Pantanal is an amazing place, with lots of nature.",
+    "glosses": {
+     "é": "is",
+     "muita": "lots of"
+    }
+   },
+   {
+    "pt": "Lá tem rios, lagos, árvores e muitos animais.",
+    "en": "There are rivers, lakes, trees and many animals there.",
+    "glosses": {
+     "Lá": "there",
+     "tem": "there are"
+    }
+   },
+   {
+    "pt": "De manhã, eles fazem um passeio a cavalo.",
+    "en": "In the morning, they go horseback riding.",
+    "glosses": {
+     "De manhã": "in the morning",
+     "fazem um passeio a cavalo": "go horseback riding"
+    }
+   },
+   {
+    "pt": "Eles veem pássaros de muitas cores.",
+    "en": "They see birds of many colors.",
+    "glosses": {
+     "veem": "see"
+    }
+   },
+   {
+    "pt": "Letícia quer uma foto de cada pássaro.",
+    "en": "Letícia wants a photo of every bird.",
+    "glosses": {
+     "quer": "wants",
+     "cada": "every"
+    }
+   },
+   {
+    "pt": "No rio, tem peixes muito grandes.",
+    "en": "In the river, there are very big fish.",
+    "glosses": {
+     "No": "in the",
+     "tem": "there are"
+    }
+   },
+   {
+    "pt": "Um homem do lugar fala sobre a natureza.",
+    "en": "A local man talks about nature.",
+    "glosses": {
+     "do lugar": "local",
+     "fala": "talks"
+    }
+   },
+   {
+    "pt": "\"O lixo é um problema grande para os animais\", ele diz.",
+    "en": "\"Trash is a big problem for the animals,\" he says.",
+    "glosses": {
+     "é": "is",
+     "diz": "says"
+    }
+   },
+   {
+    "pt": "Felipe e Letícia ficam preocupados.",
+    "en": "Felipe and Letícia get worried.",
+    "glosses": {
+     "ficam": "get"
+    }
+   },
+   {
+    "pt": "Então, eles levam todo o lixo deles para a cidade.",
+    "en": "So they take all their trash back to the city.",
+    "glosses": {
+     "Então": "so",
+     "levam": "take",
+     "todo": "all",
+     "deles": "their"
+    }
+   },
+   {
+    "pt": "À noite, o céu tem muitas estrelas.",
+    "en": "At night, the sky has lots of stars.",
+    "glosses": {
+     "À noite": "at night",
+     "tem": "has"
+    }
+   },
+   {
+    "pt": "Tudo está calmo, e eles só escutam os animais.",
+    "en": "Everything is calm, and they only hear the animals.",
+    "glosses": {
+     "está": "is",
+     "só": "only",
+     "escutam": "hear"
+    }
+   },
+   {
+    "pt": "\"Eu quero voltar aqui\", diz Letícia.",
+    "en": "\"I want to come back here,\" says Letícia.",
+    "glosses": {
+     "quero": "want",
+     "voltar": "to come back",
+     "diz": "says"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Como eles viajam para o Pantanal?",
+    "qEn": "How do they travel to the Pantanal?",
+    "options": [
+     "De ônibus",
+     "De carro",
+     "De trem",
+     "De avião"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "Qual é um problema grande para os animais?",
+    "qEn": "What is a big problem for the animals?",
+    "options": [
+     "O lixo",
+     "A chuva",
+     "O frio",
+     "O trânsito"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "O que o céu tem à noite?",
+    "qEn": "What does the sky have at night?",
+    "options": [
+     "Muitas nuvens",
+     "Muitas estrelas",
+     "Sol",
+     "Chuva"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "a1-nature-environment-2",
+  "level": 1,
+  "topic": "Nature & environment",
+  "title": "Uma rua verde",
+  "titleEn": "A green street",
+  "sentences": [
+   {
+    "pt": "Dona Lúcia mora em uma casa com um jardim grande.",
+    "en": "Mrs. Lúcia lives in a house with a big garden.",
+    "glosses": {
+     "mora": "lives"
+    }
+   },
+   {
+    "pt": "No jardim, tem flores, plantas e duas árvores de laranja.",
+    "en": "In the garden, there are flowers, plants and two orange trees.",
+    "glosses": {
+     "No": "in the",
+     "tem": "there are",
+     "duas": "two",
+     "árvores de laranja": "orange trees"
+    }
+   },
+   {
+    "pt": "Todo dia, ela acorda cedo e dá água para as plantas.",
+    "en": "Every day, she wakes up early and waters the plants.",
+    "glosses": {
+     "Todo": "every",
+     "acorda": "wakes up",
+     "dá água para": "waters"
+    }
+   },
+   {
+    "pt": "Ela adora a natureza.",
+    "en": "She loves nature.",
+    "glosses": {
+     "adora": "loves"
+    }
+   },
+   {
+    "pt": "Mas na rua dela não tem nenhuma árvore.",
+    "en": "But on her street there isn't a single tree.",
+    "glosses": {
+     "na": "on the",
+     "dela": "her",
+     "não tem nenhuma": "there isn't a single"
+    }
+   },
+   {
+    "pt": "A rua é quente e feia.",
+    "en": "The street is hot and ugly.",
+    "glosses": {
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Um dia, Dona Lúcia conversa com os vizinhos.",
+    "en": "One day, Mrs. Lúcia talks with the neighbors.",
+    "glosses": {
+     "conversa": "talks"
+    }
+   },
+   {
+    "pt": "\"Vamos colocar plantas e árvores na rua!\"",
+    "en": "\"Let's put plants and trees on the street!\"",
+    "glosses": {
+     "Vamos": "let's",
+     "na": "on the"
+    }
+   },
+   {
+    "pt": "No domingo, os vizinhos ajudam.",
+    "en": "On Sunday, the neighbors help.",
+    "glosses": {
+     "No": "on",
+     "ajudam": "help"
+    }
+   },
+   {
+    "pt": "As crianças trazem flores, e os adultos trazem árvores pequenas.",
+    "en": "The children bring flowers, and the adults bring small trees.",
+    "glosses": {
+     "trazem": "bring"
+    }
+   },
+   {
+    "pt": "Eles também limpam a rua e levam o lixo.",
+    "en": "They also clean the street and take away the trash.",
+    "glosses": {
+     "limpam": "clean",
+     "levam": "take away"
+    }
+   },
+   {
+    "pt": "Todos trabalham a manhã toda.",
+    "en": "Everybody works all morning.",
+    "glosses": {
+     "Todos": "everybody",
+     "trabalham": "work",
+     "toda": "all"
+    }
+   },
+   {
+    "pt": "No fim, a rua está limpa e verde.",
+    "en": "In the end, the street is clean and green.",
+    "glosses": {
+     "No fim": "in the end",
+     "está": "is"
+    }
+   },
+   {
+    "pt": "Os pássaros começam a visitar a rua.",
+    "en": "The birds start to visit the street.",
+    "glosses": {
+     "começam": "start"
+    }
+   },
+   {
+    "pt": "Dona Lúcia está muito feliz com os vizinhos.",
+    "en": "Mrs. Lúcia is very happy with her neighbors.",
+    "glosses": {
+     "está": "is"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "O que tem no jardim de Dona Lúcia?",
+    "qEn": "What is in Mrs. Lúcia's garden?",
+    "options": [
+     "Um carro",
+     "Flores, plantas e árvores",
+     "Muito lixo",
+     "Nada"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quem ajuda Dona Lúcia?",
+    "qEn": "Who helps Mrs. Lúcia?",
+    "options": [
+     "Os vizinhos",
+     "O governo",
+     "A polícia",
+     "Ninguém"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Como está a rua no fim?",
+    "qEn": "What is the street like in the end?",
+    "options": [
+     "Suja",
+     "Feia",
+     "Quente",
+     "Limpa e verde"
+    ],
+    "answer": 3
+   }
+  ]
+ }
+]

@@ -1,0 +1,478 @@
+[
+ {
+  "id": "b1-function-words-1",
+  "level": 3,
+  "topic": "Function words",
+  "title": "Um cachorro no apartamento",
+  "titleEn": "A dog in the apartment",
+  "sentences": [
+   {
+    "pt": "Pedro sempre quis ter um cachorro, mas, como morava num apartamento pequeno, nunca tinha tido certeza.",
+    "en": "Pedro always wanted to have a dog, but, since he lived in a small apartment, he had never been sure.",
+    "glosses": {
+     "quis": "wanted",
+     "morava": "lived",
+     "num": "in a",
+     "tinha": "had",
+     "tido": "had",
+     "certeza": "certainty (been sure)"
+    }
+   },
+   {
+    "pt": "Num sábado, no entanto, passou por uma feira para adotar animais no parque perto de casa.",
+    "en": "One Saturday, however, he passed by a pet adoption fair in the park near his house.",
+    "glosses": {
+     "num": "on a",
+     "passou": "passed",
+     "no": "in the"
+    }
+   },
+   {
+    "pt": "Lá ele conheceu Feijão, um cachorro marrom, magro e muito simpático.",
+    "en": "There he met Feijão, a brown, skinny and very friendly dog.",
+    "glosses": {
+     "conheceu": "met",
+     "Feijão": "Feijão (\"Bean\", the dog's name)"
+    }
+   },
+   {
+    "pt": "A moça da feira explicou que Feijão tinha sido encontrado sozinho na rua e, portanto, precisava muito de uma família.",
+    "en": "The woman at the fair explained that Feijão had been found alone on the street and therefore really needed a family.",
+    "glosses": {
+     "da": "at the",
+     "explicou": "explained",
+     "tinha": "had",
+     "sido": "been",
+     "encontrado": "found",
+     "na": "on the",
+     "precisava": "needed"
+    }
+   },
+   {
+    "pt": "Embora o apartamento fosse pequeno, Pedro decidiu adotar o cachorro naquele mesmo dia.",
+    "en": "Although the apartment was small, Pedro decided to adopt the dog that very day.",
+    "glosses": {
+     "fosse": "was (subjunctive)",
+     "decidiu": "decided",
+     "naquele": "that"
+    }
+   },
+   {
+    "pt": "Antes, porém, ligou para o proprietário, já que o contrato de aluguel não falava nada sobre animais.",
+    "en": "First, however, he called the landlord, since the rental contract didn't say anything about animals.",
+    "glosses": {
+     "ligou": "called",
+     "falava": "said"
+    }
+   },
+   {
+    "pt": "O proprietário disse que aceitaria o cachorro, contanto que ele não estragasse nada.",
+    "en": "The landlord said he would accept the dog, as long as it didn't damage anything.",
+    "glosses": {
+     "disse": "said",
+     "aceitaria": "would accept",
+     "estragasse": "damaged (subjunctive)"
+    }
+   },
+   {
+    "pt": "Nas primeiras semanas, tudo correu bem, apesar de Feijão dormir mal à noite.",
+    "en": "In the first weeks, everything went well, despite Feijão sleeping badly at night.",
+    "glosses": {
+     "nas": "in the",
+     "correu": "went"
+    }
+   },
+   {
+    "pt": "Assim que Pedro voltou a trabalhar no escritório, porém, os problemas começaram.",
+    "en": "As soon as Pedro went back to working at the office, however, the problems started.",
+    "glosses": {
+     "voltou": "went back",
+     "no": "at the",
+     "começaram": "started"
+    }
+   },
+   {
+    "pt": "Sozinho em casa, Feijão chorava o dia inteiro e, além disso, estragou o sofá.",
+    "en": "Alone at home, Feijão cried all day long and, besides that, ruined the sofa.",
+    "glosses": {
+     "chorava": "cried",
+     "estragou": "ruined"
+    }
+   },
+   {
+    "pt": "Uma vizinha reclamou do cachorro, e Pedro ficou com medo de perder o apartamento.",
+    "en": "A neighbor complained about the dog, and Pedro was afraid of losing the apartment.",
+    "glosses": {
+     "reclamou": "complained",
+     "do": "about the",
+     "ficou": "got",
+     "medo": "fear (scared)"
+    }
+   },
+   {
+    "pt": "Ele pensou em devolver o cachorro; afinal, talvez não fosse bom para o animal ficar sozinho o dia inteiro.",
+    "en": "He thought about giving the dog back; after all, maybe it wasn't good for the animal to be alone all day.",
+    "glosses": {
+     "pensou": "thought",
+     "fosse": "was (subjunctive)",
+     "ficar": "to be"
+    }
+   },
+   {
+    "pt": "Em vez de desistir, contudo, decidiu pedir ajuda a uma amiga que entendia muito de cachorros.",
+    "en": "Instead of giving up, however, he decided to ask for help from a friend who knew a lot about dogs.",
+    "glosses": {
+     "decidiu": "decided",
+     "entendia": "understood"
+    }
+   },
+   {
+    "pt": "Ela explicou que cachorros precisam de exercício e não gostam de ficar sozinhos, sobretudo quando são jovens.",
+    "en": "She explained that dogs need exercise and don't like being alone, especially when they're young.",
+    "glosses": {
+     "explicou": "explained",
+     "precisam": "need",
+     "gostam": "like",
+     "são": "are"
+    }
+   },
+   {
+    "pt": "De acordo com a amiga, o cachorro devia ficar cansado antes de Pedro sair; por isso, ele começou a acordar mais cedo a fim de correr com Feijão no parque.",
+    "en": "According to his friend, the dog should be tired before Pedro left; so he started waking up earlier in order to run with Feijão in the park.",
+    "glosses": {
+     "devia": "should",
+     "sair": "left",
+     "começou": "started",
+     "no": "in the"
+    }
+   },
+   {
+    "pt": "Além disso, a vizinha que tinha reclamado ofereceu ficar com o cachorro à tarde, uma vez que era aposentada e morava sozinha.",
+    "en": "Besides that, the neighbor who had complained offered to keep the dog in the afternoon, since she was retired and lived alone.",
+    "glosses": {
+     "tinha": "had",
+     "reclamado": "complained",
+     "ofereceu": "offered",
+     "era": "was",
+     "morava": "lived"
+    }
+   },
+   {
+    "pt": "À medida que os meses passaram, Feijão ficou mais calmo e parou de chorar.",
+    "en": "As the months went by, Feijão became calmer and stopped crying.",
+    "glosses": {
+     "passaram": "passed",
+     "ficou": "became",
+     "parou": "stopped"
+    }
+   },
+   {
+    "pt": "Hoje, ao contrário do que Pedro pensava, todos no prédio adoram o cachorro.",
+    "en": "Today, contrary to what Pedro thought, everyone in the building loves the dog.",
+    "glosses": {
+     "do": "of",
+     "pensava": "thought",
+     "no": "in the",
+     "adoram": "love"
+    }
+   },
+   {
+    "pt": "Aliás, a vizinha diz que Feijão é o melhor companheiro que ela já teve.",
+    "en": "In fact, the neighbor says that Feijão is the best companion she has ever had.",
+    "glosses": {
+     "diz": "says",
+     "é": "is",
+     "teve": "has had"
+    }
+   },
+   {
+    "pt": "Seja como for, o sofá de Pedro nunca mais foi o mesmo.",
+    "en": "Be that as it may, Pedro's sofa was never the same again.",
+    "glosses": {
+     "mais": "again",
+     "foi": "was"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Onde Pedro conheceu Feijão?",
+    "qEn": "Where did Pedro meet Feijão?",
+    "options": [
+     "Num hospital",
+     "Na rua",
+     "Numa feira no parque",
+     "Na casa de uma amiga"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Qual foi o problema quando Pedro voltou ao trabalho?",
+    "qEn": "What was the problem when Pedro went back to work?",
+    "options": [
+     "O cachorro se perdeu",
+     "O cachorro ficou doente",
+     "O cachorro não comia",
+     "O cachorro chorava muito"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "Quem fica com Feijão à tarde?",
+    "qEn": "Who stays with Feijão in the afternoon?",
+    "options": [
+     "A amiga de Pedro",
+     "A vizinha",
+     "O irmão de Pedro",
+     "O proprietário"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "b1-function-words-2",
+  "level": 3,
+  "topic": "Function words",
+  "title": "Ficar ou ir?",
+  "titleEn": "Stay or go?",
+  "sentences": [
+   {
+    "pt": "Júlia é jornalista e mora em Recife desde que nasceu.",
+    "en": "Júlia is a journalist and has lived in Recife since she was born.",
+    "glosses": {
+     "é": "is",
+     "mora": "has lived",
+     "nasceu": "was born"
+    }
+   },
+   {
+    "pt": "Em março, uma revista famosa de São Paulo convidou Júlia para ser chefe de redação.",
+    "en": "In March, a famous magazine in São Paulo invited Júlia to be editor-in-chief.",
+    "glosses": {
+     "convidou": "invited",
+     "chefe": "chief",
+     "redação": "newsroom"
+    }
+   },
+   {
+    "pt": "O salário seria quase o dobro do atual e, além disso, a revista pagaria a mudança.",
+    "en": "The salary would be almost double the current one and, besides that, the magazine would pay for the move.",
+    "glosses": {
+     "seria": "would be",
+     "do": "of the",
+     "pagaria": "would pay"
+    }
+   },
+   {
+    "pt": "No entanto, Júlia não sabia se queria sair de perto da família.",
+    "en": "However, Júlia didn't know if she wanted to move away from her family.",
+    "glosses": {
+     "sabia": "knew",
+     "queria": "wanted",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "A mãe dela estava doente havia alguns meses, e Júlia a visitava quase todos os dias.",
+    "en": "Her mother had been sick for a few months, and Júlia visited her almost every day.",
+    "glosses": {
+     "dela": "her",
+     "estava": "had been",
+     "havia": "for",
+     "alguns": "a few",
+     "visitava": "visited"
+    }
+   },
+   {
+    "pt": "Por um lado, era o melhor emprego da vida dela; por outro lado, ela tinha medo de se arrepender.",
+    "en": "On one hand, it was the best job of her life; on the other hand, she was afraid of regretting it.",
+    "glosses": {
+     "lado": "hand",
+     "era": "was",
+     "da": "of the",
+     "tinha": "had",
+     "medo": "fear (was afraid)",
+     "arrepender": "regret"
+    }
+   },
+   {
+    "pt": "Ela pediu à revista uma semana a fim de pensar com calma.",
+    "en": "She asked the magazine for a week in order to think calmly.",
+    "glosses": {
+     "pediu": "asked",
+     "à": "to the",
+     "calma": "calm (calmly)"
+    }
+   },
+   {
+    "pt": "Primeiro, conversou com o irmão, Gustavo, que mora em Salvador.",
+    "en": "First, she talked to her brother, Gustavo, who lives in Salvador.",
+    "glosses": {
+     "conversou": "talked",
+     "mora": "lives"
+    }
+   },
+   {
+    "pt": "Ele disse que ela devia aceitar, a menos que tivesse uma razão muito forte para ficar.",
+    "en": "He said she should accept, unless she had a very strong reason to stay.",
+    "glosses": {
+     "disse": "said",
+     "devia": "should",
+     "aceitar": "accept",
+     "tivesse": "had (subjunctive)",
+     "razão": "reason"
+    }
+   },
+   {
+    "pt": "Depois, falou com a melhor amiga, que pensava diferente: \"Dinheiro não é tudo.\"",
+    "en": "Then she talked to her best friend, who thought differently: \"Money isn't everything.\"",
+    "glosses": {
+     "falou": "talked",
+     "pensava": "thought",
+     "diferente": "differently",
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Por mais que pensasse, Júlia não conseguia escolher.",
+    "en": "However much she thought, Júlia couldn't choose.",
+    "glosses": {
+     "pensasse": "she thought (subjunctive)",
+     "conseguia": "could"
+    }
+   },
+   {
+    "pt": "Enfim, decidiu conversar com a própria mãe, embora tivesse medo de deixar a mãe preocupada.",
+    "en": "Finally, she decided to talk to her mother herself, although she was afraid of making her mother worry.",
+    "glosses": {
+     "decidiu": "decided",
+     "própria": "own",
+     "tivesse": "had (subjunctive)",
+     "medo": "fear (was afraid)",
+     "deixar": "make"
+    }
+   },
+   {
+    "pt": "Para a surpresa dela, a mãe ficou feliz com a notícia.",
+    "en": "To her surprise, her mother was happy with the news.",
+    "glosses": {
+     "surpresa": "surprise",
+     "dela": "her",
+     "ficou": "was"
+    }
+   },
+   {
+    "pt": "\"Minha filha, eu estou melhorando e, aliás, tenho seu pai e suas tias aqui\", disse ela.",
+    "en": "\"My daughter, I'm getting better and, besides, I have your father and your aunts here,\" she said.",
+    "glosses": {
+     "estou": "I am",
+     "melhorando": "getting better",
+     "tenho": "I have",
+     "tias": "aunts",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "\"Caso você não vá, vai passar a vida pensando no que poderia ter sido.\"",
+    "en": "\"If you don't go, you'll spend your life thinking about what could have been.\"",
+    "glosses": {
+     "caso": "if",
+     "vá": "go (subjunctive)",
+     "vai": "will",
+     "passar": "spend",
+     "pensando": "thinking",
+     "no": "about",
+     "poderia": "could",
+     "ter": "have",
+     "sido": "been"
+    }
+   },
+   {
+    "pt": "Mesmo assim, Júlia fez um pedido à revista antes de aceitar.",
+    "en": "Even so, Júlia made a request to the magazine before accepting.",
+    "glosses": {
+     "mesmo": "even",
+     "assim": "so",
+     "fez": "made",
+     "pedido": "request",
+     "à": "to the",
+     "aceitar": "accepting"
+    }
+   },
+   {
+    "pt": "Ela trabalharia em São Paulo, contanto que pudesse passar uma semana por mês em Recife, trabalhando de casa.",
+    "en": "She would work in São Paulo, as long as she could spend one week a month in Recife, working from home.",
+    "glosses": {
+     "trabalharia": "would work",
+     "pudesse": "could (subjunctive)",
+     "trabalhando": "working"
+    }
+   },
+   {
+    "pt": "Para a alegria dela, a revista concordou sem problema.",
+    "en": "To her joy, the magazine agreed without any problem.",
+    "glosses": {
+     "dela": "her",
+     "concordou": "agreed"
+    }
+   },
+   {
+    "pt": "Hoje, Júlia vive entre as duas cidades e, apesar do cansaço das viagens, diz que tomou a escolha certa.",
+    "en": "Today, Júlia lives between the two cities and, despite how tiring the trips are, says she made the right choice.",
+    "glosses": {
+     "vive": "lives",
+     "do": "of the",
+     "das": "of the",
+     "diz": "says",
+     "tomou": "took",
+     "escolha": "choice"
+    }
+   },
+   {
+    "pt": "A mãe, por sua vez, está bem melhor e já foi visitar a filha em São Paulo duas vezes.",
+    "en": "Her mother, in turn, is much better and has already gone to visit her daughter in São Paulo twice.",
+    "glosses": {
+     "está": "is",
+     "foi": "went",
+     "vezes": "times"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Qual é a profissão de Júlia?",
+    "qEn": "What is Júlia's profession?",
+    "options": [
+     "Advogada",
+     "Médica",
+     "Jornalista",
+     "Professora"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Por que Júlia tinha dúvida sobre a mudança?",
+    "qEn": "Why was Júlia unsure about the move?",
+    "options": [
+     "Ela não gostava de São Paulo",
+     "A mãe estava doente",
+     "O salário era baixo",
+     "O irmão precisava dela"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "O que Júlia pediu à revista?",
+    "qEn": "What did Júlia ask the magazine for?",
+    "options": [
+     "Um apartamento",
+     "Mais férias",
+     "Uma semana por mês em Recife",
+     "Um salário maior"
+    ],
+    "answer": 2
+   }
+  ]
+ }
+]

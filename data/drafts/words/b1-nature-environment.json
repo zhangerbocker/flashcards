@@ -1,0 +1,712 @@
+[
+ {
+  "pt": "meio ambiente",
+  "pos": "n.",
+  "english": "environment",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "meios ambientes"
+  ],
+  "example": {
+   "pt": "Todos devemos proteger o meio ambiente.",
+   "en": "We should all protect the environment."
+  }
+ },
+ {
+  "pt": "poluição",
+  "pos": "n.",
+  "english": "pollution",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "poluições"
+  ],
+  "example": {
+   "pt": "A poluição do ar piorou muito na cidade.",
+   "en": "Air pollution has gotten much worse in the city."
+  }
+ },
+ {
+  "pt": "poluir",
+  "pos": "v.",
+  "english": "to pollute",
+  "level": 3,
+  "topic": "Nature & environment",
+  "example": {
+   "pt": "Aquela fábrica continua poluindo o rio.",
+   "en": "That factory keeps polluting the river."
+  }
+ },
+ {
+  "pt": "reciclar",
+  "pos": "v.",
+  "english": "to recycle",
+  "level": 3,
+  "topic": "Nature & environment",
+  "example": {
+   "pt": "Aqui em casa, reciclamos papel, plástico e vidro.",
+   "en": "Here at home, we recycle paper, plastic and glass."
+  }
+ },
+ {
+  "pt": "reciclagem",
+  "pos": "n.",
+  "english": "recycling",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "reciclagens"
+  ],
+  "example": {
+   "pt": "A cidade começou um programa de reciclagem.",
+   "en": "The city started a recycling program."
+  }
+ },
+ {
+  "pt": "desmatamento",
+  "pos": "n.",
+  "english": "deforestation",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "desmatamentos"
+  ],
+  "example": {
+   "pt": "O desmatamento da Amazônia preocupa o mundo inteiro.",
+   "en": "Deforestation in the Amazon worries the whole world."
+  }
+ },
+ {
+  "pt": "clima",
+  "pos": "n.",
+  "english": "climate; atmosphere",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "climas"
+  ],
+  "example": {
+   "pt": "O clima do Nordeste é quente o ano todo.",
+   "en": "The climate in the Northeast is hot all year."
+  }
+ },
+ {
+  "pt": "seca",
+  "pos": "n.",
+  "english": "drought",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "secas"
+  ],
+  "example": {
+   "pt": "A seca deixou muitas cidades sem água.",
+   "en": "The drought left many towns without water."
+  }
+ },
+ {
+  "pt": "enchente",
+  "pos": "n.",
+  "english": "flood",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "enchentes"
+  ],
+  "example": {
+   "pt": "A enchente destruiu várias casas perto do rio.",
+   "en": "The flood destroyed several houses near the river."
+  }
+ },
+ {
+  "pt": "inundação",
+  "pos": "n.",
+  "english": "flooding, flood",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "inundações"
+  ],
+  "example": {
+   "pt": "A chuva forte causou inundações no centro.",
+   "en": "The heavy rain caused flooding downtown."
+  }
+ },
+ {
+  "pt": "resíduo",
+  "pos": "n.",
+  "english": "waste, residue",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "resíduos"
+  ],
+  "example": {
+   "pt": "A empresa precisa tratar os resíduos antes de descartá-los.",
+   "en": "The company needs to treat its waste before disposing of it."
+  }
+ },
+ {
+  "pt": "espécie",
+  "pos": "n.",
+  "english": "species; kind",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "espécies"
+  ],
+  "example": {
+   "pt": "Muitas espécies de animais vivem no Pantanal.",
+   "en": "Many species of animals live in the Pantanal."
+  }
+ },
+ {
+  "pt": "extinção",
+  "pos": "n.",
+  "english": "extinction",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "extinções"
+  ],
+  "example": {
+   "pt": "A arara-azul já esteve em perigo de extinção.",
+   "en": "The hyacinth macaw was once in danger of extinction."
+  }
+ },
+ {
+  "pt": "preservar",
+  "pos": "v.",
+  "english": "to preserve",
+  "level": 3,
+  "topic": "Nature & environment",
+  "example": {
+   "pt": "Precisamos preservar as florestas.",
+   "en": "We need to preserve the forests."
+  }
+ },
+ {
+  "pt": "preservação",
+  "pos": "n.",
+  "english": "preservation, conservation",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "preservações"
+  ],
+  "example": {
+   "pt": "O projeto trabalha pela preservação das tartarugas.",
+   "en": "The project works for the conservation of turtles."
+  }
+ },
+ {
+  "pt": "proteger",
+  "pos": "v.",
+  "english": "to protect",
+  "level": 3,
+  "topic": "Nature & environment",
+  "example": {
+   "pt": "O parque foi criado para proteger os animais da região.",
+   "en": "The park was created to protect the region's animals."
+  }
+ },
+ {
+  "pt": "sustentável",
+  "pos": "adj.",
+  "english": "sustainable",
+  "level": 3,
+  "topic": "Nature & environment",
+  "forms": [
+   "sustentáveis"
+  ],
+  "example": {
+   "pt": "Eles querem construir uma casa mais sustentável.",
+   "en": "They want to build a more sustainable house."
+  }
+ },
+ {
+  "pt": "energia",
+  "pos": "n.",
+  "english": "energy; power",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "energias"
+  ],
+  "example": {
+   "pt": "A energia elétrica ficou mais cara este ano.",
+   "en": "Electricity got more expensive this year."
+  }
+ },
+ {
+  "pt": "renovável",
+  "pos": "adj.",
+  "english": "renewable",
+  "level": 3,
+  "topic": "Nature & environment",
+  "forms": [
+   "renováveis"
+  ],
+  "example": {
+   "pt": "O Brasil produz muita energia renovável.",
+   "en": "Brazil produces a lot of renewable energy."
+  }
+ },
+ {
+  "pt": "solar",
+  "pos": "adj.",
+  "english": "solar",
+  "level": 3,
+  "topic": "Nature & environment",
+  "forms": [
+   "solares"
+  ],
+  "example": {
+   "pt": "Instalamos painéis solares no telhado.",
+   "en": "We installed solar panels on the roof."
+  }
+ },
+ {
+  "pt": "aquecimento global",
+  "pos": "n.",
+  "english": "global warming",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "example": {
+   "pt": "O aquecimento global está mudando o clima do planeta.",
+   "en": "Global warming is changing the planet's climate."
+  }
+ },
+ {
+  "pt": "efeito estufa",
+  "pos": "n.",
+  "english": "greenhouse effect",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "example": {
+   "pt": "Os gases do efeito estufa aquecem a Terra.",
+   "en": "Greenhouse gases warm up the Earth."
+  }
+ },
+ {
+  "pt": "mudança climática",
+  "pos": "n.",
+  "english": "climate change",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "mudanças climáticas"
+  ],
+  "example": {
+   "pt": "As mudanças climáticas afetam a agricultura.",
+   "en": "Climate change affects agriculture."
+  }
+ },
+ {
+  "pt": "emissão",
+  "pos": "n.",
+  "english": "emission",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "emissões"
+  ],
+  "example": {
+   "pt": "O governo quer reduzir as emissões de carbono.",
+   "en": "The government wants to reduce carbon emissions."
+  }
+ },
+ {
+  "pt": "combustível",
+  "pos": "n.",
+  "english": "fuel",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "combustíveis"
+  ],
+  "example": {
+   "pt": "O preço do combustível subiu de novo.",
+   "en": "The price of fuel went up again."
+  }
+ },
+ {
+  "pt": "petróleo",
+  "pos": "n.",
+  "english": "oil, petroleum",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "petróleos"
+  ],
+  "example": {
+   "pt": "O Brasil extrai petróleo do fundo do mar.",
+   "en": "Brazil extracts oil from the seabed."
+  }
+ },
+ {
+  "pt": "recurso",
+  "pos": "n.",
+  "english": "resource; appeal",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "recursos"
+  ],
+  "example": {
+   "pt": "A água é um recurso natural limitado.",
+   "en": "Water is a limited natural resource."
+  }
+ },
+ {
+  "pt": "desperdício",
+  "pos": "n.",
+  "english": "waste (wasting)",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "desperdícios"
+  ],
+  "example": {
+   "pt": "Jogar comida fora é um desperdício.",
+   "en": "Throwing food away is a waste."
+  }
+ },
+ {
+  "pt": "desperdiçar",
+  "pos": "v.",
+  "english": "to waste",
+  "level": 3,
+  "topic": "Nature & environment",
+  "example": {
+   "pt": "Não desperdice água escovando os dentes.",
+   "en": "Don't waste water while brushing your teeth."
+  }
+ },
+ {
+  "pt": "economizar",
+  "pos": "v.",
+  "english": "to save (money, energy, water)",
+  "level": 3,
+  "topic": "Nature & environment",
+  "example": {
+   "pt": "Desligue a luz para economizar energia.",
+   "en": "Turn off the light to save energy."
+  }
+ },
+ {
+  "pt": "consumo",
+  "pos": "n.",
+  "english": "consumption",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "consumos"
+  ],
+  "example": {
+   "pt": "O consumo de água aumenta muito no verão.",
+   "en": "Water consumption goes up a lot in summer."
+  }
+ },
+ {
+  "pt": "consumir",
+  "pos": "v.",
+  "english": "to consume",
+  "level": 3,
+  "topic": "Nature & environment",
+  "example": {
+   "pt": "Esse carro consome pouca gasolina.",
+   "en": "This car uses little gas."
+  }
+ },
+ {
+  "pt": "plástico",
+  "pos": "n./adj.",
+  "english": "plastic",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "plásticos",
+   "plástica",
+   "plásticas"
+  ],
+  "example": {
+   "pt": "O plástico demora centenas de anos para se decompor.",
+   "en": "Plastic takes hundreds of years to decompose."
+  }
+ },
+ {
+  "pt": "descartável",
+  "pos": "adj.",
+  "english": "disposable",
+  "level": 3,
+  "topic": "Nature & environment",
+  "forms": [
+   "descartáveis"
+  ],
+  "example": {
+   "pt": "O restaurante parou de usar copos descartáveis.",
+   "en": "The restaurant stopped using disposable cups."
+  }
+ },
+ {
+  "pt": "orgânico",
+  "pos": "adj.",
+  "english": "organic",
+  "level": 3,
+  "topic": "Nature & environment",
+  "forms": [
+   "orgânica",
+   "orgânicos",
+   "orgânicas"
+  ],
+  "example": {
+   "pt": "Ela só compra verduras orgânicas na feira.",
+   "en": "She only buys organic vegetables at the market."
+  }
+ },
+ {
+  "pt": "ecológico",
+  "pos": "adj.",
+  "english": "ecological, eco-friendly",
+  "level": 3,
+  "topic": "Nature & environment",
+  "forms": [
+   "ecológica",
+   "ecológicos",
+   "ecológicas"
+  ],
+  "example": {
+   "pt": "Andar de bicicleta é uma opção mais ecológica.",
+   "en": "Riding a bike is a more eco-friendly option."
+  }
+ },
+ {
+  "pt": "ambiental",
+  "pos": "adj.",
+  "english": "environmental",
+  "level": 3,
+  "topic": "Nature & environment",
+  "forms": [
+   "ambientais"
+  ],
+  "example": {
+   "pt": "A cidade tem muitos problemas ambientais.",
+   "en": "The city has many environmental problems."
+  }
+ },
+ {
+  "pt": "terremoto",
+  "pos": "n.",
+  "english": "earthquake",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "terremotos"
+  ],
+  "example": {
+   "pt": "Não tem terremotos fortes no Brasil.",
+   "en": "There aren't strong earthquakes in Brazil."
+  }
+ },
+ {
+  "pt": "desastre",
+  "pos": "n.",
+  "english": "disaster",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "desastres"
+  ],
+  "example": {
+   "pt": "O rompimento da barragem foi um desastre ambiental.",
+   "en": "The dam collapse was an environmental disaster."
+  }
+ },
+ {
+  "pt": "incêndio",
+  "pos": "n.",
+  "english": "fire (destructive)",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "incêndios"
+  ],
+  "example": {
+   "pt": "O incêndio na floresta durou uma semana.",
+   "en": "The forest fire lasted a week."
+  }
+ },
+ {
+  "pt": "queimada",
+  "pos": "n.",
+  "english": "(land-clearing) burning, wildfire",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "queimadas"
+  ],
+  "example": {
+   "pt": "As queimadas aumentam muito na época da seca.",
+   "en": "Wildfires increase a lot in the dry season."
+  }
+ },
+ {
+  "pt": "litoral",
+  "pos": "n.",
+  "english": "coast, coastline",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "litorais"
+  ],
+  "example": {
+   "pt": "Eles moram no litoral de São Paulo.",
+   "en": "They live on the São Paulo coast."
+  }
+ },
+ {
+  "pt": "solo",
+  "pos": "n.",
+  "english": "soil, ground",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "solos"
+  ],
+  "example": {
+   "pt": "O solo dessa região é muito fértil.",
+   "en": "The soil in this region is very fertile."
+  }
+ },
+ {
+  "pt": "oceano",
+  "pos": "n.",
+  "english": "ocean",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "oceanos"
+  ],
+  "example": {
+   "pt": "O lixo plástico está poluindo os oceanos.",
+   "en": "Plastic waste is polluting the oceans."
+  }
+ },
+ {
+  "pt": "planeta",
+  "pos": "n.",
+  "english": "planet",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "m",
+  "forms": [
+   "planetas"
+  ],
+  "example": {
+   "pt": "Temos que cuidar melhor do nosso planeta.",
+   "en": "We have to take better care of our planet."
+  }
+ },
+ {
+  "pt": "selvagem",
+  "pos": "adj.",
+  "english": "wild",
+  "level": 3,
+  "topic": "Nature & environment",
+  "forms": [
+   "selvagens"
+  ],
+  "example": {
+   "pt": "Vimos vários animais selvagens no safári.",
+   "en": "We saw several wild animals on the safari."
+  }
+ },
+ {
+  "pt": "cultivar",
+  "pos": "v.",
+  "english": "to grow, to cultivate",
+  "level": 3,
+  "topic": "Nature & environment",
+  "example": {
+   "pt": "Meu avô cultiva tomate e alface no quintal.",
+   "en": "My grandfather grows tomatoes and lettuce in the backyard."
+  }
+ },
+ {
+  "pt": "colheita",
+  "pos": "n.",
+  "english": "harvest",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "colheitas"
+  ],
+  "example": {
+   "pt": "A colheita do café começa em maio.",
+   "en": "The coffee harvest begins in May."
+  }
+ },
+ {
+  "pt": "agricultura",
+  "pos": "n.",
+  "english": "agriculture, farming",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "agriculturas"
+  ],
+  "example": {
+   "pt": "A agricultura é muito importante para a economia do país.",
+   "en": "Agriculture is very important for the country's economy."
+  }
+ },
+ {
+  "pt": "floresta",
+  "pos": "n.",
+  "english": "forest",
+  "level": 3,
+  "topic": "Nature & environment",
+  "gender": "f",
+  "forms": [
+   "florestas"
+  ],
+  "example": {
+   "pt": "A Floresta Amazônica é a maior floresta tropical do mundo.",
+   "en": "The Amazon Rainforest is the largest tropical forest in the world."
+  }
+ }
+]

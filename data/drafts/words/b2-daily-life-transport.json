@@ -1,0 +1,639 @@
+[
+ {
+  "pt": "burocracia",
+  "pos": "n.",
+  "english": "bureaucracy, red tape",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "burocracias"
+  ],
+  "example": {
+   "pt": "A burocracia para abrir uma empresa é enorme.",
+   "en": "The red tape for opening a company is enormous."
+  }
+ },
+ {
+  "pt": "cartório",
+  "pos": "n.",
+  "english": "notary's office, registry office",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "cartórios"
+  ],
+  "example": {
+   "pt": "Preciso ir ao cartório reconhecer firma.",
+   "en": "I need to go to the notary's office to get a signature certified."
+  }
+ },
+ {
+  "pt": "reconhecer firma",
+  "pos": "expr.",
+  "english": "to have a signature notarized",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "O contrato só vale se você reconhecer firma.",
+   "en": "The contract is only valid if you get your signature notarized."
+  }
+ },
+ {
+  "pt": "autenticar",
+  "pos": "v.",
+  "english": "to authenticate, certify (a copy)",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Autentiquei as cópias dos documentos.",
+   "en": "I got the copies of the documents certified."
+  }
+ },
+ {
+  "pt": "prestação",
+  "pos": "n.",
+  "english": "installment, monthly payment",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "prestações"
+  ],
+  "example": {
+   "pt": "Ainda faltam dez prestações do carro.",
+   "en": "There are still ten car payments left."
+  }
+ },
+ {
+  "pt": "financiamento",
+  "pos": "n.",
+  "english": "financing, loan",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "financiamentos"
+  ],
+  "example": {
+   "pt": "Eles fizeram um financiamento de trinta anos para a casa.",
+   "en": "They took out a thirty-year mortgage for the house."
+  }
+ },
+ {
+  "pt": "trânsito engarrafado",
+  "pos": "expr.",
+  "english": "traffic jam, gridlocked traffic",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Com o trânsito engarrafado, cheguei atrasado.",
+   "en": "With the traffic jammed, I arrived late."
+  }
+ },
+ {
+  "pt": "engarrafamento",
+  "pos": "n.",
+  "english": "traffic jam",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "engarrafamentos"
+  ],
+  "example": {
+   "pt": "Fiquei duas horas no engarrafamento.",
+   "en": "I was stuck in a traffic jam for two hours."
+  }
+ },
+ {
+  "pt": "congestionamento",
+  "pos": "n.",
+  "english": "congestion, traffic jam",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "congestionamentos"
+  ],
+  "example": {
+   "pt": "O congestionamento chegou a cem quilômetros.",
+   "en": "The traffic jam reached a hundred kilometers."
+  }
+ },
+ {
+  "pt": "comprovante de residência",
+  "pos": "n.",
+  "english": "proof of address",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "comprovantes de residência"
+  ],
+  "example": {
+   "pt": "Para abrir a conta, leve um comprovante de residência.",
+   "en": "To open the account, bring proof of address."
+  }
+ },
+ {
+  "pt": "boleto",
+  "pos": "n.",
+  "english": "payment slip (bank bill)",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "boletos"
+  ],
+  "example": {
+   "pt": "Paguei o boleto pelo aplicativo do banco.",
+   "en": "I paid the payment slip through the bank app."
+  }
+ },
+ {
+  "pt": "fatura",
+  "pos": "n.",
+  "english": "invoice, (credit card) bill",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "faturas"
+  ],
+  "example": {
+   "pt": "A fatura do cartão veio altíssima este mês.",
+   "en": "The credit card bill was very high this month."
+  }
+ },
+ {
+  "pt": "débito automático",
+  "pos": "n.",
+  "english": "direct debit",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "débitos automáticos"
+  ],
+  "example": {
+   "pt": "A conta de luz está no débito automático.",
+   "en": "The electricity bill is on direct debit."
+  }
+ },
+ {
+  "pt": "parcelar",
+  "pos": "v.",
+  "english": "to pay in installments",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Dá para parcelar em dez vezes sem juros?",
+   "en": "Can I pay in ten interest-free installments?"
+  }
+ },
+ {
+  "pt": "à vista",
+  "pos": "expr.",
+  "english": "in cash, paid in full upfront",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Se pagar à vista, tem dez por cento de desconto.",
+   "en": "If you pay in full upfront, there's a ten percent discount."
+  }
+ },
+ {
+  "pt": "juros",
+  "pos": "n.",
+  "english": "interest (on money)",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "example": {
+   "pt": "Os juros do cartão de crédito são muito altos.",
+   "en": "Credit card interest is very high."
+  }
+ },
+ {
+  "pt": "endividado",
+  "pos": "adj.",
+  "english": "in debt",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "forms": [
+   "endividada",
+   "endividados",
+   "endividadas"
+  ],
+  "example": {
+   "pt": "Muitas famílias estão endividadas.",
+   "en": "Many families are in debt."
+  }
+ },
+ {
+  "pt": "inadimplente",
+  "pos": "adj./n.",
+  "english": "in default, delinquent (debtor)",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "forms": [
+   "inadimplentes"
+  ],
+  "example": {
+   "pt": "O número de consumidores inadimplentes aumentou.",
+   "en": "The number of consumers in default increased."
+  }
+ },
+ {
+  "pt": "quitar",
+  "pos": "v.",
+  "english": "to pay off, settle (a debt)",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Finalmente quitei o financiamento do carro.",
+   "en": "I finally paid off the car loan."
+  }
+ },
+ {
+  "pt": "orçamento",
+  "pos": "n.",
+  "english": "budget; estimate, quote",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "orçamentos"
+  ],
+  "example": {
+   "pt": "Pedi três orçamentos antes de contratar o pintor.",
+   "en": "I asked for three quotes before hiring the painter."
+  }
+ },
+ {
+  "pt": "fiador",
+  "pos": "n.",
+  "english": "guarantor (for a lease)",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "fiadora",
+   "fiadores",
+   "fiadoras"
+  ],
+  "example": {
+   "pt": "Para alugar o apartamento, precisei de um fiador.",
+   "en": "To rent the apartment, I needed a guarantor."
+  }
+ },
+ {
+  "pt": "manutenção",
+  "pos": "n.",
+  "english": "maintenance",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "manutenções"
+  ],
+  "example": {
+   "pt": "O elevador está em manutenção.",
+   "en": "The elevator is under maintenance."
+  }
+ },
+ {
+  "pt": "conserto",
+  "pos": "n.",
+  "english": "repair",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "consertos"
+  ],
+  "example": {
+   "pt": "O conserto da geladeira ficou caro.",
+   "en": "The fridge repair was expensive."
+  }
+ },
+ {
+  "pt": "encanador",
+  "pos": "n.",
+  "english": "plumber",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "encanadores"
+  ],
+  "example": {
+   "pt": "Chamamos um encanador por causa do vazamento.",
+   "en": "We called a plumber because of the leak."
+  }
+ },
+ {
+  "pt": "diarista",
+  "pos": "n.",
+  "english": "cleaner paid by the day",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "diaristas"
+  ],
+  "example": {
+   "pt": "A diarista vem uma vez por semana.",
+   "en": "The cleaner comes once a week."
+  }
+ },
+ {
+  "pt": "afazeres",
+  "pos": "n.",
+  "english": "chores, tasks",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "example": {
+   "pt": "Dividimos os afazeres domésticos.",
+   "en": "We split the household chores."
+  }
+ },
+ {
+  "pt": "vistoria",
+  "pos": "n.",
+  "english": "inspection",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "vistorias"
+  ],
+  "example": {
+   "pt": "O carro precisa passar por uma vistoria.",
+   "en": "The car needs to pass an inspection."
+  }
+ },
+ {
+  "pt": "multa",
+  "pos": "n.",
+  "english": "fine, ticket",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "multas"
+  ],
+  "example": {
+   "pt": "Levei uma multa por excesso de velocidade.",
+   "en": "I got a speeding ticket."
+  }
+ },
+ {
+  "pt": "radar",
+  "pos": "n.",
+  "english": "speed camera; radar",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "radares"
+  ],
+  "example": {
+   "pt": "Cuidado, tem radar nessa avenida.",
+   "en": "Careful, there's a speed camera on this avenue."
+  }
+ },
+ {
+  "pt": "pedágio",
+  "pos": "n.",
+  "english": "toll; toll booth",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "pedágios"
+  ],
+  "example": {
+   "pt": "Pagamos três pedágios na viagem.",
+   "en": "We paid three tolls on the trip."
+  }
+ },
+ {
+  "pt": "carteira de motorista",
+  "pos": "n.",
+  "english": "driver's license",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "carteiras de motorista"
+  ],
+  "example": {
+   "pt": "Ele tirou a carteira de motorista aos dezoito anos.",
+   "en": "He got his driver's license at eighteen."
+  }
+ },
+ {
+  "pt": "transporte público",
+  "pos": "n.",
+  "english": "public transport",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "example": {
+   "pt": "O transporte público na cidade melhorou.",
+   "en": "Public transport in the city improved."
+  }
+ },
+ {
+  "pt": "baldeação",
+  "pos": "n.",
+  "english": "transfer (changing lines)",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "baldeações"
+  ],
+  "example": {
+   "pt": "Para chegar lá, é preciso fazer baldeação na Sé.",
+   "en": "To get there, you need to change lines at Sé."
+  }
+ },
+ {
+  "pt": "lotado",
+  "pos": "adj.",
+  "english": "packed, crowded, full",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "forms": [
+   "lotada",
+   "lotados",
+   "lotadas"
+  ],
+  "example": {
+   "pt": "O metrô estava lotado às oito da manhã.",
+   "en": "The subway was packed at eight in the morning."
+  }
+ },
+ {
+  "pt": "horário de pico",
+  "pos": "n.",
+  "english": "rush hour",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "horários de pico"
+  ],
+  "example": {
+   "pt": "Evito pegar ônibus no horário de pico.",
+   "en": "I avoid taking the bus at rush hour."
+  }
+ },
+ {
+  "pt": "carona",
+  "pos": "n.",
+  "english": "ride, lift",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "caronas"
+  ],
+  "example": {
+   "pt": "Você me dá uma carona até o centro?",
+   "en": "Can you give me a ride downtown?"
+  }
+ },
+ {
+  "pt": "estacionar",
+  "pos": "v.",
+  "english": "to park",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Não é permitido estacionar aqui.",
+   "en": "Parking is not allowed here."
+  }
+ },
+ {
+  "pt": "vaga",
+  "pos": "n.",
+  "english": "parking space; vacancy, opening",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "vagas"
+  ],
+  "example": {
+   "pt": "Rodei meia hora procurando vaga.",
+   "en": "I drove around for half an hour looking for a parking space."
+  }
+ },
+ {
+  "pt": "combustível",
+  "pos": "n.",
+  "english": "fuel",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "combustíveis"
+  ],
+  "example": {
+   "pt": "O preço do combustível subiu de novo.",
+   "en": "The price of fuel went up again."
+  }
+ },
+ {
+  "pt": "abastecer",
+  "pos": "v.",
+  "english": "to fill up (with fuel); supply",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Preciso abastecer o carro antes da viagem.",
+   "en": "I need to fill up the car before the trip."
+  }
+ },
+ {
+  "pt": "pneu furado",
+  "pos": "n.",
+  "english": "flat tire",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "pneus furados"
+  ],
+  "example": {
+   "pt": "Tivemos um pneu furado no meio da estrada.",
+   "en": "We got a flat tire in the middle of the road."
+  }
+ },
+ {
+  "pt": "batida",
+  "pos": "n.",
+  "english": "(car) crash, collision; beat",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "batidas"
+  ],
+  "example": {
+   "pt": "Houve uma batida feia na marginal.",
+   "en": "There was a bad crash on the expressway."
+  }
+ },
+ {
+  "pt": "seguro",
+  "pos": "n.",
+  "english": "insurance",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "seguros"
+  ],
+  "example": {
+   "pt": "O seguro cobriu o conserto do carro.",
+   "en": "The insurance covered the car repair."
+  }
+ },
+ {
+  "pt": "catraca",
+  "pos": "n.",
+  "english": "turnstile",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "catracas"
+  ],
+  "example": {
+   "pt": "Passe o cartão na catraca.",
+   "en": "Swipe your card at the turnstile."
+  }
+ },
+ {
+  "pt": "mudança",
+  "pos": "n.",
+  "english": "move (house); change",
+  "level": 4,
+  "topic": "Daily life & transport",
+  "gender": "f",
+  "forms": [
+   "mudanças"
+  ],
+  "example": {
+   "pt": "A mudança para o novo apartamento foi cansativa.",
+   "en": "The move to the new apartment was exhausting."
+  }
+ }
+]

@@ -1,0 +1,621 @@
+[
+ {
+  "pt": "hora",
+  "pos": "n.",
+  "english": "hour; time (of day)",
+  "level": 1,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "horas"
+  ],
+  "example": {
+   "pt": "Que horas são?",
+   "en": "What time is it?"
+  }
+ },
+ {
+  "pt": "minuto",
+  "pos": "n.",
+  "english": "minute",
+  "level": 1,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "minutos"
+  ],
+  "example": {
+   "pt": "Espere um minuto, por favor.",
+   "en": "Wait a minute, please."
+  }
+ },
+ {
+  "pt": "mês",
+  "pos": "n.",
+  "english": "month",
+  "level": 1,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "meses"
+  ],
+  "example": {
+   "pt": "Eu vou ao Brasil no mês que vem.",
+   "en": "I'm going to Brazil next month."
+  }
+ },
+ {
+  "pt": "ano",
+  "pos": "n.",
+  "english": "year",
+  "level": 1,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "anos"
+  ],
+  "example": {
+   "pt": "Eu tenho vinte anos.",
+   "en": "I am twenty years old."
+  }
+ },
+ {
+  "pt": "manhã",
+  "pos": "n.",
+  "english": "morning",
+  "level": 1,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "manhãs"
+  ],
+  "example": {
+   "pt": "A manhã está bonita.",
+   "en": "The morning is beautiful."
+  }
+ },
+ {
+  "pt": "tarde",
+  "pos": "n./adv.",
+  "english": "afternoon; late",
+  "level": 1,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "tardes"
+  ],
+  "example": {
+   "pt": "Boa tarde! Tudo bem?",
+   "en": "Good afternoon! How are you?"
+  }
+ },
+ {
+  "pt": "noite",
+  "pos": "n.",
+  "english": "night, evening",
+  "level": 1,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "noites"
+  ],
+  "example": {
+   "pt": "Boa noite, até amanhã!",
+   "en": "Good night, see you tomorrow!"
+  }
+ },
+ {
+  "pt": "de manhã",
+  "pos": "expr.",
+  "english": "in the morning",
+  "level": 1,
+  "topic": "Time",
+  "example": {
+   "pt": "Eu corro de manhã.",
+   "en": "I run in the morning."
+  }
+ },
+ {
+  "pt": "à tarde",
+  "pos": "expr.",
+  "english": "in the afternoon",
+  "level": 1,
+  "topic": "Time",
+  "example": {
+   "pt": "Eu estudo à tarde.",
+   "en": "I study in the afternoon."
+  }
+ },
+ {
+  "pt": "à noite",
+  "pos": "expr.",
+  "english": "at night, in the evening",
+  "level": 1,
+  "topic": "Time",
+  "example": {
+   "pt": "Nós jantamos à noite.",
+   "en": "We have dinner in the evening."
+  }
+ },
+ {
+  "pt": "meio-dia",
+  "pos": "n.",
+  "english": "noon",
+  "level": 1,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "meio dia"
+  ],
+  "example": {
+   "pt": "Eu almoço ao meio-dia.",
+   "en": "I have lunch at noon."
+  }
+ },
+ {
+  "pt": "meia-noite",
+  "pos": "n.",
+  "english": "midnight",
+  "level": 1,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "meia noite"
+  ],
+  "example": {
+   "pt": "Eu durmo à meia-noite.",
+   "en": "I go to sleep at midnight."
+  }
+ },
+ {
+  "pt": "cedo",
+  "pos": "adv.",
+  "english": "early",
+  "level": 1,
+  "topic": "Time",
+  "example": {
+   "pt": "Eu acordo cedo.",
+   "en": "I wake up early."
+  }
+ },
+ {
+  "pt": "logo",
+  "pos": "adv.",
+  "english": "soon; right away",
+  "level": 1,
+  "topic": "Time",
+  "example": {
+   "pt": "Até logo!",
+   "en": "See you soon!"
+  }
+ },
+ {
+  "pt": "segunda-feira",
+  "pos": "n.",
+  "english": "Monday",
+  "level": 1,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "segundas-feiras",
+   "segunda feira",
+   "segundas feiras"
+  ],
+  "example": {
+   "pt": "Na segunda-feira eu trabalho.",
+   "en": "On Monday I work."
+  }
+ },
+ {
+  "pt": "terça-feira",
+  "pos": "n.",
+  "english": "Tuesday",
+  "level": 1,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "terças-feiras",
+   "terça feira",
+   "terças feiras"
+  ],
+  "example": {
+   "pt": "Eu tenho aula na terça-feira.",
+   "en": "I have class on Tuesday."
+  }
+ },
+ {
+  "pt": "quarta-feira",
+  "pos": "n.",
+  "english": "Wednesday",
+  "level": 1,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "quartas-feiras",
+   "quarta feira",
+   "quartas feiras"
+  ],
+  "example": {
+   "pt": "A reunião é na quarta-feira.",
+   "en": "The meeting is on Wednesday."
+  }
+ },
+ {
+  "pt": "quinta-feira",
+  "pos": "n.",
+  "english": "Thursday",
+  "level": 1,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "quintas-feiras",
+   "quinta feira",
+   "quintas feiras"
+  ],
+  "example": {
+   "pt": "Na quinta-feira eu jogo futebol.",
+   "en": "On Thursday I play soccer."
+  }
+ },
+ {
+  "pt": "sexta-feira",
+  "pos": "n.",
+  "english": "Friday",
+  "level": 1,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "sextas-feiras",
+   "sexta feira",
+   "sextas feiras"
+  ],
+  "example": {
+   "pt": "Sexta-feira é o meu dia favorito.",
+   "en": "Friday is my favorite day."
+  }
+ },
+ {
+  "pt": "sábado",
+  "pos": "n.",
+  "english": "Saturday",
+  "level": 1,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "sábados"
+  ],
+  "example": {
+   "pt": "No sábado eu vou à praia.",
+   "en": "On Saturday I go to the beach."
+  }
+ },
+ {
+  "pt": "domingo",
+  "pos": "n.",
+  "english": "Sunday",
+  "level": 1,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "domingos"
+  ],
+  "example": {
+   "pt": "No domingo a gente almoça com a família.",
+   "en": "On Sunday we have lunch with the family."
+  }
+ },
+ {
+  "pt": "janeiro",
+  "pos": "n.",
+  "english": "January",
+  "level": 1,
+  "topic": "Time",
+  "gender": "m",
+  "example": {
+   "pt": "Eu viajo em janeiro.",
+   "en": "I'm traveling in January."
+  }
+ },
+ {
+  "pt": "fevereiro",
+  "pos": "n.",
+  "english": "February",
+  "level": 1,
+  "topic": "Time",
+  "gender": "m",
+  "example": {
+   "pt": "O Carnaval é em fevereiro.",
+   "en": "Carnival is in February."
+  }
+ },
+ {
+  "pt": "março",
+  "pos": "n.",
+  "english": "March",
+  "level": 1,
+  "topic": "Time",
+  "gender": "m",
+  "example": {
+   "pt": "As aulas começam em março.",
+   "en": "Classes start in March."
+  }
+ },
+ {
+  "pt": "abril",
+  "pos": "n.",
+  "english": "April",
+  "level": 1,
+  "topic": "Time",
+  "gender": "m",
+  "example": {
+   "pt": "Meu aniversário é em abril.",
+   "en": "My birthday is in April."
+  }
+ },
+ {
+  "pt": "maio",
+  "pos": "n.",
+  "english": "May",
+  "level": 1,
+  "topic": "Time",
+  "gender": "m",
+  "example": {
+   "pt": "Em maio faz frio no sul.",
+   "en": "In May it's cold in the south."
+  }
+ },
+ {
+  "pt": "junho",
+  "pos": "n.",
+  "english": "June",
+  "level": 1,
+  "topic": "Time",
+  "gender": "m",
+  "example": {
+   "pt": "Em junho tem festa junina.",
+   "en": "In June there are June festivals."
+  }
+ },
+ {
+  "pt": "julho",
+  "pos": "n.",
+  "english": "July",
+  "level": 1,
+  "topic": "Time",
+  "gender": "m",
+  "example": {
+   "pt": "Nós temos férias em julho.",
+   "en": "We have vacation in July."
+  }
+ },
+ {
+  "pt": "agosto",
+  "pos": "n.",
+  "english": "August",
+  "level": 1,
+  "topic": "Time",
+  "gender": "m",
+  "example": {
+   "pt": "Ela chega em agosto.",
+   "en": "She arrives in August."
+  }
+ },
+ {
+  "pt": "setembro",
+  "pos": "n.",
+  "english": "September",
+  "level": 1,
+  "topic": "Time",
+  "gender": "m",
+  "example": {
+   "pt": "Eu comecei o curso em setembro.",
+   "en": "I started the course in September."
+  }
+ },
+ {
+  "pt": "outubro",
+  "pos": "n.",
+  "english": "October",
+  "level": 1,
+  "topic": "Time",
+  "gender": "m",
+  "example": {
+   "pt": "Hoje é dia dez de outubro.",
+   "en": "Today is October tenth."
+  }
+ },
+ {
+  "pt": "novembro",
+  "pos": "n.",
+  "english": "November",
+  "level": 1,
+  "topic": "Time",
+  "gender": "m",
+  "example": {
+   "pt": "Em novembro faz calor no Rio.",
+   "en": "In November it's hot in Rio."
+  }
+ },
+ {
+  "pt": "dezembro",
+  "pos": "n.",
+  "english": "December",
+  "level": 1,
+  "topic": "Time",
+  "gender": "m",
+  "example": {
+   "pt": "O Natal é em dezembro.",
+   "en": "Christmas is in December."
+  }
+ },
+ {
+  "pt": "vez",
+  "pos": "n.",
+  "english": "time, occasion",
+  "level": 1,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "vezes"
+  ],
+  "example": {
+   "pt": "Eu vou à academia três vezes por semana.",
+   "en": "I go to the gym three times a week."
+  }
+ },
+ {
+  "pt": "data",
+  "pos": "n.",
+  "english": "date",
+  "level": 1,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "datas"
+  ],
+  "example": {
+   "pt": "Qual é a data de hoje?",
+   "en": "What is today's date?"
+  }
+ },
+ {
+  "pt": "aniversário",
+  "pos": "n.",
+  "english": "birthday",
+  "level": 1,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "aniversários"
+  ],
+  "example": {
+   "pt": "Feliz aniversário!",
+   "en": "Happy birthday!"
+  }
+ },
+ {
+  "pt": "passado",
+  "pos": "adj.",
+  "english": "last, past",
+  "level": 1,
+  "topic": "Time",
+  "forms": [
+   "passada",
+   "passados",
+   "passadas"
+  ],
+  "example": {
+   "pt": "Eu fui ao Rio na semana passada.",
+   "en": "I went to Rio last week."
+  }
+ },
+ {
+  "pt": "acabar",
+  "pos": "v.",
+  "english": "to end, to finish",
+  "level": 1,
+  "topic": "Time",
+  "example": {
+   "pt": "O filme acaba às dez.",
+   "en": "The movie ends at ten."
+  }
+ },
+ {
+  "pt": "relógio",
+  "pos": "n.",
+  "english": "clock, watch",
+  "level": 1,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "relógios"
+  ],
+  "example": {
+   "pt": "Meu relógio está atrasado.",
+   "en": "My watch is slow."
+  }
+ },
+ {
+  "pt": "fim",
+  "pos": "n.",
+  "english": "end",
+  "level": 1,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "fins"
+  ],
+  "example": {
+   "pt": "Eu viajo no fim do mês.",
+   "en": "I'm traveling at the end of the month."
+  }
+ },
+ {
+  "pt": "horário",
+  "pos": "n.",
+  "english": "schedule; time",
+  "level": 1,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "horários"
+  ],
+  "example": {
+   "pt": "Qual é o horário do ônibus?",
+   "en": "What is the bus schedule?"
+  }
+ },
+ {
+  "pt": "madrugada",
+  "pos": "n.",
+  "english": "early morning, small hours",
+  "level": 1,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "madrugadas"
+  ],
+  "example": {
+   "pt": "Ele chegou de madrugada.",
+   "en": "He arrived in the early hours."
+  }
+ },
+ {
+  "pt": "atrasado",
+  "pos": "adj.",
+  "english": "late",
+  "level": 1,
+  "topic": "Time",
+  "forms": [
+   "atrasada",
+   "atrasados",
+   "atrasadas"
+  ],
+  "example": {
+   "pt": "Desculpa, eu estou atrasado.",
+   "en": "Sorry, I'm late."
+  }
+ },
+ {
+  "pt": "que vem",
+  "pos": "expr.",
+  "english": "next (week, month, year)",
+  "level": 1,
+  "topic": "Time",
+  "example": {
+   "pt": "Eu vou viajar na semana que vem.",
+   "en": "I'm going to travel next week."
+  }
+ },
+ {
+  "pt": "demorar",
+  "pos": "v.",
+  "english": "to take (time), to be long",
+  "level": 1,
+  "topic": "Time",
+  "example": {
+   "pt": "O ônibus demora vinte minutos.",
+   "en": "The bus takes twenty minutes."
+  }
+ }
+]

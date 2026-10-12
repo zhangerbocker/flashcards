@@ -2,7 +2,7 @@ import { describe, expect, it } from "vitest";
 import { cardKey, itemOfCard, matchingCards, orderedWords, parseKey, verbItemKey, type Deck } from "./deck";
 import type { GrammarPoint } from "./grammar";
 import type { Topic } from "./topics";
-import type { Verb } from "./verbs";
+import { regularForms, type Verb } from "./verbs";
 import type { Level, Word } from "./words";
 
 function word(id: number, level: Level, topic: Topic = "Actions"): Word {
@@ -32,18 +32,10 @@ function grammar(id: string): GrammarPoint {
   };
 }
 
-const verb: Verb = {
-  wordId: 1,
-  infinitive: "falar",
-  irregular: false,
-  tenses: {
-    presente: ["falo", "fala", "falamos", "falam"],
-    preterito: ["falei", "falou", "falamos", "falaram"],
-    imperfeito: ["falava", "falava", "falávamos", "falavam"],
-  },
-};
+const verb: Verb = { wordId: 1, infinitive: "falar", irregular: false, ...regularForms("falar")! };
 
 const DECK: Deck = {
+  levels: [1, 2, 3, 4],
   words: [word(3, 2), word(1, 1, "Time"), word(2, 1, "Function words"), word(4, 2)],
   grammar: [grammar("g1")],
   verbs: [verb],
@@ -96,7 +88,21 @@ describe("matchingCards", () => {
   it("includes every person of the chosen verb tense", () => {
     const keys = matchingCards(DECK, { kind: "verbs", level: "all", topic: "all", face: "p", tense: "preterito" });
     expect(keys).toEqual(["v:1-preterito-0:p", "v:1-preterito-1:p", "v:1-preterito-2:p", "v:1-preterito-3:p"]);
-    expect(matchingCards(DECK, { kind: "verbs", level: "all", topic: "all", face: "p" })).toHaveLength(12);
+    expect(matchingCards(DECK, { kind: "verbs", level: "all", topic: "all", face: "p" })).toHaveLength(32);
+  });
+
+  it("rates a verb drill at the harder of the verb's and the tense's level", () => {
+    // falar is word 1 (A1): A1 drills are the present and preterite; B1 adds future, conditional, present subjunctive.
+    const at = (level: 1 | 2 | 3 | 4) =>
+      new Set(matchingCards(DECK, { kind: "verbs", level, topic: "all", face: "p" }).map((k) => k.split("-")[1]));
+    expect(at(1)).toEqual(new Set(["presente", "preterito"]));
+    expect(at(3)).toEqual(new Set(["futuro", "condicional", "subjpresente"]));
+  });
+
+  it("keeps to the levels switched on when no level is chosen", () => {
+    const aOnly = { ...DECK, levels: [1, 2] as const };
+    expect(matchingCards(aOnly, { kind: "verbs", level: "all", topic: "all", face: "p" })).toHaveLength(12);
+    expect(matchingCards(aOnly, { kind: "words", level: "all", topic: "all", face: "r" })).toEqual(["w:2:r", "w:1:r", "w:3:r", "w:4:r"]);
   });
 
   it("lists chat mistakes", () => {

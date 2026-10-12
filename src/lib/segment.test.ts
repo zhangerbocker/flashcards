@@ -39,6 +39,11 @@ describe("segment", () => {
     expect(segment("fim do café", lexicon).filter((t) => t.kind === "word").map((t) => t.wordId)).toEqual([6, 3, 4]);
   });
 
+  it("keeps hyphenated words in the lexicon whole", () => {
+    const withHyphen = buildLexicon([{ id: 1, pt: "guarda-chuva", forms: ["guarda-chuvas"] }]);
+    expect(segment("Guarda-chuvas!", withHyphen)[0]).toEqual({ text: "Guarda-chuvas", kind: "word", wordId: 1 });
+  });
+
   it("splits hyphenated clitics into separate words", () => {
     expect(segment("chama-se", lexicon).map((t) => [t.text, t.kind])).toEqual([
       ["chama", "word"],

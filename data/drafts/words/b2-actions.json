@@ -1,0 +1,574 @@
+[
+ {
+  "pt": "abranger",
+  "pos": "v.",
+  "english": "to cover, to encompass",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "O curso abrange desde a gramática básica até a literatura.",
+   "en": "The course covers everything from basic grammar to literature."
+  }
+ },
+ {
+  "pt": "aprimorar",
+  "pos": "v.",
+  "english": "to improve, to refine",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ela fez um intercâmbio para aprimorar o inglês.",
+   "en": "She did an exchange program to improve her English."
+  }
+ },
+ {
+  "pt": "constatar",
+  "pos": "v.",
+  "english": "to establish, to find (that), to note",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "Os pesquisadores constataram um aumento nos casos.",
+   "en": "The researchers found an increase in cases."
+  }
+ },
+ {
+  "pt": "reivindicar",
+  "pos": "v.",
+  "english": "to demand, to claim (a right)",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "Os professores reivindicam melhores salários.",
+   "en": "The teachers are demanding better salaries."
+  }
+ },
+ {
+  "pt": "desencadear",
+  "pos": "v.",
+  "english": "to trigger, to unleash",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "A decisão desencadeou uma onda de protestos.",
+   "en": "The decision triggered a wave of protests."
+  }
+ },
+ {
+  "pt": "acarretar",
+  "pos": "v.",
+  "english": "to entail, to bring about",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "O atraso pode acarretar multas para a empresa.",
+   "en": "The delay may result in fines for the company."
+  }
+ },
+ {
+  "pt": "ressaltar",
+  "pos": "v.",
+  "english": "to highlight, to stress",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "O ministro ressaltou a importância da educação.",
+   "en": "The minister stressed the importance of education."
+  }
+ },
+ {
+  "pt": "viabilizar",
+  "pos": "v.",
+  "english": "to make feasible, to enable",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "O financiamento vai viabilizar a construção do hospital.",
+   "en": "The funding will make building the hospital possible."
+  }
+ },
+ {
+  "pt": "salientar",
+  "pos": "v.",
+  "english": "to point out, to emphasize",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "Vale salientar que os dados são preliminares.",
+   "en": "It is worth pointing out that the data are preliminary."
+  }
+ },
+ {
+  "pt": "enfatizar",
+  "pos": "v.",
+  "english": "to emphasize",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "O professor enfatizou que a prova seria difícil.",
+   "en": "The teacher emphasized that the test would be difficult."
+  }
+ },
+ {
+  "pt": "implementar",
+  "pos": "v.",
+  "english": "to implement",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "A prefeitura vai implementar um novo sistema de transporte.",
+   "en": "The city government will implement a new transport system."
+  }
+ },
+ {
+  "pt": "fomentar",
+  "pos": "v.",
+  "english": "to foster, to promote",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "O programa busca fomentar a leitura nas escolas.",
+   "en": "The program seeks to promote reading in schools."
+  }
+ },
+ {
+  "pt": "assegurar",
+  "pos": "v.",
+  "english": "to ensure, to guarantee",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "A lei assegura o direito à educação.",
+   "en": "The law guarantees the right to education."
+  }
+ },
+ {
+  "pt": "averiguar",
+  "pos": "v.",
+  "english": "to look into, to check",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "A polícia está averiguando a denúncia.",
+   "en": "The police are looking into the report."
+  }
+ },
+ {
+  "pt": "apurar",
+  "pos": "v.",
+  "english": "to investigate; to count (votes)",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "A comissão vai apurar as responsabilidades pelo acidente.",
+   "en": "The committee will investigate who was responsible for the accident."
+  }
+ },
+ {
+  "pt": "abordar",
+  "pos": "v.",
+  "english": "to address, to approach (a topic)",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "O documentário aborda a questão da imigração.",
+   "en": "The documentary addresses the issue of immigration."
+  }
+ },
+ {
+  "pt": "esclarecer",
+  "pos": "v.",
+  "english": "to clarify, to explain",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "Gostaria de esclarecer alguns pontos antes da votação.",
+   "en": "I'd like to clarify a few points before the vote."
+  }
+ },
+ {
+  "pt": "elucidar",
+  "pos": "v.",
+  "english": "to elucidate, to shed light on",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "A investigação ainda não elucidou o caso.",
+   "en": "The investigation hasn't yet shed light on the case."
+  }
+ },
+ {
+  "pt": "estipular",
+  "pos": "v.",
+  "english": "to stipulate, to set",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "O contrato estipula um prazo de trinta dias.",
+   "en": "The contract stipulates a thirty-day deadline."
+  }
+ },
+ {
+  "pt": "mitigar",
+  "pos": "v.",
+  "english": "to mitigate",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "O governo criou medidas para mitigar os efeitos da crise.",
+   "en": "The government created measures to mitigate the effects of the crisis."
+  }
+ },
+ {
+  "pt": "atenuar",
+  "pos": "v.",
+  "english": "to lessen, to tone down",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "O remédio atenua os sintomas, mas não cura.",
+   "en": "The medicine lessens the symptoms but doesn't cure."
+  }
+ },
+ {
+  "pt": "agilizar",
+  "pos": "v.",
+  "english": "to speed up, to streamline",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "O novo sistema vai agilizar o atendimento.",
+   "en": "The new system will speed up service."
+  }
+ },
+ {
+  "pt": "otimizar",
+  "pos": "v.",
+  "english": "to optimize",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "Precisamos otimizar o uso dos recursos.",
+   "en": "We need to optimize the use of resources."
+  }
+ },
+ {
+  "pt": "consolidar",
+  "pos": "v.",
+  "english": "to consolidate",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "A vitória consolidou a liderança do time.",
+   "en": "The win consolidated the team's lead."
+  }
+ },
+ {
+  "pt": "reforçar",
+  "pos": "v.",
+  "english": "to reinforce, to strengthen",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "A empresa reforçou a segurança depois do assalto.",
+   "en": "The company strengthened security after the robbery."
+  }
+ },
+ {
+  "pt": "impulsionar",
+  "pos": "v.",
+  "english": "to boost, to drive",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "O turismo impulsionou a economia da região.",
+   "en": "Tourism boosted the region's economy."
+  }
+ },
+ {
+  "pt": "propiciar",
+  "pos": "v.",
+  "english": "to provide, to favor (conditions for)",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "O clima propicia o cultivo de frutas tropicais.",
+   "en": "The climate favors growing tropical fruit."
+  }
+ },
+ {
+  "pt": "ocasionar",
+  "pos": "v.",
+  "english": "to cause, to bring about",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "A chuva ocasionou atrasos nos voos.",
+   "en": "The rain caused flight delays."
+  }
+ },
+ {
+  "pt": "empreender",
+  "pos": "v.",
+  "english": "to undertake; to start a business",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ele decidiu empreender e abriu uma padaria.",
+   "en": "He decided to become an entrepreneur and opened a bakery."
+  }
+ },
+ {
+  "pt": "desempenhar",
+  "pos": "v.",
+  "english": "to perform, to play (a role)",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "A família desempenha um papel fundamental na educação.",
+   "en": "The family plays a fundamental role in education."
+  }
+ },
+ {
+  "pt": "exercer",
+  "pos": "v.",
+  "english": "to exercise, to practice (a profession)",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ela exerce a medicina há vinte anos.",
+   "en": "She has practiced medicine for twenty years."
+  }
+ },
+ {
+  "pt": "recorrer",
+  "pos": "v.",
+  "english": "to resort to; to appeal",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "A defesa vai recorrer da decisão.",
+   "en": "The defense will appeal the decision."
+  }
+ },
+ {
+  "pt": "usufruir",
+  "pos": "v.",
+  "english": "to enjoy (the benefits of), to make use of",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "Os sócios podem usufruir da piscina e da academia.",
+   "en": "Members can make use of the pool and the gym."
+  }
+ },
+ {
+  "pt": "prorrogar",
+  "pos": "v.",
+  "english": "to extend (a deadline)",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "O prazo de inscrição foi prorrogado até sexta.",
+   "en": "The registration deadline was extended until Friday."
+  }
+ },
+ {
+  "pt": "protelar",
+  "pos": "v.",
+  "english": "to put off, to procrastinate",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ele vive protelando a ida ao dentista.",
+   "en": "He keeps putting off going to the dentist."
+  }
+ },
+ {
+  "pt": "efetuar",
+  "pos": "v.",
+  "english": "to carry out, to make (a payment, etc.)",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "O pagamento deve ser efetuado até o dia 10.",
+   "en": "Payment must be made by the 10th."
+  }
+ },
+ {
+  "pt": "descartar",
+  "pos": "v.",
+  "english": "to rule out; to discard",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "A polícia não descarta a hipótese de crime.",
+   "en": "The police don't rule out the possibility of a crime."
+  }
+ },
+ {
+  "pt": "cogitar",
+  "pos": "v.",
+  "english": "to consider, to contemplate",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ela chegou a cogitar mudar de país.",
+   "en": "She even considered moving abroad."
+  }
+ },
+ {
+  "pt": "almejar",
+  "pos": "v.",
+  "english": "to aspire to, to long for",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ele almeja uma vaga na seleção.",
+   "en": "He aspires to a place on the national team."
+  }
+ },
+ {
+  "pt": "angariar",
+  "pos": "v.",
+  "english": "to raise (funds), to win (support)",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "A campanha angariou fundos para as vítimas.",
+   "en": "The campaign raised funds for the victims."
+  }
+ },
+ {
+  "pt": "captar",
+  "pos": "v.",
+  "english": "to capture, to grasp; to raise (funds)",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "O fotógrafo captou o momento exato do gol.",
+   "en": "The photographer captured the exact moment of the goal."
+  }
+ },
+ {
+  "pt": "desvendar",
+  "pos": "v.",
+  "english": "to unravel, to solve",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "Os cientistas tentam desvendar os mistérios do universo.",
+   "en": "Scientists try to unravel the mysteries of the universe."
+  }
+ },
+ {
+  "pt": "resgatar",
+  "pos": "v.",
+  "english": "to rescue; to recover",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "Os bombeiros resgataram três pessoas do prédio.",
+   "en": "The firefighters rescued three people from the building."
+  }
+ },
+ {
+  "pt": "negligenciar",
+  "pos": "v.",
+  "english": "to neglect",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "Muitos pais negligenciam a saúde mental dos filhos.",
+   "en": "Many parents neglect their children's mental health."
+  }
+ },
+ {
+  "pt": "zelar",
+  "pos": "v.",
+  "english": "to look after, to ensure (zelar por)",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "Cabe ao Estado zelar pela segurança dos cidadãos.",
+   "en": "It's up to the State to look after citizens' safety."
+  }
+ },
+ {
+  "pt": "delegar",
+  "pos": "v.",
+  "english": "to delegate",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "Um bom gestor sabe delegar tarefas.",
+   "en": "A good manager knows how to delegate tasks."
+  }
+ },
+ {
+  "pt": "acionar",
+  "pos": "v.",
+  "english": "to activate; to call (police, insurance)",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "Os vizinhos acionaram a polícia.",
+   "en": "The neighbors called the police."
+  }
+ },
+ {
+  "pt": "vincular",
+  "pos": "v.",
+  "english": "to link, to tie",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "O benefício está vinculado à frequência escolar.",
+   "en": "The benefit is tied to school attendance."
+  }
+ },
+ {
+  "pt": "suprimir",
+  "pos": "v.",
+  "english": "to suppress, to remove",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "O editor suprimiu dois parágrafos do texto.",
+   "en": "The editor removed two paragraphs from the text."
+  }
+ },
+ {
+  "pt": "sustentar",
+  "pos": "v.",
+  "english": "to support, to sustain; to maintain (an argument)",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "Ela sustenta a família sozinha.",
+   "en": "She supports the family on her own."
+  }
+ },
+ {
+  "pt": "deter",
+  "pos": "v.",
+  "english": "to hold, to detain; to stop",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "A polícia deteve dois suspeitos.",
+   "en": "The police detained two suspects."
+  }
+ },
+ {
+  "pt": "induzir",
+  "pos": "v.",
+  "english": "to induce, to lead (into)",
+  "level": 4,
+  "topic": "Actions",
+  "example": {
+   "pt": "Esse tipo de propaganda pode induzir o consumidor ao erro.",
+   "en": "This kind of advertising can mislead the consumer."
+  }
+ }
+]

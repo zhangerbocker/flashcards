@@ -1,0 +1,544 @@
+[
+ {
+  "pt": "ingresso",
+  "pos": "n.",
+  "english": "ticket (for an event)",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "ingressos"
+  ],
+  "example": {
+   "pt": "Comprei dois ingressos para o show.",
+   "en": "I bought two tickets for the concert."
+  }
+ },
+ {
+  "pt": "show",
+  "pos": "n.",
+  "english": "show, concert",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "shows"
+  ],
+  "example": {
+   "pt": "O show começou às nove.",
+   "en": "The concert started at nine."
+  }
+ },
+ {
+  "pt": "exposição",
+  "pos": "n.",
+  "english": "exhibition",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "exposições"
+  ],
+  "example": {
+   "pt": "Fomos ver uma exposição de arte.",
+   "en": "We went to see an art exhibition."
+  }
+ },
+ {
+  "pt": "museu",
+  "pos": "n.",
+  "english": "museum",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "museus"
+  ],
+  "example": {
+   "pt": "O museu fecha às segundas.",
+   "en": "The museum is closed on Mondays."
+  }
+ },
+ {
+  "pt": "teatro",
+  "pos": "n.",
+  "english": "theater",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "teatros"
+  ],
+  "example": {
+   "pt": "Vamos ao teatro no sábado?",
+   "en": "Shall we go to the theater on Saturday?"
+  }
+ },
+ {
+  "pt": "peça",
+  "pos": "n.",
+  "english": "play (theater)",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "peças"
+  ],
+  "example": {
+   "pt": "A peça foi muito engraçada.",
+   "en": "The play was very funny."
+  }
+ },
+ {
+  "pt": "série",
+  "pos": "n.",
+  "english": "TV series, show",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "séries"
+  ],
+  "example": {
+   "pt": "Estou assistindo uma série nova.",
+   "en": "I'm watching a new series."
+  }
+ },
+ {
+  "pt": "ator",
+  "pos": "n.",
+  "english": "actor",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "atriz",
+   "atores",
+   "atrizes"
+  ],
+  "example": {
+   "pt": "Ela é uma atriz famosa.",
+   "en": "She is a famous actress."
+  }
+ },
+ {
+  "pt": "cantor",
+  "pos": "n.",
+  "english": "singer",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "cantora",
+   "cantores",
+   "cantoras"
+  ],
+  "example": {
+   "pt": "A cantora cantou muito bem.",
+   "en": "The singer sang very well."
+  }
+ },
+ {
+  "pt": "artista",
+  "pos": "n.",
+  "english": "artist",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "mf",
+  "forms": [
+   "artistas"
+  ],
+  "example": {
+   "pt": "Ele é um artista talentoso.",
+   "en": "He is a talented artist."
+  }
+ },
+ {
+  "pt": "banda",
+  "pos": "n.",
+  "english": "band",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "bandas"
+  ],
+  "example": {
+   "pt": "Qual é a sua banda favorita?",
+   "en": "What's your favorite band?"
+  }
+ },
+ {
+  "pt": "instrumento",
+  "pos": "n.",
+  "english": "(musical) instrument",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "instrumentos"
+  ],
+  "example": {
+   "pt": "Você toca algum instrumento?",
+   "en": "Do you play any instrument?"
+  }
+ },
+ {
+  "pt": "violão",
+  "pos": "n.",
+  "english": "acoustic guitar",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "violões"
+  ],
+  "example": {
+   "pt": "Ele toca violão muito bem.",
+   "en": "He plays the guitar very well."
+  }
+ },
+ {
+  "pt": "festival",
+  "pos": "n.",
+  "english": "festival",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "festivais"
+  ],
+  "example": {
+   "pt": "Vamos a um festival de música em julho.",
+   "en": "We're going to a music festival in July."
+  }
+ },
+ {
+  "pt": "carnaval",
+  "pos": "n.",
+  "english": "Carnival",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "carnavais"
+  ],
+  "example": {
+   "pt": "O carnaval do Rio é famoso no mundo inteiro.",
+   "en": "Rio's Carnival is famous all over the world."
+  }
+ },
+ {
+  "pt": "feriado",
+  "pos": "n.",
+  "english": "public holiday",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "feriados"
+  ],
+  "example": {
+   "pt": "Segunda é feriado.",
+   "en": "Monday is a holiday."
+  }
+ },
+ {
+  "pt": "passeio",
+  "pos": "n.",
+  "english": "outing, walk, trip",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "passeios"
+  ],
+  "example": {
+   "pt": "Fizemos um passeio de barco.",
+   "en": "We went on a boat trip."
+  }
+ },
+ {
+  "pt": "hobby",
+  "pos": "n.",
+  "english": "hobby",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "hobbies"
+  ],
+  "example": {
+   "pt": "Qual é o seu hobby?",
+   "en": "What's your hobby?"
+  }
+ },
+ {
+  "pt": "jogo",
+  "pos": "n.",
+  "english": "game; match",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "jogos"
+  ],
+  "example": {
+   "pt": "Vamos assistir o jogo no bar.",
+   "en": "Let's watch the game at the bar."
+  }
+ },
+ {
+  "pt": "time",
+  "pos": "n.",
+  "english": "team",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "times"
+  ],
+  "example": {
+   "pt": "Qual é o seu time de futebol?",
+   "en": "What's your soccer team?"
+  }
+ },
+ {
+  "pt": "torcedor",
+  "pos": "n.",
+  "english": "fan (of a team)",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "torcedora",
+   "torcedores",
+   "torcedoras"
+  ],
+  "example": {
+   "pt": "Os torcedores cantaram o jogo inteiro.",
+   "en": "The fans sang the whole game."
+  }
+ },
+ {
+  "pt": "campeonato",
+  "pos": "n.",
+  "english": "championship",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "campeonatos"
+  ],
+  "example": {
+   "pt": "O Flamengo ganhou o campeonato.",
+   "en": "Flamengo won the championship."
+  }
+ },
+ {
+  "pt": "foto",
+  "pos": "n.",
+  "english": "photo",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "fotos"
+  ],
+  "example": {
+   "pt": "Tirei muitas fotos na viagem.",
+   "en": "I took a lot of photos on the trip."
+  }
+ },
+ {
+  "pt": "palco",
+  "pos": "n.",
+  "english": "stage",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "palcos"
+  ],
+  "example": {
+   "pt": "A banda subiu no palco.",
+   "en": "The band went up on stage."
+  }
+ },
+ {
+  "pt": "bilheteria",
+  "pos": "n.",
+  "english": "box office, ticket office",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "bilheterias"
+  ],
+  "example": {
+   "pt": "Os ingressos estão à venda na bilheteria.",
+   "en": "The tickets are on sale at the box office."
+  }
+ },
+ {
+  "pt": "romance",
+  "pos": "n.",
+  "english": "novel; romance",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "romances"
+  ],
+  "example": {
+   "pt": "Estou lendo um romance brasileiro.",
+   "en": "I'm reading a Brazilian novel."
+  }
+ },
+ {
+  "pt": "poesia",
+  "pos": "n.",
+  "english": "poetry",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "poesias"
+  ],
+  "example": {
+   "pt": "Ela gosta de ler poesia.",
+   "en": "She likes to read poetry."
+  }
+ },
+ {
+  "pt": "passear",
+  "pos": "v.",
+  "english": "to go for a walk, to go out",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "example": {
+   "pt": "Vamos passear no parque?",
+   "en": "Shall we go for a walk in the park?"
+  }
+ },
+ {
+  "pt": "desenhar",
+  "pos": "v.",
+  "english": "to draw",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "example": {
+   "pt": "Meu filho desenha muito bem.",
+   "en": "My son draws very well."
+  }
+ },
+ {
+  "pt": "pintar",
+  "pos": "v.",
+  "english": "to paint",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "example": {
+   "pt": "Ela pintou um quadro lindo.",
+   "en": "She painted a beautiful picture."
+  }
+ },
+ {
+  "pt": "dançar",
+  "pos": "v.",
+  "english": "to dance",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "example": {
+   "pt": "Nós dançamos a noite inteira.",
+   "en": "We danced all night."
+  }
+ },
+ {
+  "pt": "tocar",
+  "pos": "v.",
+  "english": "to play (an instrument); to touch",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "example": {
+   "pt": "Ela toca piano desde criança.",
+   "en": "She has played piano since she was a child."
+  }
+ },
+ {
+  "pt": "torcer",
+  "pos": "v.",
+  "english": "to root for, to cheer",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "example": {
+   "pt": "Eu torço para o Corinthians.",
+   "en": "I root for Corinthians."
+  }
+ },
+ {
+  "pt": "ganhar",
+  "pos": "v.",
+  "english": "to win; to earn",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "example": {
+   "pt": "Nosso time ganhou o jogo.",
+   "en": "Our team won the game."
+  }
+ },
+ {
+  "pt": "perder",
+  "pos": "v.",
+  "english": "to lose; to miss",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "example": {
+   "pt": "Perdemos o jogo ontem.",
+   "en": "We lost the game yesterday."
+  }
+ },
+ {
+  "pt": "assistir",
+  "pos": "v.",
+  "english": "to watch",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "example": {
+   "pt": "Ontem à noite assistimos um filme.",
+   "en": "Last night we watched a movie."
+  }
+ },
+ {
+  "pt": "divertido",
+  "pos": "adj.",
+  "english": "fun, amusing",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "forms": [
+   "divertida",
+   "divertidos",
+   "divertidas"
+  ],
+  "example": {
+   "pt": "A festa foi muito divertida.",
+   "en": "The party was a lot of fun."
+  }
+ },
+ {
+  "pt": "chato",
+  "pos": "adj.",
+  "english": "boring; annoying",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "forms": [
+   "chata",
+   "chatos",
+   "chatas"
+  ],
+  "example": {
+   "pt": "O filme foi chato.",
+   "en": "The movie was boring."
+  }
+ }
+]

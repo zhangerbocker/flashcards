@@ -1,0 +1,720 @@
+[
+ {
+  "pt": "porcentagem",
+  "pos": "n.",
+  "english": "percentage",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "porcentagens"
+  ],
+  "example": {
+   "pt": "Uma grande porcentagem da população usa transporte público.",
+   "en": "A large percentage of the population uses public transport."
+  }
+ },
+ {
+  "pt": "percentual",
+  "pos": "n./adj.",
+  "english": "percentage; percent",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "forms": [
+   "percentuais"
+  ],
+  "example": {
+   "pt": "O percentual de desemprego caiu no último trimestre.",
+   "en": "The unemployment percentage fell in the last quarter."
+  }
+ },
+ {
+  "pt": "média",
+  "pos": "n.",
+  "english": "average, mean",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "médias"
+  ],
+  "example": {
+   "pt": "A média de idade dos funcionários é 35 anos.",
+   "en": "The employees' average age is 35."
+  }
+ },
+ {
+  "pt": "dobro",
+  "pos": "n.",
+  "english": "double, twice as much",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "dobros"
+  ],
+  "example": {
+   "pt": "O aluguel aqui custa o dobro do meu antigo.",
+   "en": "The rent here costs double my old one."
+  }
+ },
+ {
+  "pt": "triplo",
+  "pos": "n.",
+  "english": "triple, three times as much",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "triplos"
+  ],
+  "example": {
+   "pt": "As vendas chegaram ao triplo do esperado.",
+   "en": "Sales reached three times what was expected."
+  }
+ },
+ {
+  "pt": "aumento",
+  "pos": "n.",
+  "english": "increase, rise",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "aumentos"
+  ],
+  "example": {
+   "pt": "Houve um aumento expressivo no preço dos alimentos.",
+   "en": "There was a significant increase in food prices."
+  }
+ },
+ {
+  "pt": "queda",
+  "pos": "n.",
+  "english": "drop, fall, decline",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "quedas"
+  ],
+  "example": {
+   "pt": "A queda nas vendas preocupa os comerciantes.",
+   "en": "The drop in sales worries the shopkeepers."
+  }
+ },
+ {
+  "pt": "estimativa",
+  "pos": "n.",
+  "english": "estimate",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "estimativas"
+  ],
+  "example": {
+   "pt": "Segundo a estimativa oficial, a obra custará dois milhões.",
+   "en": "According to the official estimate, the construction will cost two million."
+  }
+ },
+ {
+  "pt": "proporção",
+  "pos": "n.",
+  "english": "proportion, ratio",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "proporções"
+  ],
+  "example": {
+   "pt": "A proporção de mulheres na empresa aumentou.",
+   "en": "The proportion of women in the company increased."
+  }
+ },
+ {
+  "pt": "taxa",
+  "pos": "n.",
+  "english": "rate; fee",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "taxas"
+  ],
+  "example": {
+   "pt": "A taxa de juros subiu de novo.",
+   "en": "The interest rate went up again."
+  }
+ },
+ {
+  "pt": "índice",
+  "pos": "n.",
+  "english": "index, rate",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "índices"
+  ],
+  "example": {
+   "pt": "O índice de inflação ficou acima da meta.",
+   "en": "The inflation rate was above target."
+  }
+ },
+ {
+  "pt": "quantia",
+  "pos": "n.",
+  "english": "sum, amount (of money)",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "quantias"
+  ],
+  "example": {
+   "pt": "Ele doou uma quantia considerável ao hospital.",
+   "en": "He donated a considerable sum to the hospital."
+  }
+ },
+ {
+  "pt": "montante",
+  "pos": "n.",
+  "english": "total amount, sum",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "montantes"
+  ],
+  "example": {
+   "pt": "O montante da dívida ultrapassa um milhão de reais.",
+   "en": "The total amount of the debt exceeds one million reais."
+  }
+ },
+ {
+  "pt": "parcela",
+  "pos": "n.",
+  "english": "portion, share; installment",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "parcelas"
+  ],
+  "example": {
+   "pt": "Uma parcela significativa dos eleitores ainda está indecisa.",
+   "en": "A significant portion of voters is still undecided."
+  }
+ },
+ {
+  "pt": "fração",
+  "pos": "n.",
+  "english": "fraction",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "frações"
+  ],
+  "example": {
+   "pt": "Só uma pequena fração do lixo é reciclada.",
+   "en": "Only a small fraction of the trash is recycled."
+  }
+ },
+ {
+  "pt": "algarismo",
+  "pos": "n.",
+  "english": "digit, numeral",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "algarismos"
+  ],
+  "example": {
+   "pt": "A senha deve ter pelo menos seis algarismos.",
+   "en": "The password must have at least six digits."
+  }
+ },
+ {
+  "pt": "dígito",
+  "pos": "n.",
+  "english": "digit",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "dígitos"
+  ],
+  "example": {
+   "pt": "O número do celular tem nove dígitos.",
+   "en": "The cell phone number has nine digits."
+  }
+ },
+ {
+  "pt": "dezena",
+  "pos": "n.",
+  "english": "ten, group of ten",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "dezenas"
+  ],
+  "example": {
+   "pt": "Dezenas de pessoas esperavam na fila.",
+   "en": "Dozens of people were waiting in line."
+  }
+ },
+ {
+  "pt": "centena",
+  "pos": "n.",
+  "english": "hundred, group of a hundred",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "centenas"
+  ],
+  "example": {
+   "pt": "Centenas de famílias ficaram desabrigadas.",
+   "en": "Hundreds of families were left homeless."
+  }
+ },
+ {
+  "pt": "milhar",
+  "pos": "n.",
+  "english": "thousand",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "milhares"
+  ],
+  "example": {
+   "pt": "Milhares de turistas visitam a cidade no Carnaval.",
+   "en": "Thousands of tourists visit the city during Carnival."
+  }
+ },
+ {
+  "pt": "terço",
+  "pos": "n.",
+  "english": "third",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "terços"
+  ],
+  "example": {
+   "pt": "Um terço dos alunos faltou à prova.",
+   "en": "A third of the students missed the exam."
+  }
+ },
+ {
+  "pt": "acréscimo",
+  "pos": "n.",
+  "english": "addition, increase",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "acréscimos"
+  ],
+  "example": {
+   "pt": "O serviço tem um acréscimo de dez por cento.",
+   "en": "The service has a ten percent surcharge."
+  }
+ },
+ {
+  "pt": "redução",
+  "pos": "n.",
+  "english": "reduction, cut",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "reduções"
+  ],
+  "example": {
+   "pt": "A empresa anunciou uma redução de custos.",
+   "en": "The company announced a cost reduction."
+  }
+ },
+ {
+  "pt": "crescimento",
+  "pos": "n.",
+  "english": "growth",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "crescimentos"
+  ],
+  "example": {
+   "pt": "O crescimento da economia foi menor que o previsto.",
+   "en": "Economic growth was lower than forecast."
+  }
+ },
+ {
+  "pt": "variação",
+  "pos": "n.",
+  "english": "variation, fluctuation",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "variações"
+  ],
+  "example": {
+   "pt": "A variação de preço entre as lojas é enorme.",
+   "en": "The price variation between stores is huge."
+  }
+ },
+ {
+  "pt": "escala",
+  "pos": "n.",
+  "english": "scale",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "escalas"
+  ],
+  "example": {
+   "pt": "Numa escala de zero a dez, que nota você dá?",
+   "en": "On a scale of zero to ten, what score do you give?"
+  }
+ },
+ {
+  "pt": "dimensão",
+  "pos": "n.",
+  "english": "dimension, size",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "dimensões"
+  ],
+  "example": {
+   "pt": "Ninguém imaginava a dimensão do problema.",
+   "en": "No one imagined the size of the problem."
+  }
+ },
+ {
+  "pt": "comprimento",
+  "pos": "n.",
+  "english": "length",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "comprimentos"
+  ],
+  "example": {
+   "pt": "A ponte tem treze quilômetros de comprimento.",
+   "en": "The bridge is thirteen kilometers long."
+  }
+ },
+ {
+  "pt": "largura",
+  "pos": "n.",
+  "english": "width",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "larguras"
+  ],
+  "example": {
+   "pt": "Meça a largura da janela antes de comprar a cortina.",
+   "en": "Measure the width of the window before buying the curtain."
+  }
+ },
+ {
+  "pt": "profundidade",
+  "pos": "n.",
+  "english": "depth",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "profundidades"
+  ],
+  "example": {
+   "pt": "A piscina tem dois metros de profundidade.",
+   "en": "The pool is two meters deep."
+  }
+ },
+ {
+  "pt": "espessura",
+  "pos": "n.",
+  "english": "thickness",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "espessuras"
+  ],
+  "example": {
+   "pt": "A espessura da parede impede o barulho.",
+   "en": "The thickness of the wall blocks the noise."
+  }
+ },
+ {
+  "pt": "capacidade",
+  "pos": "n.",
+  "english": "capacity",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "capacidades"
+  ],
+  "example": {
+   "pt": "O estádio tem capacidade para oitenta mil pessoas.",
+   "en": "The stadium has a capacity of eighty thousand people."
+  }
+ },
+ {
+  "pt": "tonelada",
+  "pos": "n.",
+  "english": "ton",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "toneladas"
+  ],
+  "example": {
+   "pt": "O caminhão transportava dez toneladas de soja.",
+   "en": "The truck was carrying ten tons of soybeans."
+  }
+ },
+ {
+  "pt": "hectare",
+  "pos": "n.",
+  "english": "hectare",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "hectares"
+  ],
+  "example": {
+   "pt": "A fazenda tem mais de mil hectares.",
+   "en": "The farm has over a thousand hectares."
+  }
+ },
+ {
+  "pt": "extensão",
+  "pos": "n.",
+  "english": "extent, length",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "extensões"
+  ],
+  "example": {
+   "pt": "A extensão do litoral brasileiro é impressionante.",
+   "en": "The length of the Brazilian coastline is impressive."
+  }
+ },
+ {
+  "pt": "em torno de",
+  "pos": "expr.",
+  "english": "around, approximately",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "O conserto vai custar em torno de quinhentos reais.",
+   "en": "The repair will cost around five hundred reais."
+  }
+ },
+ {
+  "pt": "ao todo",
+  "pos": "expr.",
+  "english": "in all, altogether",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "Ao todo, quarenta pessoas participaram.",
+   "en": "Altogether, forty people took part."
+  }
+ },
+ {
+  "pt": "equivaler",
+  "pos": "v.",
+  "english": "to be equivalent to",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "Um quilo equivale a mil gramas.",
+   "en": "One kilo is equivalent to a thousand grams."
+  }
+ },
+ {
+  "pt": "estimar",
+  "pos": "v.",
+  "english": "to estimate",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "Os especialistas estimam que a população vai dobrar.",
+   "en": "Experts estimate that the population will double."
+  }
+ },
+ {
+  "pt": "arredondar",
+  "pos": "v.",
+  "english": "to round (off)",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "Pode arredondar o valor para cem reais.",
+   "en": "You can round the amount to a hundred reais."
+  }
+ },
+ {
+  "pt": "totalizar",
+  "pos": "v.",
+  "english": "to total, add up to",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "As doações totalizaram cinquenta mil reais.",
+   "en": "The donations totaled fifty thousand reais."
+  }
+ },
+ {
+  "pt": "duplicar",
+  "pos": "v.",
+  "english": "to double",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "O número de usuários duplicou em um ano.",
+   "en": "The number of users doubled in a year."
+  }
+ },
+ {
+  "pt": "ultrapassar",
+  "pos": "v.",
+  "english": "to exceed, surpass; overtake",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "example": {
+   "pt": "A temperatura ultrapassou os quarenta graus.",
+   "en": "The temperature exceeded forty degrees."
+  }
+ },
+ {
+  "pt": "inúmero",
+  "pos": "adj.",
+  "english": "countless, innumerable",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "forms": [
+   "inúmera",
+   "inúmeros",
+   "inúmeras"
+  ],
+  "example": {
+   "pt": "Já tentei falar com ele inúmeras vezes.",
+   "en": "I've tried to talk to him countless times."
+  }
+ },
+ {
+  "pt": "considerável",
+  "pos": "adj.",
+  "english": "considerable",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "forms": [
+   "consideráveis"
+  ],
+  "example": {
+   "pt": "Ele perdeu uma quantia considerável na bolsa.",
+   "en": "He lost a considerable sum on the stock market."
+  }
+ },
+ {
+  "pt": "irrisório",
+  "pos": "adj.",
+  "english": "negligible, ridiculously small",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "forms": [
+   "irrisória",
+   "irrisórios",
+   "irrisórias"
+  ],
+  "example": {
+   "pt": "O reajuste foi irrisório.",
+   "en": "The raise was negligible."
+  }
+ },
+ {
+  "pt": "minoria",
+  "pos": "n.",
+  "english": "minority",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "minorias"
+  ],
+  "example": {
+   "pt": "Apenas uma minoria votou contra.",
+   "en": "Only a minority voted against."
+  }
+ },
+ {
+  "pt": "saldo",
+  "pos": "n.",
+  "english": "balance (account); net result",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "m",
+  "forms": [
+   "saldos"
+  ],
+  "example": {
+   "pt": "Confira o saldo antes de fazer a transferência.",
+   "en": "Check the balance before making the transfer."
+  }
+ },
+ {
+  "pt": "estatística",
+  "pos": "n.",
+  "english": "statistic(s)",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "estatísticas"
+  ],
+  "example": {
+   "pt": "As estatísticas mostram uma melhora na educação.",
+   "en": "The statistics show an improvement in education."
+  }
+ },
+ {
+  "pt": "amostra",
+  "pos": "n.",
+  "english": "sample",
+  "level": 4,
+  "topic": "Numbers & measures",
+  "gender": "f",
+  "forms": [
+   "amostras"
+  ],
+  "example": {
+   "pt": "A pesquisa usou uma amostra de duas mil pessoas.",
+   "en": "The survey used a sample of two thousand people."
+  }
+ }
+]

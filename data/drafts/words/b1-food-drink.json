@@ -1,0 +1,829 @@
+[
+ {
+  "pt": "ingrediente",
+  "pos": "n.",
+  "english": "ingredient",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "ingredientes"
+  ],
+  "example": {
+   "pt": "Quais são os ingredientes desse bolo?",
+   "en": "What are the ingredients in this cake?"
+  }
+ },
+ {
+  "pt": "refeição",
+  "pos": "n.",
+  "english": "meal",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "refeições"
+  ],
+  "example": {
+   "pt": "O almoço é a refeição mais importante para muitos brasileiros.",
+   "en": "Lunch is the most important meal for many Brazilians."
+  }
+ },
+ {
+  "pt": "cardápio",
+  "pos": "n.",
+  "english": "menu",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "cardápios"
+  ],
+  "example": {
+   "pt": "Você pode me trazer o cardápio, por favor?",
+   "en": "Can you bring me the menu, please?"
+  }
+ },
+ {
+  "pt": "assar",
+  "pos": "v.",
+  "english": "to bake, to roast",
+  "level": 3,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Vou assar um frango para o almoço.",
+   "en": "I'm going to roast a chicken for lunch."
+  }
+ },
+ {
+  "pt": "ferver",
+  "pos": "v.",
+  "english": "to boil",
+  "level": 3,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Espere a água ferver antes de colocar o macarrão.",
+   "en": "Wait for the water to boil before adding the pasta."
+  }
+ },
+ {
+  "pt": "temperar",
+  "pos": "v.",
+  "english": "to season",
+  "level": 3,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Tempere a carne com sal, alho e limão.",
+   "en": "Season the meat with salt, garlic and lime."
+  }
+ },
+ {
+  "pt": "tempero",
+  "pos": "n.",
+  "english": "seasoning, spice",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "temperos"
+  ],
+  "example": {
+   "pt": "O segredo está no tempero.",
+   "en": "The secret is in the seasoning."
+  }
+ },
+ {
+  "pt": "fritar",
+  "pos": "v.",
+  "english": "to fry",
+  "level": 3,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Ela fritou os ovos na manteiga.",
+   "en": "She fried the eggs in butter."
+  }
+ },
+ {
+  "pt": "refogar",
+  "pos": "v.",
+  "english": "to sauté",
+  "level": 3,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Primeiro, refogue a cebola no azeite.",
+   "en": "First, sauté the onion in olive oil."
+  }
+ },
+ {
+  "pt": "mexer",
+  "pos": "v.",
+  "english": "to stir; to touch, mess with",
+  "level": 3,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Mexa o molho sem parar.",
+   "en": "Stir the sauce constantly."
+  }
+ },
+ {
+  "pt": "picar",
+  "pos": "v.",
+  "english": "to chop",
+  "level": 3,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Você pode picar a cebola para mim?",
+   "en": "Can you chop the onion for me?"
+  }
+ },
+ {
+  "pt": "descascar",
+  "pos": "v.",
+  "english": "to peel",
+  "level": 3,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Descasque as batatas e corte em pedaços.",
+   "en": "Peel the potatoes and cut them into pieces."
+  }
+ },
+ {
+  "pt": "misturar",
+  "pos": "v.",
+  "english": "to mix",
+  "level": 3,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Misture a farinha com os ovos.",
+   "en": "Mix the flour with the eggs."
+  }
+ },
+ {
+  "pt": "panela",
+  "pos": "n.",
+  "english": "pot, pan",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "panelas"
+  ],
+  "example": {
+   "pt": "Coloque o arroz na panela.",
+   "en": "Put the rice in the pot."
+  }
+ },
+ {
+  "pt": "frigideira",
+  "pos": "n.",
+  "english": "frying pan",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "frigideiras"
+  ],
+  "example": {
+   "pt": "Esquente a frigideira antes de colocar o óleo.",
+   "en": "Heat the frying pan before adding the oil."
+  }
+ },
+ {
+  "pt": "forno",
+  "pos": "n.",
+  "english": "oven",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "fornos"
+  ],
+  "example": {
+   "pt": "O bolo está no forno há meia hora.",
+   "en": "The cake has been in the oven for half an hour."
+  }
+ },
+ {
+  "pt": "fogão",
+  "pos": "n.",
+  "english": "stove",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "fogões"
+  ],
+  "example": {
+   "pt": "Deixei o feijão no fogão.",
+   "en": "I left the beans on the stove."
+  }
+ },
+ {
+  "pt": "talher",
+  "pos": "n.",
+  "english": "piece of cutlery",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "talheres"
+  ],
+  "example": {
+   "pt": "Os talheres estão na gaveta.",
+   "en": "The cutlery is in the drawer."
+  }
+ },
+ {
+  "pt": "tigela",
+  "pos": "n.",
+  "english": "bowl",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "tigelas"
+  ],
+  "example": {
+   "pt": "Coloque a salada numa tigela grande.",
+   "en": "Put the salad in a big bowl."
+  }
+ },
+ {
+  "pt": "porção",
+  "pos": "n.",
+  "english": "portion, serving; side dish (in bars)",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "porções"
+  ],
+  "example": {
+   "pt": "Pedimos uma porção de batata frita.",
+   "en": "We ordered a portion of French fries."
+  }
+ },
+ {
+  "pt": "petisco",
+  "pos": "n.",
+  "english": "snack, appetizer",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "petiscos"
+  ],
+  "example": {
+   "pt": "No bar, pedimos alguns petiscos.",
+   "en": "At the bar, we ordered a few snacks."
+  }
+ },
+ {
+  "pt": "salgado",
+  "pos": "n./adj.",
+  "english": "salty; savory snack",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "salgada",
+   "salgados",
+   "salgadas"
+  ],
+  "example": {
+   "pt": "A sopa ficou muito salgada.",
+   "en": "The soup turned out very salty."
+  }
+ },
+ {
+  "pt": "azedo",
+  "pos": "adj.",
+  "english": "sour",
+  "level": 3,
+  "topic": "Food & drink",
+  "forms": [
+   "azeda",
+   "azedos",
+   "azedas"
+  ],
+  "example": {
+   "pt": "Esse leite está azedo.",
+   "en": "This milk is sour."
+  }
+ },
+ {
+  "pt": "amargo",
+  "pos": "adj.",
+  "english": "bitter",
+  "level": 3,
+  "topic": "Food & drink",
+  "forms": [
+   "amarga",
+   "amargos",
+   "amargas"
+  ],
+  "example": {
+   "pt": "O café sem açúcar é muito amargo.",
+   "en": "Coffee without sugar is very bitter."
+  }
+ },
+ {
+  "pt": "apimentado",
+  "pos": "adj.",
+  "english": "spicy, peppery",
+  "level": 3,
+  "topic": "Food & drink",
+  "forms": [
+   "apimentada",
+   "apimentados",
+   "apimentadas"
+  ],
+  "example": {
+   "pt": "A comida baiana costuma ser apimentada.",
+   "en": "Bahian food is usually spicy."
+  }
+ },
+ {
+  "pt": "gorduroso",
+  "pos": "adj.",
+  "english": "greasy, fatty",
+  "level": 3,
+  "topic": "Food & drink",
+  "forms": [
+   "gordurosa",
+   "gordurosos",
+   "gordurosas"
+  ],
+  "example": {
+   "pt": "Evite comidas gordurosas à noite.",
+   "en": "Avoid greasy food at night."
+  }
+ },
+ {
+  "pt": "saudável",
+  "pos": "adj.",
+  "english": "healthy",
+  "level": 3,
+  "topic": "Food & drink",
+  "forms": [
+   "saudáveis"
+  ],
+  "example": {
+   "pt": "Ela tenta ter uma alimentação saudável.",
+   "en": "She tries to eat a healthy diet."
+  }
+ },
+ {
+  "pt": "cru",
+  "pos": "adj.",
+  "english": "raw",
+  "level": 3,
+  "topic": "Food & drink",
+  "forms": [
+   "crua",
+   "crus",
+   "cruas"
+  ],
+  "example": {
+   "pt": "Não coma carne crua.",
+   "en": "Don't eat raw meat."
+  }
+ },
+ {
+  "pt": "cozido",
+  "pos": "adj.",
+  "english": "cooked, boiled",
+  "level": 3,
+  "topic": "Food & drink",
+  "forms": [
+   "cozida",
+   "cozidos",
+   "cozidas"
+  ],
+  "example": {
+   "pt": "Prefiro legumes cozidos no vapor.",
+   "en": "I prefer steamed vegetables."
+  }
+ },
+ {
+  "pt": "assado",
+  "pos": "adj.",
+  "english": "baked, roasted",
+  "level": 3,
+  "topic": "Food & drink",
+  "forms": [
+   "assada",
+   "assados",
+   "assadas"
+  ],
+  "example": {
+   "pt": "Hoje tem frango assado com batatas.",
+   "en": "Today there's roast chicken with potatoes."
+  }
+ },
+ {
+  "pt": "frito",
+  "pos": "adj.",
+  "english": "fried",
+  "level": 3,
+  "topic": "Food & drink",
+  "forms": [
+   "frita",
+   "fritos",
+   "fritas"
+  ],
+  "example": {
+   "pt": "Ele adora peixe frito.",
+   "en": "He loves fried fish."
+  }
+ },
+ {
+  "pt": "maduro",
+  "pos": "adj.",
+  "english": "ripe; mature",
+  "level": 3,
+  "topic": "Food & drink",
+  "forms": [
+   "madura",
+   "maduros",
+   "maduras"
+  ],
+  "example": {
+   "pt": "Essas bananas ainda não estão maduras.",
+   "en": "These bananas aren't ripe yet."
+  }
+ },
+ {
+  "pt": "estragado",
+  "pos": "adj.",
+  "english": "spoiled, gone bad",
+  "level": 3,
+  "topic": "Food & drink",
+  "forms": [
+   "estragada",
+   "estragados",
+   "estragadas"
+  ],
+  "example": {
+   "pt": "O iogurte estava estragado.",
+   "en": "The yogurt had gone bad."
+  }
+ },
+ {
+  "pt": "vencido",
+  "pos": "adj.",
+  "english": "expired, past its date",
+  "level": 3,
+  "topic": "Food & drink",
+  "forms": [
+   "vencida",
+   "vencidos",
+   "vencidas"
+  ],
+  "example": {
+   "pt": "Joguei fora o queijo vencido.",
+   "en": "I threw out the expired cheese."
+  }
+ },
+ {
+  "pt": "congelado",
+  "pos": "adj.",
+  "english": "frozen",
+  "level": 3,
+  "topic": "Food & drink",
+  "forms": [
+   "congelada",
+   "congelados",
+   "congeladas"
+  ],
+  "example": {
+   "pt": "Comprei legumes congelados.",
+   "en": "I bought frozen vegetables."
+  }
+ },
+ {
+  "pt": "descongelar",
+  "pos": "v.",
+  "english": "to defrost, thaw",
+  "level": 3,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Esqueci de descongelar a carne.",
+   "en": "I forgot to defrost the meat."
+  }
+ },
+ {
+  "pt": "gordura",
+  "pos": "n.",
+  "english": "fat, grease",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "gorduras"
+  ],
+  "example": {
+   "pt": "Esse prato tem muita gordura.",
+   "en": "This dish has a lot of fat."
+  }
+ },
+ {
+  "pt": "farinha",
+  "pos": "n.",
+  "english": "flour; manioc flour",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "farinhas"
+  ],
+  "example": {
+   "pt": "Coloque duas xícaras de farinha.",
+   "en": "Add two cups of flour."
+  }
+ },
+ {
+  "pt": "fermento",
+  "pos": "n.",
+  "english": "yeast; baking powder",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "fermentos"
+  ],
+  "example": {
+   "pt": "Sem fermento, o bolo não cresce.",
+   "en": "Without baking powder, the cake won't rise."
+  }
+ },
+ {
+  "pt": "grão",
+  "pos": "n.",
+  "english": "grain, bean",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "grãos"
+  ],
+  "example": {
+   "pt": "Comprei café em grãos.",
+   "en": "I bought coffee beans."
+  }
+ },
+ {
+  "pt": "alho",
+  "pos": "n.",
+  "english": "garlic",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "alhos"
+  ],
+  "example": {
+   "pt": "O arroz brasileiro leva alho e cebola.",
+   "en": "Brazilian rice has garlic and onion in it."
+  }
+ },
+ {
+  "pt": "azeite",
+  "pos": "n.",
+  "english": "olive oil",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "azeites"
+  ],
+  "example": {
+   "pt": "Tempere a salada com azeite e vinagre.",
+   "en": "Dress the salad with olive oil and vinegar."
+  }
+ },
+ {
+  "pt": "vinagre",
+  "pos": "n.",
+  "english": "vinegar",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "vinagres"
+  ],
+  "example": {
+   "pt": "Coloque um pouco de vinagre no molho.",
+   "en": "Add a little vinegar to the sauce."
+  }
+ },
+ {
+  "pt": "pimenta",
+  "pos": "n.",
+  "english": "pepper; chili",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "pimentas"
+  ],
+  "example": {
+   "pt": "Você quer pimenta na comida?",
+   "en": "Do you want pepper in your food?"
+  }
+ },
+ {
+  "pt": "molho",
+  "pos": "n.",
+  "english": "sauce",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "molhos"
+  ],
+  "example": {
+   "pt": "O macarrão vem com molho de tomate.",
+   "en": "The pasta comes with tomato sauce."
+  }
+ },
+ {
+  "pt": "caldo",
+  "pos": "n.",
+  "english": "broth; stock",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "caldos"
+  ],
+  "example": {
+   "pt": "No inverno, gosto de tomar um caldo quente.",
+   "en": "In winter, I like to have a hot broth."
+  }
+ },
+ {
+  "pt": "massa",
+  "pos": "n.",
+  "english": "pasta; dough",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "massas"
+  ],
+  "example": {
+   "pt": "A massa da pizza é feita em casa.",
+   "en": "The pizza dough is homemade."
+  }
+ },
+ {
+  "pt": "alimentação",
+  "pos": "n.",
+  "english": "diet, nutrition, food",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "alimentações"
+  ],
+  "example": {
+   "pt": "Uma boa alimentação é essencial para a saúde.",
+   "en": "Good nutrition is essential for health."
+  }
+ },
+ {
+  "pt": "alimento",
+  "pos": "n.",
+  "english": "food, foodstuff",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "alimentos"
+  ],
+  "example": {
+   "pt": "Esse alimento é rico em ferro.",
+   "en": "This food is rich in iron."
+  }
+ },
+ {
+  "pt": "dieta",
+  "pos": "n.",
+  "english": "diet",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "dietas"
+  ],
+  "example": {
+   "pt": "Estou de dieta, então não vou comer sobremesa.",
+   "en": "I'm on a diet, so I won't eat dessert."
+  }
+ },
+ {
+  "pt": "vegetariano",
+  "pos": "n./adj.",
+  "english": "vegetarian",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "vegetariana",
+   "vegetarianos",
+   "vegetarianas"
+  ],
+  "example": {
+   "pt": "Vocês têm algum prato vegetariano?",
+   "en": "Do you have any vegetarian dishes?"
+  }
+ },
+ {
+  "pt": "satisfeito",
+  "pos": "adj.",
+  "english": "full (after eating); satisfied",
+  "level": 3,
+  "topic": "Food & drink",
+  "forms": [
+   "satisfeita",
+   "satisfeitos",
+   "satisfeitas"
+  ],
+  "example": {
+   "pt": "Não, obrigado, já estou satisfeito.",
+   "en": "No, thanks, I'm already full."
+  }
+ },
+ {
+  "pt": "provar",
+  "pos": "v.",
+  "english": "to taste, to try; to prove",
+  "level": 3,
+  "topic": "Food & drink",
+  "example": {
+   "pt": "Prova esse doce, está uma delícia!",
+   "en": "Try this sweet, it's delicious!"
+  }
+ },
+ {
+  "pt": "sabor",
+  "pos": "n.",
+  "english": "flavor, taste",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "sabores"
+  ],
+  "example": {
+   "pt": "Que sabor de sorvete você quer?",
+   "en": "What flavor of ice cream do you want?"
+  }
+ },
+ {
+  "pt": "feira",
+  "pos": "n.",
+  "english": "street market, farmers' market",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "feiras"
+  ],
+  "example": {
+   "pt": "Compro frutas na feira todo sábado.",
+   "en": "I buy fruit at the street market every Saturday."
+  }
+ },
+ {
+  "pt": "açougue",
+  "pos": "n.",
+  "english": "butcher's shop",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "m",
+  "forms": [
+   "açougues"
+  ],
+  "example": {
+   "pt": "Comprei a carne no açougue da esquina.",
+   "en": "I bought the meat at the butcher's on the corner."
+  }
+ },
+ {
+  "pt": "gorjeta",
+  "pos": "n.",
+  "english": "tip (gratuity)",
+  "level": 3,
+  "topic": "Food & drink",
+  "gender": "f",
+  "forms": [
+   "gorjetas"
+  ],
+  "example": {
+   "pt": "No Brasil, a gorjeta geralmente é de dez por cento.",
+   "en": "In Brazil, the tip is usually ten percent."
+  }
+ }
+]

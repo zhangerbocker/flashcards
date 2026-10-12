@@ -1,0 +1,451 @@
+[
+ {
+  "id": "a2-culture-leisure-1",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "title": "Um show na praça",
+  "titleEn": "A concert in the square",
+  "sentences": [
+   {
+    "pt": "Na sexta-feira, a prefeitura de Salvador fez um festival de música na praça.",
+    "en": "On Friday, Salvador's city hall put on a music festival in the square.",
+    "glosses": {
+     "na": "on / in the",
+     "prefeitura": "city hall",
+     "fez": "put on"
+    }
+   },
+   {
+    "pt": "Juliana viu a notícia numa rede social e convidou as amigas.",
+    "en": "Juliana saw the news on a social network and invited her friends.",
+    "glosses": {
+     "viu": "saw",
+     "numa": "on a",
+     "convidou": "invited",
+     "amigas": "friends (f)"
+    }
+   },
+   {
+    "pt": "Os ingressos eram baratos: só vinte reais.",
+    "en": "The tickets were cheap: only twenty reais.",
+    "glosses": {
+     "eram": "were"
+    }
+   },
+   {
+    "pt": "Ela comprou três ingressos na bilheteria do teatro.",
+    "en": "She bought three tickets at the theater's box office.",
+    "glosses": {
+     "comprou": "bought",
+     "na": "at the",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Na noite do show, a praça estava muito cheia.",
+    "en": "On the night of the concert, the square was very crowded.",
+    "glosses": {
+     "na": "on the",
+     "do": "of the",
+     "show": "concert",
+     "estava": "was",
+     "cheia": "crowded"
+    }
+   },
+   {
+    "pt": "Tinha gente de todas as idades: crianças, jovens e idosos.",
+    "en": "There were people of all ages: children, young people and elderly people.",
+    "glosses": {
+     "tinha": "there were",
+     "jovens": "young people",
+     "idosos": "elderly people"
+    }
+   },
+   {
+    "pt": "No palco, uma banda famosa da Bahia começou a tocar samba.",
+    "en": "On stage, a famous band from Bahia started playing samba.",
+    "glosses": {
+     "no": "on",
+     "da": "from",
+     "começou": "started"
+    }
+   },
+   {
+    "pt": "A cantora cantava muito bem e dançava ao mesmo tempo.",
+    "en": "The singer sang very well and danced at the same time.",
+    "glosses": {
+     "cantora": "singer (f)",
+     "cantava": "sang",
+     "dançava": "danced"
+    }
+   },
+   {
+    "pt": "Juliana e as amigas cantaram as músicas favoritas delas.",
+    "en": "Juliana and her friends sang their favorite songs.",
+    "glosses": {
+     "cantaram": "sang",
+     "músicas": "songs",
+     "delas": "their"
+    }
+   },
+   {
+    "pt": "Um senhor ao lado delas dançava com a esposa.",
+    "en": "An older man next to them was dancing with his wife.",
+    "glosses": {
+     "senhor": "older man",
+     "delas": "them",
+     "dançava": "was dancing"
+    }
+   },
+   {
+    "pt": "\"Eu conheço essa banda há trinta anos!\", ele disse para Juliana.",
+    "en": "\"I've known this band for thirty years!\" he told Juliana.",
+    "glosses": {
+     "conheço": "have known",
+     "há": "for",
+     "disse": "told"
+    }
+   },
+   {
+    "pt": "Depois de uma hora, começou a garoar.",
+    "en": "After an hour, it started to drizzle.",
+    "glosses": {
+     "começou": "started"
+    }
+   },
+   {
+    "pt": "Mas ninguém foi para casa.",
+    "en": "But nobody went home.",
+    "glosses": {
+     "foi": "went"
+    }
+   },
+   {
+    "pt": "Todos continuaram dançando na chuva.",
+    "en": "Everyone kept dancing in the rain.",
+    "glosses": {
+     "todos": "everyone",
+     "continuaram": "kept",
+     "dançando": "dancing",
+     "na": "in the"
+    }
+   },
+   {
+    "pt": "No fim, o cantor disse: \"Muito obrigado, Salvador!\"",
+    "en": "At the end, the singer said: \"Thank you very much, Salvador!\"",
+    "glosses": {
+     "no": "in the",
+     "fim": "end",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Depois do show, as amigas comeram um lanche e conversaram.",
+    "en": "After the concert, the friends had a snack and chatted.",
+    "glosses": {
+     "do": "the",
+     "show": "concert",
+     "comeram": "had",
+     "conversaram": "chatted"
+    }
+   },
+   {
+    "pt": "\"Foi o melhor show do ano\", disse Juliana.",
+    "en": "\"It was the best concert of the year,\" said Juliana.",
+    "glosses": {
+     "foi": "it was",
+     "melhor": "best",
+     "show": "concert",
+     "do": "of the",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "\"Com certeza!\", responderam as amigas.",
+    "en": "\"Definitely!\" answered her friends.",
+    "glosses": {
+     "responderam": "answered"
+    }
+   },
+   {
+    "pt": "Agora elas estão esperando o festival do ano que vem.",
+    "en": "Now they're waiting for next year's festival.",
+    "glosses": {
+     "estão": "are",
+     "esperando": "waiting for",
+     "que vem": "next"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Onde foi o show?",
+    "qEn": "Where was the concert?",
+    "options": [
+     "Num teatro",
+     "Na praça",
+     "Na praia",
+     "Num cinema"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quanto custava o ingresso?",
+    "qEn": "How much did the ticket cost?",
+    "options": [
+     "Dez reais",
+     "Vinte reais",
+     "Cinquenta reais",
+     "Cem reais"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "O que aconteceu depois de uma hora?",
+    "qEn": "What happened after an hour?",
+    "options": [
+     "Começou a garoar",
+     "A banda parou",
+     "Juliana voltou para casa",
+     "Começou a nevar"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "a2-culture-leisure-2",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "title": "O último jogo",
+  "titleEn": "The last match",
+  "sentences": [
+   {
+    "pt": "Ricardo é torcedor de um time do Rio desde criança.",
+    "en": "Ricardo has been a fan of a Rio team since he was a child.",
+    "glosses": {
+     "é": "has been",
+     "do": "from",
+     "criança": "a child"
+    }
+   },
+   {
+    "pt": "No domingo, o time dele ia jogar o último jogo do campeonato.",
+    "en": "On Sunday, his team was going to play the last match of the championship.",
+    "glosses": {
+     "no": "on",
+     "dele": "his",
+     "ia": "was going to",
+     "jogo": "match",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Ricardo convidou os amigos e o cunhado para assistir ao jogo em casa.",
+    "en": "Ricardo invited his friends and his brother-in-law to watch the match at home.",
+    "glosses": {
+     "convidou": "invited",
+     "assistir": "watch",
+     "ao": "the",
+     "jogo": "match"
+    }
+   },
+   {
+    "pt": "Ele comprou cerveja e refrigerante, e a esposa fez pão de queijo.",
+    "en": "He bought beer and soda, and his wife made cheese bread.",
+    "glosses": {
+     "comprou": "bought",
+     "fez": "made"
+    }
+   },
+   {
+    "pt": "O filho dele, de oito anos, também estava com a camisa do time.",
+    "en": "His eight-year-old son was also wearing the team shirt.",
+    "glosses": {
+     "dele": "his",
+     "anos": "years",
+     "estava": "was",
+     "com": "wearing (with)",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "O jogo começou às quatro horas da tarde.",
+    "en": "The match started at four in the afternoon.",
+    "glosses": {
+     "jogo": "match",
+     "começou": "started",
+     "às": "at",
+     "da": "in the"
+    }
+   },
+   {
+    "pt": "Todos estavam sentados no sofá, ansiosos.",
+    "en": "Everyone was sitting on the sofa, anxious.",
+    "glosses": {
+     "todos": "everyone",
+     "estavam": "were",
+     "sentados": "sitting",
+     "no": "on the"
+    }
+   },
+   {
+    "pt": "Depois de vinte minutos, o outro time estava ganhando por 1 a 0.",
+    "en": "After twenty minutes, the other team was winning 1-0.",
+    "glosses": {
+     "estava": "was",
+     "ganhando": "winning",
+     "por": "by",
+     "a": "to"
+    }
+   },
+   {
+    "pt": "Ricardo ficou bravo e reclamou muito.",
+    "en": "Ricardo got angry and complained a lot.",
+    "glosses": {
+     "ficou": "got",
+     "reclamou": "complained"
+    }
+   },
+   {
+    "pt": "\"Eles estão jogando muito mal!\", ele disse.",
+    "en": "\"They're playing really badly!\" he said.",
+    "glosses": {
+     "estão": "are",
+     "jogando": "playing",
+     "muito": "really",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "O cunhado riu: \"Calma, o jogo ainda não acabou.\"",
+    "en": "His brother-in-law laughed: \"Calm down, the match isn't over yet.\"",
+    "glosses": {
+     "riu": "laughed",
+     "calma": "calm down",
+     "jogo": "match",
+     "ainda": "yet",
+     "acabou": "is over"
+    }
+   },
+   {
+    "pt": "No segundo tempo, o time de Ricardo começou a jogar melhor.",
+    "en": "In the second half, Ricardo's team started to play better.",
+    "glosses": {
+     "no": "in the",
+     "segundo": "second",
+     "tempo": "half (time)",
+     "começou": "started"
+    }
+   },
+   {
+    "pt": "Aos trinta minutos, o jogo estava 1 a 1.",
+    "en": "At thirty minutes, the match was 1-1.",
+    "glosses": {
+     "aos": "at",
+     "jogo": "match",
+     "estava": "was",
+     "a": "to"
+    }
+   },
+   {
+    "pt": "Todos pularam do sofá, muito felizes.",
+    "en": "Everyone jumped up from the sofa, very happy.",
+    "glosses": {
+     "todos": "everyone",
+     "pularam": "jumped up",
+     "do": "from the"
+    }
+   },
+   {
+    "pt": "No último minuto, o jogo ficou 2 a 1 para o time de Ricardo.",
+    "en": "In the last minute, the match became 2-1 to Ricardo's team.",
+    "glosses": {
+     "no": "in the",
+     "jogo": "match",
+     "ficou": "became",
+     "a": "to",
+     "para": "to"
+    }
+   },
+   {
+    "pt": "O time ganhou o campeonato!",
+    "en": "The team won the championship!",
+    "glosses": {
+     "ganhou": "won"
+    }
+   },
+   {
+    "pt": "Ricardo e o filho dançaram na sala.",
+    "en": "Ricardo and his son danced in the living room.",
+    "glosses": {
+     "dançaram": "danced",
+     "na": "in the"
+    }
+   },
+   {
+    "pt": "Na rua, os vizinhos cantavam e tocavam música.",
+    "en": "In the street, the neighbors were singing and playing music.",
+    "glosses": {
+     "na": "in the",
+     "cantavam": "were singing",
+     "tocavam": "were playing"
+    }
+   },
+   {
+    "pt": "\"Esse foi o melhor domingo do ano!\", disse o filho.",
+    "en": "\"That was the best Sunday of the year!\" said his son.",
+    "glosses": {
+     "foi": "was",
+     "melhor": "best",
+     "do": "of the",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Ricardo concordou, quase chorando de alegria.",
+    "en": "Ricardo agreed, almost crying with joy.",
+    "glosses": {
+     "concordou": "agreed",
+     "chorando": "crying",
+     "de": "with"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Onde eles assistiram ao jogo?",
+    "qEn": "Where did they watch the match?",
+    "options": [
+     "Em casa",
+     "Na praia",
+     "Na escola",
+     "No cinema"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Quem disse \"Calma, o jogo ainda não acabou\"?",
+    "qEn": "Who said \"Calm down, the match isn't over yet\"?",
+    "options": [
+     "O filho",
+     "A esposa",
+     "O cunhado",
+     "Um vizinho"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Como terminou o jogo?",
+    "qEn": "How did the match end?",
+    "options": [
+     "1 a 0",
+     "1 a 1",
+     "2 a 1",
+     "0 a 0"
+    ],
+    "answer": 2
+   }
+  ]
+ }
+]

@@ -1,0 +1,343 @@
+[
+ {
+  "id": "a1-function-words-1",
+  "level": 1,
+  "topic": "Function words",
+  "title": "Um domingo em casa",
+  "titleEn": "A Sunday at home",
+  "sentences": [
+   {
+    "pt": "Hoje é domingo e Pedro está em casa.",
+    "en": "Today is Sunday and Pedro is at home.",
+    "glosses": {
+     "é": "is",
+     "está": "is"
+    }
+   },
+   {
+    "pt": "Ele acorda tarde, às dez horas.",
+    "en": "He wakes up late, at ten o'clock.",
+    "glosses": {
+     "acorda": "wakes up",
+     "às": "at"
+    }
+   },
+   {
+    "pt": "A esposa dele, Carla, já está na cozinha.",
+    "en": "His wife, Carla, is already in the kitchen.",
+    "glosses": {
+     "dele": "his",
+     "está": "is",
+     "na": "in the",
+     "cozinha": "cooks"
+    }
+   },
+   {
+    "pt": "Ela está fazendo café e ovos.",
+    "en": "She is making coffee and eggs.",
+    "glosses": {
+     "está": "is",
+     "fazendo": "making"
+    }
+   },
+   {
+    "pt": "\"Bom dia! Você quer café?\", ela pergunta.",
+    "en": "\"Good morning! Do you want coffee?\" she asks.",
+    "glosses": {
+     "quer": "want",
+     "pergunta": "asks"
+    }
+   },
+   {
+    "pt": "\"Sim, obrigado\", diz Pedro.",
+    "en": "\"Yes, thanks,\" says Pedro.",
+    "glosses": {
+     "diz": "says"
+    }
+   },
+   {
+    "pt": "Depois do café, eles vão para o jardim.",
+    "en": "After breakfast, they go to the garden.",
+    "glosses": {
+     "do": "of the",
+     "vão": "go",
+     "café": "breakfast"
+    }
+   },
+   {
+    "pt": "O sol está forte, mas não está muito quente.",
+    "en": "The sun is strong, but it isn't very hot.",
+    "glosses": {
+     "está": "is"
+    }
+   },
+   {
+    "pt": "Pedro lê o jornal e Carla escuta música.",
+    "en": "Pedro reads the newspaper and Carla listens to music.",
+    "glosses": {
+     "lê": "reads",
+     "escuta": "listens to"
+    }
+   },
+   {
+    "pt": "O cachorro deles brinca na grama.",
+    "en": "Their dog plays on the grass.",
+    "glosses": {
+     "deles": "their",
+     "brinca": "plays",
+     "na": "on the"
+    }
+   },
+   {
+    "pt": "À tarde, a mãe de Carla vem visitar.",
+    "en": "In the afternoon, Carla's mother comes to visit.",
+    "glosses": {
+     "à": "in the",
+     "vem": "comes"
+    }
+   },
+   {
+    "pt": "Ela traz um bolo de chocolate.",
+    "en": "She brings a chocolate cake.",
+    "glosses": {
+     "traz": "brings"
+    }
+   },
+   {
+    "pt": "Todos comem o bolo na sala.",
+    "en": "Everyone eats the cake in the living room.",
+    "glosses": {
+     "comem": "eat",
+     "na": "in the",
+     "todos": "everyone",
+     "sala": "living room"
+    }
+   },
+   {
+    "pt": "À noite, Pedro e Carla assistem a um filme.",
+    "en": "At night, Pedro and Carla watch a movie.",
+    "glosses": {
+     "à": "at",
+     "assistem": "watch",
+     "a": "(to)"
+    }
+   },
+   {
+    "pt": "Eles dormem cedo, porque amanhã é segunda-feira.",
+    "en": "They go to bed early, because tomorrow is Monday.",
+    "glosses": {
+     "dormem": "go to sleep",
+     "é": "is"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "A que horas Pedro acorda?",
+    "qEn": "What time does Pedro wake up?",
+    "options": [
+     "Às dez",
+     "Às sete",
+     "Às oito",
+     "Ao meio-dia"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "O que a mãe de Carla traz?",
+    "qEn": "What does Carla's mother bring?",
+    "options": [
+     "Uma pizza",
+     "Um bolo",
+     "Flores",
+     "Um livro"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Onde o cachorro brinca?",
+    "qEn": "Where does the dog play?",
+    "options": [
+     "Na cozinha",
+     "No quarto",
+     "Na grama",
+     "Na rua"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "a1-function-words-2",
+  "level": 1,
+  "topic": "Function words",
+  "title": "A chave",
+  "titleEn": "The key",
+  "sentences": [
+   {
+    "pt": "Júlia está atrasada para o trabalho.",
+    "en": "Júlia is late for work.",
+    "glosses": {
+     "está": "is"
+    }
+   },
+   {
+    "pt": "Ela não encontra a chave do carro.",
+    "en": "She can't find the car key.",
+    "glosses": {
+     "encontra": "can find",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "A chave não está na bolsa.",
+    "en": "The key isn't in her bag.",
+    "glosses": {
+     "está": "is",
+     "na": "in the"
+    }
+   },
+   {
+    "pt": "Também não está na mesa da cozinha.",
+    "en": "It isn't on the kitchen table either.",
+    "glosses": {
+     "está": "is",
+     "na": "on the",
+     "da": "of the",
+     "cozinha": "cooks",
+     "também": "(n)either"
+    }
+   },
+   {
+    "pt": "Ela procura no sofá e na cama, mas nada.",
+    "en": "She looks on the sofa and on the bed, but nothing.",
+    "glosses": {
+     "procura": "looks for",
+     "no": "on the",
+     "na": "on the"
+    }
+   },
+   {
+    "pt": "\"Mãe, você viu a minha chave?\", ela pergunta.",
+    "en": "\"Mom, did you see my key?\" she asks.",
+    "glosses": {
+     "viu": "did you see",
+     "pergunta": "asks"
+    }
+   },
+   {
+    "pt": "\"Não, filha. Talvez no quarto?\", diz a mãe.",
+    "en": "\"No, dear. Maybe in the bedroom?\" says her mother.",
+    "glosses": {
+     "no": "in the",
+     "diz": "says",
+     "filha": "daughter, dear"
+    }
+   },
+   {
+    "pt": "Júlia olha no quarto, mas a chave não está lá.",
+    "en": "Júlia looks in the bedroom, but the key isn't there.",
+    "glosses": {
+     "olha": "looks",
+     "no": "in the",
+     "está": "is"
+    }
+   },
+   {
+    "pt": "Então o irmão dela, Lucas, entra na sala.",
+    "en": "Then her brother, Lucas, comes into the living room.",
+    "glosses": {
+     "dela": "her",
+     "entra": "comes in",
+     "na": "in the",
+     "sala": "living room"
+    }
+   },
+   {
+    "pt": "Ele está com a chave na mão!",
+    "en": "He has the key in his hand!",
+    "glosses": {
+     "está": "is",
+     "na": "in the",
+     "com": "with"
+    }
+   },
+   {
+    "pt": "\"Desculpa, Júlia. Eu usei o carro ontem à noite\", diz ele.",
+    "en": "\"Sorry, Júlia. I used the car last night,\" he says.",
+    "glosses": {
+     "usei": "I used",
+     "à": "at",
+     "diz": "says",
+     "ontem": "yesterday"
+    }
+   },
+   {
+    "pt": "Júlia fica brava, mas não tem tempo para conversar.",
+    "en": "Júlia gets angry, but she has no time to talk.",
+    "glosses": {
+     "fica": "gets",
+     "tem": "has"
+    }
+   },
+   {
+    "pt": "Ela pega a chave e sai rápido.",
+    "en": "She grabs the key and leaves quickly.",
+    "glosses": {
+     "pega": "grabs",
+     "sai": "leaves",
+     "rápido": "quickly"
+    }
+   },
+   {
+    "pt": "Ela chega ao trabalho às nove e cinco.",
+    "en": "She gets to work at five past nine.",
+    "glosses": {
+     "chega": "gets",
+     "ao": "at",
+     "às": "at"
+    }
+   },
+   {
+    "pt": "Só cinco minutos atrasada!",
+    "en": "Only five minutes late!",
+    "glosses": {}
+   }
+  ],
+  "questions": [
+   {
+    "q": "O que Júlia procura?",
+    "qEn": "What is Júlia looking for?",
+    "options": [
+     "O celular",
+     "A chave do carro",
+     "A bolsa",
+     "Um livro"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quem está com a chave?",
+    "qEn": "Who has the key?",
+    "options": [
+     "A mãe",
+     "O pai",
+     "O chefe",
+     "Lucas"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "A que horas Júlia chega ao trabalho?",
+    "qEn": "What time does Júlia get to work?",
+    "options": [
+     "Às nove e cinco",
+     "Às oito",
+     "Às dez",
+     "Às sete e meia"
+    ],
+    "answer": 0
+   }
+  ]
+ }
+]

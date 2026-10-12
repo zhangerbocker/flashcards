@@ -1,0 +1,132 @@
+[
+ {
+  "id": "a1-places-1",
+  "level": 1,
+  "topic": "Places & directions",
+  "title": "Um dia na praia",
+  "titleEn": "A day at the beach",
+  "sentences": [
+   {
+    "pt": "Hoje está muito quente no Rio.",
+    "en": "Today it's very hot in Rio.",
+    "glosses": {
+     "está": "it is",
+     "no": "in the"
+    }
+   },
+   {
+    "pt": "Ana mora no Rio com a família.",
+    "en": "Ana lives in Rio with her family.",
+    "glosses": {
+     "mora": "lives",
+     "no": "in"
+    }
+   },
+   {
+    "pt": "Ela tem dois irmãos e uma irmã.",
+    "en": "She has two brothers and a sister.",
+    "glosses": {
+     "tem": "has",
+     "irmãos": "brothers",
+     "irmã": "sister"
+    }
+   },
+   {
+    "pt": "Hoje ela não vai trabalhar.",
+    "en": "Today she isn't going to work.",
+    "glosses": {
+     "vai": "is going"
+    }
+   },
+   {
+    "pt": "Ela vai para a praia com um amigo.",
+    "en": "She's going to the beach with a friend.",
+    "glosses": {
+     "vai": "goes"
+    }
+   },
+   {
+    "pt": "O amigo é professor de português.",
+    "en": "The friend is a Portuguese teacher.",
+    "glosses": {
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Ele é de São Paulo, mas mora no Rio.",
+    "en": "He is from São Paulo, but lives in Rio.",
+    "glosses": {
+     "é": "is",
+     "mora": "lives",
+     "no": "in"
+    }
+   },
+   {
+    "pt": "Na praia, eles bebem água e comem pão de queijo.",
+    "en": "At the beach, they drink water and eat pão de queijo.",
+    "glosses": {
+     "na": "at the",
+     "bebem": "drink",
+     "comem": "eat"
+    }
+   },
+   {
+    "pt": "A praia é grande e muito bonita.",
+    "en": "The beach is big and very beautiful.",
+    "glosses": {
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Ana gosta muito da praia.",
+    "en": "Ana really likes the beach.",
+    "glosses": {
+     "gosta": "likes",
+     "da": "(of) the"
+    }
+   },
+   {
+    "pt": "Amanhã eles vão trabalhar.",
+    "en": "Tomorrow they are going to work.",
+    "glosses": {
+     "vão": "are going"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Onde Ana mora?",
+    "qEn": "Where does Ana live?",
+    "options": [
+     "No Rio",
+     "Em Salvador",
+     "Em Boston",
+     "Em São Paulo"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Com quem Ana vai para a praia?",
+    "qEn": "Who does Ana go to the beach with?",
+    "options": [
+     "Com a mãe",
+     "Com um amigo",
+     "Com o pai",
+     "Com a irmã"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "O que eles bebem na praia?",
+    "qEn": "What do they drink at the beach?",
+    "options": [
+     "Café",
+     "Água",
+     "Café e água",
+     "Não bebem"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

@@ -1,0 +1,494 @@
+[
+ {
+  "id": "b1-feelings-opinions-1",
+  "level": 3,
+  "topic": "Feelings & opinions",
+  "title": "O novo cargo",
+  "titleEn": "The new position",
+  "sentences": [
+   {
+    "pt": "Patrícia trabalha há dez anos em uma grande empresa de energia em Belo Horizonte.",
+    "en": "Patrícia has worked for ten years at a big energy company in Belo Horizonte.",
+    "glosses": {
+     "trabalha": "has worked",
+     "há": "for"
+    }
+   },
+   {
+    "pt": "Numa segunda-feira, o chefe chamou Patrícia para uma reunião.",
+    "en": "One Monday, her boss called Patrícia into a meeting.",
+    "glosses": {
+     "Numa": "one",
+     "chamou": "called"
+    }
+   },
+   {
+    "pt": "— A empresa vai abrir um escritório em Brasília, e a gente quer que você seja a chefe do novo escritório.",
+    "en": "\"The company is going to open an office in Brasília, and we want you to be the head of the new office.\"",
+    "glosses": {
+     "vai abrir": "is going to open",
+     "a gente": "we",
+     "quer": "want",
+     "seja": "be"
+    }
+   },
+   {
+    "pt": "Patrícia ficou surpresa e emocionada ao mesmo tempo.",
+    "en": "Patrícia was surprised and moved at the same time.",
+    "glosses": {
+     "ficou": "was"
+    }
+   },
+   {
+    "pt": "O salário seria quase o dobro, e era o cargo que ela sempre tinha querido.",
+    "en": "The salary would be almost double, and it was the position she had always wanted.",
+    "glosses": {
+     "seria": "would be",
+     "era": "was",
+     "tinha querido": "had wanted"
+    }
+   },
+   {
+    "pt": "No entanto, para isso, ela precisava deixar a cidade onde morava com a família.",
+    "en": "However, for that, she needed to leave the city where she lived with her family.",
+    "glosses": {
+     "precisava": "needed",
+     "morava": "lived"
+    }
+   },
+   {
+    "pt": "À noite, ela contou tudo para o marido, Ricardo.",
+    "en": "In the evening, she told her husband, Ricardo, everything.",
+    "glosses": {
+     "À noite": "in the evening",
+     "contou": "told"
+    }
+   },
+   {
+    "pt": "Ricardo ficou quieto por um instante e depois deu a opinião dele.",
+    "en": "Ricardo was quiet for a moment and then gave his opinion.",
+    "glosses": {
+     "ficou": "was",
+     "deu": "gave",
+     "dele": "his"
+    }
+   },
+   {
+    "pt": "— Sinceramente, acho que você merece esse cargo, mas tenho medo de mudar.",
+    "en": "\"Honestly, I think you deserve this position, but I'm afraid of moving.\"",
+    "glosses": {
+     "acho": "I think",
+     "merece": "deserve",
+     "tenho medo": "I'm afraid"
+    }
+   },
+   {
+    "pt": "Ricardo tinha uma pequena padaria no bairro e conhecia todos os clientes pelo nome.",
+    "en": "Ricardo had a small bakery in the neighborhood and knew all the customers by name.",
+    "glosses": {
+     "tinha": "had",
+     "conhecia": "knew",
+     "pelo": "by"
+    }
+   },
+   {
+    "pt": "A filha deles, Sofia, de quinze anos, ficou chateada e irritada.",
+    "en": "Their daughter, Sofia, fifteen years old, got upset and annoyed.",
+    "glosses": {
+     "deles": "their",
+     "ficou": "got"
+    }
+   },
+   {
+    "pt": "— Vocês não podem fazer isso comigo! Todos os meus amigos estão aqui!",
+    "en": "\"You can't do this to me! All my friends are here!\"",
+    "glosses": {
+     "podem": "can",
+     "comigo": "to me",
+     "estão": "are"
+    }
+   },
+   {
+    "pt": "Durante uma semana, Patrícia quase não dormiu.",
+    "en": "For a week, Patrícia hardly slept.",
+    "glosses": {
+     "quase não": "hardly",
+     "dormiu": "slept"
+    }
+   },
+   {
+    "pt": "Por um lado, sentia orgulho; por outro lado, ficava ansiosa e preocupada.",
+    "en": "On one hand, she felt proud; on the other hand, she felt anxious and worried.",
+    "glosses": {
+     "sentia orgulho": "felt proud",
+     "ficava": "felt"
+    }
+   },
+   {
+    "pt": "Ela conversou com a mãe, que deu uma opinião simples.",
+    "en": "She talked with her mother, who gave a simple opinion.",
+    "glosses": {
+     "conversou": "talked",
+     "deu": "gave"
+    }
+   },
+   {
+    "pt": "— Filha, é importante que vocês decidam juntos, como família.",
+    "en": "\"Dear, it's important that you decide together, as a family.\"",
+    "glosses": {
+     "Filha": "dear (daughter)",
+     "é": "it's",
+     "decidam": "decide",
+     "juntos": "together"
+    }
+   },
+   {
+    "pt": "Então, no sábado, os três sentaram na mesa da cozinha para conversar com calma.",
+    "en": "So, on Saturday, the three of them sat at the kitchen table to talk calmly.",
+    "glosses": {
+     "no": "on",
+     "sentaram": "sat",
+     "na": "at the",
+     "da": "of the",
+     "com calma": "calmly"
+    }
+   },
+   {
+    "pt": "Cada um falou das suas preocupações e dos seus sonhos.",
+    "en": "Each one talked about their worries and their dreams.",
+    "glosses": {
+     "falou": "talked",
+     "das": "about",
+     "dos": "about"
+    }
+   },
+   {
+    "pt": "Sofia admitiu que estava com medo de não fazer amigos novos.",
+    "en": "Sofia admitted that she was afraid of not making new friends.",
+    "glosses": {
+     "admitiu": "admitted",
+     "estava com medo": "was afraid"
+    }
+   },
+   {
+    "pt": "Ricardo disse que, talvez, poderia abrir outra padaria em Brasília.",
+    "en": "Ricardo said that maybe he could open another bakery in Brasília.",
+    "glosses": {
+     "disse": "said",
+     "poderia": "could"
+    }
+   },
+   {
+    "pt": "No fim, decidiram juntos: iam aceitar o cargo por dois anos.",
+    "en": "In the end, they decided together: they would accept the position for two years.",
+    "glosses": {
+     "No fim": "in the end",
+     "decidiram": "decided",
+     "juntos": "together",
+     "iam": "were going to"
+    }
+   },
+   {
+    "pt": "Depois desse tempo, iam conversar de novo e, talvez, voltar para Belo Horizonte.",
+    "en": "After that time, they would talk again and maybe go back to Belo Horizonte.",
+    "glosses": {
+     "desse": "that",
+     "iam": "would",
+     "de novo": "again"
+    }
+   },
+   {
+    "pt": "Patrícia ficou muito aliviada.",
+    "en": "Patrícia felt very relieved.",
+    "glosses": {
+     "ficou": "felt"
+    }
+   },
+   {
+    "pt": "Ela percebeu que não precisava decidir tudo sozinha, e isso deixava tudo mais leve.",
+    "en": "She realized that she didn't need to decide everything alone, and that made everything lighter.",
+    "glosses": {
+     "percebeu": "realized",
+     "precisava": "needed",
+     "sozinha": "alone",
+     "deixava": "made"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Que cargo ofereceram para Patrícia?",
+    "qEn": "What position did they offer Patrícia?",
+    "options": [
+     "Chefe do escritório",
+     "Secretária",
+     "Engenheira",
+     "Professora"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Como Sofia se sentiu no começo?",
+    "qEn": "How did Sofia feel at first?",
+    "options": [
+     "Feliz",
+     "Irritada",
+     "Aliviada",
+     "Orgulhosa"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "O que a família decidiu?",
+    "qEn": "What did the family decide?",
+    "options": [
+     "Ficar em casa",
+     "Ir por dois anos",
+     "Ir para sempre",
+     "Ir sem Sofia"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "b1-feelings-opinions-2",
+  "level": 3,
+  "topic": "Feelings & opinions",
+  "title": "A crítica do restaurante",
+  "titleEn": "The restaurant review",
+  "sentences": [
+   {
+    "pt": "Juliana abriu um pequeno restaurante vegetariano em Porto Alegre no ano passado.",
+    "en": "Juliana opened a small vegetarian restaurant in Porto Alegre last year.",
+    "glosses": {
+     "abriu": "opened",
+     "no ano passado": "last year"
+    }
+   },
+   {
+    "pt": "Ela adora cozinhar e acredita que comida saudável também pode ser gostosa.",
+    "en": "She loves cooking and believes healthy food can also be tasty.",
+    "glosses": {
+     "adora": "loves",
+     "acredita": "believes",
+     "pode": "can"
+    }
+   },
+   {
+    "pt": "Os clientes do bairro gostavam muito do lugar, e o restaurante estava sempre cheio.",
+    "en": "The neighborhood customers really liked the place, and the restaurant was always full.",
+    "glosses": {
+     "do": "of the",
+     "gostavam": "liked",
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "Um dia, porém, um jornal famoso publicou uma crítica muito dura sobre o restaurante.",
+    "en": "One day, however, a famous newspaper published a very harsh review of the restaurant.",
+    "glosses": {
+     "publicou": "published"
+    }
+   },
+   {
+    "pt": "O autor escreveu que a comida era sem sabor, que os garçons eram lentos e que os preços eram muito altos.",
+    "en": "The author wrote that the food was tasteless, the waiters were slow and the prices were very high.",
+    "glosses": {
+     "escreveu": "wrote",
+     "era": "was",
+     "eram": "were"
+    }
+   },
+   {
+    "pt": "Juliana leu a crítica no celular e ficou sem palavras.",
+    "en": "Juliana read the review on her phone and was speechless.",
+    "glosses": {
+     "leu": "read",
+     "no": "on her",
+     "ficou": "was"
+    }
+   },
+   {
+    "pt": "Primeiro, sentiu raiva. Achou a crítica muito errada e quis responder na mesma hora.",
+    "en": "First, she felt anger. She found the review very wrong and wanted to reply right away.",
+    "glosses": {
+     "sentiu": "felt",
+     "Achou": "she found",
+     "quis": "wanted",
+     "na mesma hora": "right away"
+    }
+   },
+   {
+    "pt": "O marido dela, Eduardo, pediu para ela esperar um pouco.",
+    "en": "Her husband, Eduardo, asked her to wait a little.",
+    "glosses": {
+     "dela": "her",
+     "pediu": "asked"
+    }
+   },
+   {
+    "pt": "— Na minha opinião, você não deve responder com raiva. Espere até amanhã.",
+    "en": "\"In my opinion, you shouldn't answer in anger. Wait until tomorrow.\"",
+    "glosses": {
+     "deve": "should",
+     "Espere": "wait"
+    }
+   },
+   {
+    "pt": "Naquela noite, Juliana ficou triste e decepcionada.",
+    "en": "That night, Juliana was sad and disappointed.",
+    "glosses": {
+     "Naquela": "that",
+     "ficou": "was"
+    }
+   },
+   {
+    "pt": "Ela se perguntava se abrir o restaurante tinha sido um erro.",
+    "en": "She wondered if opening the restaurant had been a mistake.",
+    "glosses": {
+     "se perguntava": "wondered",
+     "tinha sido": "had been"
+    }
+   },
+   {
+    "pt": "De manhã, com mais calma, leu a crítica de novo.",
+    "en": "In the morning, more calmly, she read the review again.",
+    "glosses": {
+     "leu": "read",
+     "de novo": "again"
+    }
+   },
+   {
+    "pt": "Desta vez, percebeu que algumas palavras eram duras, mas também não estavam erradas.",
+    "en": "This time, she realized that some words were harsh, but they weren't wrong either.",
+    "glosses": {
+     "Desta": "this",
+     "percebeu": "realized",
+     "eram": "were"
+    }
+   },
+   {
+    "pt": "Às vezes, quando o restaurante estava cheio, os pratos demoravam mesmo.",
+    "en": "Sometimes, when the restaurant was full, the dishes really did take a long time.",
+    "glosses": {
+     "Às vezes": "sometimes",
+     "estava": "was",
+     "demoravam": "took a long time",
+     "mesmo": "really"
+    }
+   },
+   {
+    "pt": "Então, decidiu escutar também os funcionários e os clientes.",
+    "en": "So she decided to listen to her employees and customers too.",
+    "glosses": {
+     "decidiu": "decided"
+    }
+   },
+   {
+    "pt": "Ela contratou mais um garçom e mudou o cardápio, com pratos mais simples e mais rápidos.",
+    "en": "She hired one more waiter and changed the menu, with simpler and faster dishes.",
+    "glosses": {
+     "contratou": "hired",
+     "mudou": "changed"
+    }
+   },
+   {
+    "pt": "Além disso, criou um prato do dia mais barato para os estudantes da universidade.",
+    "en": "Besides that, she created a cheaper dish of the day for the university students.",
+    "glosses": {
+     "criou": "created",
+     "do dia": "of the day",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Por fim, escreveu uma resposta educada para o jornal, dizendo obrigado pela crítica.",
+    "en": "Finally, she wrote a polite reply to the newspaper, saying thank you for the review.",
+    "glosses": {
+     "escreveu": "wrote",
+     "dizendo": "saying",
+     "pela": "for the"
+    }
+   },
+   {
+    "pt": "Dois meses depois, o autor voltou ao restaurante sem avisar.",
+    "en": "Two months later, the author came back to the restaurant without warning.",
+    "glosses": {
+     "depois": "later",
+     "voltou": "came back",
+     "ao": "to the"
+    }
+   },
+   {
+    "pt": "Desta vez, a comida chegou rápido, e ele gostou muito da sopa de legumes.",
+    "en": "This time, the food came quickly, and he really liked the vegetable soup.",
+    "glosses": {
+     "Desta": "this",
+     "chegou": "came",
+     "gostou": "liked",
+     "da": "the"
+    }
+   },
+   {
+    "pt": "Ele publicou uma nova crítica, muito melhor, e falou bem de Juliana.",
+    "en": "He published a new review, much better, and spoke well of Juliana.",
+    "glosses": {
+     "publicou": "published",
+     "falou bem": "spoke well"
+    }
+   },
+   {
+    "pt": "Juliana ficou orgulhosa, mas também aprendeu algo importante.",
+    "en": "Juliana was proud, but she also learned something important.",
+    "glosses": {
+     "ficou": "was",
+     "aprendeu": "learned"
+    }
+   },
+   {
+    "pt": "Uma crítica pode doer, mas também pode ajudar a gente a melhorar.",
+    "en": "A review can hurt, but it can also help us improve.",
+    "glosses": {
+     "pode": "can",
+     "a gente": "us"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "O que o jornal disse sobre a comida?",
+    "qEn": "What did the newspaper say about the food?",
+    "options": [
+     "Era sem sabor",
+     "Era muito picante",
+     "Era barata",
+     "Era salgada"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "O que Eduardo achava que Juliana devia fazer?",
+    "qEn": "What did Eduardo think Juliana should do?",
+    "options": [
+     "Responder logo",
+     "Esperar um pouco",
+     "Fechar o restaurante",
+     "Ligar para o autor"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "O que Juliana mudou no restaurante?",
+    "qEn": "What did Juliana change in the restaurant?",
+    "options": [
+     "O nome",
+     "O endereço",
+     "O cardápio",
+     "A cor"
+    ],
+    "answer": 2
+   }
+  ]
+ }
+]

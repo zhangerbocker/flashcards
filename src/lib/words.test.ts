@@ -1,8 +1,13 @@
 import { describe, expect, it } from "vitest";
-import { findWord, parseWords, withArticle, WORDS } from "./words";
+import { findWord, LEVELS, parseWords, withArticle, WORDS } from "./words";
 import { lookupForm } from "./segment";
 
 describe("word list", () => {
+  it("has a substantial list at every level", () => {
+    const counts = LEVELS.map((l) => WORDS.filter((w) => w.level === l).length);
+    expect(counts.every((n) => n >= 300), `counts by level: ${counts.join(", ")}`).toBe(true);
+  });
+
   it("has unique ids", () => {
     expect(new Set(WORDS.map((w) => w.id)).size).toBe(WORDS.length);
   });
@@ -29,8 +34,8 @@ describe("word list", () => {
     expect(missing.map((w) => `${w.id} ${w.pt}: ${w.example.pt}`)).toEqual([]);
   });
 
-  it("has no truncated glosses", () => {
-    expect(WORDS.filter((w) => w.english.includes("…"))).toEqual([]);
+  it("gives every word an English meaning and an example translation", () => {
+    expect(WORDS.filter((w) => !w.english.trim() || !w.example.en.trim()).map((w) => w.pt)).toEqual([]);
   });
 });
 

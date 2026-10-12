@@ -1,0 +1,586 @@
+[
+ {
+  "id": "b2-school-work-1",
+  "level": 4,
+  "topic": "School & work",
+  "title": "A meta impossível",
+  "titleEn": "The impossible target",
+  "sentences": [
+   {
+    "pt": "Na segunda-feira de manhã, a nova gestora da filial de Porto Alegre chamou a equipe para uma reunião.",
+    "en": "On Monday morning, the new manager of the Porto Alegre branch called the team to a meeting.",
+    "glosses": {
+     "gestora": "manager (female)",
+     "da": "of the",
+     "chamou": "called"
+    }
+   },
+   {
+    "pt": "Chamava-se Carla, tinha trinta e cinco anos e vinha do escritório de São Paulo, onde todos diziam que ela era dura.",
+    "en": "Her name was Carla, she was thirty-five and came from the São Paulo office, where everyone said she was tough.",
+    "glosses": {
+     "Chamava-se": "her name was",
+     "tinha": "was (had)",
+     "vinha": "came",
+     "do": "from the",
+     "diziam": "said",
+     "era": "was"
+    }
+   },
+   {
+    "pt": "A pauta tinha um único ponto: a meta do trimestre.",
+    "en": "The agenda had a single item: the quarter's target.",
+    "glosses": {
+     "tinha": "had",
+     "único": "single",
+     "ponto": "item",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "\"A empresa quer um crescimento de trinta por cento no faturamento até setembro\", anunciou ela.",
+    "en": "\"The company wants thirty percent revenue growth by September,\" she announced.",
+    "glosses": {
+     "quer": "wants",
+     "no": "in the",
+     "anunciou": "announced"
+    }
+   },
+   {
+    "pt": "Houve um silêncio pesado.",
+    "en": "There was a heavy silence.",
+    "glosses": {
+     "Houve": "there was",
+     "silêncio": "silence"
+    }
+   },
+   {
+    "pt": "Alguns olharam para o chão; outros, para o celular.",
+    "en": "Some looked at the floor; others, at their phones.",
+    "glosses": {
+     "olharam": "looked",
+     "chão": "floor"
+    }
+   },
+   {
+    "pt": "Ricardo, que trabalhava ali havia doze anos, foi o primeiro a falar.",
+    "en": "Ricardo, who had worked there for twelve years, was the first to speak.",
+    "glosses": {
+     "trabalhava": "had worked",
+     "havia": "for",
+     "foi": "was"
+    }
+   },
+   {
+    "pt": "\"Desculpa, mas isso é impossível com a equipe que temos hoje.\"",
+    "en": "\"Sorry, but that's impossible with the team we have today.\"",
+    "glosses": {
+     "é": "is",
+     "temos": "we have"
+    }
+   },
+   {
+    "pt": "Ele explicou que, desde o começo do ano, dois colaboradores tinham pedido demissão e ninguém tinha sido contratado.",
+    "en": "He explained that, since the start of the year, two employees had resigned and no one had been hired.",
+    "glosses": {
+     "explicou": "explained",
+     "do": "of the",
+     "tinham pedido demissão": "had resigned",
+     "tinha sido contratado": "had been hired"
+    }
+   },
+   {
+    "pt": "\"A demanda já é maior do que a nossa capacidade. Todo mundo faz hora extra.\"",
+    "en": "\"Demand is already greater than our capacity. Everyone works overtime.\"",
+    "glosses": {
+     "é": "is",
+     "maior": "greater",
+     "do que": "than",
+     "faz": "does"
+    }
+   },
+   {
+    "pt": "Carla ouviu sem interromper e depois respondeu com calma.",
+    "en": "Carla listened without interrupting and then answered calmly.",
+    "glosses": {
+     "ouviu": "listened",
+     "interromper": "interrupting",
+     "respondeu": "answered",
+     "com calma": "calmly"
+    }
+   },
+   {
+    "pt": "\"Eu entendo. Mas a meta não foi uma escolha minha, e eu também vou ser cobrada por ela.\"",
+    "en": "\"I understand. But the target wasn't my choice, and I'm going to be held accountable for it too.\"",
+    "glosses": {
+     "entendo": "understand",
+     "foi": "was",
+     "escolha": "choice",
+     "vou ser cobrada": "I'm going to be held accountable"
+    }
+   },
+   {
+    "pt": "Durante a semana seguinte, ela fez algo que ninguém esperava.",
+    "en": "During the following week, she did something nobody expected.",
+    "glosses": {
+     "seguinte": "following",
+     "fez": "did",
+     "esperava": "expected"
+    }
+   },
+   {
+    "pt": "Sentou ao lado de cada funcionário durante uma tarde inteira, para ver de perto como o trabalho era feito.",
+    "en": "She sat beside each employee for a whole afternoon, to see up close how the work was done.",
+    "glosses": {
+     "Sentou": "she sat",
+     "ver": "see",
+     "de perto": "up close",
+     "era feito": "was done"
+    }
+   },
+   {
+    "pt": "Percebeu que a equipe perdia horas fazendo a mesma planilha três vezes, para departamentos diferentes.",
+    "en": "She realized the team wasted hours doing the same spreadsheet three times, for different departments.",
+    "glosses": {
+     "Percebeu": "she realized",
+     "perdia": "wasted",
+     "fazendo": "doing"
+    }
+   },
+   {
+    "pt": "Percebeu também que as entregas para o interior eram feitas por um caminhão próprio, velho e caro.",
+    "en": "She also realized that deliveries to the interior were made by the company's own truck, old and expensive.",
+    "glosses": {
+     "Percebeu": "she realized",
+     "eram feitas": "were made",
+     "próprio": "own"
+    }
+   },
+   {
+    "pt": "Na reunião seguinte, ela trouxe duas ideias por escrito.",
+    "en": "At the next meeting, she brought two written ideas.",
+    "glosses": {
+     "Na": "at the",
+     "seguinte": "next",
+     "trouxe": "brought",
+     "por escrito": "written"
+    }
+   },
+   {
+    "pt": "A primeira era juntar as planilhas numa só; a segunda, terceirizar as entregas.",
+    "en": "The first was to merge the spreadsheets into one; the second, to outsource the deliveries.",
+    "glosses": {
+     "era": "was",
+     "juntar": "merge",
+     "numa só": "into one"
+    }
+   },
+   {
+    "pt": "Ricardo não gostou da segunda, pois o motorista do caminhão era amigo de todos.",
+    "en": "Ricardo didn't like the second one, because the truck driver was everyone's friend.",
+    "glosses": {
+     "gostou": "like",
+     "da": "of the",
+     "segunda": "second one",
+     "do": "of the",
+     "era": "was"
+    }
+   },
+   {
+    "pt": "Carla garantiu que ele não seria demitido, mas passaria a trabalhar no escritório, onde também faltava gente.",
+    "en": "Carla guaranteed that he wouldn't be fired, but would move to working in the office, where they were also short of people.",
+    "glosses": {
+     "garantiu": "guaranteed",
+     "seria demitido": "would be fired",
+     "passaria a": "would move to",
+     "no": "in the",
+     "faltava": "were short of"
+    }
+   },
+   {
+    "pt": "Além disso, ela levou a São Paulo os números da equipe e conseguiu a contratação de mais duas pessoas.",
+    "en": "Besides, she took the team's numbers to São Paulo and managed to get two more people hired.",
+    "glosses": {
+     "levou": "took",
+     "da": "of the",
+     "conseguiu": "managed to get"
+    }
+   },
+   {
+    "pt": "A meta, porém, continuou a mesma.",
+    "en": "The target, however, stayed the same.",
+    "glosses": {
+     "continuou": "stayed"
+    }
+   },
+   {
+    "pt": "Em setembro, a filial chegou a vinte e dois por cento de crescimento, e não a trinta.",
+    "en": "In September, the branch reached twenty-two percent growth, not thirty.",
+    "glosses": {
+     "chegou a": "reached"
+    }
+   },
+   {
+    "pt": "Mesmo assim, foi o melhor desempenho da empresa no país inteiro.",
+    "en": "Even so, it was the company's best performance in the whole country.",
+    "glosses": {
+     "foi": "was",
+     "da": "of the",
+     "no": "in the"
+    }
+   },
+   {
+    "pt": "Na festa de fim de ano, Ricardo levantou o copo e falou para todos ouvirem.",
+    "en": "At the year-end party, Ricardo raised his glass and spoke for everyone to hear.",
+    "glosses": {
+     "Na": "at the",
+     "levantou": "raised",
+     "falou": "spoke",
+     "ouvirem": "to hear (personal infinitive)"
+    }
+   },
+   {
+    "pt": "\"Pela primeira vez, alguém de São Paulo veio aqui para ouvir, e não só para mandar.\"",
+    "en": "\"For the first time, someone from São Paulo came here to listen, and not just to give orders.\"",
+    "glosses": {
+     "Pela": "for the",
+     "veio": "came",
+     "mandar": "give orders"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "O que a empresa queria?",
+    "qEn": "What did the company want?",
+    "options": [
+     "Fechar a filial",
+     "Demitir Ricardo",
+     "Mudar de cidade",
+     "Trinta por cento de crescimento"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "O que Carla fez na primeira semana?",
+    "qEn": "What did Carla do in the first week?",
+    "options": [
+     "Demitiu dois colaboradores",
+     "Viu de perto o trabalho de cada um",
+     "Viajou para São Paulo",
+     "Comprou um caminhão novo"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quanto a filial cresceu até setembro?",
+    "qEn": "How much did the branch grow by September?",
+    "options": [
+     "Vinte e dois por cento",
+     "Trinta por cento",
+     "Nada",
+     "Cinquenta por cento"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "b2-school-work-2",
+  "level": 4,
+  "topic": "School & work",
+  "title": "A monografia",
+  "titleEn": "The thesis",
+  "sentences": [
+   {
+    "pt": "Letícia estava no último semestre da faculdade e trabalhava oito horas por dia numa editora de revistas.",
+    "en": "Letícia was in her last semester at university and worked eight hours a day at a magazine publisher.",
+    "glosses": {
+     "estava": "was",
+     "no": "in the",
+     "da": "of the",
+     "trabalhava": "worked",
+     "numa": "at a"
+    }
+   },
+   {
+    "pt": "O estágio pagava pouco, mas era a única forma de pagar a mensalidade da faculdade.",
+    "en": "The internship paid little, but it was the only way to pay the university fees.",
+    "glosses": {
+     "pagava": "paid",
+     "era": "was",
+     "única": "only",
+     "forma": "way",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Faltava apenas uma etapa para a formatura: a monografia.",
+    "en": "Only one step was left before graduation: the thesis.",
+    "glosses": {
+     "Faltava": "was left"
+    }
+   },
+   {
+    "pt": "A monografia era sobre a forma como a imprensa falava da seca na caatinga, e ela adorava o projeto.",
+    "en": "The thesis was about the way the press talked about the drought in the caatinga, and she loved the project.",
+    "glosses": {
+     "era": "was",
+     "forma": "way",
+     "falava": "talked",
+     "da": "about the",
+     "na": "in the",
+     "adorava": "loved"
+    }
+   },
+   {
+    "pt": "O problema era o tempo.",
+    "en": "The problem was time.",
+    "glosses": {
+     "era": "was"
+    }
+   },
+   {
+    "pt": "Ela chegava em casa às oito da noite, cansada, e mal conseguia ler duas páginas antes de dormir.",
+    "en": "She got home at eight at night, tired, and could barely read two pages before falling asleep.",
+    "glosses": {
+     "chegava": "got",
+     "mal": "barely",
+     "conseguia": "could",
+     "páginas": "pages"
+    }
+   },
+   {
+    "pt": "Quinze dias antes do prazo final, só tinha escrito metade do trabalho.",
+    "en": "Fifteen days before the final deadline, she had only written half of the work.",
+    "glosses": {
+     "do": "of the",
+     "tinha escrito": "had written"
+    }
+   },
+   {
+    "pt": "Muito nervosa, agendou uma conversa com o orientador, o professor Eduardo.",
+    "en": "Very nervous, she scheduled a conversation with her advisor, Professor Eduardo.",
+    "glosses": {
+     "agendou": "scheduled"
+    }
+   },
+   {
+    "pt": "Ele era conhecido por ser duro e por não aceitar atrasos.",
+    "en": "He was known for being strict and for not accepting delays.",
+    "glosses": {
+     "era": "was",
+     "duro": "strict",
+     "aceitar": "accepting"
+    }
+   },
+   {
+    "pt": "Letícia entrou na sala dele com as mãos frias.",
+    "en": "Letícia went into his office with cold hands.",
+    "glosses": {
+     "entrou": "went",
+     "na": "into the",
+     "sala": "office",
+     "dele": "his"
+    }
+   },
+   {
+    "pt": "\"Professor, eu não vou conseguir entregar a tempo\", disse ela, envergonhada.",
+    "en": "\"Professor, I won't be able to hand it in on time,\" she said, embarrassed.",
+    "glosses": {
+     "vou conseguir": "will be able",
+     "entregar": "hand in",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Ela explicou a carga horária do estágio e mostrou o que já tinha escrito.",
+    "en": "She explained the internship's workload and showed what she had already written.",
+    "glosses": {
+     "explicou": "explained",
+     "do": "of the",
+     "mostrou": "showed",
+     "tinha escrito": "had written"
+    }
+   },
+   {
+    "pt": "O professor leu em silêncio durante longos minutos.",
+    "en": "The professor read in silence for long minutes.",
+    "glosses": {
+     "leu": "read",
+     "em silêncio": "in silence",
+     "longos": "long"
+    }
+   },
+   {
+    "pt": "\"O trabalho está bom. Melhor do que eu esperava, na verdade\", disse ele por fim.",
+    "en": "\"The work is good. Better than I expected, actually,\" he said at last.",
+    "glosses": {
+     "está": "is",
+     "do que": "than",
+     "esperava": "expected",
+     "disse": "said",
+     "por fim": "at last"
+    }
+   },
+   {
+    "pt": "Mas explicou que não podia prorrogar o prazo sozinho; seria preciso pedir à universidade.",
+    "en": "But he explained that he couldn't extend the deadline by himself; she would need to ask the university.",
+    "glosses": {
+     "explicou": "explained",
+     "podia": "could",
+     "seria preciso": "it would be necessary",
+     "pedir": "ask",
+     "à": "to the"
+    }
+   },
+   {
+    "pt": "Se a resposta fosse não, ela seria reprovada e teria que pagar mais um semestre.",
+    "en": "If the answer were no, she would fail and would have to pay for another semester.",
+    "glosses": {
+     "fosse": "were (subjunctive)",
+     "seria reprovada": "would fail",
+     "teria que": "would have to"
+    }
+   },
+   {
+    "pt": "Naquela noite, Letícia não dormiu, tentando pesar os prós e os contras.",
+    "en": "That night, Letícia didn't sleep, trying to weigh the pros and cons.",
+    "glosses": {
+     "Naquela": "that",
+     "dormiu": "sleep",
+     "tentando": "trying"
+    }
+   },
+   {
+    "pt": "Poderia pedir férias no estágio, mas perderia o salário de um mês.",
+    "en": "She could ask for vacation at the internship, but would lose a month's salary.",
+    "glosses": {
+     "Poderia": "could",
+     "pedir": "ask for",
+     "perderia": "would lose"
+    }
+   },
+   {
+    "pt": "Poderia também escrever de madrugada, mas tinha medo de ficar doente.",
+    "en": "She could also write in the early hours, but was afraid of getting sick.",
+    "glosses": {
+     "Poderia": "could",
+     "tinha medo": "was afraid",
+     "ficar": "getting"
+    }
+   },
+   {
+    "pt": "Nada parecia certo, e o prazo continuava correndo.",
+    "en": "Nothing seemed right, and the deadline kept getting closer.",
+    "glosses": {
+     "parecia": "seemed",
+     "continuava correndo": "kept running"
+    }
+   },
+   {
+    "pt": "No dia seguinte, conversou com a chefe, Mariana, e explicou tudo.",
+    "en": "The next day, she talked with her boss, Mariana, and explained everything.",
+    "glosses": {
+     "seguinte": "next",
+     "conversou": "talked",
+     "explicou": "explained"
+    }
+   },
+   {
+    "pt": "Para a surpresa dela, Mariana disse que ela poderia trabalhar meio período durante duas semanas.",
+    "en": "To her surprise, Mariana said she could work part-time for two weeks.",
+    "glosses": {
+     "surpresa": "surprise",
+     "dela": "her",
+     "disse": "said",
+     "poderia": "could",
+     "meio período": "part-time"
+    }
+   },
+   {
+    "pt": "\"Quando você se formar, eu quero você aqui com carteira assinada. Então termine esse trabalho bem feito.\"",
+    "en": "\"When you graduate, I want you here with a formal contract. So finish that work properly.\"",
+    "glosses": {
+     "se formar": "graduate (future subjunctive)",
+     "quero": "want",
+     "termine": "finish",
+     "bem feito": "properly"
+    }
+   },
+   {
+    "pt": "Letícia ficou tão aliviada que quase chorou na frente da chefe.",
+    "en": "Letícia was so relieved that she almost cried in front of her boss.",
+    "glosses": {
+     "ficou": "was",
+     "aliviada": "relieved",
+     "chorou": "cried",
+     "na frente da": "in front of the"
+    }
+   },
+   {
+    "pt": "Letícia entregou a monografia um dia antes do prazo, com o rosto cansado e o coração leve.",
+    "en": "Letícia handed in the thesis a day before the deadline, with a tired face and a light heart.",
+    "glosses": {
+     "entregou": "handed in",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "No dia de defender o trabalho, ela ouviu perguntas difíceis do professor Eduardo, mas no fim recebeu a nota máxima.",
+    "en": "On the day she defended her work, she heard difficult questions from Professor Eduardo, but in the end received the top grade.",
+    "glosses": {
+     "defender": "defending",
+     "ouviu": "heard",
+     "do": "from",
+     "recebeu": "received",
+     "máxima": "top"
+    }
+   },
+   {
+    "pt": "Em março, ela começou na editora com carteira assinada, e hoje ensina os novos estagiários.",
+    "en": "In March, she started at the publisher with a formal contract, and today she trains the new interns.",
+    "glosses": {
+     "começou": "started",
+     "na": "at the",
+     "ensina": "trains"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Por que Letícia não tinha tempo para a monografia?",
+    "qEn": "Why didn't Letícia have time for the thesis?",
+    "options": [
+     "Trabalhava oito horas por dia",
+     "Estava doente",
+     "Morava longe da faculdade",
+     "Tinha um bebê"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "O que o professor achou do trabalho?",
+    "qEn": "What did the professor think of the work?",
+    "options": [
+     "Que estava muito curto",
+     "Que era ruim",
+     "Que estava bom",
+     "Que era muito longo"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Como Mariana ajudou Letícia?",
+    "qEn": "How did Mariana help Letícia?",
+    "options": [
+     "Escreveu a monografia",
+     "Deixou ela trabalhar meio período",
+     "Pagou a mensalidade",
+     "Falou com o professor"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

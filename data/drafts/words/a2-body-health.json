@@ -1,0 +1,533 @@
+[
+ {
+  "pt": "remédio",
+  "pos": "n.",
+  "english": "medicine",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "remédios"
+  ],
+  "example": {
+   "pt": "Você já tomou o remédio hoje?",
+   "en": "Have you already taken the medicine today?"
+  }
+ },
+ {
+  "pt": "febre",
+  "pos": "n.",
+  "english": "fever",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "febres"
+  ],
+  "example": {
+   "pt": "Meu filho está com febre desde ontem.",
+   "en": "My son has had a fever since yesterday."
+  }
+ },
+ {
+  "pt": "tosse",
+  "pos": "n.",
+  "english": "cough",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "tosses"
+  ],
+  "example": {
+   "pt": "Essa tosse não passa.",
+   "en": "This cough won't go away."
+  }
+ },
+ {
+  "pt": "receita",
+  "pos": "n.",
+  "english": "prescription; recipe",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "receitas"
+  ],
+  "example": {
+   "pt": "O médico me deu uma receita para o antibiótico.",
+   "en": "The doctor gave me a prescription for the antibiotic."
+  }
+ },
+ {
+  "pt": "dor",
+  "pos": "n.",
+  "english": "pain, ache",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "dores"
+  ],
+  "example": {
+   "pt": "Sinto uma dor forte no joelho.",
+   "en": "I feel a strong pain in my knee."
+  }
+ },
+ {
+  "pt": "dor de cabeça",
+  "pos": "n.",
+  "english": "headache",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "dores de cabeça"
+  ],
+  "example": {
+   "pt": "Eu estava com dor de cabeça e fui dormir cedo.",
+   "en": "I had a headache and went to bed early."
+  }
+ },
+ {
+  "pt": "gripe",
+  "pos": "n.",
+  "english": "flu",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "gripes"
+  ],
+  "example": {
+   "pt": "Peguei uma gripe na semana passada.",
+   "en": "I caught the flu last week."
+  }
+ },
+ {
+  "pt": "resfriado",
+  "pos": "n.",
+  "english": "cold (illness)",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "resfriados"
+  ],
+  "example": {
+   "pt": "Não é nada sério, é só um resfriado.",
+   "en": "It's nothing serious, it's just a cold."
+  }
+ },
+ {
+  "pt": "consulta",
+  "pos": "n.",
+  "english": "(doctor's) appointment",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "consultas"
+  ],
+  "example": {
+   "pt": "Tenho uma consulta com o dentista amanhã.",
+   "en": "I have an appointment with the dentist tomorrow."
+  }
+ },
+ {
+  "pt": "sangue",
+  "pos": "n.",
+  "english": "blood",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "sangues"
+  ],
+  "example": {
+   "pt": "Tinha sangue no meu dedo.",
+   "en": "There was blood on my finger."
+  }
+ },
+ {
+  "pt": "osso",
+  "pos": "n.",
+  "english": "bone",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "ossos"
+  ],
+  "example": {
+   "pt": "O cachorro está comendo um osso.",
+   "en": "The dog is eating a bone."
+  }
+ },
+ {
+  "pt": "pele",
+  "pos": "n.",
+  "english": "skin",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "peles"
+  ],
+  "example": {
+   "pt": "Use protetor solar para cuidar da pele.",
+   "en": "Use sunscreen to take care of your skin."
+  }
+ },
+ {
+  "pt": "coração",
+  "pos": "n.",
+  "english": "heart",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "corações"
+  ],
+  "example": {
+   "pt": "O coração dele bate muito rápido.",
+   "en": "His heart beats very fast."
+  }
+ },
+ {
+  "pt": "estômago",
+  "pos": "n.",
+  "english": "stomach",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "estômagos"
+  ],
+  "example": {
+   "pt": "Comi demais e agora meu estômago está doendo.",
+   "en": "I ate too much and now my stomach hurts."
+  }
+ },
+ {
+  "pt": "garganta",
+  "pos": "n.",
+  "english": "throat",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "gargantas"
+  ],
+  "example": {
+   "pt": "Estou com dor de garganta.",
+   "en": "I have a sore throat."
+  }
+ },
+ {
+  "pt": "costas",
+  "pos": "n.",
+  "english": "back (of the body)",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [],
+  "example": {
+   "pt": "Carreguei muitas caixas e minhas costas doem.",
+   "en": "I carried a lot of boxes and my back hurts."
+  }
+ },
+ {
+  "pt": "joelho",
+  "pos": "n.",
+  "english": "knee",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "joelhos"
+  ],
+  "example": {
+   "pt": "Ela caiu e machucou o joelho.",
+   "en": "She fell and hurt her knee."
+  }
+ },
+ {
+  "pt": "ombro",
+  "pos": "n.",
+  "english": "shoulder",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "ombros"
+  ],
+  "example": {
+   "pt": "Ele colocou a mochila no ombro.",
+   "en": "He put the backpack on his shoulder."
+  }
+ },
+ {
+  "pt": "pescoço",
+  "pos": "n.",
+  "english": "neck",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "pescoços"
+  ],
+  "example": {
+   "pt": "Dormi mal e acordei com dor no pescoço.",
+   "en": "I slept badly and woke up with a stiff neck."
+  }
+ },
+ {
+  "pt": "saúde",
+  "pos": "n.",
+  "english": "health",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "saúdes"
+  ],
+  "example": {
+   "pt": "Fazer exercício é bom para a saúde.",
+   "en": "Exercising is good for your health."
+  }
+ },
+ {
+  "pt": "doença",
+  "pos": "n.",
+  "english": "illness, disease",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "doenças"
+  ],
+  "example": {
+   "pt": "Essa doença é muito comum no inverno.",
+   "en": "This illness is very common in winter."
+  }
+ },
+ {
+  "pt": "alergia",
+  "pos": "n.",
+  "english": "allergy",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "alergias"
+  ],
+  "example": {
+   "pt": "Tenho alergia a camarão.",
+   "en": "I'm allergic to shrimp."
+  }
+ },
+ {
+  "pt": "exame",
+  "pos": "n.",
+  "english": "(medical) test, exam",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "exames"
+  ],
+  "example": {
+   "pt": "O médico pediu um exame de sangue.",
+   "en": "The doctor ordered a blood test."
+  }
+ },
+ {
+  "pt": "comprimido",
+  "pos": "n.",
+  "english": "pill, tablet",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "comprimidos"
+  ],
+  "example": {
+   "pt": "Tome um comprimido depois do almoço.",
+   "en": "Take one pill after lunch."
+  }
+ },
+ {
+  "pt": "vacina",
+  "pos": "n.",
+  "english": "vaccine",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "vacinas"
+  ],
+  "example": {
+   "pt": "As crianças tomaram a vacina na escola.",
+   "en": "The children got the vaccine at school."
+  }
+ },
+ {
+  "pt": "sintoma",
+  "pos": "n.",
+  "english": "symptom",
+  "level": 2,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "sintomas"
+  ],
+  "example": {
+   "pt": "Quais são os seus sintomas?",
+   "en": "What are your symptoms?"
+  }
+ },
+ {
+  "pt": "machucar",
+  "pos": "v.",
+  "english": "to hurt, to injure",
+  "level": 2,
+  "topic": "Body & health",
+  "example": {
+   "pt": "Eu machuquei a mão no trabalho.",
+   "en": "I hurt my hand at work."
+  }
+ },
+ {
+  "pt": "doer",
+  "pos": "v.",
+  "english": "to hurt, to ache",
+  "level": 2,
+  "topic": "Body & health",
+  "example": {
+   "pt": "Meu dente está doendo muito.",
+   "en": "My tooth is hurting a lot."
+  }
+ },
+ {
+  "pt": "tossir",
+  "pos": "v.",
+  "english": "to cough",
+  "level": 2,
+  "topic": "Body & health",
+  "example": {
+   "pt": "Ele tossiu a noite toda.",
+   "en": "He coughed all night."
+  }
+ },
+ {
+  "pt": "espirrar",
+  "pos": "v.",
+  "english": "to sneeze",
+  "level": 2,
+  "topic": "Body & health",
+  "example": {
+   "pt": "Eu espirro muito na primavera.",
+   "en": "I sneeze a lot in spring."
+  }
+ },
+ {
+  "pt": "descansar",
+  "pos": "v.",
+  "english": "to rest",
+  "level": 2,
+  "topic": "Body & health",
+  "example": {
+   "pt": "Você precisa descansar um pouco.",
+   "en": "You need to rest a bit."
+  }
+ },
+ {
+  "pt": "melhorar",
+  "pos": "v.",
+  "english": "to get better, to improve",
+  "level": 2,
+  "topic": "Body & health",
+  "example": {
+   "pt": "Tomei o remédio e melhorei rápido.",
+   "en": "I took the medicine and got better quickly."
+  }
+ },
+ {
+  "pt": "piorar",
+  "pos": "v.",
+  "english": "to get worse",
+  "level": 2,
+  "topic": "Body & health",
+  "example": {
+   "pt": "A tosse piorou durante a noite.",
+   "en": "The cough got worse during the night."
+  }
+ },
+ {
+  "pt": "respirar",
+  "pos": "v.",
+  "english": "to breathe",
+  "level": 2,
+  "topic": "Body & health",
+  "example": {
+   "pt": "Respire fundo e fique calmo.",
+   "en": "Breathe deeply and stay calm."
+  }
+ },
+ {
+  "pt": "doente",
+  "pos": "adj.",
+  "english": "sick, ill",
+  "level": 2,
+  "topic": "Body & health",
+  "forms": [
+   "doentes"
+  ],
+  "example": {
+   "pt": "Não fui à aula porque estava doente.",
+   "en": "I didn't go to class because I was sick."
+  }
+ },
+ {
+  "pt": "saudável",
+  "pos": "adj.",
+  "english": "healthy",
+  "level": 2,
+  "topic": "Body & health",
+  "forms": [
+   "saudáveis"
+  ],
+  "example": {
+   "pt": "Ela come de forma saudável.",
+   "en": "She eats in a healthy way."
+  }
+ },
+ {
+  "pt": "machucado",
+  "pos": "adj.",
+  "english": "hurt, injured",
+  "level": 2,
+  "topic": "Body & health",
+  "forms": [
+   "machucada",
+   "machucados",
+   "machucadas"
+  ],
+  "example": {
+   "pt": "O jogador está machucado e não vai jogar.",
+   "en": "The player is injured and won't play."
+  }
+ },
+ {
+  "pt": "melhoras",
+  "pos": "interj.",
+  "english": "get well soon",
+  "level": 2,
+  "topic": "Body & health",
+  "example": {
+   "pt": "Soube que você está doente. Melhoras!",
+   "en": "I heard you're sick. Get well soon!"
+  }
+ }
+]

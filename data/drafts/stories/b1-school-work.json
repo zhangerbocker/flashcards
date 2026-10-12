@@ -1,0 +1,471 @@
+[
+ {
+  "id": "b1-school-work-1",
+  "level": 3,
+  "topic": "School & work",
+  "title": "A entrevista",
+  "titleEn": "The interview",
+  "sentences": [
+   {
+    "pt": "Camila tinha terminado a faculdade em dezembro e procurava o primeiro emprego como engenheira.",
+    "en": "Camila had finished university in December and was looking for her first job as an engineer.",
+    "glosses": {
+     "tinha": "had",
+     "terminado": "finished",
+     "procurava": "was looking for",
+     "engenheira": "engineer (female)"
+    }
+   },
+   {
+    "pt": "Durante dois meses, ela enviou o currículo para mais de trinta empresas.",
+    "en": "For two months, she sent her résumé to more than thirty companies.",
+    "glosses": {
+     "enviou": "sent"
+    }
+   },
+   {
+    "pt": "Quase ninguém respondeu, e ela começou a perder a esperança.",
+    "en": "Almost no one answered, and she started to lose hope.",
+    "glosses": {
+     "respondeu": "answered",
+     "começou": "started"
+    }
+   },
+   {
+    "pt": "Um dia, porém, recebeu um e-mail de uma empresa de energia solar em Curitiba.",
+    "en": "One day, however, she received an email from a solar energy company in Curitiba.",
+    "glosses": {
+     "recebeu": "received"
+    }
+   },
+   {
+    "pt": "Eles queriam fazer uma entrevista com ela na sexta-feira, às nove da manhã.",
+    "en": "They wanted to do an interview with her on Friday, at nine in the morning.",
+    "glosses": {
+     "queriam": "wanted",
+     "às": "at",
+     "da": "in the"
+    }
+   },
+   {
+    "pt": "Camila ficou feliz, mas também muito nervosa.",
+    "en": "Camila was happy, but also very nervous.",
+    "glosses": {
+     "ficou": "became"
+    }
+   },
+   {
+    "pt": "Na véspera, ela leu tudo sobre a empresa e ensaiou as respostas com a mãe.",
+    "en": "The day before, she read everything about the company and rehearsed her answers with her mother.",
+    "glosses": {
+     "leu": "read",
+     "ensaiou": "rehearsed"
+    }
+   },
+   {
+    "pt": "Na sexta-feira, embora estivesse com medo do trânsito, saiu de casa bem cedo.",
+    "en": "On Friday, although she was afraid of the traffic, she left home very early.",
+    "glosses": {
+     "estivesse": "was (subjunctive)",
+     "medo": "fear (afraid)",
+     "saiu": "left",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "No entanto, o ônibus quebrou no meio da avenida.",
+    "en": "However, the bus broke down in the middle of the avenue.",
+    "glosses": {
+     "quebrou": "broke down",
+     "no": "in the",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Os passageiros tiveram que descer e esperar outro ônibus.",
+    "en": "The passengers had to get off and wait for another bus.",
+    "glosses": {
+     "tiveram": "had"
+    }
+   },
+   {
+    "pt": "Camila olhou o relógio: eram oito e quarenta.",
+    "en": "Camila looked at her watch: it was eight forty.",
+    "glosses": {
+     "olhou": "looked at",
+     "eram": "it was"
+    }
+   },
+   {
+    "pt": "Ela ligou para a empresa e explicou o problema à secretária.",
+    "en": "She called the company and explained the problem to the secretary.",
+    "glosses": {
+     "ligou": "called",
+     "explicou": "explained",
+     "à": "to the"
+    }
+   },
+   {
+    "pt": "A secretária disse que não era um problema e que o chefe podia esperar meia hora.",
+    "en": "The secretary said it wasn't a problem and that the boss could wait half an hour.",
+    "glosses": {
+     "disse": "said",
+     "era": "was",
+     "podia": "could"
+    }
+   },
+   {
+    "pt": "Mesmo assim, Camila decidiu pegar um táxi para não chegar muito atrasada.",
+    "en": "Even so, Camila decided to take a taxi so as not to arrive very late.",
+    "glosses": {
+     "mesmo": "even",
+     "assim": "so",
+     "decidiu": "decided"
+    }
+   },
+   {
+    "pt": "Chegou às nove e dez, cansada e com o rosto vermelho.",
+    "en": "She arrived at ten past nine, tired and with a red face.",
+    "glosses": {
+     "chegou": "she arrived",
+     "às": "at"
+    }
+   },
+   {
+    "pt": "O chefe, um senhor simpático chamado Ricardo, pediu que ela se sentasse e tomasse um café.",
+    "en": "The boss, a friendly man named Ricardo, asked her to sit down and have a coffee.",
+    "glosses": {
+     "chamado": "named",
+     "pediu": "asked",
+     "sentasse": "sit down (subjunctive)",
+     "tomasse": "she have (subjunctive)"
+    }
+   },
+   {
+    "pt": "Ele perguntou sobre o estágio que ela tinha feito e sobre os projetos da faculdade.",
+    "en": "He asked about the internship she had done and about her university projects.",
+    "glosses": {
+     "perguntou": "asked",
+     "tinha": "had",
+     "feito": "done",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Camila respondeu com calma, apesar do estresse da manhã.",
+    "en": "Camila answered calmly, despite the morning's stress.",
+    "glosses": {
+     "respondeu": "answered",
+     "calma": "calm (calmly)",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "No fim, Ricardo disse que gostava de pessoas que resolvem problemas sozinhas.",
+    "en": "At the end, Ricardo said that he liked people who solve problems on their own.",
+    "glosses": {
+     "no": "at the",
+     "disse": "said",
+     "gostava": "liked",
+     "resolvem": "solve",
+     "sozinhas": "on their own"
+    }
+   },
+   {
+    "pt": "\"Você não desistiu quando o ônibus quebrou; isso é o que a gente precisa\", explicou.",
+    "en": "\"You didn't give up when the bus broke down; that's what we need,\" he explained.",
+    "glosses": {
+     "desistiu": "gave up",
+     "quebrou": "broke down",
+     "precisa": "needs",
+     "explicou": "he explained"
+    }
+   },
+   {
+    "pt": "Duas semanas depois, Camila assinou o contrato.",
+    "en": "Two weeks later, Camila signed the contract.",
+    "glosses": {
+     "assinou": "signed",
+     "depois": "later"
+    }
+   },
+   {
+    "pt": "Hoje ela trabalha no departamento de projetos e sempre sai de casa uma hora antes.",
+    "en": "Today she works in the projects department and always leaves home an hour early.",
+    "glosses": {
+     "trabalha": "works",
+     "no": "in the",
+     "sai": "leaves",
+     "antes": "earlier"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Onde fica a empresa que chamou Camila?",
+    "qEn": "Where is the company that called Camila?",
+    "options": [
+     "Em Manaus",
+     "Em Recife",
+     "Em Curitiba",
+     "Em Salvador"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Por que Camila chegou atrasada?",
+    "qEn": "Why did Camila arrive late?",
+    "options": [
+     "Ela esqueceu o currículo",
+     "O táxi demorou",
+     "O ônibus quebrou",
+     "Ela acordou tarde"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "O que Ricardo gostou em Camila?",
+    "qEn": "What did Ricardo like about Camila?",
+    "options": [
+     "Ela não desistiu",
+     "Ela chegou cedo",
+     "Ela era engraçada",
+     "Ela falava inglês"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "b1-school-work-2",
+  "level": 3,
+  "topic": "School & work",
+  "title": "O trabalho da turma",
+  "titleEn": "The class project",
+  "sentences": [
+   {
+    "pt": "Na universidade, o professor Eduardo pediu que a turma fizesse um trabalho em equipe sobre reciclagem.",
+    "en": "At university, Professor Eduardo asked the class to do a team project on recycling.",
+    "glosses": {
+     "pediu": "asked",
+     "fizesse": "do (subjunctive)"
+    }
+   },
+   {
+    "pt": "O prazo era curto: cada equipe teria apenas três semanas para entregar a pesquisa e dar uma palestra para a turma.",
+    "en": "The deadline was short: each team would have only three weeks to hand in the research and give a talk to the class.",
+    "glosses": {
+     "era": "was",
+     "teria": "would have",
+     "dar": "give"
+    }
+   },
+   {
+    "pt": "Diego, Letícia, Bruno e Aline formaram uma equipe, embora não se conhecessem bem.",
+    "en": "Diego, Letícia, Bruno and Aline formed a team, although they didn't know each other well.",
+    "glosses": {
+     "formaram": "formed",
+     "se": "each other",
+     "conhecessem": "knew (subjunctive)"
+    }
+   },
+   {
+    "pt": "Na primeira reunião, eles dividiram as tarefas e fizeram um cronograma numa planilha.",
+    "en": "At the first meeting, they divided up the tasks and made a schedule in a spreadsheet.",
+    "glosses": {
+     "dividiram": "divided",
+     "fizeram": "made",
+     "numa": "in a"
+    }
+   },
+   {
+    "pt": "Letícia ficou responsável pelos dados, Diego pela redação e Aline pelos gráficos.",
+    "en": "Letícia was in charge of the data, Diego the writing and Aline the charts.",
+    "glosses": {
+     "ficou": "became",
+     "pelos": "for the",
+     "pela": "for the"
+    }
+   },
+   {
+    "pt": "Bruno, que trabalhava à noite num restaurante, disse que faria a palestra.",
+    "en": "Bruno, who worked at night in a restaurant, said he would give the talk.",
+    "glosses": {
+     "trabalhava": "worked",
+     "num": "in a",
+     "disse": "said",
+     "faria": "would do"
+    }
+   },
+   {
+    "pt": "Durante a primeira semana, tudo correu bem.",
+    "en": "During the first week, everything went well.",
+    "glosses": {
+     "correu": "went"
+    }
+   },
+   {
+    "pt": "Na segunda semana, no entanto, Bruno parou de responder às mensagens da equipe.",
+    "en": "In the second week, however, Bruno stopped answering the team's messages.",
+    "glosses": {
+     "parou": "stopped",
+     "às": "to the",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Diego ficou irritado e queria contar tudo ao professor.",
+    "en": "Diego got annoyed and wanted to tell the professor everything.",
+    "glosses": {
+     "ficou": "got",
+     "queria": "wanted",
+     "ao": "to the"
+    }
+   },
+   {
+    "pt": "\"Talvez ele esteja com algum problema\", disse Aline.",
+    "en": "\"Maybe he's having some problem,\" said Aline.",
+    "glosses": {
+     "esteja": "is (subjunctive)",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "\"Antes de reclamar, a gente devia conversar com ele.\"",
+    "en": "\"Before complaining, we should talk to him.\"",
+    "glosses": {
+     "devia": "should"
+    }
+   },
+   {
+    "pt": "Então Letícia ligou para Bruno muitas vezes, e ele por fim respondeu.",
+    "en": "So Letícia called Bruno many times, and he finally answered.",
+    "glosses": {
+     "ligou": "called",
+     "vezes": "times",
+     "por": "at",
+     "fim": "end (finally)",
+     "respondeu": "answered"
+    }
+   },
+   {
+    "pt": "Ele explicou que o pai tinha ficado doente e que estava fazendo horas extras para pagar o hospital.",
+    "en": "He explained that his father had gotten sick and that he was working overtime to pay the hospital.",
+    "glosses": {
+     "explicou": "explained",
+     "tinha": "had",
+     "ficado": "become",
+     "estava": "was",
+     "fazendo": "doing"
+    }
+   },
+   {
+    "pt": "Ele estava envergonhado e não sabia como dizer isso aos colegas.",
+    "en": "He was embarrassed and didn't know how to tell his classmates.",
+    "glosses": {
+     "estava": "was",
+     "sabia": "knew",
+     "aos": "to the"
+    }
+   },
+   {
+    "pt": "A equipe decidiu ajudar: cada um falaria um pouco na palestra.",
+    "en": "The team decided to help: each one would speak a little in the talk.",
+    "glosses": {
+     "decidiu": "decided",
+     "falaria": "would speak",
+     "na": "in the"
+    }
+   },
+   {
+    "pt": "Bruno, por outro lado, faria os gráficos no celular, durante o almoço no restaurante.",
+    "en": "Bruno, on the other hand, would do the charts on his phone, during lunch at the restaurant.",
+    "glosses": {
+     "faria": "would do",
+     "no": "on the"
+    }
+   },
+   {
+    "pt": "No dia da palestra, os quatro falaram com segurança e responderam a todas as perguntas.",
+    "en": "On the day of the talk, the four spoke confidently and answered all the questions.",
+    "glosses": {
+     "falaram": "spoke",
+     "segurança": "confidence (confidently)",
+     "responderam": "answered"
+    }
+   },
+   {
+    "pt": "O professor gostou muito do trabalho e deu nota nove à equipe.",
+    "en": "The professor really liked the work and gave the team a grade of nine.",
+    "glosses": {
+     "gostou": "liked",
+     "do": "of the",
+     "deu": "gave",
+     "à": "to the"
+    }
+   },
+   {
+    "pt": "Depois da aula, eles foram a um restaurante perto da universidade para jantar.",
+    "en": "After class, they went to a restaurant near the university for dinner.",
+    "glosses": {
+     "foram": "went",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Bruno contou que o pai já estava melhor e disse \"muito obrigado\" aos colegas.",
+    "en": "Bruno said his father was already better and said \"thank you very much\" to his classmates.",
+    "glosses": {
+     "contou": "told",
+     "estava": "was",
+     "disse": "said",
+     "aos": "to the"
+    }
+   },
+   {
+    "pt": "Desde então, os quatro estudam sempre na casa de Aline antes das provas.",
+    "en": "Since then, the four always study at Aline's house before exams.",
+    "glosses": {
+     "estudam": "study",
+     "na": "at the",
+     "das": "of the"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Sobre o que era o trabalho?",
+    "qEn": "What was the project about?",
+    "options": [
+     "Saúde",
+     "Política",
+     "Economia",
+     "Reciclagem"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "Por que Bruno parou de responder?",
+    "qEn": "Why did Bruno stop answering?",
+    "options": [
+     "O pai estava doente",
+     "Ele estava de férias",
+     "Ele mudou de turma",
+     "Ele perdeu o celular"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Que nota a equipe recebeu?",
+    "qEn": "What grade did the team get?",
+    "options": [
+     "Cinco",
+     "Nove",
+     "Dez",
+     "Sete"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

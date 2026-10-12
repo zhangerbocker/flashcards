@@ -1,0 +1,39 @@
+[
+ {
+  "pt": "fato",
+  "pos": "n.",
+  "english": "fact; o fato de = the fact that",
+  "level": 3,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "fatos"
+  ],
+  "example": {
+   "pt": "O fato de ele não ligar me preocupa.",
+   "en": "The fact that he doesn't call worries me."
+  }
+ },
+ {
+  "pt": "tratar",
+  "pos": "v.",
+  "english": "to treat; tratar de = to deal with, be about",
+  "level": 3,
+  "topic": "Body & health",
+  "example": {
+   "pt": "O médico tratou a infecção com antibiótico.",
+   "en": "The doctor treated the infection with an antibiotic."
+  }
+ },
+ {
+  "pt": "resistir",
+  "pos": "v.",
+  "english": "to resist, to hold out",
+  "level": 3,
+  "topic": "Actions",
+  "example": {
+   "pt": "Não consegui resistir ao doce.",
+   "en": "I couldn't resist the dessert."
+  }
+ }
+]

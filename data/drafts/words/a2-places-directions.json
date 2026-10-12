@@ -1,0 +1,505 @@
+[
+ {
+  "pt": "esquina",
+  "pos": "n.",
+  "english": "(street) corner",
+  "level": 2,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "esquinas"
+  ],
+  "example": {
+   "pt": "A padaria fica na esquina.",
+   "en": "The bakery is on the corner."
+  }
+ },
+ {
+  "pt": "quarteirão",
+  "pos": "n.",
+  "english": "block (of a street)",
+  "level": 2,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "quarteirões"
+  ],
+  "example": {
+   "pt": "O banco fica a dois quarteirões daqui.",
+   "en": "The bank is two blocks from here."
+  }
+ },
+ {
+  "pt": "praça",
+  "pos": "n.",
+  "english": "square, plaza",
+  "level": 2,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "praças"
+  ],
+  "example": {
+   "pt": "As crianças brincam na praça.",
+   "en": "The children play in the square."
+  }
+ },
+ {
+  "pt": "calçada",
+  "pos": "n.",
+  "english": "sidewalk",
+  "level": 2,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "calçadas"
+  ],
+  "example": {
+   "pt": "Ande na calçada, por favor.",
+   "en": "Walk on the sidewalk, please."
+  }
+ },
+ {
+  "pt": "avenida",
+  "pos": "n.",
+  "english": "avenue",
+  "level": 2,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "avenidas"
+  ],
+  "example": {
+   "pt": "Eu moro na Avenida Paulista.",
+   "en": "I live on Paulista Avenue."
+  }
+ },
+ {
+  "pt": "bairro",
+  "pos": "n.",
+  "english": "neighborhood",
+  "level": 2,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "bairros"
+  ],
+  "example": {
+   "pt": "O meu bairro é bem tranquilo.",
+   "en": "My neighborhood is very quiet."
+  }
+ },
+ {
+  "pt": "prefeitura",
+  "pos": "n.",
+  "english": "city hall",
+  "level": 2,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "prefeituras"
+  ],
+  "example": {
+   "pt": "A prefeitura fica no centro.",
+   "en": "City hall is downtown."
+  }
+ },
+ {
+  "pt": "correio",
+  "pos": "n.",
+  "english": "post office; mail",
+  "level": 2,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "correios"
+  ],
+  "example": {
+   "pt": "Preciso ir ao correio mandar uma carta.",
+   "en": "I need to go to the post office to send a letter."
+  }
+ },
+ {
+  "pt": "igreja",
+  "pos": "n.",
+  "english": "church",
+  "level": 2,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "igrejas"
+  ],
+  "example": {
+   "pt": "A igreja é muito antiga.",
+   "en": "The church is very old."
+  }
+ },
+ {
+  "pt": "museu",
+  "pos": "n.",
+  "english": "museum",
+  "level": 2,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "museus"
+  ],
+  "example": {
+   "pt": "Visitamos o museu no domingo.",
+   "en": "We visited the museum on Sunday."
+  }
+ },
+ {
+  "pt": "biblioteca",
+  "pos": "n.",
+  "english": "library",
+  "level": 2,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "bibliotecas"
+  ],
+  "example": {
+   "pt": "Eu estudo na biblioteca depois da aula.",
+   "en": "I study at the library after class."
+  }
+ },
+ {
+  "pt": "ponte",
+  "pos": "n.",
+  "english": "bridge",
+  "level": 2,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "pontes"
+  ],
+  "example": {
+   "pt": "Atravesse a ponte e vire à direita.",
+   "en": "Cross the bridge and turn right."
+  }
+ },
+ {
+  "pt": "prédio",
+  "pos": "n.",
+  "english": "building",
+  "level": 2,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "prédios"
+  ],
+  "example": {
+   "pt": "Ela mora num prédio de dez andares.",
+   "en": "She lives in a ten-story building."
+  }
+ },
+ {
+  "pt": "andar",
+  "pos": "n.",
+  "english": "floor, story",
+  "level": 2,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "andares"
+  ],
+  "example": {
+   "pt": "O escritório fica no quinto andar.",
+   "en": "The office is on the fifth floor."
+  }
+ },
+ {
+  "pt": "elevador",
+  "pos": "n.",
+  "english": "elevator",
+  "level": 2,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "elevadores"
+  ],
+  "example": {
+   "pt": "O elevador está quebrado.",
+   "en": "The elevator is broken."
+  }
+ },
+ {
+  "pt": "escada",
+  "pos": "n.",
+  "english": "stairs; ladder",
+  "level": 2,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "escadas"
+  ],
+  "example": {
+   "pt": "Vamos pela escada.",
+   "en": "Let's take the stairs."
+  }
+ },
+ {
+  "pt": "estacionamento",
+  "pos": "n.",
+  "english": "parking lot",
+  "level": 2,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "estacionamentos"
+  ],
+  "example": {
+   "pt": "O estacionamento do shopping está cheio.",
+   "en": "The mall parking lot is full."
+  }
+ },
+ {
+  "pt": "semáforo",
+  "pos": "n.",
+  "english": "traffic light",
+  "level": 2,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "semáforos"
+  ],
+  "example": {
+   "pt": "Vire à esquerda no semáforo.",
+   "en": "Turn left at the traffic light."
+  }
+ },
+ {
+  "pt": "placa",
+  "pos": "n.",
+  "english": "sign; license plate",
+  "level": 2,
+  "topic": "Places & directions",
+  "gender": "f",
+  "forms": [
+   "placas"
+  ],
+  "example": {
+   "pt": "Siga as placas para o centro.",
+   "en": "Follow the signs to downtown."
+  }
+ },
+ {
+  "pt": "mapa",
+  "pos": "n.",
+  "english": "map",
+  "level": 2,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "mapas"
+  ],
+  "example": {
+   "pt": "Você tem um mapa da cidade?",
+   "en": "Do you have a map of the city?"
+  }
+ },
+ {
+  "pt": "cruzamento",
+  "pos": "n.",
+  "english": "intersection, crossroads",
+  "level": 2,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "cruzamentos"
+  ],
+  "example": {
+   "pt": "Houve um acidente no cruzamento.",
+   "en": "There was an accident at the intersection."
+  }
+ },
+ {
+  "pt": "ao lado de",
+  "pos": "prep.",
+  "english": "next to",
+  "level": 2,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "A farmácia fica ao lado do banco.",
+   "en": "The pharmacy is next to the bank."
+  }
+ },
+ {
+  "pt": "em frente a",
+  "pos": "prep.",
+  "english": "in front of, opposite",
+  "level": 2,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "O ponto de ônibus fica em frente ao hotel.",
+   "en": "The bus stop is in front of the hotel."
+  },
+  "forms": [
+   "em frente ao",
+   "em frente à",
+   "em frente aos",
+   "em frente às"
+  ]
+ },
+ {
+  "pt": "atrás de",
+  "pos": "prep.",
+  "english": "behind",
+  "level": 2,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "O carro está atrás da casa.",
+   "en": "The car is behind the house."
+  }
+ },
+ {
+  "pt": "embaixo de",
+  "pos": "prep.",
+  "english": "under, below",
+  "level": 2,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "O gato está embaixo da mesa.",
+   "en": "The cat is under the table."
+  },
+  "forms": [
+   "embaixo do",
+   "embaixo da",
+   "embaixo dos",
+   "embaixo das"
+  ]
+ },
+ {
+  "pt": "em cima de",
+  "pos": "prep.",
+  "english": "on top of, above",
+  "level": 2,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "As chaves estão em cima da mesa.",
+   "en": "The keys are on top of the table."
+  },
+  "forms": [
+   "em cima do",
+   "em cima da",
+   "em cima dos",
+   "em cima das"
+  ]
+ },
+ {
+  "pt": "dentro de",
+  "pos": "prep.",
+  "english": "inside",
+  "level": 2,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "O dinheiro está dentro da bolsa.",
+   "en": "The money is inside the bag."
+  }
+ },
+ {
+  "pt": "fora de",
+  "pos": "prep.",
+  "english": "outside (of)",
+  "level": 2,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "Ele mora fora da cidade.",
+   "en": "He lives outside the city."
+  }
+ },
+ {
+  "pt": "virar",
+  "pos": "v.",
+  "english": "to turn",
+  "level": 2,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "Vire à direita na próxima rua.",
+   "en": "Turn right at the next street."
+  }
+ },
+ {
+  "pt": "atravessar",
+  "pos": "v.",
+  "english": "to cross",
+  "level": 2,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "Cuidado ao atravessar a rua.",
+   "en": "Be careful when crossing the street."
+  }
+ },
+ {
+  "pt": "seguir",
+  "pos": "v.",
+  "english": "to follow; to go on",
+  "level": 2,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "Siga em frente até a praça.",
+   "en": "Go straight ahead to the square."
+  }
+ },
+ {
+  "pt": "reto",
+  "pos": "adv.",
+  "english": "straight (ahead)",
+  "level": 2,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "Vá reto e depois vire à esquerda.",
+   "en": "Go straight and then turn left."
+  }
+ },
+ {
+  "pt": "à direita",
+  "pos": "expr.",
+  "english": "to the right, on the right",
+  "level": 2,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "O banheiro é a segunda porta à direita.",
+   "en": "The bathroom is the second door on the right."
+  }
+ },
+ {
+  "pt": "à esquerda",
+  "pos": "expr.",
+  "english": "to the left, on the left",
+  "level": 2,
+  "topic": "Places & directions",
+  "example": {
+   "pt": "Vire à esquerda depois da igreja.",
+   "en": "Turn left after the church."
+  }
+ },
+ {
+  "pt": "norte",
+  "pos": "n.",
+  "english": "north",
+  "level": 2,
+  "topic": "Places & directions",
+  "gender": "m",
+  "forms": [
+   "nortes"
+  ],
+  "example": {
+   "pt": "Eles moram no norte do país.",
+   "en": "They live in the north of the country."
+  }
+ },
+ {
+  "pt": "sul",
+  "pos": "n.",
+  "english": "south",
+  "level": 2,
+  "topic": "Places & directions",
+  "gender": "m",
+  "example": {
+   "pt": "O inverno é frio no sul do Brasil.",
+   "en": "Winter is cold in the south of Brazil."
+  }
+ }
+]

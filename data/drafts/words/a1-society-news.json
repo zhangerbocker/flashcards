@@ -1,0 +1,164 @@
+[
+ {
+  "pt": "notícia",
+  "pos": "n.",
+  "english": "news (item)",
+  "level": 1,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "notícias"
+  ],
+  "example": {
+   "pt": "Eu tenho uma boa notícia!",
+   "en": "I have good news!"
+  }
+ },
+ {
+  "pt": "jornal",
+  "pos": "n.",
+  "english": "newspaper; news program",
+  "level": 1,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "jornais"
+  ],
+  "example": {
+   "pt": "Meu pai lê o jornal todo dia.",
+   "en": "My father reads the newspaper every day."
+  }
+ },
+ {
+  "pt": "país",
+  "pos": "n.",
+  "english": "country",
+  "level": 1,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "países"
+  ],
+  "example": {
+   "pt": "O Brasil é um país grande.",
+   "en": "Brazil is a big country."
+  }
+ },
+ {
+  "pt": "governo",
+  "pos": "n.",
+  "english": "government",
+  "level": 1,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "governos"
+  ],
+  "example": {
+   "pt": "O governo anunciou novas regras.",
+   "en": "The government announced new rules."
+  }
+ },
+ {
+  "pt": "presidente",
+  "pos": "n.",
+  "english": "president",
+  "level": 1,
+  "topic": "Society & news",
+  "gender": "mf",
+  "forms": [
+   "presidentes"
+  ],
+  "example": {
+   "pt": "O presidente falou na TV.",
+   "en": "The president spoke on TV."
+  }
+ },
+ {
+  "pt": "polícia",
+  "pos": "n.",
+  "english": "police",
+  "level": 1,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "polícias"
+  ],
+  "example": {
+   "pt": "A polícia chegou rápido.",
+   "en": "The police arrived quickly."
+  }
+ },
+ {
+  "pt": "problema",
+  "pos": "n.",
+  "english": "problem",
+  "level": 1,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "problemas"
+  ],
+  "example": {
+   "pt": "Não tem problema!",
+   "en": "No problem!"
+  }
+ },
+ {
+  "pt": "dinheiro",
+  "pos": "n.",
+  "english": "money",
+  "level": 1,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "dinheiros"
+  ],
+  "example": {
+   "pt": "Eu não tenho dinheiro.",
+   "en": "I don't have money."
+  }
+ },
+ {
+  "pt": "lei",
+  "pos": "n.",
+  "english": "law",
+  "level": 1,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "leis"
+  ],
+  "example": {
+   "pt": "Todos devem respeitar a lei.",
+   "en": "Everyone must respect the law."
+  }
+ },
+ {
+  "pt": "eleição",
+  "pos": "n.",
+  "english": "election",
+  "level": 1,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "eleições"
+  ],
+  "example": {
+   "pt": "A eleição é em outubro.",
+   "en": "The election is in October."
+  }
+ },
+ {
+  "pt": "internet",
+  "pos": "n.",
+  "english": "internet",
+  "level": 1,
+  "topic": "Society & news",
+  "gender": "f",
+  "example": {
+   "pt": "Eu leio as notícias na internet.",
+   "en": "I read the news on the internet."
+  }
+ }
+]

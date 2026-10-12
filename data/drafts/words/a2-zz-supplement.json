@@ -1,0 +1,349 @@
+[
+ {
+  "pt": "possível",
+  "pos": "adj.",
+  "english": "possible",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "possíveis"
+  ],
+  "example": {
+   "pt": "É possível chegar lá de metrô.",
+   "en": "It's possible to get there by subway."
+  }
+ },
+ {
+  "pt": "impossível",
+  "pos": "adj.",
+  "english": "impossible",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "impossíveis"
+  ],
+  "example": {
+   "pt": "Hoje é impossível estacionar no centro.",
+   "en": "Today it's impossible to park downtown."
+  }
+ },
+ {
+  "pt": "sonhar",
+  "pos": "v.",
+  "english": "to dream (sonhar com = dream about)",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Eu sonhei com a praia ontem.",
+   "en": "I dreamed about the beach last night."
+  }
+ },
+ {
+  "pt": "sonho",
+  "pos": "n.",
+  "english": "dream",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "gender": "m",
+  "forms": [
+   "sonhos"
+  ],
+  "example": {
+   "pt": "O sonho dela é morar em Lisboa.",
+   "en": "Her dream is to live in Lisbon."
+  }
+ },
+ {
+  "pt": "aceitar",
+  "pos": "v.",
+  "english": "to accept",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Eles aceitaram o convite.",
+   "en": "They accepted the invitation."
+  }
+ },
+ {
+  "pt": "silêncio",
+  "pos": "n.",
+  "english": "silence",
+  "level": 2,
+  "topic": "Descriptions",
+  "gender": "m",
+  "forms": [
+   "silêncios"
+  ],
+  "example": {
+   "pt": "Na biblioteca, todos ficam em silêncio.",
+   "en": "In the library, everyone stays silent."
+  }
+ },
+ {
+  "pt": "alemão",
+  "pos": "n./adj.",
+  "english": "German",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "alemã",
+   "alemães",
+   "alemãs"
+  ],
+  "example": {
+   "pt": "Meu colega fala alemão e português.",
+   "en": "My colleague speaks German and Portuguese."
+  }
+ },
+ {
+  "pt": "gastar",
+  "pos": "v.",
+  "english": "to spend (money, time)",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "Gastei muito dinheiro nas férias.",
+   "en": "I spent a lot of money on vacation."
+  }
+ },
+ {
+  "pt": "forma",
+  "pos": "n.",
+  "english": "form, shape; way (de forma diferente)",
+  "level": 2,
+  "topic": "Descriptions",
+  "gender": "f",
+  "forms": [
+   "formas"
+  ],
+  "example": {
+   "pt": "Ele explicou de uma forma simples.",
+   "en": "He explained it in a simple way."
+  }
+ },
+ {
+  "pt": "razão",
+  "pos": "n.",
+  "english": "reason; ter razão = to be right",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "forms": [
+   "razões"
+  ],
+  "example": {
+   "pt": "Você tem razão, eu errei.",
+   "en": "You're right, I was wrong."
+  }
+ },
+ {
+  "pt": "estado",
+  "pos": "n.",
+  "english": "state; condition",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "estados"
+  ],
+  "example": {
+   "pt": "Minas Gerais é um estado grande.",
+   "en": "Minas Gerais is a big state."
+  }
+ },
+ {
+  "pt": "único",
+  "pos": "adj.",
+  "english": "only, unique",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "única",
+   "únicos",
+   "únicas"
+  ],
+  "example": {
+   "pt": "Ela é a única pessoa que sabe.",
+   "en": "She's the only person who knows."
+  }
+ },
+ {
+  "pt": "existir",
+  "pos": "v.",
+  "english": "to exist",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "Esse restaurante não existe mais.",
+   "en": "This restaurant doesn't exist anymore."
+  }
+ },
+ {
+  "pt": "agradecer",
+  "pos": "v.",
+  "english": "to thank",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Quero agradecer a ajuda de vocês.",
+   "en": "I want to thank you all for your help."
+  }
+ },
+ {
+  "pt": "caber",
+  "pos": "v.",
+  "english": "to fit",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "example": {
+   "pt": "A mala não cabe no carro.",
+   "en": "The suitcase doesn't fit in the car."
+  }
+ },
+ {
+  "pt": "de repente",
+  "pos": "adv.",
+  "english": "suddenly",
+  "level": 2,
+  "topic": "Time",
+  "example": {
+   "pt": "De repente, começou a chover.",
+   "en": "Suddenly, it started to rain."
+  }
+ },
+ {
+  "pt": "surpresa",
+  "pos": "n.",
+  "english": "surprise",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "forms": [
+   "surpresas"
+  ],
+  "example": {
+   "pt": "Fizemos uma festa surpresa para ela.",
+   "en": "We threw her a surprise party."
+  }
+ },
+ {
+  "pt": "falso",
+  "pos": "adj.",
+  "english": "false, fake",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "falsa",
+   "falsos",
+   "falsas"
+  ],
+  "example": {
+   "pt": "Essa notícia é falsa.",
+   "en": "That news is fake."
+  }
+ },
+ {
+  "pt": "casamento",
+  "pos": "n.",
+  "english": "wedding; marriage",
+  "level": 2,
+  "topic": "People & family",
+  "gender": "m",
+  "forms": [
+   "casamentos"
+  ],
+  "example": {
+   "pt": "O casamento vai ser na praia.",
+   "en": "The wedding will be on the beach."
+  }
+ },
+ {
+  "pt": "desenho",
+  "pos": "n.",
+  "english": "drawing; cartoon",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "m",
+  "forms": [
+   "desenhos"
+  ],
+  "example": {
+   "pt": "Meu filho fez um desenho da casa.",
+   "en": "My son made a drawing of the house."
+  }
+ },
+ {
+  "pt": "porteiro",
+  "pos": "n.",
+  "english": "doorman",
+  "level": 2,
+  "topic": "Daily life & transport",
+  "gender": "m",
+  "forms": [
+   "porteira",
+   "porteiros",
+   "porteiras"
+  ],
+  "example": {
+   "pt": "O porteiro recebeu o pacote.",
+   "en": "The doorman received the package."
+  }
+ },
+ {
+  "pt": "tornar",
+  "pos": "v.",
+  "english": "to make (become); tornar-se = to become",
+  "level": 2,
+  "topic": "Actions",
+  "example": {
+   "pt": "A chuva tornou a viagem difícil.",
+   "en": "The rain made the trip difficult."
+  }
+ },
+ {
+  "pt": "sistema",
+  "pos": "n.",
+  "english": "system",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "sistemas"
+  ],
+  "example": {
+   "pt": "O sistema do banco está fora do ar.",
+   "en": "The bank's system is down."
+  }
+ },
+ {
+  "pt": "causa",
+  "pos": "n.",
+  "english": "cause; por causa de = because of",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "causas"
+  ],
+  "example": {
+   "pt": "Qual é a causa do problema?",
+   "en": "What's the cause of the problem?"
+  }
+ },
+ {
+  "pt": "tela",
+  "pos": "n.",
+  "english": "screen",
+  "level": 2,
+  "topic": "Culture & leisure",
+  "gender": "f",
+  "forms": [
+   "telas"
+  ],
+  "example": {
+   "pt": "A tela do meu celular quebrou.",
+   "en": "My phone screen broke."
+  }
+ }
+]

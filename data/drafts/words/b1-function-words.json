@@ -1,0 +1,794 @@
+[
+ {
+  "pt": "embora",
+  "pos": "conj.",
+  "english": "although, even though",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Embora estivesse cansado, ele foi à festa.",
+   "en": "Although he was tired, he went to the party."
+  }
+ },
+ {
+  "pt": "apesar de",
+  "pos": "prep.",
+  "english": "despite, in spite of",
+  "level": 3,
+  "topic": "Function words",
+  "forms": [
+   "apesar do",
+   "apesar da",
+   "apesar dos",
+   "apesar das"
+  ],
+  "example": {
+   "pt": "Apesar da chuva, o show foi ótimo.",
+   "en": "Despite the rain, the show was great."
+  }
+ },
+ {
+  "pt": "no entanto",
+  "pos": "conj.",
+  "english": "however, nevertheless",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "O hotel era caro; no entanto, valeu a pena.",
+   "en": "The hotel was expensive; however, it was worth it."
+  }
+ },
+ {
+  "pt": "portanto",
+  "pos": "conj.",
+  "english": "therefore, so",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ele não estudou, portanto não passou na prova.",
+   "en": "He didn't study, so he didn't pass the test."
+  }
+ },
+ {
+  "pt": "caso",
+  "pos": "conj.",
+  "english": "in case, if",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Caso você precise de ajuda, me liga.",
+   "en": "If you need help, call me."
+  }
+ },
+ {
+  "pt": "a não ser que",
+  "pos": "conj.",
+  "english": "unless",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Vamos à praia, a não ser que chova.",
+   "en": "We'll go to the beach unless it rains."
+  }
+ },
+ {
+  "pt": "à medida que",
+  "pos": "conj.",
+  "english": "as (gradually), as long as",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "À medida que o tempo passa, fica mais fácil.",
+   "en": "As time goes by, it gets easier."
+  }
+ },
+ {
+  "pt": "quanto a",
+  "pos": "prep.",
+  "english": "as for, as regards",
+  "level": 3,
+  "topic": "Function words",
+  "forms": [
+   "quanto ao",
+   "quanto à",
+   "quanto aos",
+   "quanto às"
+  ],
+  "example": {
+   "pt": "Quanto ao preço, podemos conversar depois.",
+   "en": "As for the price, we can talk later."
+  }
+ },
+ {
+  "pt": "conforme",
+  "pos": "conj./prep.",
+  "english": "according to, as",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Fiz tudo conforme você pediu.",
+   "en": "I did everything as you asked."
+  }
+ },
+ {
+  "pt": "inclusive",
+  "pos": "adv.",
+  "english": "including; even",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Todos vieram, inclusive o meu chefe.",
+   "en": "Everyone came, including my boss."
+  }
+ },
+ {
+  "pt": "aliás",
+  "pos": "adv.",
+  "english": "by the way; actually, in fact",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Aliás, você já falou com a Ana?",
+   "en": "By the way, have you already talked to Ana?"
+  }
+ },
+ {
+  "pt": "ou seja",
+  "pos": "expr.",
+  "english": "that is, in other words",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ele chega na sexta, ou seja, depois de amanhã.",
+   "en": "He arrives on Friday, that is, the day after tomorrow."
+  }
+ },
+ {
+  "pt": "a respeito de",
+  "pos": "prep.",
+  "english": "about, regarding",
+  "level": 3,
+  "topic": "Function words",
+  "forms": [
+   "a respeito do",
+   "a respeito da",
+   "a respeito dos",
+   "a respeito das"
+  ],
+  "example": {
+   "pt": "Precisamos conversar a respeito do contrato.",
+   "en": "We need to talk about the contract."
+  }
+ },
+ {
+  "pt": "contudo",
+  "pos": "conj.",
+  "english": "however, nonetheless",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "O plano é bom; contudo, é muito caro.",
+   "en": "The plan is good; however, it is very expensive."
+  }
+ },
+ {
+  "pt": "entretanto",
+  "pos": "conj./adv.",
+  "english": "however; meanwhile",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu queria ir; entretanto, não tive tempo.",
+   "en": "I wanted to go; however, I didn't have time."
+  }
+ },
+ {
+  "pt": "porém",
+  "pos": "conj.",
+  "english": "but, however",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "O apartamento é pequeno, porém muito confortável.",
+   "en": "The apartment is small, but very comfortable."
+  }
+ },
+ {
+  "pt": "mesmo que",
+  "pos": "conj.",
+  "english": "even if, even though",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Vou sair mesmo que esteja frio.",
+   "en": "I'll go out even if it's cold."
+  }
+ },
+ {
+  "pt": "ainda que",
+  "pos": "conj.",
+  "english": "even though, even if",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ainda que seja difícil, não vou desistir.",
+   "en": "Even though it's hard, I won't give up."
+  }
+ },
+ {
+  "pt": "desde que",
+  "pos": "conj.",
+  "english": "as long as, provided that; since",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Pode usar o carro, desde que devolva amanhã.",
+   "en": "You can use the car as long as you return it tomorrow."
+  }
+ },
+ {
+  "pt": "contanto que",
+  "pos": "conj.",
+  "english": "provided that",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Eu te empresto o livro, contanto que você cuide bem dele.",
+   "en": "I'll lend you the book provided that you take good care of it."
+  }
+ },
+ {
+  "pt": "a menos que",
+  "pos": "conj.",
+  "english": "unless",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Não vou sair a menos que você venha comigo.",
+   "en": "I won't go out unless you come with me."
+  }
+ },
+ {
+  "pt": "para que",
+  "pos": "conj.",
+  "english": "so that",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Falei devagar para que todos entendessem.",
+   "en": "I spoke slowly so that everyone would understand."
+  }
+ },
+ {
+  "pt": "a fim de",
+  "pos": "prep.",
+  "english": "in order to",
+  "level": 3,
+  "topic": "Function words",
+  "forms": [
+   "a fim do",
+   "a fim da",
+   "a fim dos",
+   "a fim das"
+  ],
+  "example": {
+   "pt": "Ele economizou a fim de comprar uma casa.",
+   "en": "He saved money in order to buy a house."
+  }
+ },
+ {
+  "pt": "assim que",
+  "pos": "conj.",
+  "english": "as soon as",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Me avisa assim que chegar em casa.",
+   "en": "Let me know as soon as you get home."
+  }
+ },
+ {
+  "pt": "logo que",
+  "pos": "conj.",
+  "english": "as soon as",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Logo que acordei, liguei para minha mãe.",
+   "en": "As soon as I woke up, I called my mother."
+  }
+ },
+ {
+  "pt": "já que",
+  "pos": "conj.",
+  "english": "since, given that",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Já que você está aqui, me ajuda com isso.",
+   "en": "Since you're here, help me with this."
+  }
+ },
+ {
+  "pt": "visto que",
+  "pos": "conj.",
+  "english": "since, given that",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Visto que ninguém respondeu, vamos começar.",
+   "en": "Since nobody answered, let's start."
+  }
+ },
+ {
+  "pt": "uma vez que",
+  "pos": "conj.",
+  "english": "since, given that",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Uma vez que o voo atrasou, perdemos a conexão.",
+   "en": "Since the flight was delayed, we missed the connection."
+  }
+ },
+ {
+  "pt": "pois",
+  "pos": "conj.",
+  "english": "because, since, for",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Não fui à aula, pois estava doente.",
+   "en": "I didn't go to class because I was sick."
+  }
+ },
+ {
+  "pt": "logo",
+  "pos": "conj.",
+  "english": "so, therefore",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Penso, logo existo.",
+   "en": "I think, therefore I am."
+  }
+ },
+ {
+  "pt": "por mais que",
+  "pos": "conj.",
+  "english": "however much, no matter how much",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Por mais que eu tente, não consigo dormir cedo.",
+   "en": "No matter how much I try, I can't sleep early."
+  }
+ },
+ {
+  "pt": "assim como",
+  "pos": "conj.",
+  "english": "just as, as well as",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Assim como o pai, ele adora futebol.",
+   "en": "Just like his father, he loves soccer."
+  }
+ },
+ {
+  "pt": "senão",
+  "pos": "conj.",
+  "english": "otherwise, or else",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Corre, senão você vai perder o ônibus.",
+   "en": "Run, otherwise you'll miss the bus."
+  }
+ },
+ {
+  "pt": "caso contrário",
+  "pos": "expr.",
+  "english": "otherwise",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Precisamos sair agora; caso contrário, vamos chegar atrasados.",
+   "en": "We need to leave now; otherwise, we'll be late."
+  }
+ },
+ {
+  "pt": "além disso",
+  "pos": "expr.",
+  "english": "besides, moreover",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "O restaurante é barato e, além disso, a comida é ótima.",
+   "en": "The restaurant is cheap and, besides, the food is great."
+  }
+ },
+ {
+  "pt": "além de",
+  "pos": "prep.",
+  "english": "besides, in addition to",
+  "level": 3,
+  "topic": "Function words",
+  "forms": [
+   "além do",
+   "além da",
+   "além dos",
+   "além das"
+  ],
+  "example": {
+   "pt": "Além de trabalhar, ela estuda à noite.",
+   "en": "Besides working, she studies at night."
+  }
+ },
+ {
+  "pt": "em vez de",
+  "pos": "prep.",
+  "english": "instead of",
+  "level": 3,
+  "topic": "Function words",
+  "forms": [
+   "em vez do",
+   "em vez da",
+   "em vez dos",
+   "em vez das"
+  ],
+  "example": {
+   "pt": "Em vez de reclamar, vamos resolver o problema.",
+   "en": "Instead of complaining, let's solve the problem."
+  }
+ },
+ {
+  "pt": "em relação a",
+  "pos": "prep.",
+  "english": "in relation to, regarding",
+  "level": 3,
+  "topic": "Function words",
+  "forms": [
+   "em relação ao",
+   "em relação à",
+   "em relação aos",
+   "em relação às"
+  ],
+  "example": {
+   "pt": "Em relação ao horário, ainda não decidimos nada.",
+   "en": "Regarding the schedule, we haven't decided anything yet."
+  }
+ },
+ {
+  "pt": "de acordo com",
+  "pos": "prep.",
+  "english": "according to",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "De acordo com a previsão, vai chover amanhã.",
+   "en": "According to the forecast, it will rain tomorrow."
+  }
+ },
+ {
+  "pt": "segundo",
+  "pos": "prep.",
+  "english": "according to",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Segundo o jornal, o preço da gasolina vai subir.",
+   "en": "According to the newspaper, the price of gas will go up."
+  }
+ },
+ {
+  "pt": "devido a",
+  "pos": "prep.",
+  "english": "due to, because of",
+  "level": 3,
+  "topic": "Function words",
+  "forms": [
+   "devido ao",
+   "devido à",
+   "devido aos",
+   "devido às"
+  ],
+  "example": {
+   "pt": "O jogo foi cancelado devido à chuva.",
+   "en": "The game was canceled due to the rain."
+  }
+ },
+ {
+  "pt": "graças a",
+  "pos": "prep.",
+  "english": "thanks to",
+  "level": 3,
+  "topic": "Function words",
+  "forms": [
+   "graças ao",
+   "graças à",
+   "graças aos",
+   "graças às"
+  ],
+  "example": {
+   "pt": "Graças a você, consegui o emprego.",
+   "en": "Thanks to you, I got the job."
+  }
+ },
+ {
+  "pt": "através de",
+  "pos": "prep.",
+  "english": "through, by means of",
+  "level": 3,
+  "topic": "Function words",
+  "forms": [
+   "através do",
+   "através da",
+   "através dos",
+   "através das"
+  ],
+  "example": {
+   "pt": "Conheci minha esposa através de um amigo.",
+   "en": "I met my wife through a friend."
+  }
+ },
+ {
+  "pt": "exceto",
+  "pos": "prep.",
+  "english": "except",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "A loja abre todos os dias, exceto domingo.",
+   "en": "The store opens every day except Sunday."
+  }
+ },
+ {
+  "pt": "a partir de",
+  "pos": "prep.",
+  "english": "from, starting from",
+  "level": 3,
+  "topic": "Function words",
+  "forms": [
+   "a partir do",
+   "a partir da",
+   "a partir dos",
+   "a partir das"
+  ],
+  "example": {
+   "pt": "A partir de segunda, vou acordar mais cedo.",
+   "en": "Starting Monday, I'll wake up earlier."
+  }
+ },
+ {
+  "pt": "ao contrário de",
+  "pos": "prep.",
+  "english": "unlike, contrary to",
+  "level": 3,
+  "topic": "Function words",
+  "forms": [
+   "ao contrário do",
+   "ao contrário da",
+   "ao contrário dos",
+   "ao contrário das"
+  ],
+  "example": {
+   "pt": "Ao contrário do irmão, ela é muito tímida.",
+   "en": "Unlike her brother, she is very shy."
+  }
+ },
+ {
+  "pt": "junto com",
+  "pos": "prep.",
+  "english": "together with",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ela foi ao cinema junto com as amigas.",
+   "en": "She went to the movies together with her friends."
+  }
+ },
+ {
+  "pt": "cujo",
+  "pos": "pron.",
+  "english": "whose",
+  "level": 3,
+  "topic": "Function words",
+  "forms": [
+   "cuja",
+   "cujos",
+   "cujas"
+  ],
+  "example": {
+   "pt": "Esse é o autor cujo livro eu te emprestei.",
+   "en": "That's the author whose book I lent you."
+  }
+ },
+ {
+  "pt": "o qual",
+  "pos": "pron.",
+  "english": "which, who (formal)",
+  "level": 3,
+  "topic": "Function words",
+  "forms": [
+   "a qual",
+   "os quais",
+   "as quais"
+  ],
+  "example": {
+   "pt": "Esta é a empresa para a qual eu trabalho.",
+   "en": "This is the company for which I work."
+  }
+ },
+ {
+  "pt": "tal",
+  "pos": "pron./adj.",
+  "english": "such",
+  "level": 3,
+  "topic": "Function words",
+  "forms": [
+   "tais"
+  ],
+  "example": {
+   "pt": "Nunca vi tal coisa na minha vida.",
+   "en": "I've never seen such a thing in my life."
+  }
+ },
+ {
+  "pt": "ambos",
+  "pos": "pron.",
+  "english": "both",
+  "level": 3,
+  "topic": "Function words",
+  "forms": [
+   "ambas"
+  ],
+  "example": {
+   "pt": "Tenho dois irmãos, e ambos moram em Recife.",
+   "en": "I have two brothers, and both live in Recife."
+  }
+ },
+ {
+  "pt": "sequer",
+  "pos": "adv.",
+  "english": "(not) even",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ele saiu sem sequer dizer tchau.",
+   "en": "He left without even saying goodbye."
+  }
+ },
+ {
+  "pt": "apenas",
+  "pos": "adv.",
+  "english": "only, just",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Fiquei apenas dois dias em Salvador.",
+   "en": "I stayed only two days in Salvador."
+  }
+ },
+ {
+  "pt": "sobretudo",
+  "pos": "adv.",
+  "english": "above all, especially",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Gosto de frutas, sobretudo de manga.",
+   "en": "I like fruit, especially mango."
+  }
+ },
+ {
+  "pt": "afinal",
+  "pos": "adv.",
+  "english": "after all; finally",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Afinal, quem vai pagar a conta?",
+   "en": "So, after all, who's going to pay the bill?"
+  }
+ },
+ {
+  "pt": "enfim",
+  "pos": "adv.",
+  "english": "finally; anyway, in short",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Enfim, a gente se fala amanhã.",
+   "en": "Anyway, we'll talk tomorrow."
+  }
+ },
+ {
+  "pt": "pelo menos",
+  "pos": "expr.",
+  "english": "at least",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Durma pelo menos oito horas por noite.",
+   "en": "Sleep at least eight hours a night."
+  }
+ },
+ {
+  "pt": "no máximo",
+  "pos": "expr.",
+  "english": "at most",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "A viagem dura no máximo três horas.",
+   "en": "The trip lasts three hours at most."
+  }
+ },
+ {
+  "pt": "de fato",
+  "pos": "expr.",
+  "english": "in fact, indeed",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "De fato, o filme foi melhor do que o livro.",
+   "en": "In fact, the movie was better than the book."
+  }
+ },
+ {
+  "pt": "na verdade",
+  "pos": "expr.",
+  "english": "actually, in fact",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Na verdade, eu não gosto muito de praia.",
+   "en": "Actually, I don't like the beach very much."
+  }
+ },
+ {
+  "pt": "por outro lado",
+  "pos": "expr.",
+  "english": "on the other hand",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "O trabalho é cansativo; por outro lado, paga bem.",
+   "en": "The job is tiring; on the other hand, it pays well."
+  }
+ },
+ {
+  "pt": "quer dizer",
+  "pos": "expr.",
+  "english": "I mean, that is to say",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ele chega às oito, quer dizer, mais ou menos.",
+   "en": "He arrives at eight, I mean, more or less."
+  }
+ },
+ {
+  "pt": "de qualquer forma",
+  "pos": "expr.",
+  "english": "anyway, in any case",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "De qualquer forma, obrigado pela ajuda.",
+   "en": "Anyway, thanks for the help."
+  }
+ },
+ {
+  "pt": "seja como for",
+  "pos": "expr.",
+  "english": "be that as it may, anyway",
+  "level": 3,
+  "topic": "Function words",
+  "example": {
+   "pt": "Seja como for, precisamos terminar hoje.",
+   "en": "Be that as it may, we need to finish today."
+  }
+ }
+]

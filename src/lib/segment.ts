@@ -14,9 +14,9 @@ export interface Lexicon {
   maxWords: number;
 }
 
-/** The lookup form of a word or phrase: lowercase, composed accents, single spaces. */
+/** The lookup form of a word or phrase: lowercase, composed accents, hyphens as spaces, single spaces. */
 export function lookupForm(text: string): string {
-  return text.normalize("NFC").toLowerCase().trim().replace(/\s+/g, " ");
+  return text.normalize("NFC").toLowerCase().replace(/-/g, " ").trim().replace(/\s+/g, " ");
 }
 
 const wordsIn = (entry: string) => entry.split(" ").length;
@@ -57,10 +57,11 @@ export function segment(text: string, lexicon: Lexicon): Token[] {
       i += 1;
       continue;
     }
-    // Candidate phrases: piece, piece + " " + next word, ... up to maxWords words.
+    // Candidate phrases: piece, piece + " " or "-" + next word, ... up to maxWords words
+    // (fim de semana, guarda-chuva); a hyphenated pair not in the lexicon splits (chama-se).
     const spans: number[] = [i];
     for (let j = i; spans.length < lexicon.maxWords; j += 2) {
-      if (pieces[j + 1] !== " " || !LETTERS.test(pieces[j + 2] ?? "")) break;
+      if ((pieces[j + 1] !== " " && pieces[j + 1] !== "-") || !LETTERS.test(pieces[j + 2] ?? "")) break;
       spans.push(j + 2);
     }
     let matched = false;

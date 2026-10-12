@@ -1,0 +1,455 @@
+[
+ {
+  "pt": "corpo",
+  "pos": "n.",
+  "english": "body",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "corpos"
+  ],
+  "example": {
+   "pt": "O corpo humano é incrível.",
+   "en": "The human body is amazing."
+  }
+ },
+ {
+  "pt": "cabeça",
+  "pos": "n.",
+  "english": "head",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "cabeças"
+  ],
+  "example": {
+   "pt": "Minha cabeça está doendo.",
+   "en": "My head hurts."
+  }
+ },
+ {
+  "pt": "olho",
+  "pos": "n.",
+  "english": "eye",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "olhos"
+  ],
+  "example": {
+   "pt": "Ela tem olhos verdes.",
+   "en": "She has green eyes."
+  }
+ },
+ {
+  "pt": "boca",
+  "pos": "n.",
+  "english": "mouth",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "bocas"
+  ],
+  "example": {
+   "pt": "Abra a boca, por favor.",
+   "en": "Open your mouth, please."
+  }
+ },
+ {
+  "pt": "nariz",
+  "pos": "n.",
+  "english": "nose",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "narizes"
+  ],
+  "example": {
+   "pt": "Meu nariz está vermelho.",
+   "en": "My nose is red."
+  }
+ },
+ {
+  "pt": "orelha",
+  "pos": "n.",
+  "english": "ear",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "orelhas"
+  ],
+  "example": {
+   "pt": "O cachorro tem orelhas grandes.",
+   "en": "The dog has big ears."
+  }
+ },
+ {
+  "pt": "cabelo",
+  "pos": "n.",
+  "english": "hair",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "cabelos"
+  ],
+  "example": {
+   "pt": "Ela tem o cabelo comprido.",
+   "en": "She has long hair."
+  }
+ },
+ {
+  "pt": "rosto",
+  "pos": "n.",
+  "english": "face",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "rostos"
+  ],
+  "example": {
+   "pt": "Lave o rosto com água fria.",
+   "en": "Wash your face with cold water."
+  }
+ },
+ {
+  "pt": "mão",
+  "pos": "n.",
+  "english": "hand",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "mãos"
+  ],
+  "example": {
+   "pt": "Lave as mãos antes de comer.",
+   "en": "Wash your hands before eating."
+  }
+ },
+ {
+  "pt": "braço",
+  "pos": "n.",
+  "english": "arm",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "braços"
+  ],
+  "example": {
+   "pt": "Ele quebrou o braço.",
+   "en": "He broke his arm."
+  }
+ },
+ {
+  "pt": "perna",
+  "pos": "n.",
+  "english": "leg",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "pernas"
+  ],
+  "example": {
+   "pt": "Minhas pernas estão cansadas.",
+   "en": "My legs are tired."
+  }
+ },
+ {
+  "pt": "pé",
+  "pos": "n.",
+  "english": "foot",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "pés"
+  ],
+  "example": {
+   "pt": "Eu vou a pé para a escola.",
+   "en": "I go to school on foot."
+  }
+ },
+ {
+  "pt": "dedo",
+  "pos": "n.",
+  "english": "finger; toe",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "dedos"
+  ],
+  "example": {
+   "pt": "A criança tem cinco dedos em cada mão.",
+   "en": "The child has five fingers on each hand."
+  }
+ },
+ {
+  "pt": "dente",
+  "pos": "n.",
+  "english": "tooth",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "dentes"
+  ],
+  "example": {
+   "pt": "Eu escovo os dentes de manhã.",
+   "en": "I brush my teeth in the morning."
+  }
+ },
+ {
+  "pt": "barriga",
+  "pos": "n.",
+  "english": "belly, stomach",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "barrigas"
+  ],
+  "example": {
+   "pt": "Estou com dor de barriga.",
+   "en": "I have a stomachache."
+  }
+ },
+ {
+  "pt": "costas",
+  "pos": "n.",
+  "english": "back (of the body)",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "f",
+  "example": {
+   "pt": "Minhas costas doem.",
+   "en": "My back hurts."
+  }
+ },
+ {
+  "pt": "coração",
+  "pos": "n.",
+  "english": "heart",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "corações"
+  ],
+  "example": {
+   "pt": "O coração dele está bem.",
+   "en": "His heart is fine."
+  }
+ },
+ {
+  "pt": "saúde",
+  "pos": "n.",
+  "english": "health",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "saúdes"
+  ],
+  "example": {
+   "pt": "A saúde é muito importante.",
+   "en": "Health is very important."
+  }
+ },
+ {
+  "pt": "dor",
+  "pos": "n.",
+  "english": "pain, ache",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "dores"
+  ],
+  "example": {
+   "pt": "Sinto uma dor no pé.",
+   "en": "I feel a pain in my foot."
+  }
+ },
+ {
+  "pt": "dor de cabeça",
+  "pos": "n.",
+  "english": "headache",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "dores de cabeça"
+  ],
+  "example": {
+   "pt": "Estou com dor de cabeça hoje.",
+   "en": "I have a headache today."
+  }
+ },
+ {
+  "pt": "febre",
+  "pos": "n.",
+  "english": "fever",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "febres"
+  ],
+  "example": {
+   "pt": "A criança está com febre.",
+   "en": "The child has a fever."
+  }
+ },
+ {
+  "pt": "gripe",
+  "pos": "n.",
+  "english": "flu",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "gripes"
+  ],
+  "example": {
+   "pt": "Eu estou com gripe.",
+   "en": "I have the flu."
+  }
+ },
+ {
+  "pt": "remédio",
+  "pos": "n.",
+  "english": "medicine",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "remédios"
+  ],
+  "example": {
+   "pt": "Tome este remédio duas vezes por dia.",
+   "en": "Take this medicine twice a day."
+  }
+ },
+ {
+  "pt": "médico",
+  "pos": "n.",
+  "english": "doctor",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "médica",
+   "médicos",
+   "médicas"
+  ],
+  "example": {
+   "pt": "Eu vou ao médico amanhã.",
+   "en": "I am going to the doctor tomorrow."
+  }
+ },
+ {
+  "pt": "hospital",
+  "pos": "n.",
+  "english": "hospital",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "m",
+  "forms": [
+   "hospitais"
+  ],
+  "example": {
+   "pt": "O hospital fica perto daqui.",
+   "en": "The hospital is near here."
+  }
+ },
+ {
+  "pt": "farmácia",
+  "pos": "n.",
+  "english": "pharmacy, drugstore",
+  "level": 1,
+  "topic": "Body & health",
+  "gender": "f",
+  "forms": [
+   "farmácias"
+  ],
+  "example": {
+   "pt": "A farmácia abre às oito.",
+   "en": "The pharmacy opens at eight."
+  }
+ },
+ {
+  "pt": "doente",
+  "pos": "adj.",
+  "english": "sick, ill",
+  "level": 1,
+  "topic": "Body & health",
+  "forms": [
+   "doentes"
+  ],
+  "example": {
+   "pt": "Hoje eu estou doente.",
+   "en": "Today I am sick."
+  }
+ },
+ {
+  "pt": "saudável",
+  "pos": "adj.",
+  "english": "healthy",
+  "level": 1,
+  "topic": "Body & health",
+  "forms": [
+   "saudáveis"
+  ],
+  "example": {
+   "pt": "Frutas são saudáveis.",
+   "en": "Fruit is healthy."
+  }
+ },
+ {
+  "pt": "doer",
+  "pos": "v.",
+  "english": "to hurt, to ache",
+  "level": 1,
+  "topic": "Body & health",
+  "example": {
+   "pt": "Meu braço dói.",
+   "en": "My arm hurts."
+  }
+ },
+ {
+  "pt": "descansar",
+  "pos": "v.",
+  "english": "to rest",
+  "level": 1,
+  "topic": "Body & health",
+  "example": {
+   "pt": "Você precisa descansar.",
+   "en": "You need to rest."
+  }
+ },
+ {
+  "pt": "melhor",
+  "pos": "adj./adv.",
+  "english": "better",
+  "level": 1,
+  "topic": "Body & health",
+  "forms": [
+   "melhores"
+  ],
+  "example": {
+   "pt": "Hoje eu estou melhor.",
+   "en": "Today I am better."
+  }
+ }
+]

@@ -32,6 +32,7 @@ export const MistakeSchema = z.object({
 export const SettingsSchema = z.object({
   autoplayAudio: z.boolean(),
   typeAnswers: z.boolean(),
+  includeB1B2: z.boolean().default(false),
 });
 
 const StorySchema = z.custom<Story>((value) => {

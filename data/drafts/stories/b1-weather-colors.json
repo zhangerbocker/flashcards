@@ -1,0 +1,505 @@
+[
+ {
+  "id": "b1-weather-colors-1",
+  "level": 3,
+  "topic": "Weather & colors",
+  "title": "A festa no jardim",
+  "titleEn": "The party in the garden",
+  "sentences": [
+   {
+    "pt": "Mariana queria fazer uma festa surpresa para os sessenta anos do pai, em Curitiba.",
+    "en": "Mariana wanted to throw a surprise party for her father's sixtieth birthday, in Curitiba.",
+    "glosses": {
+     "queria": "wanted",
+     "do": "of her"
+    }
+   },
+   {
+    "pt": "Ela tinha escolhido o jardim da casa da avó, que é cheio de flores e árvores.",
+    "en": "She had chosen her grandmother's garden, which is full of flowers and trees.",
+    "glosses": {
+     "tinha escolhido": "had chosen",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Durante duas semanas, arrumou tudo com muito cuidado.",
+    "en": "For two weeks, she got everything ready very carefully.",
+    "glosses": {
+     "arrumou": "got ready"
+    }
+   },
+   {
+    "pt": "Comprou toalhas amarelas e vermelhas para as mesas e muitas flores roxas e brancas.",
+    "en": "She bought yellow and red tablecloths for the tables and lots of purple and white flowers.",
+    "glosses": {
+     "Comprou": "she bought",
+     "toalhas": "tablecloths"
+    }
+   },
+   {
+    "pt": "Todo mundo sabe que o clima de Curitiba muda muito rápido.",
+    "en": "Everyone knows that the weather in Curitiba changes very fast.",
+    "glosses": {
+     "Todo mundo": "everyone",
+     "sabe": "knows",
+     "muda": "changes"
+    }
+   },
+   {
+    "pt": "Na véspera da festa, Mariana viu a previsão do tempo na televisão.",
+    "en": "On the eve of the party, Mariana watched the weather forecast on TV.",
+    "glosses": {
+     "Na": "on the",
+     "da": "of the",
+     "viu": "watched",
+     "na": "on the"
+    }
+   },
+   {
+    "pt": "O jornal anunciou garoa de manhã e uma tempestade forte à tarde, com raios e trovões.",
+    "en": "The news announced drizzle in the morning and a strong storm in the afternoon, with lightning and thunder.",
+    "glosses": {
+     "jornal": "news",
+     "anunciou": "announced",
+     "raios": "lightning bolts"
+    }
+   },
+   {
+    "pt": "O irmão dela, Lucas, ligou preocupado.",
+    "en": "Her brother, Lucas, called, worried.",
+    "glosses": {
+     "dela": "her",
+     "ligou": "called"
+    }
+   },
+   {
+    "pt": "— Talvez seja melhor fazer a festa dentro de casa.",
+    "en": "\"Maybe it's better to have the party inside the house.\"",
+    "glosses": {
+     "seja": "it is"
+    }
+   },
+   {
+    "pt": "Mariana não concordou, porque a sala era pequena e escura.",
+    "en": "Mariana didn't agree, because the living room was small and dark.",
+    "glosses": {
+     "concordou": "agreed",
+     "era": "was"
+    }
+   },
+   {
+    "pt": "— A previsão nem sempre está certa. Espero que o céu fique azul amanhã.",
+    "en": "\"The forecast isn't always right. I hope the sky is blue tomorrow.\"",
+    "glosses": {
+     "está": "is",
+     "Espero": "I hope",
+     "fique": "is"
+    }
+   },
+   {
+    "pt": "No sábado, o dia amanheceu nublado e cinza, mas não estava chovendo.",
+    "en": "On Saturday, the day dawned cloudy and gray, but it wasn't raining.",
+    "glosses": {
+     "No": "on",
+     "amanheceu": "dawned",
+     "estava chovendo": "was raining"
+    }
+   },
+   {
+    "pt": "Os convidados chegaram ao meio-dia, e o pai ficou muito emocionado com a surpresa.",
+    "en": "The guests arrived at noon, and her father was very moved by the surprise.",
+    "glosses": {
+     "convidados": "guests",
+     "chegaram": "arrived",
+     "ao": "at",
+     "ficou": "was"
+    }
+   },
+   {
+    "pt": "Todos comeram, conversaram e dançaram no jardim colorido.",
+    "en": "Everyone ate, talked and danced in the colorful garden.",
+    "glosses": {
+     "comeram": "ate",
+     "conversaram": "talked",
+     "dançaram": "danced",
+     "no": "in the"
+    }
+   },
+   {
+    "pt": "Às três horas, porém, o céu ficou escuro de repente e começou a ventar muito.",
+    "en": "At three o'clock, however, the sky suddenly turned dark and it started to get very windy.",
+    "glosses": {
+     "Às": "at",
+     "ficou": "turned",
+     "começou": "started"
+    }
+   },
+   {
+    "pt": "Logo depois veio a chuva, com granizo e relâmpagos.",
+    "en": "Soon after came the rain, with hail and lightning.",
+    "glosses": {
+     "veio": "came"
+    }
+   },
+   {
+    "pt": "Todo mundo correu para a sala, levando pratos, copos e cadeiras.",
+    "en": "Everyone ran to the living room, carrying plates, glasses and chairs.",
+    "glosses": {
+     "correu": "ran",
+     "levando": "carrying"
+    }
+   },
+   {
+    "pt": "As toalhas amarelas ficaram encharcadas, e o bolo quase caiu da mesa.",
+    "en": "The yellow tablecloths got soaked, and the cake almost fell off the table.",
+    "glosses": {
+     "ficaram": "got",
+     "caiu": "fell",
+     "da": "off the"
+    }
+   },
+   {
+    "pt": "Mariana estava frustrada, mas o pai começou a rir.",
+    "en": "Mariana was frustrated, but her father started to laugh.",
+    "glosses": {
+     "estava": "was",
+     "começou": "started"
+    }
+   },
+   {
+    "pt": "— Esta é a festa mais divertida da minha vida!",
+    "en": "\"This is the most fun party of my life!\"",
+    "glosses": {
+     "é": "is",
+     "da": "of"
+    }
+   },
+   {
+    "pt": "Na sala pequena, as pessoas ficaram mais perto e cantaram com o pai.",
+    "en": "In the small room, people got closer and sang with her father.",
+    "glosses": {
+     "ficaram": "got",
+     "cantaram": "sang"
+    }
+   },
+   {
+    "pt": "Uma hora depois, a tempestade passou, e o sol saiu entre as nuvens.",
+    "en": "An hour later, the storm passed, and the sun came out between the clouds.",
+    "glosses": {
+     "depois": "later",
+     "passou": "passed",
+     "saiu": "came out"
+    }
+   },
+   {
+    "pt": "O céu ficou azul de novo, e as folhas das árvores estavam verdes e molhadas.",
+    "en": "The sky turned blue again, and the leaves on the trees were green and wet.",
+    "glosses": {
+     "ficou": "turned",
+     "de novo": "again",
+     "das": "of the",
+     "estavam": "were"
+    }
+   },
+   {
+    "pt": "Todos voltaram para o jardim para tirar fotos.",
+    "en": "Everyone went back to the garden to take photos.",
+    "glosses": {
+     "voltaram": "went back"
+    }
+   },
+   {
+    "pt": "Mariana percebeu que a chuva tinha deixado a festa ainda mais alegre.",
+    "en": "Mariana realized that the rain had made the party even more joyful.",
+    "glosses": {
+     "percebeu": "realized",
+     "tinha deixado": "had made"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Por que Mariana não queria fazer a festa na sala?",
+    "qEn": "Why didn't Mariana want to have the party in the living room?",
+    "options": [
+     "Era pequena e escura",
+     "Era muito cara",
+     "Estava suja",
+     "Era longe"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "O que aconteceu às três horas?",
+    "qEn": "What happened at three o'clock?",
+    "options": [
+     "O pai chegou",
+     "Começou uma tempestade",
+     "O bolo acabou",
+     "A avó chegou"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Como o pai se sentiu?",
+    "qEn": "How did the father feel?",
+    "options": [
+     "Irritado",
+     "Triste",
+     "Feliz",
+     "Cansado"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "b1-weather-colors-2",
+  "level": 3,
+  "topic": "Weather & colors",
+  "title": "A cor da casa",
+  "titleEn": "The color of the house",
+  "sentences": [
+   {
+    "pt": "Seu Antônio pinta casas em Paraty há mais de trinta anos.",
+    "en": "Seu Antônio has been painting houses in Paraty for more than thirty years.",
+    "glosses": {
+     "pinta": "has been painting",
+     "há": "for"
+    }
+   },
+   {
+    "pt": "Ele conhece bem o clima da cidade: quente, úmido e com muita chuva no verão.",
+    "en": "He knows the town's climate well: hot, humid and with lots of rain in the summer.",
+    "glosses": {
+     "conhece": "knows",
+     "da": "of the",
+     "no": "in the"
+    }
+   },
+   {
+    "pt": "Um dia, um casal de São Paulo comprou uma casa antiga perto do mar.",
+    "en": "One day, a couple from São Paulo bought an old house near the sea.",
+    "glosses": {
+     "comprou": "bought",
+     "do": "the"
+    }
+   },
+   {
+    "pt": "A mulher, Beatriz, chamou Seu Antônio para pintar a casa.",
+    "en": "The wife, Beatriz, asked Seu Antônio to paint the house.",
+    "glosses": {
+     "chamou": "called"
+    }
+   },
+   {
+    "pt": "— Eu quero tudo cinza escuro, com as janelas pretas. É muito moderno.",
+    "en": "\"I want everything dark gray, with black windows. It's very modern.\"",
+    "glosses": {
+     "quero": "want",
+     "É": "it's"
+    }
+   },
+   {
+    "pt": "Seu Antônio ficou quieto e olhou para o céu.",
+    "en": "Seu Antônio went quiet and looked at the sky.",
+    "glosses": {
+     "ficou": "went",
+     "olhou": "looked"
+    }
+   },
+   {
+    "pt": "— A senhora tem certeza? Aqui o sol é muito forte. Uma casa escura vai ficar muito quente.",
+    "en": "\"Are you sure? The sun here is very strong. A dark house is going to get very hot.\"",
+    "glosses": {
+     "senhora": "you (formal)",
+     "tem certeza": "are you sure",
+     "vai ficar": "is going to get"
+    }
+   },
+   {
+    "pt": "Ele explicou também que, com a umidade, a tinta escura ia ficar desbotada em pouco tempo.",
+    "en": "He also explained that, with the humidity, the dark paint would fade in a short time.",
+    "glosses": {
+     "explicou": "explained",
+     "ia ficar": "would become",
+     "desbotada": "faded"
+    }
+   },
+   {
+    "pt": "Beatriz ficou irritada. Achava que ele não entendia nada de casas modernas.",
+    "en": "Beatriz got irritated. She thought he knew nothing about modern houses.",
+    "glosses": {
+     "ficou": "got",
+     "Achava": "she thought",
+     "entendia": "understood"
+    }
+   },
+   {
+    "pt": "— Eu pago, e eu escolho a cor — disse ela.",
+    "en": "\"I'm paying, and I choose the color,\" she said.",
+    "glosses": {
+     "pago": "pay",
+     "escolho": "choose",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Seu Antônio não disse mais nada e começou o trabalho.",
+    "en": "Seu Antônio said nothing more and started the job.",
+    "glosses": {
+     "disse": "said",
+     "começou": "started"
+    }
+   },
+   {
+    "pt": "Naquele verão, porém, veio uma onda de calor muito forte.",
+    "en": "That summer, however, a very strong heat wave came.",
+    "glosses": {
+     "Naquele": "that",
+     "veio": "came"
+    }
+   },
+   {
+    "pt": "Durante três semanas, a temperatura passou de 38 graus.",
+    "en": "For three weeks, the temperature went over 38 degrees.",
+    "glosses": {
+     "passou de": "went over"
+    }
+   },
+   {
+    "pt": "Dentro da casa cinza, o ar estava abafado, e ninguém conseguia dormir.",
+    "en": "Inside the gray house, the air was stuffy, and nobody could sleep.",
+    "glosses": {
+     "da": "the",
+     "estava": "was",
+     "conseguia": "could"
+    }
+   },
+   {
+    "pt": "O casal ligava o ar frio o dia inteiro, e a conta de luz chegou muito alta.",
+    "en": "The couple ran the cold air all day, and the electricity bill came very high.",
+    "glosses": {
+     "ligava": "ran",
+     "ar frio": "cold air",
+     "chegou": "came"
+    }
+   },
+   {
+    "pt": "Depois veio a época das chuvas, e a tinta cinza logo ficou desbotada e feia.",
+    "en": "Then came the rainy season, and the gray paint soon became faded and ugly.",
+    "glosses": {
+     "veio": "came",
+     "das chuvas": "of the rains",
+     "ficou": "became"
+    }
+   },
+   {
+    "pt": "No fim do ano, Beatriz ligou para Seu Antônio, um pouco envergonhada.",
+    "en": "At the end of the year, Beatriz called Seu Antônio, a little embarrassed.",
+    "glosses": {
+     "No fim do": "at the end of the",
+     "ligou": "called"
+    }
+   },
+   {
+    "pt": "— O senhor estava certo. O que o senhor acha que devemos fazer?",
+    "en": "\"You were right. What do you think we should do?\"",
+    "glosses": {
+     "senhor": "you (formal)",
+     "estava certo": "were right",
+     "acha": "think",
+     "devemos": "should"
+    }
+   },
+   {
+    "pt": "Ele disse que um branco suave ia deixar a casa menos quente.",
+    "en": "He said that a soft white would make the house less hot.",
+    "glosses": {
+     "disse": "said",
+     "ia deixar": "would make"
+    }
+   },
+   {
+    "pt": "— E, para ter uma cor forte, a gente pode pintar a porta de turquesa.",
+    "en": "\"And to have a bold color, we can paint the door turquoise.\"",
+    "glosses": {
+     "a gente": "we",
+     "pode": "can",
+     "forte": "bold"
+    }
+   },
+   {
+    "pt": "Beatriz gostou muito da opinião dele.",
+    "en": "Beatriz really liked his opinion.",
+    "glosses": {
+     "gostou": "liked",
+     "da": "the",
+     "dele": "his"
+    }
+   },
+   {
+    "pt": "Em março, o trabalho terminou: a casa estava branca, com a porta turquesa e as janelas azuis.",
+    "en": "In March, the job was finished: the house was white, with a turquoise door and blue windows.",
+    "glosses": {
+     "terminou": "finished",
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "Agora as pessoas param na rua para tirar fotos da casa.",
+    "en": "Now people stop in the street to take photos of the house.",
+    "glosses": {
+     "param": "stop",
+     "na": "in the",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "E Seu Antônio sempre diz: em Paraty, quem escolhe a cor é o sol.",
+    "en": "And Seu Antônio always says: in Paraty, it's the sun that chooses the color.",
+    "glosses": {
+     "diz": "says",
+     "é": "is",
+     "quem escolhe": "who chooses"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Que cor Beatriz queria no começo?",
+    "qEn": "What color did Beatriz want at first?",
+    "options": [
+     "Branco",
+     "Cinza escuro",
+     "Turquesa",
+     "Amarelo"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "O que aconteceu no verão?",
+    "qEn": "What happened in the summer?",
+    "options": [
+     "Nevou",
+     "Veio uma onda de calor",
+     "Choveu pouco",
+     "Fez frio"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "De que cor ficou a porta?",
+    "qEn": "What color did the door end up?",
+    "options": [
+     "Turquesa",
+     "Preta",
+     "Vermelha",
+     "Cinza"
+    ],
+    "answer": 0
+   }
+  ]
+ }
+]

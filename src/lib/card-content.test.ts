@@ -1,8 +1,10 @@
 import { describe, expect, it } from "vitest";
 import { cardContent } from "./card-content";
 import type { Deck } from "./deck";
+import { regularForms } from "./verbs";
 
 const DECK: Deck = {
+  levels: [1, 2, 3, 4],
   words: [
     {
       id: 1,
@@ -42,16 +44,7 @@ const DECK: Deck = {
     },
   ],
   verbs: [
-    {
-      wordId: 2,
-      infinitive: "falar",
-      irregular: false,
-      tenses: {
-        presente: ["falo", "fala", "falamos", "falam"],
-        preterito: ["falei", "falou", "falamos", "falaram"],
-        imperfeito: ["falava", "falava", "falávamos", "falavam"],
-      },
-    },
+    { wordId: 2, infinitive: "falar", irregular: false, ...regularForms("falar")! },
   ],
   mistakes: [{ id: "m1", wrong: "Eu é cansada.", right: "Eu estou cansada.", reason: "Use estar for states.", createdAt: "x" }],
 };
@@ -64,6 +57,12 @@ describe("cardContent", () => {
   it("expects a noun with its article, also accepting it without", () => {
     expect(cardContent("w:1:p", DECK)?.answer).toEqual({ pt: "a casa", alternatives: ["casa"] });
     expect(cardContent("w:2:p", DECK)?.answer).toEqual({ pt: "falar", alternatives: [] });
+  });
+
+  it("gives a verb's word card its conjugation table", () => {
+    const card = cardContent("w:2:r", DECK);
+    expect(card?.kind === "word" && card.verb?.tenses.preterito).toEqual(["falei", "falou", "falamos", "falaram"]);
+    expect(cardContent("w:1:r", DECK)).not.toHaveProperty("verb");
   });
 
   it("reads nouns aloud with their article", () => {
@@ -93,10 +92,17 @@ describe("cardContent", () => {
     expect(card?.audio).toEqual({ back: "você falou" });
   });
 
+  it("cues subjunctive drills with que / se / quando and rates them at the tense's level", () => {
+    const card = cardContent("v:2-subjimperfeito-0:p", DECK);
+    expect(card).toMatchObject({ form: "falasse", level: 4 });
+    expect(card?.answer?.alternatives).toContain("se eu falasse");
+    expect(card?.audio).toEqual({ back: "se eu falasse" });
+  });
+
   it("returns null for content that no longer exists", () => {
     expect(cardContent("w:99:r", DECK)).toBeNull();
     expect(cardContent("g:gone:u", DECK)).toBeNull();
     expect(cardContent("v:9-presente-0:p", DECK)).toBeNull();
-    expect(cardContent("v:2-futuro-0:p", DECK)).toBeNull();
+    expect(cardContent("v:2-futurox-0:p", DECK)).toBeNull();
   });
 });

@@ -1,0 +1,417 @@
+[
+ {
+  "id": "a2-nature-environment-1",
+  "level": 2,
+  "topic": "Nature & environment",
+  "title": "A trilha da cachoeira",
+  "titleEn": "The waterfall trail",
+  "sentences": [
+   {
+    "pt": "No feriado, Rodrigo e Letícia viajaram para uma fazenda em Minas Gerais.",
+    "en": "On the holiday, Rodrigo and Letícia traveled to a farm in Minas Gerais.",
+    "glosses": {
+     "no": "on the",
+     "viajaram": "traveled"
+    }
+   },
+   {
+    "pt": "Perto da fazenda, tem uma trilha até uma cachoeira.",
+    "en": "Near the farm, there's a trail to a waterfall.",
+    "glosses": {
+     "da": "the",
+     "tem": "there is",
+     "até": "to"
+    }
+   },
+   {
+    "pt": "Eles saíram cedo, com água, frutas e pão de queijo na mochila.",
+    "en": "They left early, with water, fruit and cheese bread in the backpack.",
+    "glosses": {
+     "saíram": "left",
+     "na": "in the"
+    }
+   },
+   {
+    "pt": "A trilha passava por uma floresta muito verde.",
+    "en": "The trail went through a very green forest.",
+    "glosses": {
+     "passava": "went",
+     "por": "through"
+    }
+   },
+   {
+    "pt": "Eles ouviam os pássaros cantando nas árvores.",
+    "en": "They could hear the birds singing in the trees.",
+    "glosses": {
+     "ouviam": "could hear",
+     "cantando": "singing",
+     "nas": "in the"
+    }
+   },
+   {
+    "pt": "Em um lugar, eles viram flores amarelas e roxas.",
+    "en": "In one place, they saw yellow and purple flowers.",
+    "glosses": {
+     "viram": "saw"
+    }
+   },
+   {
+    "pt": "Depois, Letícia parou e ficou quieta.",
+    "en": "Then Letícia stopped and stood still.",
+    "glosses": {
+     "depois": "then",
+     "parou": "stopped",
+     "ficou": "stood",
+     "quieta": "still"
+    }
+   },
+   {
+    "pt": "Tinha uma cobra pequena em cima de uma pedra!",
+    "en": "There was a small snake on top of a rock!",
+    "glosses": {
+     "tinha": "there was"
+    }
+   },
+   {
+    "pt": "Os dois ficaram assustados, mas a cobra não se mexeu, e eles passaram longe dela.",
+    "en": "The two of them got scared, but the snake didn't move, and they passed far from it.",
+    "glosses": {
+     "ficaram": "got",
+     "mexeu": "moved",
+     "passaram": "passed",
+     "dela": "from it"
+    }
+   },
+   {
+    "pt": "Depois de uma hora, eles chegaram à cachoeira.",
+    "en": "After an hour, they got to the waterfall.",
+    "glosses": {
+     "chegaram": "got",
+     "à": "to the"
+    }
+   },
+   {
+    "pt": "A água era fria e muito limpa.",
+    "en": "The water was cold and very clean.",
+    "glosses": {
+     "era": "was"
+    }
+   },
+   {
+    "pt": "Rodrigo pulou no lago embaixo da cachoeira.",
+    "en": "Rodrigo jumped into the pool under the waterfall.",
+    "glosses": {
+     "pulou": "jumped",
+     "no": "into the",
+     "lago": "pool, lake",
+     "da": "the"
+    }
+   },
+   {
+    "pt": "Letícia sentou numa pedra e olhou a paisagem.",
+    "en": "Letícia sat on a rock and looked at the scenery.",
+    "glosses": {
+     "sentou": "sat",
+     "numa": "on a",
+     "olhou": "looked at"
+    }
+   },
+   {
+    "pt": "Mas ela viu garrafas e lixo perto do lago.",
+    "en": "But she saw bottles and trash near the pool.",
+    "glosses": {
+     "viu": "saw",
+     "do": "the",
+     "lago": "pool, lake"
+    }
+   },
+   {
+    "pt": "\"Que pena! Algumas pessoas não protegem a natureza\", ela disse.",
+    "en": "\"What a pity! Some people don't protect nature,\" she said.",
+    "glosses": {
+     "algumas": "some",
+     "protegem": "protect",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Os dois decidiram pegar o lixo e colocar na mochila.",
+    "en": "The two of them decided to pick up the trash and put it in the backpack.",
+    "glosses": {
+     "decidiram": "decided",
+     "pegar": "pick up",
+     "na": "in the"
+    }
+   },
+   {
+    "pt": "Na fazenda, eles jogaram as garrafas no lixo de reciclagem.",
+    "en": "At the farm, they threw the bottles in the recycling bin.",
+    "glosses": {
+     "na": "at the",
+     "jogaram": "threw",
+     "no": "in the",
+     "lixo": "bin (trash)"
+    }
+   },
+   {
+    "pt": "O senhor da fazenda disse: \"Muito obrigado! Vocês cuidaram do nosso meio ambiente.\"",
+    "en": "The man from the farm said: \"Thank you very much! You took care of our environment.\"",
+    "glosses": {
+     "senhor": "gentleman",
+     "da": "from the",
+     "disse": "said",
+     "cuidaram": "took care"
+    }
+   },
+   {
+    "pt": "Para Rodrigo e Letícia, essa foi a melhor viagem do ano.",
+    "en": "For Rodrigo and Letícia, that was the best trip of the year.",
+    "glosses": {
+     "foi": "was",
+     "melhor": "best",
+     "do": "of the"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Onde Rodrigo e Letícia passaram o feriado?",
+    "qEn": "Where did Rodrigo and Letícia spend the holiday?",
+    "options": [
+     "Numa praia",
+     "Numa fazenda",
+     "Num hotel em Lisboa",
+     "Na cidade"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Que animal eles viram na pedra?",
+    "qEn": "What animal did they see on the rock?",
+    "options": [
+     "Um gato",
+     "Um cavalo",
+     "Uma cobra",
+     "Uma vaca"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "O que eles fizeram com o lixo?",
+    "qEn": "What did they do with the trash?",
+    "options": [
+     "Deixaram no lago",
+     "Colocaram na mochila",
+     "Jogaram no rio",
+     "Deram para um amigo"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "a2-nature-environment-2",
+  "level": 2,
+  "topic": "Nature & environment",
+  "title": "O jardim da escola",
+  "titleEn": "The school garden",
+  "sentences": [
+   {
+    "pt": "A escola do Pedro fica em São Paulo, perto de uma avenida cheia de carros.",
+    "en": "Pedro's school is in São Paulo, near an avenue full of cars.",
+    "glosses": {
+     "do": "of",
+     "fica": "is located"
+    }
+   },
+   {
+    "pt": "Pedro tem dez anos e adora animais e plantas.",
+    "en": "Pedro is ten years old and loves animals and plants.",
+    "glosses": {
+     "tem": "is (has)",
+     "adora": "loves"
+    }
+   },
+   {
+    "pt": "Um dia, a professora Beatriz falou sobre a poluição na cidade.",
+    "en": "One day, the teacher Beatriz talked about the pollution in the city.",
+    "glosses": {
+     "professora": "teacher (f)",
+     "falou": "talked",
+     "na": "in the"
+    }
+   },
+   {
+    "pt": "\"O ar da cidade está sujo por causa dos carros\", ela explicou.",
+    "en": "\"The city's air is dirty because of the cars,\" she explained.",
+    "glosses": {
+     "da": "of the",
+     "está": "is",
+     "dos": "of the",
+     "explicou": "explained"
+    }
+   },
+   {
+    "pt": "\"Mas a gente pode ajudar o planeta\", ela disse.",
+    "en": "\"But we can help the planet,\" she said.",
+    "glosses": {
+     "pode": "can",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Os alunos decidiram fazer um projeto: um jardim na escola.",
+    "en": "The students decided to do a project: a garden at the school.",
+    "glosses": {
+     "decidiram": "decided",
+     "na": "at the"
+    }
+   },
+   {
+    "pt": "Primeiro, eles limparam um lugar atrás da escola, cheio de lixo e pedras.",
+    "en": "First, they cleaned a spot behind the school, full of trash and stones.",
+    "glosses": {
+     "limparam": "cleaned",
+     "lugar": "spot",
+     "da": "the"
+    }
+   },
+   {
+    "pt": "Depois, os pais trouxeram terra, flores e árvores pequenas.",
+    "en": "Then, the parents brought soil, flowers and small trees.",
+    "glosses": {
+     "depois": "then",
+     "pais": "parents",
+     "trouxeram": "brought",
+     "terra": "soil"
+    }
+   },
+   {
+    "pt": "No sábado, as crianças e os pais plantaram tudo.",
+    "en": "On Saturday, the children and the parents planted everything.",
+    "glosses": {
+     "no": "on",
+     "pais": "parents",
+     "plantaram": "planted"
+    }
+   },
+   {
+    "pt": "Pedro plantou uma árvore ao lado da porta.",
+    "en": "Pedro planted a tree next to the door.",
+    "glosses": {
+     "plantou": "planted",
+     "da": "the"
+    }
+   },
+   {
+    "pt": "A turma também começou a reciclar papel e garrafas.",
+    "en": "The class also started to recycle paper and bottles.",
+    "glosses": {
+     "começou": "started"
+    }
+   },
+   {
+    "pt": "Cada semana, um aluno cuidava das plantas e dava água para elas.",
+    "en": "Each week, one student took care of the plants and gave them water.",
+    "glosses": {
+     "cuidava": "took care",
+     "dava": "gave",
+     "elas": "them"
+    }
+   },
+   {
+    "pt": "Em poucos meses, o jardim ficou verde e colorido.",
+    "en": "In a few months, the garden became green and colorful.",
+    "glosses": {
+     "poucos": "a few",
+     "ficou": "became"
+    }
+   },
+   {
+    "pt": "Os pássaros e os insetos voltaram para aquele lugar.",
+    "en": "The birds and the insects came back to that place.",
+    "glosses": {
+     "voltaram": "came back"
+    }
+   },
+   {
+    "pt": "Uma jornalista visitou a escola e escreveu uma notícia sobre o projeto.",
+    "en": "A journalist visited the school and wrote a news story about the project.",
+    "glosses": {
+     "visitou": "visited",
+     "escreveu": "wrote",
+     "notícia": "news story"
+    }
+   },
+   {
+    "pt": "A foto da turma saiu numa revista.",
+    "en": "The class photo came out in a magazine.",
+    "glosses": {
+     "da": "of the",
+     "saiu": "came out",
+     "numa": "in a"
+    }
+   },
+   {
+    "pt": "Pedro mostrou a revista para a avó, muito orgulhoso.",
+    "en": "Pedro showed the magazine to his grandmother, very proud.",
+    "glosses": {
+     "mostrou": "showed"
+    }
+   },
+   {
+    "pt": "\"Eu quero proteger a natureza a vida toda\", ele disse.",
+    "en": "\"I want to protect nature my whole life,\" he said.",
+    "glosses": {
+     "quero": "want",
+     "toda": "whole",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "A avó riu e disse: \"O planeta precisa de crianças como você.\"",
+    "en": "His grandmother laughed and said: \"The planet needs children like you.\"",
+    "glosses": {
+     "riu": "laughed",
+     "disse": "said",
+     "precisa": "needs"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Por que o ar da cidade está sujo?",
+    "qEn": "Why is the city's air dirty?",
+    "options": [
+     "Por causa dos carros",
+     "Por causa das árvores",
+     "Por causa da chuva",
+     "Por causa da escola"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Onde Pedro plantou a árvore?",
+    "qEn": "Where did Pedro plant the tree?",
+    "options": [
+     "Na praia",
+     "Ao lado da porta",
+     "No parque",
+     "Em casa"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quem visitou a escola?",
+    "qEn": "Who visited the school?",
+    "options": [
+     "Um médico",
+     "Uma jornalista",
+     "O prefeito",
+     "Um cantor"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

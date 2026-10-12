@@ -1,0 +1,796 @@
+[
+ {
+  "pt": "confiável",
+  "pos": "adj.",
+  "english": "reliable, trustworthy",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "confiáveis"
+  ],
+  "example": {
+   "pt": "Essa marca é muito confiável.",
+   "en": "This brand is very reliable."
+  }
+ },
+ {
+  "pt": "comum",
+  "pos": "adj.",
+  "english": "common, ordinary",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "comuns"
+  ],
+  "example": {
+   "pt": "É comum chover à tarde no verão.",
+   "en": "It's common for it to rain in the afternoon in summer."
+  }
+ },
+ {
+  "pt": "raro",
+  "pos": "adj.",
+  "english": "rare",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "rara",
+   "raros",
+   "raras"
+  ],
+  "example": {
+   "pt": "É raro ver esse pássaro na cidade.",
+   "en": "It's rare to see this bird in the city."
+  }
+ },
+ {
+  "pt": "simples",
+  "pos": "adj.",
+  "english": "simple",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "simples"
+  ],
+  "example": {
+   "pt": "A receita é bem simples.",
+   "en": "The recipe is really simple."
+  }
+ },
+ {
+  "pt": "complicado",
+  "pos": "adj.",
+  "english": "complicated",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "complicada",
+   "complicados",
+   "complicadas"
+  ],
+  "example": {
+   "pt": "O formulário é muito complicado.",
+   "en": "The form is very complicated."
+  }
+ },
+ {
+  "pt": "gratuito",
+  "pos": "adj.",
+  "english": "free (of charge)",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "gratuita",
+   "gratuitos",
+   "gratuitas"
+  ],
+  "example": {
+   "pt": "A entrada no museu é gratuita aos domingos.",
+   "en": "Admission to the museum is free on Sundays."
+  }
+ },
+ {
+  "pt": "eficiente",
+  "pos": "adj.",
+  "english": "efficient",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "eficientes"
+  ],
+  "example": {
+   "pt": "O metrô é o meio de transporte mais eficiente da cidade.",
+   "en": "The subway is the most efficient means of transport in the city."
+  }
+ },
+ {
+  "pt": "útil",
+  "pos": "adj.",
+  "english": "useful",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "úteis"
+  ],
+  "example": {
+   "pt": "Esse aplicativo é muito útil para aprender línguas.",
+   "en": "This app is very useful for learning languages."
+  }
+ },
+ {
+  "pt": "inútil",
+  "pos": "adj.",
+  "english": "useless",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "inúteis"
+  ],
+  "example": {
+   "pt": "É inútil discutir com ele.",
+   "en": "It's useless to argue with him."
+  }
+ },
+ {
+  "pt": "necessário",
+  "pos": "adj.",
+  "english": "necessary",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "necessária",
+   "necessários",
+   "necessárias"
+  ],
+  "example": {
+   "pt": "Não é necessário trazer nada.",
+   "en": "It's not necessary to bring anything."
+  }
+ },
+ {
+  "pt": "impossível",
+  "pos": "adj.",
+  "english": "impossible",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "impossíveis"
+  ],
+  "example": {
+   "pt": "É impossível estacionar no centro.",
+   "en": "It's impossible to park downtown."
+  }
+ },
+ {
+  "pt": "provável",
+  "pos": "adj.",
+  "english": "probable, likely",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "prováveis"
+  ],
+  "example": {
+   "pt": "É provável que ele chegue atrasado.",
+   "en": "He'll probably arrive late."
+  }
+ },
+ {
+  "pt": "óbvio",
+  "pos": "adj.",
+  "english": "obvious",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "óbvia",
+   "óbvios",
+   "óbvias"
+  ],
+  "example": {
+   "pt": "A resposta era óbvia.",
+   "en": "The answer was obvious."
+  }
+ },
+ {
+  "pt": "estranho",
+  "pos": "adj.",
+  "english": "strange; unfamiliar",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "estranha",
+   "estranhos",
+   "estranhas"
+  ],
+  "example": {
+   "pt": "Ouvi um barulho estranho lá fora.",
+   "en": "I heard a strange noise outside."
+  }
+ },
+ {
+  "pt": "esquisito",
+  "pos": "adj.",
+  "english": "weird, odd",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "esquisita",
+   "esquisitos",
+   "esquisitas"
+  ],
+  "example": {
+   "pt": "Essa comida tem um gosto esquisito.",
+   "en": "This food tastes weird."
+  }
+ },
+ {
+  "pt": "curioso",
+  "pos": "adj.",
+  "english": "curious; interesting, odd",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "curiosa",
+   "curiosos",
+   "curiosas"
+  ],
+  "example": {
+   "pt": "As crianças são muito curiosas.",
+   "en": "Children are very curious."
+  }
+ },
+ {
+  "pt": "enorme",
+  "pos": "adj.",
+  "english": "huge, enormous",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "enormes"
+  ],
+  "example": {
+   "pt": "Eles moram numa casa enorme.",
+   "en": "They live in a huge house."
+  }
+ },
+ {
+  "pt": "minúsculo",
+  "pos": "adj.",
+  "english": "tiny",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "minúscula",
+   "minúsculos",
+   "minúsculas"
+  ],
+  "example": {
+   "pt": "O apartamento tem uma cozinha minúscula.",
+   "en": "The apartment has a tiny kitchen."
+  }
+ },
+ {
+  "pt": "profundo",
+  "pos": "adj.",
+  "english": "deep",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "profunda",
+   "profundos",
+   "profundas"
+  ],
+  "example": {
+   "pt": "Cuidado, essa parte da piscina é profunda.",
+   "en": "Careful, this part of the pool is deep."
+  }
+ },
+ {
+  "pt": "raso",
+  "pos": "adj.",
+  "english": "shallow",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "rasa",
+   "rasos",
+   "rasas"
+  ],
+  "example": {
+   "pt": "As crianças brincam na parte rasa do rio.",
+   "en": "The children play in the shallow part of the river."
+  }
+ },
+ {
+  "pt": "largo",
+  "pos": "adj.",
+  "english": "wide",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "larga",
+   "largos",
+   "largas"
+  ],
+  "example": {
+   "pt": "A avenida é larga e bem iluminada.",
+   "en": "The avenue is wide and well lit."
+  }
+ },
+ {
+  "pt": "estreito",
+  "pos": "adj.",
+  "english": "narrow",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "estreita",
+   "estreitos",
+   "estreitas"
+  ],
+  "example": {
+   "pt": "As ruas do centro histórico são estreitas.",
+   "en": "The streets in the historic center are narrow."
+  }
+ },
+ {
+  "pt": "pesado",
+  "pos": "adj.",
+  "english": "heavy",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "pesada",
+   "pesados",
+   "pesadas"
+  ],
+  "example": {
+   "pt": "Essa mala está muito pesada.",
+   "en": "This suitcase is very heavy."
+  }
+ },
+ {
+  "pt": "leve",
+  "pos": "adj.",
+  "english": "light (weight)",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "leves"
+  ],
+  "example": {
+   "pt": "Quero um jantar leve hoje.",
+   "en": "I want a light dinner tonight."
+  }
+ },
+ {
+  "pt": "macio",
+  "pos": "adj.",
+  "english": "soft",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "macia",
+   "macios",
+   "macias"
+  ],
+  "example": {
+   "pt": "Esse travesseiro é muito macio.",
+   "en": "This pillow is very soft."
+  }
+ },
+ {
+  "pt": "duro",
+  "pos": "adj.",
+  "english": "hard; tough",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "dura",
+   "duros",
+   "duras"
+  ],
+  "example": {
+   "pt": "O pão ficou duro de um dia para o outro.",
+   "en": "The bread went hard overnight."
+  }
+ },
+ {
+  "pt": "áspero",
+  "pos": "adj.",
+  "english": "rough",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "áspera",
+   "ásperos",
+   "ásperas"
+  ],
+  "example": {
+   "pt": "A parede tem uma superfície áspera.",
+   "en": "The wall has a rough surface."
+  }
+ },
+ {
+  "pt": "suave",
+  "pos": "adj.",
+  "english": "soft, gentle, mild",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "suaves"
+  ],
+  "example": {
+   "pt": "Ela tem uma voz suave.",
+   "en": "She has a gentle voice."
+  }
+ },
+ {
+  "pt": "frágil",
+  "pos": "adj.",
+  "english": "fragile",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "frágeis"
+  ],
+  "example": {
+   "pt": "Cuidado com essa caixa, é frágil.",
+   "en": "Be careful with this box, it's fragile."
+  }
+ },
+ {
+  "pt": "resistente",
+  "pos": "adj.",
+  "english": "resistant, tough, durable",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "resistentes"
+  ],
+  "example": {
+   "pt": "Essa mochila é leve e resistente.",
+   "en": "This backpack is light and durable."
+  }
+ },
+ {
+  "pt": "moderno",
+  "pos": "adj.",
+  "english": "modern",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "moderna",
+   "modernos",
+   "modernas"
+  ],
+  "example": {
+   "pt": "O prédio novo é bem moderno.",
+   "en": "The new building is very modern."
+  }
+ },
+ {
+  "pt": "antigo",
+  "pos": "adj.",
+  "english": "old, ancient; former",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "antiga",
+   "antigos",
+   "antigas"
+  ],
+  "example": {
+   "pt": "Ela coleciona moedas antigas.",
+   "en": "She collects old coins."
+  }
+ },
+ {
+  "pt": "tradicional",
+  "pos": "adj.",
+  "english": "traditional",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "tradicionais"
+  ],
+  "example": {
+   "pt": "A feijoada é um prato tradicional brasileiro.",
+   "en": "Feijoada is a traditional Brazilian dish."
+  }
+ },
+ {
+  "pt": "atual",
+  "pos": "adj.",
+  "english": "current, present-day",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "atuais"
+  ],
+  "example": {
+   "pt": "Qual é o endereço atual da empresa?",
+   "en": "What is the company's current address?"
+  }
+ },
+ {
+  "pt": "recente",
+  "pos": "adj.",
+  "english": "recent",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "recentes"
+  ],
+  "example": {
+   "pt": "Segundo uma pesquisa recente, os brasileiros estão lendo mais.",
+   "en": "According to a recent survey, Brazilians are reading more."
+  }
+ },
+ {
+  "pt": "principal",
+  "pos": "adj.",
+  "english": "main",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "principais"
+  ],
+  "example": {
+   "pt": "A rua principal fica fechada aos domingos.",
+   "en": "The main street is closed on Sundays."
+  }
+ },
+ {
+  "pt": "essencial",
+  "pos": "adj.",
+  "english": "essential",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "essenciais"
+  ],
+  "example": {
+   "pt": "Água é essencial para a vida.",
+   "en": "Water is essential for life."
+  }
+ },
+ {
+  "pt": "típico",
+  "pos": "adj.",
+  "english": "typical",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "típica",
+   "típicos",
+   "típicas"
+  ],
+  "example": {
+   "pt": "Vamos provar uma comida típica da região.",
+   "en": "Let's try a typical dish from the region."
+  }
+ },
+ {
+  "pt": "conhecido",
+  "pos": "adj.",
+  "english": "well-known, familiar",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "conhecida",
+   "conhecidos",
+   "conhecidas"
+  ],
+  "example": {
+   "pt": "Ele é um cantor muito conhecido no Brasil.",
+   "en": "He is a very well-known singer in Brazil."
+  }
+ },
+ {
+  "pt": "desconhecido",
+  "pos": "adj.",
+  "english": "unknown",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "desconhecida",
+   "desconhecidos",
+   "desconhecidas"
+  ],
+  "example": {
+   "pt": "Recebi uma ligação de um número desconhecido.",
+   "en": "I got a call from an unknown number."
+  }
+ },
+ {
+  "pt": "bagunçado",
+  "pos": "adj.",
+  "english": "messy",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "bagunçada",
+   "bagunçados",
+   "bagunçadas"
+  ],
+  "example": {
+   "pt": "O quarto do meu filho está sempre bagunçado.",
+   "en": "My son's room is always messy."
+  }
+ },
+ {
+  "pt": "barulhento",
+  "pos": "adj.",
+  "english": "noisy",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "barulhenta",
+   "barulhentos",
+   "barulhentas"
+  ],
+  "example": {
+   "pt": "Os vizinhos são muito barulhentos.",
+   "en": "The neighbors are very noisy."
+  }
+ },
+ {
+  "pt": "silencioso",
+  "pos": "adj.",
+  "english": "quiet, silent",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "silenciosa",
+   "silenciosos",
+   "silenciosas"
+  ],
+  "example": {
+   "pt": "A biblioteca é um lugar silencioso.",
+   "en": "The library is a quiet place."
+  }
+ },
+ {
+  "pt": "agitado",
+  "pos": "adj.",
+  "english": "busy, hectic; restless",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "agitada",
+   "agitados",
+   "agitadas"
+  ],
+  "example": {
+   "pt": "Tive uma semana muito agitada.",
+   "en": "I had a very hectic week."
+  }
+ },
+ {
+  "pt": "lotado",
+  "pos": "adj.",
+  "english": "packed, crowded, full",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "lotada",
+   "lotados",
+   "lotadas"
+  ],
+  "example": {
+   "pt": "O ônibus estava lotado hoje de manhã.",
+   "en": "The bus was packed this morning."
+  }
+ },
+ {
+  "pt": "educado",
+  "pos": "adj.",
+  "english": "polite",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "educada",
+   "educados",
+   "educadas"
+  ],
+  "example": {
+   "pt": "O garçom foi muito educado com a gente.",
+   "en": "The waiter was very polite to us."
+  }
+ },
+ {
+  "pt": "generoso",
+  "pos": "adj.",
+  "english": "generous",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "generosa",
+   "generosos",
+   "generosas"
+  ],
+  "example": {
+   "pt": "Ela é uma pessoa muito generosa.",
+   "en": "She is a very generous person."
+  }
+ },
+ {
+  "pt": "honesto",
+  "pos": "adj.",
+  "english": "honest",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "honesta",
+   "honestos",
+   "honestas"
+  ],
+  "example": {
+   "pt": "Seja honesto comigo.",
+   "en": "Be honest with me."
+  }
+ },
+ {
+  "pt": "preguiçoso",
+  "pos": "adj.",
+  "english": "lazy",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "preguiçosa",
+   "preguiçosos",
+   "preguiçosas"
+  ],
+  "example": {
+   "pt": "Hoje estou preguiçoso, não quero sair de casa.",
+   "en": "I'm feeling lazy today, I don't want to leave the house."
+  }
+ },
+ {
+  "pt": "teimoso",
+  "pos": "adj.",
+  "english": "stubborn",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "teimosa",
+   "teimosos",
+   "teimosas"
+  ],
+  "example": {
+   "pt": "Meu avô é muito teimoso.",
+   "en": "My grandfather is very stubborn."
+  }
+ },
+ {
+  "pt": "responsável",
+  "pos": "adj.",
+  "english": "responsible",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "responsáveis"
+  ],
+  "example": {
+   "pt": "Quem é o responsável por este projeto?",
+   "en": "Who is responsible for this project?"
+  }
+ },
+ {
+  "pt": "ambicioso",
+  "pos": "adj.",
+  "english": "ambitious",
+  "level": 3,
+  "topic": "Descriptions",
+  "forms": [
+   "ambiciosa",
+   "ambiciosos",
+   "ambiciosas"
+  ],
+  "example": {
+   "pt": "É um plano ambicioso, mas possível.",
+   "en": "It's an ambitious but feasible plan."
+  }
+ }
+]

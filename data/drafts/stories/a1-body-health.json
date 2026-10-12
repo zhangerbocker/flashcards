@@ -1,0 +1,329 @@
+[
+ {
+  "id": "a1-body-health-1",
+  "level": 1,
+  "topic": "Body & health",
+  "title": "Um dia em casa",
+  "titleEn": "A day at home",
+  "sentences": [
+   {
+    "pt": "Pedro acorda cedo na segunda-feira.",
+    "en": "Pedro wakes up early on Monday.",
+    "glosses": {
+     "acorda": "wakes up",
+     "na": "on"
+    }
+   },
+   {
+    "pt": "Ele está com febre e dor de cabeça.",
+    "en": "He has a fever and a headache.",
+    "glosses": {
+     "está com": "has",
+     "dor de cabeça": "headache"
+    }
+   },
+   {
+    "pt": "O corpo dele está muito cansado.",
+    "en": "His body is very tired.",
+    "glosses": {
+     "dele": "his",
+     "está": "is"
+    }
+   },
+   {
+    "pt": "Pedro liga para o chefe.",
+    "en": "Pedro calls his boss.",
+    "glosses": {
+     "liga": "calls"
+    }
+   },
+   {
+    "pt": "\"Estou doente. Não vou trabalhar hoje.\"",
+    "en": "\"I'm sick. I'm not going to work today.\"",
+    "glosses": {
+     "Estou": "I am",
+     "vou": "am going"
+    }
+   },
+   {
+    "pt": "O chefe diz: \"Tudo bem, descansa!\"",
+    "en": "The boss says: \"That's fine, rest!\"",
+    "glosses": {
+     "diz": "says",
+     "Tudo bem": "that's fine",
+     "descansa": "rest"
+    }
+   },
+   {
+    "pt": "A mãe de Pedro mora perto.",
+    "en": "Pedro's mother lives nearby.",
+    "glosses": {
+     "mora": "lives"
+    }
+   },
+   {
+    "pt": "Ela vem com sopa, frutas e remédio da farmácia.",
+    "en": "She comes with soup, fruit and medicine from the pharmacy.",
+    "glosses": {
+     "vem": "comes",
+     "da": "from the"
+    }
+   },
+   {
+    "pt": "Pedro toma o remédio e come a sopa.",
+    "en": "Pedro takes the medicine and eats the soup.",
+    "glosses": {
+     "toma": "takes",
+     "come": "eats"
+    }
+   },
+   {
+    "pt": "Depois, ele dorme a tarde toda.",
+    "en": "Then he sleeps all afternoon.",
+    "glosses": {
+     "dorme": "sleeps",
+     "toda": "all"
+    }
+   },
+   {
+    "pt": "À noite, a febre passa.",
+    "en": "At night, the fever goes away.",
+    "glosses": {
+     "À noite": "at night",
+     "passa": "goes away"
+    }
+   },
+   {
+    "pt": "Ele ainda tem um pouco de dor nas costas.",
+    "en": "He still has a little back pain.",
+    "glosses": {
+     "tem": "has",
+     "nas": "in the",
+     "um pouco de": "a little"
+    }
+   },
+   {
+    "pt": "Mas ele está melhor.",
+    "en": "But he is better.",
+    "glosses": {
+     "está": "is"
+    }
+   },
+   {
+    "pt": "\"Obrigado, mãe! Você é a melhor médica do mundo!\"",
+    "en": "\"Thanks, Mom! You're the best doctor in the world!\"",
+    "glosses": {
+     "é": "are",
+     "médica": "doctor",
+     "do": "in the"
+    }
+   },
+   {
+    "pt": "A mãe ri.",
+    "en": "His mother laughs.",
+    "glosses": {
+     "ri": "laughs"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "O que Pedro tem?",
+    "qEn": "What does Pedro have?",
+    "options": [
+     "Febre e dor de cabeça",
+     "Dor de dente",
+     "Fome",
+     "Sede"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Quem vem com sopa?",
+    "qEn": "Who comes with soup?",
+    "options": [
+     "O chefe",
+     "A mãe",
+     "Um médico",
+     "Um amigo"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Como Pedro está à noite?",
+    "qEn": "How is Pedro at night?",
+    "options": [
+     "Com mais febre",
+     "Com fome",
+     "Melhor",
+     "Triste"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "a1-body-health-2",
+  "level": 1,
+  "topic": "Body & health",
+  "title": "Sábado no parque",
+  "titleEn": "Saturday in the park",
+  "sentences": [
+   {
+    "pt": "Camila quer uma vida mais saudável.",
+    "en": "Camila wants a healthier life.",
+    "glosses": {
+     "quer": "wants",
+     "mais saudável": "healthier"
+    }
+   },
+   {
+    "pt": "Todo sábado, ela corre no parque perto de casa.",
+    "en": "Every Saturday, she runs in the park near her home.",
+    "glosses": {
+     "Todo": "every",
+     "corre": "runs",
+     "no": "in the"
+    }
+   },
+   {
+    "pt": "Hoje, ela corre com a amiga Larissa.",
+    "en": "Today she runs with her friend Larissa.",
+    "glosses": {
+     "corre": "runs",
+     "amiga": "friend"
+    }
+   },
+   {
+    "pt": "O dia está bonito e não está muito quente.",
+    "en": "The day is nice and it isn't very hot.",
+    "glosses": {
+     "está": "is"
+    }
+   },
+   {
+    "pt": "Elas correm cinco quilômetros.",
+    "en": "They run five kilometers.",
+    "glosses": {
+     "Elas": "they",
+     "correm": "run"
+    }
+   },
+   {
+    "pt": "Depois, Camila sente dor no pé.",
+    "en": "Afterwards, Camila feels pain in her foot.",
+    "glosses": {
+     "sente": "feels",
+     "no": "in the"
+    }
+   },
+   {
+    "pt": "Ela senta na grama e olha o pé.",
+    "en": "She sits on the grass and looks at her foot.",
+    "glosses": {
+     "senta": "sits",
+     "na": "on the",
+     "olha": "looks at"
+    }
+   },
+   {
+    "pt": "\"Não é um problema grande\", diz Larissa.",
+    "en": "\"It's not a big problem,\" says Larissa.",
+    "glosses": {
+     "é": "is",
+     "diz": "says"
+    }
+   },
+   {
+    "pt": "Larissa compra duas garrafas de água.",
+    "en": "Larissa buys two bottles of water.",
+    "glosses": {
+     "compra": "buys",
+     "duas": "two"
+    }
+   },
+   {
+    "pt": "Elas bebem a água e comem uma banana.",
+    "en": "They drink the water and eat a banana.",
+    "glosses": {
+     "bebem": "drink",
+     "comem": "eat"
+    }
+   },
+   {
+    "pt": "Camila descansa um pouco.",
+    "en": "Camila rests a little.",
+    "glosses": {
+     "descansa": "rests",
+     "um pouco": "a little"
+    }
+   },
+   {
+    "pt": "O pé ainda dói, mas menos.",
+    "en": "Her foot still hurts, but less.",
+    "glosses": {
+     "dói": "hurts"
+    }
+   },
+   {
+    "pt": "Elas voltam para casa a pé.",
+    "en": "They go back home on foot.",
+    "glosses": {
+     "voltam": "go back",
+     "a pé": "on foot"
+    }
+   },
+   {
+    "pt": "Em casa, Camila toma um banho quente.",
+    "en": "At home, Camila takes a hot shower.",
+    "glosses": {
+     "toma": "takes",
+     "banho": "shower"
+    }
+   },
+   {
+    "pt": "No próximo sábado, ela vai correr outra vez.",
+    "en": "Next Saturday, she's going to run again.",
+    "glosses": {
+     "vai": "is going",
+     "outra vez": "again"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Quando Camila corre no parque?",
+    "qEn": "When does Camila run in the park?",
+    "options": [
+     "Todo domingo",
+     "Todo sábado",
+     "Toda noite",
+     "Toda segunda-feira"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Onde Camila sente dor?",
+    "qEn": "Where does Camila feel pain?",
+    "options": [
+     "Na cabeça",
+     "Na barriga",
+     "No braço",
+     "No pé"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "O que elas comem?",
+    "qEn": "What do they eat?",
+    "options": [
+     "Uma banana",
+     "Uma maçã",
+     "Um bolo",
+     "Pão"
+    ],
+    "answer": 0
+   }
+  ]
+ }
+]

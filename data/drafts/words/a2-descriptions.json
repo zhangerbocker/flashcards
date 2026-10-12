@@ -1,0 +1,624 @@
+[
+ {
+  "pt": "largo",
+  "pos": "adj.",
+  "english": "wide",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "larga",
+   "largos",
+   "largas"
+  ],
+  "example": {
+   "pt": "A avenida é muito larga.",
+   "en": "The avenue is very wide."
+  }
+ },
+ {
+  "pt": "estreito",
+  "pos": "adj.",
+  "english": "narrow",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "estreita",
+   "estreitos",
+   "estreitas"
+  ],
+  "example": {
+   "pt": "A rua da minha casa é estreita.",
+   "en": "The street where I live is narrow."
+  }
+ },
+ {
+  "pt": "pesado",
+  "pos": "adj.",
+  "english": "heavy",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "pesada",
+   "pesados",
+   "pesadas"
+  ],
+  "example": {
+   "pt": "A mala estava muito pesada.",
+   "en": "The suitcase was very heavy."
+  }
+ },
+ {
+  "pt": "leve",
+  "pos": "adj.",
+  "english": "light (weight)",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "leves"
+  ],
+  "example": {
+   "pt": "Essa bolsa é bem leve.",
+   "en": "This bag is really light."
+  }
+ },
+ {
+  "pt": "sujo",
+  "pos": "adj.",
+  "english": "dirty",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "suja",
+   "sujos",
+   "sujas"
+  ],
+  "example": {
+   "pt": "Minha camisa ficou suja de café.",
+   "en": "My shirt got dirty with coffee."
+  }
+ },
+ {
+  "pt": "limpo",
+  "pos": "adj.",
+  "english": "clean",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "limpa",
+   "limpos",
+   "limpas"
+  ],
+  "example": {
+   "pt": "A cozinha está limpa agora.",
+   "en": "The kitchen is clean now."
+  }
+ },
+ {
+  "pt": "macio",
+  "pos": "adj.",
+  "english": "soft",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "macia",
+   "macios",
+   "macias"
+  ],
+  "example": {
+   "pt": "Esse travesseiro é muito macio.",
+   "en": "This pillow is very soft."
+  }
+ },
+ {
+  "pt": "duro",
+  "pos": "adj.",
+  "english": "hard, tough",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "dura",
+   "duros",
+   "duras"
+  ],
+  "example": {
+   "pt": "O pão ficou duro.",
+   "en": "The bread got hard."
+  }
+ },
+ {
+  "pt": "liso",
+  "pos": "adj.",
+  "english": "smooth; straight (hair)",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "lisa",
+   "lisos",
+   "lisas"
+  ],
+  "example": {
+   "pt": "Ela tem o cabelo liso.",
+   "en": "She has straight hair."
+  }
+ },
+ {
+  "pt": "redondo",
+  "pos": "adj.",
+  "english": "round",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "redonda",
+   "redondos",
+   "redondas"
+  ],
+  "example": {
+   "pt": "Compramos uma mesa redonda.",
+   "en": "We bought a round table."
+  }
+ },
+ {
+  "pt": "quadrado",
+  "pos": "adj.",
+  "english": "square",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "quadrada",
+   "quadrados",
+   "quadradas"
+  ],
+  "example": {
+   "pt": "A caixa é quadrada.",
+   "en": "The box is square."
+  }
+ },
+ {
+  "pt": "comprido",
+  "pos": "adj.",
+  "english": "long",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "comprida",
+   "compridos",
+   "compridas"
+  ],
+  "example": {
+   "pt": "Ele usa o cabelo comprido.",
+   "en": "He wears his hair long."
+  }
+ },
+ {
+  "pt": "curto",
+  "pos": "adj.",
+  "english": "short (length)",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "curta",
+   "curtos",
+   "curtas"
+  ],
+  "example": {
+   "pt": "O filme foi curto.",
+   "en": "The movie was short."
+  }
+ },
+ {
+  "pt": "fundo",
+  "pos": "adj.",
+  "english": "deep",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "funda",
+   "fundos",
+   "fundas"
+  ],
+  "example": {
+   "pt": "Cuidado, a piscina é funda.",
+   "en": "Careful, the pool is deep."
+  }
+ },
+ {
+  "pt": "grosso",
+  "pos": "adj.",
+  "english": "thick",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "grossa",
+   "grossos",
+   "grossas"
+  ],
+  "example": {
+   "pt": "Esse livro é muito grosso.",
+   "en": "This book is very thick."
+  }
+ },
+ {
+  "pt": "fino",
+  "pos": "adj.",
+  "english": "thin; fine, elegant",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "fina",
+   "finos",
+   "finas"
+  ],
+  "example": {
+   "pt": "Corte o pão em fatias finas.",
+   "en": "Cut the bread into thin slices."
+  }
+ },
+ {
+  "pt": "gordo",
+  "pos": "adj.",
+  "english": "fat",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "gorda",
+   "gordos",
+   "gordas"
+  ],
+  "example": {
+   "pt": "O gato está gordo.",
+   "en": "The cat is fat."
+  }
+ },
+ {
+  "pt": "forte",
+  "pos": "adj.",
+  "english": "strong",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "fortes"
+  ],
+  "example": {
+   "pt": "Ele é forte e carrega tudo sozinho.",
+   "en": "He's strong and carries everything by himself."
+  }
+ },
+ {
+  "pt": "fraco",
+  "pos": "adj.",
+  "english": "weak",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "fraca",
+   "fracos",
+   "fracas"
+  ],
+  "example": {
+   "pt": "O café está fraco hoje.",
+   "en": "The coffee is weak today."
+  }
+ },
+ {
+  "pt": "rápido",
+  "pos": "adj.",
+  "english": "fast, quick",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "rápida",
+   "rápidos",
+   "rápidas"
+  ],
+  "example": {
+   "pt": "O trem é mais rápido que o ônibus.",
+   "en": "The train is faster than the bus."
+  }
+ },
+ {
+  "pt": "lento",
+  "pos": "adj.",
+  "english": "slow",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "lenta",
+   "lentos",
+   "lentas"
+  ],
+  "example": {
+   "pt": "A internet está muito lenta.",
+   "en": "The internet is very slow."
+  }
+ },
+ {
+  "pt": "barulhento",
+  "pos": "adj.",
+  "english": "noisy",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "barulhenta",
+   "barulhentos",
+   "barulhentas"
+  ],
+  "example": {
+   "pt": "Meus vizinhos são barulhentos.",
+   "en": "My neighbors are noisy."
+  }
+ },
+ {
+  "pt": "silencioso",
+  "pos": "adj.",
+  "english": "quiet, silent",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "silenciosa",
+   "silenciosos",
+   "silenciosas"
+  ],
+  "example": {
+   "pt": "A biblioteca é um lugar silencioso.",
+   "en": "The library is a quiet place."
+  }
+ },
+ {
+  "pt": "quieto",
+  "pos": "adj.",
+  "english": "quiet, still",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "quieta",
+   "quietos",
+   "quietas"
+  ],
+  "example": {
+   "pt": "As crianças ficaram quietas durante o filme.",
+   "en": "The children stayed quiet during the movie."
+  }
+ },
+ {
+  "pt": "cheio",
+  "pos": "adj.",
+  "english": "full",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "cheia",
+   "cheios",
+   "cheias"
+  ],
+  "example": {
+   "pt": "O ônibus estava cheio.",
+   "en": "The bus was full."
+  }
+ },
+ {
+  "pt": "vazio",
+  "pos": "adj.",
+  "english": "empty",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "vazia",
+   "vazios",
+   "vazias"
+  ],
+  "example": {
+   "pt": "A geladeira está vazia.",
+   "en": "The fridge is empty."
+  }
+ },
+ {
+  "pt": "raro",
+  "pos": "adj.",
+  "english": "rare",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "rara",
+   "raros",
+   "raras"
+  ],
+  "example": {
+   "pt": "Esse tipo de pássaro é raro.",
+   "en": "This kind of bird is rare."
+  }
+ },
+ {
+  "pt": "comum",
+  "pos": "adj.",
+  "english": "common",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "comuns"
+  ],
+  "example": {
+   "pt": "Silva é um nome muito comum no Brasil.",
+   "en": "Silva is a very common name in Brazil."
+  }
+ },
+ {
+  "pt": "simples",
+  "pos": "adj.",
+  "english": "simple",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [],
+  "example": {
+   "pt": "A receita é bem simples.",
+   "en": "The recipe is really simple."
+  }
+ },
+ {
+  "pt": "moderno",
+  "pos": "adj.",
+  "english": "modern",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "moderna",
+   "modernos",
+   "modernas"
+  ],
+  "example": {
+   "pt": "Eles moram num prédio moderno.",
+   "en": "They live in a modern building."
+  }
+ },
+ {
+  "pt": "antigo",
+  "pos": "adj.",
+  "english": "old, ancient; former",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "antiga",
+   "antigos",
+   "antigas"
+  ],
+  "example": {
+   "pt": "Essa igreja é muito antiga.",
+   "en": "This church is very old."
+  }
+ },
+ {
+  "pt": "famoso",
+  "pos": "adj.",
+  "english": "famous",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "famosa",
+   "famosos",
+   "famosas"
+  ],
+  "example": {
+   "pt": "Ele é um cantor famoso.",
+   "en": "He is a famous singer."
+  }
+ },
+ {
+  "pt": "perigoso",
+  "pos": "adj.",
+  "english": "dangerous",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "perigosa",
+   "perigosos",
+   "perigosas"
+  ],
+  "example": {
+   "pt": "Essa estrada é perigosa à noite.",
+   "en": "This road is dangerous at night."
+  }
+ },
+ {
+  "pt": "seguro",
+  "pos": "adj.",
+  "english": "safe; sure",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "segura",
+   "seguros",
+   "seguras"
+  ],
+  "example": {
+   "pt": "O bairro é tranquilo e seguro.",
+   "en": "The neighborhood is quiet and safe."
+  }
+ },
+ {
+  "pt": "estranho",
+  "pos": "adj.",
+  "english": "strange, weird",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "estranha",
+   "estranhos",
+   "estranhas"
+  ],
+  "example": {
+   "pt": "Ouvi um barulho estranho lá fora.",
+   "en": "I heard a strange noise outside."
+  }
+ },
+ {
+  "pt": "parecido",
+  "pos": "adj.",
+  "english": "similar, alike",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "parecida",
+   "parecidos",
+   "parecidas"
+  ],
+  "example": {
+   "pt": "Você e sua irmã são muito parecidas.",
+   "en": "You and your sister are very alike."
+  }
+ },
+ {
+  "pt": "igual",
+  "pos": "adj.",
+  "english": "the same, equal",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "iguais"
+  ],
+  "example": {
+   "pt": "Os dois carros são iguais.",
+   "en": "The two cars are the same."
+  }
+ },
+ {
+  "pt": "principal",
+  "pos": "adj.",
+  "english": "main",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "principais"
+  ],
+  "example": {
+   "pt": "Essa é a rua principal da cidade.",
+   "en": "This is the main street of the city."
+  }
+ },
+ {
+  "pt": "enorme",
+  "pos": "adj.",
+  "english": "huge",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "enormes"
+  ],
+  "example": {
+   "pt": "Eles têm uma casa enorme.",
+   "en": "They have a huge house."
+  }
+ },
+ {
+  "pt": "confortável",
+  "pos": "adj.",
+  "english": "comfortable",
+  "level": 2,
+  "topic": "Descriptions",
+  "forms": [
+   "confortáveis"
+  ],
+  "example": {
+   "pt": "Esse sofá é muito confortável.",
+   "en": "This sofa is very comfortable."
+  }
+ }
+]

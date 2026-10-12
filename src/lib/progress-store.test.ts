@@ -61,7 +61,7 @@ describe("settings", () => {
 
   it("round-trips saved settings", () => {
     const storage = new MemoryStorage();
-    const settings = { autoplayAudio: true, typeAnswers: true };
+    const settings = { autoplayAudio: true, typeAnswers: true, includeB1B2: true };
     saveSettings(storage, settings);
     expect(loadSettings(storage)).toEqual(settings);
   });

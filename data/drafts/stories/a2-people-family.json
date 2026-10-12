@@ -1,0 +1,419 @@
+[
+ {
+  "id": "a2-people-family-1",
+  "level": 2,
+  "topic": "People & family",
+  "title": "O aniversário da avó",
+  "titleEn": "Grandma's birthday",
+  "sentences": [
+   {
+    "pt": "No domingo, a família de Mariana fez uma festa grande em Belo Horizonte.",
+    "en": "On Sunday, Mariana's family threw a big party in Belo Horizonte.",
+    "glosses": {
+     "no": "on",
+     "fez": "threw"
+    }
+   },
+   {
+    "pt": "Era o aniversário de noventa anos da avó dela.",
+    "en": "It was her grandmother's ninetieth birthday.",
+    "glosses": {
+     "era": "it was",
+     "de noventa anos": "ninetieth",
+     "da": "of the",
+     "dela": "her"
+    }
+   },
+   {
+    "pt": "A avó tem cinco filhos e doze netos.",
+    "en": "Her grandmother has five children and twelve grandchildren.",
+    "glosses": {
+     "tem": "has",
+     "filhos": "children",
+     "netos": "grandchildren"
+    }
+   },
+   {
+    "pt": "Muitos parentes vieram de longe para a festa.",
+    "en": "Many relatives came from far away for the party.",
+    "glosses": {
+     "vieram": "came",
+     "de longe": "from far away"
+    }
+   },
+   {
+    "pt": "O tio Ricardo veio de Manaus com a esposa e os filhos gêmeos.",
+    "en": "Uncle Ricardo came from Manaus with his wife and their twin sons.",
+    "glosses": {
+     "veio": "came",
+     "filhos gêmeos": "twin sons"
+    }
+   },
+   {
+    "pt": "Os gêmeos são tão parecidos que ninguém sabe quem é quem.",
+    "en": "The twins look so alike that nobody knows who is who.",
+    "glosses": {
+     "são": "are",
+     "parecidos": "alike",
+     "sabe": "knows",
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Mariana também levou o noivo, Felipe, para conhecer a família.",
+    "en": "Mariana also brought her fiancé, Felipe, to meet the family.",
+    "glosses": {
+     "levou": "brought",
+     "conhecer": "to meet"
+    }
+   },
+   {
+    "pt": "Felipe estava um pouco nervoso, porque não conhecia ninguém.",
+    "en": "Felipe was a little nervous, because he didn't know anybody.",
+    "glosses": {
+     "estava": "was",
+     "conhecia": "knew",
+     "ninguém": "anybody"
+    }
+   },
+   {
+    "pt": "Mas a mãe de Mariana foi muito simpática com ele.",
+    "en": "But Mariana's mother was very nice to him.",
+    "glosses": {
+     "foi": "was",
+     "com": "to"
+    }
+   },
+   {
+    "pt": "O cunhado dela, Eduardo, conversou com ele sobre futebol.",
+    "en": "Her brother-in-law, Eduardo, talked with him about soccer.",
+    "glosses": {
+     "dela": "her",
+     "conversou": "talked"
+    }
+   },
+   {
+    "pt": "Na mesa, os adultos falavam sobre a vida, e as crianças brincavam no jardim.",
+    "en": "At the table, the adults talked about life, and the children played in the yard.",
+    "glosses": {
+     "na": "at the",
+     "falavam": "talked",
+     "brincavam": "played",
+     "no": "in the"
+    }
+   },
+   {
+    "pt": "Antes do bolo, a avó mostrou fotos antigas da família.",
+    "en": "Before the cake, the grandmother showed old family photos.",
+    "glosses": {
+     "do": "the",
+     "mostrou": "showed",
+     "da família": "family"
+    }
+   },
+   {
+    "pt": "Em uma foto, ela estava casando com o avô, há setenta anos.",
+    "en": "In one photo, she was marrying the grandfather, seventy years ago.",
+    "glosses": {
+     "estava casando": "was marrying",
+     "há": "ago"
+    }
+   },
+   {
+    "pt": "O avô morreu há dez anos, e todos sentem muita saudade dele.",
+    "en": "The grandfather died ten years ago, and everyone misses him a lot.",
+    "glosses": {
+     "morreu": "died",
+     "há": "ago",
+     "todos": "everyone",
+     "sentem muita saudade dele": "miss him a lot"
+    }
+   },
+   {
+    "pt": "Depois, a família inteira cantou para a avó.",
+    "en": "Then the whole family sang to the grandmother.",
+    "glosses": {
+     "cantou": "sang"
+    }
+   },
+   {
+    "pt": "Ela chorou um pouco de alegria.",
+    "en": "She cried a little with joy.",
+    "glosses": {
+     "chorou": "cried",
+     "de": "with"
+    }
+   },
+   {
+    "pt": "— Vocês são o meu melhor presente — disse ela.",
+    "en": "\"You are my best present,\" she said.",
+    "glosses": {
+     "vocês": "you all",
+     "são": "are",
+     "melhor": "best",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "No fim da festa, Felipe disse para Mariana: — Agora eu também sou da família!",
+    "en": "At the end of the party, Felipe said to Mariana, \"Now I'm part of the family too!\"",
+    "glosses": {
+     "no fim da": "at the end of the",
+     "disse": "said",
+     "sou da família": "I'm part of the family"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Quantos anos a avó fez?",
+    "qEn": "How old did the grandmother turn?",
+    "options": [
+     "Setenta",
+     "Oitenta",
+     "Noventa",
+     "Cem"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "De onde veio o tio Ricardo?",
+    "qEn": "Where did Uncle Ricardo come from?",
+    "options": [
+     "De Manaus",
+     "De Recife",
+     "De São Paulo",
+     "De Brasília"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Quem é Felipe?",
+    "qEn": "Who is Felipe?",
+    "options": [
+     "O primo de Mariana",
+     "O noivo de Mariana",
+     "O irmão de Mariana",
+     "O tio de Mariana"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "a2-people-family-2",
+  "level": 2,
+  "topic": "People & family",
+  "title": "O apelido",
+  "titleEn": "The nickname",
+  "sentences": [
+   {
+    "pt": "Letícia tem dezesseis anos e mora em Salvador com os pais e o avô.",
+    "en": "Letícia is sixteen and lives in Salvador with her parents and her grandfather.",
+    "glosses": {
+     "tem": "is",
+     "mora": "lives",
+     "pais": "parents"
+    }
+   },
+   {
+    "pt": "O avô dela se chama Paulo, mas todo mundo chama ele de Peixe.",
+    "en": "Her grandfather's name is Paulo, but everybody calls him Fish.",
+    "glosses": {
+     "dela": "her",
+     "se chama": "is named",
+     "todo mundo": "everybody",
+     "chama": "calls",
+     "ele": "him",
+     "peixe": "Fish"
+    }
+   },
+   {
+    "pt": "Um dia, Letícia perguntou: — Por que o senhor tem esse apelido?",
+    "en": "One day, Letícia asked, \"Why do you have that nickname?\"",
+    "glosses": {
+     "perguntou": "asked",
+     "o senhor": "you (polite)",
+     "esse": "that"
+    }
+   },
+   {
+    "pt": "O avô riu e contou a história.",
+    "en": "Her grandfather laughed and told the story.",
+    "glosses": {
+     "riu": "laughed",
+     "contou": "told"
+    }
+   },
+   {
+    "pt": "Quando era criança, ele morava perto do mar, em uma cidade pequena da Bahia.",
+    "en": "When he was a child, he lived near the sea, in a small town in Bahia.",
+    "glosses": {
+     "era": "he was",
+     "morava": "lived",
+     "do": "the",
+     "cidade": "town",
+     "da": "in"
+    }
+   },
+   {
+    "pt": "Ele nadava todos os dias e passava horas na água.",
+    "en": "He swam every day and spent hours in the water.",
+    "glosses": {
+     "nadava": "swam",
+     "todos os dias": "every day",
+     "passava": "spent",
+     "na": "in the"
+    }
+   },
+   {
+    "pt": "Os amigos diziam que ele parecia um peixe.",
+    "en": "His friends said he looked like a fish.",
+    "glosses": {
+     "diziam": "said",
+     "parecia": "looked like"
+    }
+   },
+   {
+    "pt": "Assim, o apelido ficou para a vida toda.",
+    "en": "That's how the nickname stuck for his whole life.",
+    "glosses": {
+     "assim": "that's how",
+     "ficou": "stuck",
+     "toda": "whole"
+    }
+   },
+   {
+    "pt": "Letícia achou a história muito engraçada.",
+    "en": "Letícia found the story very funny.",
+    "glosses": {
+     "achou": "found"
+    }
+   },
+   {
+    "pt": "— E a mãe? Ela tinha um apelido também? — ela perguntou.",
+    "en": "\"What about Mom? Did she have a nickname too?\" she asked.",
+    "glosses": {
+     "e": "what about",
+     "tinha": "had",
+     "perguntou": "asked"
+    }
+   },
+   {
+    "pt": "— Tinha, sim! A gente chamava a sua mãe de Pássaro, porque ela cantava o dia todo.",
+    "en": "\"She did! We called your mother Bird, because she sang all day long.\"",
+    "glosses": {
+     "tinha": "she did",
+     "a gente": "we",
+     "chamava": "called",
+     "pássaro": "Bird",
+     "cantava": "sang",
+     "o dia todo": "all day long"
+    }
+   },
+   {
+    "pt": "Letícia riu muito.",
+    "en": "Letícia laughed a lot.",
+    "glosses": {
+     "riu": "laughed"
+    }
+   },
+   {
+    "pt": "À noite, no jantar, ela chamou a mãe de Pássaro.",
+    "en": "In the evening, at dinner, she called her mother Bird.",
+    "glosses": {
+     "no": "at",
+     "chamou": "called",
+     "pássaro": "Bird"
+    }
+   },
+   {
+    "pt": "A mãe ficou envergonhada, mas depois riu também.",
+    "en": "Her mother was embarrassed, but then she laughed too.",
+    "glosses": {
+     "ficou": "was",
+     "riu": "laughed"
+    }
+   },
+   {
+    "pt": "— Quem contou isso para você? — perguntou a mãe.",
+    "en": "\"Who told you that?\" asked her mother.",
+    "glosses": {
+     "contou": "told",
+     "isso": "that",
+     "perguntou": "asked"
+    }
+   },
+   {
+    "pt": "Letícia olhou para o avô, e ele continuou comendo, muito quieto.",
+    "en": "Letícia looked at her grandfather, and he kept on eating, very quietly.",
+    "glosses": {
+     "olhou para": "looked at",
+     "continuou comendo": "kept on eating",
+     "quieto": "quietly"
+    }
+   },
+   {
+    "pt": "Agora, cada pessoa da família tem um apelido.",
+    "en": "Now, each person in the family has a nickname.",
+    "glosses": {
+     "da": "in the",
+     "tem": "has"
+    }
+   },
+   {
+    "pt": "Só Letícia ainda não tem um.",
+    "en": "Only Letícia doesn't have one yet.",
+    "glosses": {
+     "ainda não": "not yet",
+     "tem": "has",
+     "um": "one"
+    }
+   },
+   {
+    "pt": "Mas o avô diz que vai pensar em um apelido bonito para ela.",
+    "en": "But her grandfather says he is going to think of a nice nickname for her.",
+    "glosses": {
+     "diz": "says",
+     "vai pensar em": "is going to think of",
+     "bonito": "nice"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Quantos anos tem Letícia?",
+    "qEn": "How old is Letícia?",
+    "options": [
+     "Doze",
+     "Catorze",
+     "Dezesseis",
+     "Dezoito"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Por que o avô tem o apelido de Peixe?",
+    "qEn": "Why is the grandfather nicknamed Fish?",
+    "options": [
+     "Porque ele tinha um peixe",
+     "Porque ele nadava muito",
+     "Porque ele comia muito peixe",
+     "Porque ele morava perto de um rio"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Qual era o apelido da mãe?",
+    "qEn": "What was Mom's nickname?",
+    "options": [
+     "Peixe",
+     "Pássaro",
+     "Gato",
+     "Flor"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

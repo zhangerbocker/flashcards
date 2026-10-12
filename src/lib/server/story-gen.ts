@@ -17,7 +17,7 @@ import {
   type StoryDraft,
 } from "../story";
 import type { Topic } from "../topics";
-import { withArticle, type Level, type Word } from "../words";
+import { LEVEL_NAMES, withArticle, type Level, type Word } from "../words";
 
 const Question = z.object({
   q: z.string().describe("Question in simple Portuguese"),
@@ -66,16 +66,18 @@ export interface StoryGenResult {
 }
 
 /** Target sentence counts per story; models hit these more reliably than word counts. */
-const SENTENCES: Record<Level, string> = { 1: "12-18", 2: "16-24" };
+const SENTENCES: Record<Level, string> = { 1: "12-18", 2: "16-24", 3: "20-30", 4: "24-36" };
 
 const TENSES: Record<Level, string> = {
   1: "the present tense, ir + infinitive for the future, and a little pretérito perfeito",
   2: "the present, ir + infinitive, the pretérito perfeito and the pretérito imperfeito",
+  3: "everything up to A2 plus the simple future, the conditional, the present subjunctive and the compound past (tinha feito)",
+  4: "any tense, including the imperfect and future subjunctive and the personal infinitive",
 };
 
 function system(level: Level, extras: ReadonlySet<string>): string {
   const [min, max] = LENGTH_RANGE[level];
-  const cefr = level === 1 ? "A1" : "A2";
+  const cefr = LEVEL_NAMES[level];
   return `You write graded reading stories in Brazilian Portuguese for an adult English-speaking learner at CEFR ${cefr}.
 Rules:
 - Use ONLY words from the allowed vocabulary list, in any inflected form (conjugations, plurals, feminine forms, contractions like do/na/pelo), plus punctuation, numerals and these extras: ${[...extras].join(", ")}. Use only names from the extras.

@@ -1,0 +1,629 @@
+[
+ {
+  "pt": "ademais",
+  "pos": "adv.",
+  "english": "furthermore, moreover",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "O projeto é caro; ademais, não há tempo suficiente.",
+   "en": "The project is expensive; furthermore, there isn't enough time."
+  }
+ },
+ {
+  "pt": "contudo",
+  "pos": "conj.",
+  "english": "however, nevertheless",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "A proposta é boa; contudo, precisa de ajustes.",
+   "en": "The proposal is good; however, it needs adjustments."
+  }
+ },
+ {
+  "pt": "todavia",
+  "pos": "conj.",
+  "english": "however, yet",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Os números melhoraram, todavia a crise continua.",
+   "en": "The numbers improved, yet the crisis continues."
+  }
+ },
+ {
+  "pt": "não obstante",
+  "pos": "expr.",
+  "english": "notwithstanding, nevertheless",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Não obstante as críticas, o governo manteve a decisão.",
+   "en": "Notwithstanding the criticism, the government kept the decision."
+  }
+ },
+ {
+  "pt": "por conseguinte",
+  "pos": "expr.",
+  "english": "consequently, therefore",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "A demanda caiu e, por conseguinte, os preços também.",
+   "en": "Demand fell and, consequently, so did prices."
+  }
+ },
+ {
+  "pt": "visto que",
+  "pos": "conj.",
+  "english": "since, given that",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Cancelaram o evento, visto que choveu muito.",
+   "en": "They cancelled the event, since it rained a lot."
+  }
+ },
+ {
+  "pt": "dado que",
+  "pos": "conj.",
+  "english": "given that",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Dado que o prazo é curto, vamos começar hoje.",
+   "en": "Given that the deadline is short, let's start today."
+  }
+ },
+ {
+  "pt": "a fim de que",
+  "pos": "conj.",
+  "english": "so that, in order that",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Explicou tudo de novo a fim de que ninguém tivesse dúvidas.",
+   "en": "He explained everything again so that no one would have doubts."
+  }
+ },
+ {
+  "pt": "a fim de",
+  "pos": "prep.",
+  "english": "in order to",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ela economizou a fim de viajar no fim do ano.",
+   "en": "She saved money in order to travel at the end of the year."
+  }
+ },
+ {
+  "pt": "desde que",
+  "pos": "conj.",
+  "english": "provided that, as long as (+ subjunctive)",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Você pode sair mais cedo, desde que termine o relatório.",
+   "en": "You can leave early, provided that you finish the report."
+  }
+ },
+ {
+  "pt": "à medida que",
+  "pos": "conj.",
+  "english": "as (progressively)",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "À medida que a cidade cresce, o trânsito piora.",
+   "en": "As the city grows, traffic gets worse."
+  }
+ },
+ {
+  "pt": "mediante",
+  "pos": "prep.",
+  "english": "by means of, upon (presentation of)",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "A entrada é liberada mediante apresentação de documento.",
+   "en": "Entry is allowed upon presentation of an ID."
+  }
+ },
+ {
+  "pt": "perante",
+  "pos": "prep.",
+  "english": "before, in the face of",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ele teve que se explicar perante o juiz.",
+   "en": "He had to explain himself before the judge."
+  }
+ },
+ {
+  "pt": "quanto mais",
+  "pos": "expr.",
+  "english": "the more (… the more)",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Quanto mais eu estudo, mais eu aprendo.",
+   "en": "The more I study, the more I learn."
+  }
+ },
+ {
+  "pt": "quanto menos",
+  "pos": "expr.",
+  "english": "the less (… the less/more)",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Quanto menos você se preocupar, melhor.",
+   "en": "The less you worry, the better."
+  }
+ },
+ {
+  "pt": "sobretudo",
+  "pos": "adv.",
+  "english": "above all, especially",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Gosto de viajar, sobretudo para o Nordeste.",
+   "en": "I like to travel, especially to the Northeast."
+  }
+ },
+ {
+  "pt": "inclusive",
+  "pos": "adv.",
+  "english": "including; even",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Todos vieram, inclusive o diretor.",
+   "en": "Everyone came, even the director."
+  }
+ },
+ {
+  "pt": "aliás",
+  "pos": "adv.",
+  "english": "by the way; in fact, actually",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Aliás, você já falou com a Ana sobre isso?",
+   "en": "By the way, have you already talked to Ana about this?"
+  }
+ },
+ {
+  "pt": "ou seja",
+  "pos": "expr.",
+  "english": "that is, in other words",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "A reunião foi adiada, ou seja, temos mais uma semana.",
+   "en": "The meeting was postponed, in other words, we have one more week."
+  }
+ },
+ {
+  "pt": "isto é",
+  "pos": "expr.",
+  "english": "that is (i.e.)",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ele é autônomo, isto é, trabalha por conta própria.",
+   "en": "He is self-employed, that is, he works for himself."
+  }
+ },
+ {
+  "pt": "de modo que",
+  "pos": "conj.",
+  "english": "so that; so",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Choveu a noite toda, de modo que a estrada ficou interditada.",
+   "en": "It rained all night, so the road was closed."
+  }
+ },
+ {
+  "pt": "de forma que",
+  "pos": "conj.",
+  "english": "so that, in such a way that",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Organize os arquivos de forma que todos possam encontrá-los.",
+   "en": "Organize the files so that everyone can find them."
+  }
+ },
+ {
+  "pt": "ainda que",
+  "pos": "conj.",
+  "english": "even if, even though",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ainda que seja difícil, vou tentar.",
+   "en": "Even if it is difficult, I'll try."
+  }
+ },
+ {
+  "pt": "a não ser que",
+  "pos": "conj.",
+  "english": "unless",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Vamos à praia, a não ser que chova.",
+   "en": "We'll go to the beach, unless it rains."
+  }
+ },
+ {
+  "pt": "a menos que",
+  "pos": "conj.",
+  "english": "unless",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Não vou assinar a menos que mudem a cláusula.",
+   "en": "I won't sign unless they change the clause."
+  }
+ },
+ {
+  "pt": "contanto que",
+  "pos": "conj.",
+  "english": "provided that",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Pode usar meu carro, contanto que devolva com o tanque cheio.",
+   "en": "You can use my car, provided you return it with a full tank."
+  }
+ },
+ {
+  "pt": "uma vez que",
+  "pos": "conj.",
+  "english": "since, given that",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Uma vez que todos concordam, podemos seguir em frente.",
+   "en": "Since everyone agrees, we can move forward."
+  }
+ },
+ {
+  "pt": "ao passo que",
+  "pos": "conj.",
+  "english": "whereas, while",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ela prefere o campo, ao passo que o marido adora a cidade.",
+   "en": "She prefers the countryside, whereas her husband loves the city."
+  }
+ },
+ {
+  "pt": "acerca de",
+  "pos": "prep.",
+  "english": "about, concerning",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Houve muita discussão acerca de seu salário.",
+   "en": "There was a lot of discussion about his salary."
+  }
+ },
+ {
+  "pt": "a respeito de",
+  "pos": "prep.",
+  "english": "regarding, about",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Preciso falar com você a respeito de um assunto sério.",
+   "en": "I need to talk to you about a serious matter."
+  }
+ },
+ {
+  "pt": "no que diz respeito a",
+  "pos": "expr.",
+  "english": "as far as … is concerned",
+  "level": 4,
+  "topic": "Function words",
+  "forms": [
+   "no que diz respeito ao",
+   "no que diz respeito à",
+   "no que diz respeito aos",
+   "no que diz respeito às"
+  ],
+  "example": {
+   "pt": "No que diz respeito à segurança, não há o que reclamar.",
+   "en": "As far as safety is concerned, there is nothing to complain about."
+  }
+ },
+ {
+  "pt": "em relação a",
+  "pos": "prep.",
+  "english": "in relation to, regarding",
+  "level": 4,
+  "topic": "Function words",
+  "forms": [
+   "em relação ao",
+   "em relação à",
+   "em relação aos",
+   "em relação às"
+  ],
+  "example": {
+   "pt": "Em relação ao ano passado, as vendas cresceram.",
+   "en": "Compared with last year, sales grew."
+  }
+ },
+ {
+  "pt": "diante de",
+  "pos": "prep.",
+  "english": "in front of; in view of",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Diante de tantas dificuldades, ele desistiu.",
+   "en": "In view of so many difficulties, he gave up."
+  }
+ },
+ {
+  "pt": "em prol de",
+  "pos": "prep.",
+  "english": "in favor of, on behalf of",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Fizeram uma campanha em prol de crianças carentes.",
+   "en": "They ran a campaign on behalf of needy children."
+  }
+ },
+ {
+  "pt": "por meio de",
+  "pos": "prep.",
+  "english": "by means of, through",
+  "level": 4,
+  "topic": "Function words",
+  "forms": [
+   "por meio do",
+   "por meio da",
+   "por meio dos",
+   "por meio das",
+   "por meio dum",
+   "por meio duma"
+  ],
+  "example": {
+   "pt": "A inscrição é feita por meio do site.",
+   "en": "Registration is done through the website."
+  }
+ },
+ {
+  "pt": "em função de",
+  "pos": "prep.",
+  "english": "because of, due to; depending on",
+  "level": 4,
+  "topic": "Function words",
+  "forms": [
+   "em função do",
+   "em função da",
+   "em função dos",
+   "em função das",
+   "em função dum",
+   "em função duma"
+  ],
+  "example": {
+   "pt": "O voo atrasou em função do mau tempo.",
+   "en": "The flight was delayed because of bad weather."
+  }
+ },
+ {
+  "pt": "em virtude de",
+  "pos": "prep.",
+  "english": "by virtue of, owing to",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "A loja fechou em virtude de problemas financeiros.",
+   "en": "The store closed owing to financial problems."
+  }
+ },
+ {
+  "pt": "tendo em vista",
+  "pos": "expr.",
+  "english": "in view of, considering",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Tendo em vista os resultados, mudaremos a estratégia.",
+   "en": "In view of the results, we will change the strategy."
+  }
+ },
+ {
+  "pt": "haja vista",
+  "pos": "expr.",
+  "english": "given, considering (formal)",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "A obra parou, haja vista a falta de verbas.",
+   "en": "The construction stopped, given the lack of funds."
+  }
+ },
+ {
+  "pt": "de fato",
+  "pos": "expr.",
+  "english": "indeed, in fact",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "De fato, o serviço melhorou muito.",
+   "en": "Indeed, the service improved a lot."
+  }
+ },
+ {
+  "pt": "assim sendo",
+  "pos": "expr.",
+  "english": "that being so, therefore",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ninguém se opôs; assim sendo, a proposta foi aprovada.",
+   "en": "No one objected; that being so, the proposal was approved."
+  }
+ },
+ {
+  "pt": "em suma",
+  "pos": "expr.",
+  "english": "in short, in sum",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Em suma, foi um ano muito positivo.",
+   "en": "In short, it was a very positive year."
+  }
+ },
+ {
+  "pt": "em contrapartida",
+  "pos": "expr.",
+  "english": "on the other hand, in return",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "O salário é baixo; em contrapartida, o horário é flexível.",
+   "en": "The salary is low; on the other hand, the hours are flexible."
+  }
+ },
+ {
+  "pt": "tampouco",
+  "pos": "adv.",
+  "english": "neither, nor (either)",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ele não ligou, tampouco mandou mensagem.",
+   "en": "He didn't call, nor did he send a message."
+  }
+ },
+ {
+  "pt": "sequer",
+  "pos": "adv.",
+  "english": "(not) even",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ela saiu sem sequer dizer tchau.",
+   "en": "She left without even saying goodbye."
+  }
+ },
+ {
+  "pt": "cujo",
+  "pos": "pron.",
+  "english": "whose",
+  "level": 4,
+  "topic": "Function words",
+  "forms": [
+   "cuja",
+   "cujos",
+   "cujas"
+  ],
+  "example": {
+   "pt": "Conheci um autor cujos livros são famosos.",
+   "en": "I met an author whose books are famous."
+  }
+ },
+ {
+  "pt": "o qual",
+  "pos": "pron.",
+  "english": "which, who (formal relative)",
+  "level": 4,
+  "topic": "Function words",
+  "forms": [
+   "a qual",
+   "os quais",
+   "as quais"
+  ],
+  "example": {
+   "pt": "Esta é a empresa para a qual trabalhei por dez anos.",
+   "en": "This is the company in which I worked for ten years."
+  }
+ },
+ {
+  "pt": "quer dizer",
+  "pos": "expr.",
+  "english": "that is to say, I mean",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Ele chega amanhã, quer dizer, se o voo não atrasar.",
+   "en": "He arrives tomorrow, I mean, if the flight isn't delayed."
+  }
+ },
+ {
+  "pt": "seja como for",
+  "pos": "expr.",
+  "english": "be that as it may, anyway",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Seja como for, precisamos tomar uma decisão hoje.",
+   "en": "Be that as it may, we need to make a decision today."
+  }
+ },
+ {
+  "pt": "salvo",
+  "pos": "prep.",
+  "english": "except, save",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Todos foram aprovados, salvo dois alunos.",
+   "en": "Everyone passed, except two students."
+  }
+ },
+ {
+  "pt": "conforme",
+  "pos": "conj./prep.",
+  "english": "according to; as",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Conforme combinamos, a entrega será na sexta.",
+   "en": "As we agreed, delivery will be on Friday."
+  }
+ },
+ {
+  "pt": "devido a",
+  "pos": "prep.",
+  "english": "due to, owing to",
+  "level": 4,
+  "topic": "Function words",
+  "forms": [
+   "devido ao",
+   "devido à",
+   "devido aos",
+   "devido às"
+  ],
+  "example": {
+   "pt": "Devido à greve, não houve aula.",
+   "en": "Due to the strike, there were no classes."
+  }
+ },
+ {
+  "pt": "pois",
+  "pos": "conj.",
+  "english": "because, for; (after verb) therefore",
+  "level": 4,
+  "topic": "Function words",
+  "example": {
+   "pt": "Leve um casaco, pois vai esfriar.",
+   "en": "Take a coat, because it's going to get cold."
+  }
+ }
+]

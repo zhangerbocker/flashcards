@@ -1,0 +1,458 @@
+[
+ {
+  "pt": "tempo",
+  "pos": "n.",
+  "english": "weather; time",
+  "level": 1,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "tempos"
+  ],
+  "example": {
+   "pt": "Como está o tempo hoje?",
+   "en": "How is the weather today?"
+  }
+ },
+ {
+  "pt": "sol",
+  "pos": "n.",
+  "english": "sun",
+  "level": 1,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "sóis"
+  ],
+  "example": {
+   "pt": "Hoje tem muito sol.",
+   "en": "There is a lot of sun today."
+  }
+ },
+ {
+  "pt": "chuva",
+  "pos": "n.",
+  "english": "rain",
+  "level": 1,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "chuvas"
+  ],
+  "example": {
+   "pt": "Não gosto de chuva.",
+   "en": "I don't like rain."
+  }
+ },
+ {
+  "pt": "vento",
+  "pos": "n.",
+  "english": "wind",
+  "level": 1,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "ventos"
+  ],
+  "example": {
+   "pt": "Hoje está ventando, tem muito vento.",
+   "en": "It's windy today, there is a lot of wind."
+  }
+ },
+ {
+  "pt": "nuvem",
+  "pos": "n.",
+  "english": "cloud",
+  "level": 1,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "nuvens"
+  ],
+  "example": {
+   "pt": "O céu está sem nuvens.",
+   "en": "The sky has no clouds."
+  }
+ },
+ {
+  "pt": "calor",
+  "pos": "n.",
+  "english": "heat",
+  "level": 1,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "calores"
+  ],
+  "example": {
+   "pt": "Está fazendo muito calor.",
+   "en": "It's very hot."
+  }
+ },
+ {
+  "pt": "frio",
+  "pos": "adj.",
+  "english": "cold",
+  "level": 1,
+  "topic": "Weather & colors",
+  "forms": [
+   "fria",
+   "frios",
+   "frias"
+  ],
+  "example": {
+   "pt": "Hoje está frio. Estou com frio.",
+   "en": "It's cold today. I am cold."
+  }
+ },
+ {
+  "pt": "neve",
+  "pos": "n.",
+  "english": "snow",
+  "level": 1,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "neves"
+  ],
+  "example": {
+   "pt": "No Brasil quase não tem neve.",
+   "en": "In Brazil there is almost no snow."
+  }
+ },
+ {
+  "pt": "temperatura",
+  "pos": "n.",
+  "english": "temperature",
+  "level": 1,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "temperaturas"
+  ],
+  "example": {
+   "pt": "A temperatura hoje é de 30 graus.",
+   "en": "The temperature today is 30 degrees."
+  }
+ },
+ {
+  "pt": "chover",
+  "pos": "v.",
+  "english": "to rain",
+  "level": 1,
+  "topic": "Weather & colors",
+  "example": {
+   "pt": "Vai chover amanhã.",
+   "en": "It's going to rain tomorrow."
+  }
+ },
+ {
+  "pt": "ensolarado",
+  "pos": "adj.",
+  "english": "sunny",
+  "level": 1,
+  "topic": "Weather & colors",
+  "forms": [
+   "ensolarada",
+   "ensolarados",
+   "ensolaradas"
+  ],
+  "example": {
+   "pt": "Hoje o dia está ensolarado.",
+   "en": "Today is a sunny day."
+  }
+ },
+ {
+  "pt": "nublado",
+  "pos": "adj.",
+  "english": "cloudy",
+  "level": 1,
+  "topic": "Weather & colors",
+  "forms": [
+   "nublada",
+   "nublados",
+   "nubladas"
+  ],
+  "example": {
+   "pt": "O céu está nublado.",
+   "en": "The sky is cloudy."
+  }
+ },
+ {
+  "pt": "estação",
+  "pos": "n.",
+  "english": "season",
+  "level": 1,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "estações"
+  ],
+  "example": {
+   "pt": "O verão é minha estação favorita.",
+   "en": "Summer is my favorite season."
+  }
+ },
+ {
+  "pt": "verão",
+  "pos": "n.",
+  "english": "summer",
+  "level": 1,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "verões"
+  ],
+  "example": {
+   "pt": "No verão, nós vamos à praia.",
+   "en": "In summer, we go to the beach."
+  }
+ },
+ {
+  "pt": "inverno",
+  "pos": "n.",
+  "english": "winter",
+  "level": 1,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "invernos"
+  ],
+  "example": {
+   "pt": "O inverno em São Paulo é frio.",
+   "en": "Winter in São Paulo is cold."
+  }
+ },
+ {
+  "pt": "primavera",
+  "pos": "n.",
+  "english": "spring",
+  "level": 1,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "primaveras"
+  ],
+  "example": {
+   "pt": "A primavera começa em setembro no Brasil.",
+   "en": "Spring starts in September in Brazil."
+  }
+ },
+ {
+  "pt": "outono",
+  "pos": "n.",
+  "english": "autumn, fall",
+  "level": 1,
+  "topic": "Weather & colors",
+  "gender": "m",
+  "forms": [
+   "outonos"
+  ],
+  "example": {
+   "pt": "O outono é uma estação bonita.",
+   "en": "Autumn is a beautiful season."
+  }
+ },
+ {
+  "pt": "cor",
+  "pos": "n.",
+  "english": "color",
+  "level": 1,
+  "topic": "Weather & colors",
+  "gender": "f",
+  "forms": [
+   "cores"
+  ],
+  "example": {
+   "pt": "Qual é a sua cor favorita?",
+   "en": "What is your favorite color?"
+  }
+ },
+ {
+  "pt": "branco",
+  "pos": "adj.",
+  "english": "white",
+  "level": 1,
+  "topic": "Weather & colors",
+  "forms": [
+   "branca",
+   "brancos",
+   "brancas"
+  ],
+  "example": {
+   "pt": "Eu tenho uma camisa branca.",
+   "en": "I have a white shirt."
+  }
+ },
+ {
+  "pt": "preto",
+  "pos": "adj.",
+  "english": "black",
+  "level": 1,
+  "topic": "Weather & colors",
+  "forms": [
+   "preta",
+   "pretos",
+   "pretas"
+  ],
+  "example": {
+   "pt": "O gato é preto.",
+   "en": "The cat is black."
+  }
+ },
+ {
+  "pt": "vermelho",
+  "pos": "adj.",
+  "english": "red",
+  "level": 1,
+  "topic": "Weather & colors",
+  "forms": [
+   "vermelha",
+   "vermelhos",
+   "vermelhas"
+  ],
+  "example": {
+   "pt": "Ela comprou um carro vermelho.",
+   "en": "She bought a red car."
+  }
+ },
+ {
+  "pt": "azul",
+  "pos": "adj.",
+  "english": "blue",
+  "level": 1,
+  "topic": "Weather & colors",
+  "forms": [
+   "azuis"
+  ],
+  "example": {
+   "pt": "O céu está azul hoje.",
+   "en": "The sky is blue today."
+  }
+ },
+ {
+  "pt": "verde",
+  "pos": "adj.",
+  "english": "green",
+  "level": 1,
+  "topic": "Weather & colors",
+  "forms": [
+   "verdes"
+  ],
+  "example": {
+   "pt": "As árvores são verdes.",
+   "en": "The trees are green."
+  }
+ },
+ {
+  "pt": "amarelo",
+  "pos": "adj.",
+  "english": "yellow",
+  "level": 1,
+  "topic": "Weather & colors",
+  "forms": [
+   "amarela",
+   "amarelos",
+   "amarelas"
+  ],
+  "example": {
+   "pt": "A bandeira do Brasil é verde e amarela.",
+   "en": "The flag of Brazil is green and yellow."
+  }
+ },
+ {
+  "pt": "laranja",
+  "pos": "adj./n.",
+  "english": "orange (color); orange (fruit)",
+  "level": 1,
+  "topic": "Weather & colors",
+  "example": {
+   "pt": "Eu tenho uma bolsa laranja.",
+   "en": "I have an orange bag."
+  }
+ },
+ {
+  "pt": "rosa",
+  "pos": "adj./n.",
+  "english": "pink; rose",
+  "level": 1,
+  "topic": "Weather & colors",
+  "example": {
+   "pt": "Ela gosta de roupas rosa.",
+   "en": "She likes pink clothes."
+  }
+ },
+ {
+  "pt": "roxo",
+  "pos": "adj.",
+  "english": "purple",
+  "level": 1,
+  "topic": "Weather & colors",
+  "forms": [
+   "roxa",
+   "roxos",
+   "roxas"
+  ],
+  "example": {
+   "pt": "Minha cor favorita é roxo.",
+   "en": "My favorite color is purple."
+  }
+ },
+ {
+  "pt": "marrom",
+  "pos": "adj.",
+  "english": "brown",
+  "level": 1,
+  "topic": "Weather & colors",
+  "forms": [
+   "marrons"
+  ],
+  "example": {
+   "pt": "Ele tem olhos marrons.",
+   "en": "He has brown eyes."
+  }
+ },
+ {
+  "pt": "cinza",
+  "pos": "adj.",
+  "english": "gray, grey",
+  "level": 1,
+  "topic": "Weather & colors",
+  "example": {
+   "pt": "O céu está cinza hoje.",
+   "en": "The sky is gray today."
+  }
+ },
+ {
+  "pt": "claro",
+  "pos": "adj.",
+  "english": "light (color); clear, bright",
+  "level": 1,
+  "topic": "Weather & colors",
+  "forms": [
+   "clara",
+   "claros",
+   "claras"
+  ],
+  "example": {
+   "pt": "Ela usa uma camisa azul-clara.",
+   "en": "She wears a light blue shirt."
+  }
+ },
+ {
+  "pt": "escuro",
+  "pos": "adj.",
+  "english": "dark",
+  "level": 1,
+  "topic": "Weather & colors",
+  "forms": [
+   "escura",
+   "escuros",
+   "escuras"
+  ],
+  "example": {
+   "pt": "O quarto está escuro.",
+   "en": "The room is dark."
+  }
+ }
+]

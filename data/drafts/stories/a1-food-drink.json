@@ -1,0 +1,330 @@
+[
+ {
+  "id": "a1-food-drink-1",
+  "level": 1,
+  "topic": "Food & drink",
+  "title": "Na padaria",
+  "titleEn": "At the bakery",
+  "sentences": [
+   {
+    "pt": "Todo dia de manhã, Seu Antônio vai à padaria do bairro.",
+    "en": "Every morning, Mr. Antônio goes to the neighborhood bakery.",
+    "glosses": {
+     "vai": "goes",
+     "à": "to the",
+     "do": "of the",
+     "todo": "every",
+     "de": "in the"
+    }
+   },
+   {
+    "pt": "A padaria fica na esquina da rua dele.",
+    "en": "The bakery is on the corner of his street.",
+    "glosses": {
+     "fica": "is",
+     "na": "on the",
+     "da": "of the",
+     "dele": "his"
+    }
+   },
+   {
+    "pt": "Ele sempre pede um café com leite e um pão com manteiga.",
+    "en": "He always orders a coffee with milk and bread with butter.",
+    "glosses": {
+     "pede": "orders"
+    }
+   },
+   {
+    "pt": "Hoje, a padaria tem um bolo novo.",
+    "en": "Today, the bakery has a new cake.",
+    "glosses": {
+     "tem": "has"
+    }
+   },
+   {
+    "pt": "\"É bolo de banana, Seu Antônio. Quer?\", pergunta o moço.",
+    "en": "\"It's banana cake, Mr. Antônio. Want some?\" asks the young man.",
+    "glosses": {
+     "é": "it's",
+     "quer": "want some",
+     "pergunta": "asks",
+     "moço": "young man"
+    }
+   },
+   {
+    "pt": "\"Bolo de manhã? Por que não?\", ele responde.",
+    "en": "\"Cake in the morning? Why not?\" he answers.",
+    "glosses": {
+     "responde": "answers",
+     "de": "in the",
+     "por que": "why"
+    }
+   },
+   {
+    "pt": "Ele come o bolo e bebe o café.",
+    "en": "He eats the cake and drinks the coffee.",
+    "glosses": {
+     "come": "eats",
+     "bebe": "drinks"
+    }
+   },
+   {
+    "pt": "O bolo está muito gostoso.",
+    "en": "The cake is very tasty.",
+    "glosses": {
+     "está": "is"
+    }
+   },
+   {
+    "pt": "\"Quanto é?\", pergunta Seu Antônio.",
+    "en": "\"How much is it?\" asks Mr. Antônio.",
+    "glosses": {
+     "é": "is it",
+     "pergunta": "asks",
+     "quanto": "how much"
+    }
+   },
+   {
+    "pt": "\"Doze reais, com o café\", diz o moço.",
+    "en": "\"Twelve reais, with the coffee,\" says the young man.",
+    "glosses": {
+     "diz": "says",
+     "moço": "young man"
+    }
+   },
+   {
+    "pt": "Seu Antônio paga e compra mais um bolo para a esposa.",
+    "en": "Mr. Antônio pays and buys one more cake for his wife.",
+    "glosses": {
+     "paga": "pays",
+     "compra": "buys",
+     "mais um": "one more"
+    }
+   },
+   {
+    "pt": "A esposa dele, Dona Lúcia, adora banana.",
+    "en": "His wife, Mrs. Lúcia, loves bananas.",
+    "glosses": {
+     "dele": "his",
+     "adora": "loves"
+    }
+   },
+   {
+    "pt": "Em casa, ela come o bolo com um chá.",
+    "en": "At home, she eats the cake with a tea.",
+    "glosses": {
+     "come": "eats",
+     "em": "at"
+    }
+   },
+   {
+    "pt": "\"Amanhã, você compra outro!\", ela diz.",
+    "en": "\"Tomorrow, you buy another one!\" she says.",
+    "glosses": {
+     "compra": "buys",
+     "diz": "says",
+     "outro": "another one"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "O que Seu Antônio sempre pede?",
+    "qEn": "What does Mr. Antônio always order?",
+    "options": [
+     "Suco e bolo",
+     "Café com leite e pão",
+     "Chá e queijo",
+     "Leite e frutas"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "De que é o bolo novo?",
+    "qEn": "What kind of cake is the new cake?",
+    "options": [
+     "De chocolate",
+     "De laranja",
+     "De banana",
+     "De queijo"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Quanto Seu Antônio paga?",
+    "qEn": "How much does Mr. Antônio pay?",
+    "options": [
+     "Doze reais",
+     "Dez reais",
+     "Cinco reais",
+     "Vinte reais"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "a1-food-drink-2",
+  "level": 1,
+  "topic": "Food & drink",
+  "title": "O jantar de sexta-feira",
+  "titleEn": "Friday dinner",
+  "sentences": [
+   {
+    "pt": "Na sexta-feira, Camila convida dois amigos para jantar.",
+    "en": "On Friday, Camila invites two friends to dinner.",
+    "glosses": {
+     "na": "on",
+     "convida": "invites",
+     "para": "to",
+     "jantar": "have dinner"
+    }
+   },
+   {
+    "pt": "Ela gosta muito de cozinhar.",
+    "en": "She really likes to cook.",
+    "glosses": {
+     "gosta": "likes",
+     "muito": "a lot",
+     "de": "(of)"
+    }
+   },
+   {
+    "pt": "À tarde, ela vai ao mercado.",
+    "en": "In the afternoon, she goes to the market.",
+    "glosses": {
+     "à": "in the",
+     "vai": "goes",
+     "ao": "to the"
+    }
+   },
+   {
+    "pt": "Ela compra frango, arroz, feijão, tomate e batata.",
+    "en": "She buys chicken, rice, beans, tomatoes and potatoes.",
+    "glosses": {
+     "compra": "buys"
+    }
+   },
+   {
+    "pt": "Ela também compra sorvete de chocolate.",
+    "en": "She also buys chocolate ice cream.",
+    "glosses": {
+     "compra": "buys"
+    }
+   },
+   {
+    "pt": "Em casa, ela começa a cozinhar às seis horas.",
+    "en": "At home, she starts cooking at six o'clock.",
+    "glosses": {
+     "começa": "starts",
+     "às": "at",
+     "em": "at",
+     "a": "(to)"
+    }
+   },
+   {
+    "pt": "Às oito, os amigos chegam com uma garrafa de vinho.",
+    "en": "At eight, her friends arrive with a bottle of wine.",
+    "glosses": {
+     "às": "at",
+     "chegam": "arrive"
+    }
+   },
+   {
+    "pt": "Um dos amigos, Felipe, não come carne.",
+    "en": "One of the friends, Felipe, doesn't eat meat.",
+    "glosses": {
+     "dos": "of the",
+     "come": "eats",
+     "um": "one"
+    }
+   },
+   {
+    "pt": "\"Não! Eu esqueci!\", diz Camila.",
+    "en": "\"Oh no! I forgot!\" says Camila.",
+    "glosses": {
+     "esqueci": "I forgot",
+     "diz": "says",
+     "não": "oh no"
+    }
+   },
+   {
+    "pt": "Mas Felipe come arroz, feijão e uma salada de tomate.",
+    "en": "But Felipe eats rice, beans and a tomato salad.",
+    "glosses": {
+     "come": "eats"
+    }
+   },
+   {
+    "pt": "\"O feijão está ótimo!\", ele diz.",
+    "en": "\"The beans are great!\" he says.",
+    "glosses": {
+     "está": "is (are)",
+     "diz": "says",
+     "feijão": "beans"
+    }
+   },
+   {
+    "pt": "Depois, todos comem sorvete na sala.",
+    "en": "Then everyone eats ice cream in the living room.",
+    "glosses": {
+     "comem": "eat",
+     "na": "in the",
+     "todos": "everyone",
+     "sala": "living room"
+    }
+   },
+   {
+    "pt": "Eles conversam e riem até meia-noite.",
+    "en": "They talk and laugh until midnight.",
+    "glosses": {
+     "conversam": "talk",
+     "riem": "laugh",
+     "até": "until"
+    }
+   },
+   {
+    "pt": "Camila está cansada, mas muito feliz.",
+    "en": "Camila is tired, but very happy.",
+    "glosses": {
+     "está": "is"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Quem não come carne?",
+    "qEn": "Who doesn't eat meat?",
+    "options": [
+     "Camila",
+     "Felipe",
+     "Ana",
+     "Ninguém"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "O que os amigos trazem?",
+    "qEn": "What do the friends bring?",
+    "options": [
+     "Vinho",
+     "Sorvete",
+     "Frango",
+     "Pão"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Até que horas eles conversam?",
+    "qEn": "Until what time do they talk?",
+    "options": [
+     "Até as oito",
+     "Até as seis",
+     "Até as dez",
+     "Até meia-noite"
+    ],
+    "answer": 3
+   }
+  ]
+ }
+]

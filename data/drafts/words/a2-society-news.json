@@ -1,0 +1,539 @@
+[
+ {
+  "pt": "governo",
+  "pos": "n.",
+  "english": "government",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "governos"
+  ],
+  "example": {
+   "pt": "O governo anunciou novas regras.",
+   "en": "The government announced new rules."
+  }
+ },
+ {
+  "pt": "eleição",
+  "pos": "n.",
+  "english": "election",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "eleições"
+  ],
+  "example": {
+   "pt": "A eleição vai ser em outubro.",
+   "en": "The election will be in October."
+  }
+ },
+ {
+  "pt": "notícia",
+  "pos": "n.",
+  "english": "news (item)",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "notícias"
+  ],
+  "example": {
+   "pt": "Você viu as notícias de hoje?",
+   "en": "Did you see today's news?"
+  }
+ },
+ {
+  "pt": "jornal",
+  "pos": "n.",
+  "english": "newspaper; news program",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "jornais"
+  ],
+  "example": {
+   "pt": "Meu pai lê o jornal todo dia.",
+   "en": "My dad reads the newspaper every day."
+  }
+ },
+ {
+  "pt": "jornalista",
+  "pos": "n.",
+  "english": "journalist",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "mf",
+  "forms": [
+   "jornalistas"
+  ],
+  "example": {
+   "pt": "A jornalista entrevistou o prefeito.",
+   "en": "The journalist interviewed the mayor."
+  }
+ },
+ {
+  "pt": "presidente",
+  "pos": "n.",
+  "english": "president",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "mf",
+  "forms": [
+   "presidentes"
+  ],
+  "example": {
+   "pt": "O presidente falou na televisão.",
+   "en": "The president spoke on television."
+  }
+ },
+ {
+  "pt": "prefeito",
+  "pos": "n.",
+  "english": "mayor",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "prefeita",
+   "prefeitos",
+   "prefeitas"
+  ],
+  "example": {
+   "pt": "O prefeito visitou o bairro.",
+   "en": "The mayor visited the neighborhood."
+  }
+ },
+ {
+  "pt": "política",
+  "pos": "n.",
+  "english": "politics; policy",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "políticas"
+  ],
+  "example": {
+   "pt": "Ele não gosta de falar de política.",
+   "en": "He doesn't like to talk about politics."
+  }
+ },
+ {
+  "pt": "lei",
+  "pos": "n.",
+  "english": "law",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "leis"
+  ],
+  "example": {
+   "pt": "Essa lei é nova.",
+   "en": "This law is new."
+  }
+ },
+ {
+  "pt": "direito",
+  "pos": "n.",
+  "english": "right (legal); law (field)",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "direitos"
+  ],
+  "example": {
+   "pt": "Todos têm direito à educação.",
+   "en": "Everyone has the right to education."
+  }
+ },
+ {
+  "pt": "polícia",
+  "pos": "n.",
+  "english": "police",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "polícias"
+  ],
+  "example": {
+   "pt": "Chamaram a polícia por causa do barulho.",
+   "en": "They called the police because of the noise."
+  }
+ },
+ {
+  "pt": "crime",
+  "pos": "n.",
+  "english": "crime",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "crimes"
+  ],
+  "example": {
+   "pt": "O crime aconteceu no centro da cidade.",
+   "en": "The crime happened downtown."
+  }
+ },
+ {
+  "pt": "ladrão",
+  "pos": "n.",
+  "english": "thief",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "ladra",
+   "ladrões",
+   "ladras"
+  ],
+  "example": {
+   "pt": "O ladrão roubou o celular dela.",
+   "en": "The thief stole her cell phone."
+  }
+ },
+ {
+  "pt": "roubar",
+  "pos": "v.",
+  "english": "to steal, to rob",
+  "level": 2,
+  "topic": "Society & news",
+  "example": {
+   "pt": "Roubaram a minha bicicleta.",
+   "en": "They stole my bike."
+  }
+ },
+ {
+  "pt": "votar",
+  "pos": "v.",
+  "english": "to vote",
+  "level": 2,
+  "topic": "Society & news",
+  "example": {
+   "pt": "Em quem você votou?",
+   "en": "Who did you vote for?"
+  }
+ },
+ {
+  "pt": "voto",
+  "pos": "n.",
+  "english": "vote",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "votos"
+  ],
+  "example": {
+   "pt": "Cada voto é importante.",
+   "en": "Every vote is important."
+  }
+ },
+ {
+  "pt": "cidadão",
+  "pos": "n.",
+  "english": "citizen",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "cidadã",
+   "cidadãos",
+   "cidadãs"
+  ],
+  "example": {
+   "pt": "Todo cidadão deve votar.",
+   "en": "Every citizen should vote."
+  }
+ },
+ {
+  "pt": "população",
+  "pos": "n.",
+  "english": "population",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "populações"
+  ],
+  "example": {
+   "pt": "A população da cidade cresceu muito.",
+   "en": "The city's population grew a lot."
+  }
+ },
+ {
+  "pt": "guerra",
+  "pos": "n.",
+  "english": "war",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "guerras"
+  ],
+  "example": {
+   "pt": "Meu avô lutou na guerra.",
+   "en": "My grandfather fought in the war."
+  }
+ },
+ {
+  "pt": "paz",
+  "pos": "n.",
+  "english": "peace",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "pazes"
+  ],
+  "example": {
+   "pt": "Todos querem viver em paz.",
+   "en": "Everyone wants to live in peace."
+  }
+ },
+ {
+  "pt": "pobreza",
+  "pos": "n.",
+  "english": "poverty",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "pobrezas"
+  ],
+  "example": {
+   "pt": "A pobreza ainda é um problema no país.",
+   "en": "Poverty is still a problem in the country."
+  }
+ },
+ {
+  "pt": "imposto",
+  "pos": "n.",
+  "english": "tax",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "impostos"
+  ],
+  "example": {
+   "pt": "Os impostos aumentaram este ano.",
+   "en": "Taxes went up this year."
+  }
+ },
+ {
+  "pt": "greve",
+  "pos": "n.",
+  "english": "strike",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "greves"
+  ],
+  "example": {
+   "pt": "Os professores estão em greve.",
+   "en": "The teachers are on strike."
+  }
+ },
+ {
+  "pt": "manifestação",
+  "pos": "n.",
+  "english": "demonstration, protest",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "manifestações"
+  ],
+  "example": {
+   "pt": "Teve uma manifestação na avenida Paulista.",
+   "en": "There was a demonstration on Paulista Avenue."
+  }
+ },
+ {
+  "pt": "acidente",
+  "pos": "n.",
+  "english": "accident",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "acidentes"
+  ],
+  "example": {
+   "pt": "Teve um acidente na estrada.",
+   "en": "There was an accident on the highway."
+  }
+ },
+ {
+  "pt": "economia",
+  "pos": "n.",
+  "english": "economy",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "economias"
+  ],
+  "example": {
+   "pt": "A economia do país está melhorando.",
+   "en": "The country's economy is improving."
+  }
+ },
+ {
+  "pt": "crise",
+  "pos": "n.",
+  "english": "crisis",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "crises"
+  ],
+  "example": {
+   "pt": "Muitas empresas fecharam durante a crise.",
+   "en": "Many companies closed during the crisis."
+  }
+ },
+ {
+  "pt": "desemprego",
+  "pos": "n.",
+  "english": "unemployment",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "m",
+  "forms": [
+   "desempregos"
+  ],
+  "example": {
+   "pt": "O desemprego caiu este ano.",
+   "en": "Unemployment fell this year."
+  }
+ },
+ {
+  "pt": "segurança",
+  "pos": "n.",
+  "english": "safety, security",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "seguranças"
+  ],
+  "example": {
+   "pt": "A segurança é importante para todos.",
+   "en": "Safety is important for everyone."
+  }
+ },
+ {
+  "pt": "informação",
+  "pos": "n.",
+  "english": "information",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "informações"
+  ],
+  "example": {
+   "pt": "Preciso de mais informações sobre o curso.",
+   "en": "I need more information about the course."
+  }
+ },
+ {
+  "pt": "entrevista",
+  "pos": "n.",
+  "english": "interview",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "entrevistas"
+  ],
+  "example": {
+   "pt": "Assisti a entrevista com o jogador.",
+   "en": "I watched the interview with the player."
+  }
+ },
+ {
+  "pt": "revista",
+  "pos": "n.",
+  "english": "magazine",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "revistas"
+  ],
+  "example": {
+   "pt": "Comprei uma revista na banca.",
+   "en": "I bought a magazine at the newsstand."
+  }
+ },
+ {
+  "pt": "rede social",
+  "pos": "n.",
+  "english": "social network",
+  "level": 2,
+  "topic": "Society & news",
+  "gender": "f",
+  "forms": [
+   "redes sociais"
+  ],
+  "example": {
+   "pt": "Ela passa horas nas redes sociais.",
+   "en": "She spends hours on social media."
+  }
+ },
+ {
+  "pt": "aumentar",
+  "pos": "v.",
+  "english": "to increase, to go up",
+  "level": 2,
+  "topic": "Society & news",
+  "example": {
+   "pt": "O preço da gasolina aumentou.",
+   "en": "The price of gas went up."
+  }
+ },
+ {
+  "pt": "diminuir",
+  "pos": "v.",
+  "english": "to decrease, to reduce",
+  "level": 2,
+  "topic": "Society & news",
+  "example": {
+   "pt": "O número de acidentes diminuiu.",
+   "en": "The number of accidents decreased."
+  }
+ },
+ {
+  "pt": "acontecer",
+  "pos": "v.",
+  "english": "to happen",
+  "level": 2,
+  "topic": "Society & news",
+  "example": {
+   "pt": "O que aconteceu aqui?",
+   "en": "What happened here?"
+  }
+ },
+ {
+  "pt": "anunciar",
+  "pos": "v.",
+  "english": "to announce",
+  "level": 2,
+  "topic": "Society & news",
+  "example": {
+   "pt": "A empresa anunciou novos empregos.",
+   "en": "The company announced new jobs."
+  }
+ }
+]

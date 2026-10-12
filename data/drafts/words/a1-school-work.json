@@ -1,0 +1,664 @@
+[
+ {
+  "pt": "aula",
+  "pos": "n.",
+  "english": "class, lesson",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "aulas"
+  ],
+  "example": {
+   "pt": "A aula de português é às nove.",
+   "en": "Portuguese class is at nine."
+  }
+ },
+ {
+  "pt": "aluno",
+  "pos": "n.",
+  "english": "student, pupil",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "aluna",
+   "alunos",
+   "alunas"
+  ],
+  "example": {
+   "pt": "A aluna faz uma pergunta.",
+   "en": "The student asks a question."
+  }
+ },
+ {
+  "pt": "sala de aula",
+  "pos": "n.",
+  "english": "classroom",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "salas de aula"
+  ],
+  "example": {
+   "pt": "Os alunos estão na sala de aula.",
+   "en": "The students are in the classroom."
+  }
+ },
+ {
+  "pt": "caderno",
+  "pos": "n.",
+  "english": "notebook",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "cadernos"
+  ],
+  "example": {
+   "pt": "Eu escrevo no caderno.",
+   "en": "I write in the notebook."
+  }
+ },
+ {
+  "pt": "caneta",
+  "pos": "n.",
+  "english": "pen",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "canetas"
+  ],
+  "example": {
+   "pt": "Você tem uma caneta?",
+   "en": "Do you have a pen?"
+  }
+ },
+ {
+  "pt": "lápis",
+  "pos": "n.",
+  "english": "pencil",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "example": {
+   "pt": "Eu escrevo com lápis.",
+   "en": "I write with a pencil."
+  }
+ },
+ {
+  "pt": "papel",
+  "pos": "n.",
+  "english": "paper",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "papéis"
+  ],
+  "example": {
+   "pt": "Preciso de papel e caneta.",
+   "en": "I need paper and a pen."
+  }
+ },
+ {
+  "pt": "palavra",
+  "pos": "n.",
+  "english": "word",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "palavras"
+  ],
+  "example": {
+   "pt": "Eu aprendo dez palavras por dia.",
+   "en": "I learn ten words a day."
+  }
+ },
+ {
+  "pt": "pergunta",
+  "pos": "n.",
+  "english": "question",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "perguntas"
+  ],
+  "example": {
+   "pt": "Posso fazer uma pergunta?",
+   "en": "Can I ask a question?"
+  }
+ },
+ {
+  "pt": "resposta",
+  "pos": "n.",
+  "english": "answer",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "respostas"
+  ],
+  "example": {
+   "pt": "A resposta está certa.",
+   "en": "The answer is right."
+  }
+ },
+ {
+  "pt": "língua",
+  "pos": "n.",
+  "english": "language; tongue",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "línguas"
+  ],
+  "example": {
+   "pt": "O português é uma língua bonita.",
+   "en": "Portuguese is a beautiful language."
+  }
+ },
+ {
+  "pt": "inglês",
+  "pos": "n./adj.",
+  "english": "English",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "inglesa",
+   "ingleses",
+   "inglesas"
+  ],
+  "example": {
+   "pt": "Você fala inglês?",
+   "en": "Do you speak English?"
+  }
+ },
+ {
+  "pt": "prova",
+  "pos": "n.",
+  "english": "test, exam",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "provas"
+  ],
+  "example": {
+   "pt": "Amanhã eu tenho prova.",
+   "en": "Tomorrow I have a test."
+  }
+ },
+ {
+  "pt": "dever de casa",
+  "pos": "n.",
+  "english": "homework",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "deveres de casa"
+  ],
+  "example": {
+   "pt": "Eu faço o dever de casa à noite.",
+   "en": "I do my homework at night."
+  }
+ },
+ {
+  "pt": "universidade",
+  "pos": "n.",
+  "english": "university",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "universidades"
+  ],
+  "example": {
+   "pt": "Ela estuda na universidade.",
+   "en": "She studies at the university."
+  }
+ },
+ {
+  "pt": "faculdade",
+  "pos": "n.",
+  "english": "college",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "faculdades"
+  ],
+  "example": {
+   "pt": "Meu filho está na faculdade.",
+   "en": "My son is in college."
+  }
+ },
+ {
+  "pt": "curso",
+  "pos": "n.",
+  "english": "course",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "cursos"
+  ],
+  "example": {
+   "pt": "Eu faço um curso de português.",
+   "en": "I'm taking a Portuguese course."
+  }
+ },
+ {
+  "pt": "escritório",
+  "pos": "n.",
+  "english": "office",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "escritórios"
+  ],
+  "example": {
+   "pt": "Eu trabalho num escritório.",
+   "en": "I work in an office."
+  }
+ },
+ {
+  "pt": "empresa",
+  "pos": "n.",
+  "english": "company",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "empresas"
+  ],
+  "example": {
+   "pt": "A empresa é grande.",
+   "en": "The company is big."
+  }
+ },
+ {
+  "pt": "emprego",
+  "pos": "n.",
+  "english": "job, employment",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "empregos"
+  ],
+  "example": {
+   "pt": "Ele tem um emprego novo.",
+   "en": "He has a new job."
+  }
+ },
+ {
+  "pt": "chefe",
+  "pos": "n.",
+  "english": "boss",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "mf",
+  "forms": [
+   "chefes"
+  ],
+  "example": {
+   "pt": "Minha chefe é muito simpática.",
+   "en": "My boss is very nice."
+  }
+ },
+ {
+  "pt": "reunião",
+  "pos": "n.",
+  "english": "meeting",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "reuniões"
+  ],
+  "example": {
+   "pt": "A reunião começa às dez.",
+   "en": "The meeting starts at ten."
+  }
+ },
+ {
+  "pt": "computador",
+  "pos": "n.",
+  "english": "computer",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "computadores"
+  ],
+  "example": {
+   "pt": "Eu trabalho no computador.",
+   "en": "I work on the computer."
+  }
+ },
+ {
+  "pt": "e-mail",
+  "pos": "n.",
+  "english": "email",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "e-mails",
+   "e mail",
+   "e mails"
+  ],
+  "example": {
+   "pt": "Eu escrevo muitos e-mails.",
+   "en": "I write a lot of emails."
+  }
+ },
+ {
+  "pt": "estudar",
+  "pos": "v.",
+  "english": "to study",
+  "level": 1,
+  "topic": "School & work",
+  "example": {
+   "pt": "Eu estudo português todo dia.",
+   "en": "I study Portuguese every day."
+  }
+ },
+ {
+  "pt": "ensinar",
+  "pos": "v.",
+  "english": "to teach",
+  "level": 1,
+  "topic": "School & work",
+  "example": {
+   "pt": "Ela ensina inglês.",
+   "en": "She teaches English."
+  }
+ },
+ {
+  "pt": "repetir",
+  "pos": "v.",
+  "english": "to repeat",
+  "level": 1,
+  "topic": "School & work",
+  "example": {
+   "pt": "Você pode repetir, por favor?",
+   "en": "Can you repeat, please?"
+  }
+ },
+ {
+  "pt": "biblioteca",
+  "pos": "n.",
+  "english": "library",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "bibliotecas"
+  ],
+  "example": {
+   "pt": "Eu estudo na biblioteca.",
+   "en": "I study at the library."
+  }
+ },
+ {
+  "pt": "dicionário",
+  "pos": "n.",
+  "english": "dictionary",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "dicionários"
+  ],
+  "example": {
+   "pt": "Eu uso um dicionário no celular.",
+   "en": "I use a dictionary on my phone."
+  }
+ },
+ {
+  "pt": "exercício",
+  "pos": "n.",
+  "english": "exercise",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "exercícios"
+  ],
+  "example": {
+   "pt": "Fazemos os exercícios na aula.",
+   "en": "We do the exercises in class."
+  }
+ },
+ {
+  "pt": "nota",
+  "pos": "n.",
+  "english": "grade, mark; note",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "notas"
+  ],
+  "example": {
+   "pt": "Eu tirei uma nota boa.",
+   "en": "I got a good grade."
+  }
+ },
+ {
+  "pt": "matemática",
+  "pos": "n.",
+  "english": "math",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "f",
+  "example": {
+   "pt": "Eu não gosto de matemática.",
+   "en": "I don't like math."
+  }
+ },
+ {
+  "pt": "história",
+  "pos": "n.",
+  "english": "history; story",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "histórias"
+  ],
+  "example": {
+   "pt": "Ela estuda história.",
+   "en": "She studies history."
+  }
+ },
+ {
+  "pt": "quadro",
+  "pos": "n.",
+  "english": "board (in classroom); picture",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "quadros"
+  ],
+  "example": {
+   "pt": "O professor escreve no quadro.",
+   "en": "The teacher writes on the board."
+  }
+ },
+ {
+  "pt": "profissão",
+  "pos": "n.",
+  "english": "profession, occupation",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "f",
+  "forms": [
+   "profissões"
+  ],
+  "example": {
+   "pt": "Qual é a sua profissão?",
+   "en": "What is your profession?"
+  }
+ },
+ {
+  "pt": "funcionário",
+  "pos": "n.",
+  "english": "employee",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "funcionária",
+   "funcionários",
+   "funcionárias"
+  ],
+  "example": {
+   "pt": "A empresa tem cem funcionários.",
+   "en": "The company has a hundred employees."
+  }
+ },
+ {
+  "pt": "salário",
+  "pos": "n.",
+  "english": "salary, wages",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "salários"
+  ],
+  "example": {
+   "pt": "O salário é bom.",
+   "en": "The salary is good."
+  }
+ },
+ {
+  "pt": "cliente",
+  "pos": "n.",
+  "english": "customer, client",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "mf",
+  "forms": [
+   "clientes"
+  ],
+  "example": {
+   "pt": "O cliente quer um café.",
+   "en": "The customer wants a coffee."
+  }
+ },
+ {
+  "pt": "vendedor",
+  "pos": "n.",
+  "english": "salesperson",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "vendedora",
+   "vendedores",
+   "vendedoras"
+  ],
+  "example": {
+   "pt": "A vendedora é muito simpática.",
+   "en": "The saleswoman is very nice."
+  }
+ },
+ {
+  "pt": "engenheiro",
+  "pos": "n.",
+  "english": "engineer",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "engenheira",
+   "engenheiros",
+   "engenheiras"
+  ],
+  "example": {
+   "pt": "Meu pai é engenheiro.",
+   "en": "My father is an engineer."
+  }
+ },
+ {
+  "pt": "advogado",
+  "pos": "n.",
+  "english": "lawyer",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "advogada",
+   "advogados",
+   "advogadas"
+  ],
+  "example": {
+   "pt": "Minha irmã é advogada.",
+   "en": "My sister is a lawyer."
+  }
+ },
+ {
+  "pt": "enfermeiro",
+  "pos": "n.",
+  "english": "nurse",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "enfermeira",
+   "enfermeiros",
+   "enfermeiras"
+  ],
+  "example": {
+   "pt": "A enfermeira trabalha à noite.",
+   "en": "The nurse works at night."
+  }
+ },
+ {
+  "pt": "cozinheiro",
+  "pos": "n.",
+  "english": "cook, chef",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "cozinheira",
+   "cozinheiros",
+   "cozinheiras"
+  ],
+  "example": {
+   "pt": "O cozinheiro faz uma comida ótima.",
+   "en": "The cook makes great food."
+  }
+ },
+ {
+  "pt": "secretário",
+  "pos": "n.",
+  "english": "secretary",
+  "level": 1,
+  "topic": "School & work",
+  "gender": "m",
+  "forms": [
+   "secretária",
+   "secretários",
+   "secretárias"
+  ],
+  "example": {
+   "pt": "A secretária atende o telefone.",
+   "en": "The secretary answers the phone."
+  }
+ }
+]

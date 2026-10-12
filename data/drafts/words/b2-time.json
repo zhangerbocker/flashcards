@@ -1,0 +1,622 @@
+[
+ {
+  "pt": "recentemente",
+  "pos": "adv.",
+  "english": "recently",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "Recentemente, ela mudou de emprego.",
+   "en": "Recently, she changed jobs."
+  }
+ },
+ {
+  "pt": "ultimamente",
+  "pos": "adv.",
+  "english": "lately",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "Ultimamente tenho dormido muito mal.",
+   "en": "Lately I've been sleeping very badly."
+  }
+ },
+ {
+  "pt": "de antemão",
+  "pos": "expr.",
+  "english": "beforehand, in advance",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "Agradeço de antemão pela ajuda.",
+   "en": "Thank you in advance for your help."
+  }
+ },
+ {
+  "pt": "prazo final",
+  "pos": "n.",
+  "english": "final deadline",
+  "level": 4,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "prazos finais"
+  ],
+  "example": {
+   "pt": "O prazo final para a inscrição é sexta-feira.",
+   "en": "The final deadline for registration is Friday."
+  }
+ },
+ {
+  "pt": "cronograma",
+  "pos": "n.",
+  "english": "schedule, timeline",
+  "level": 4,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "cronogramas"
+  ],
+  "example": {
+   "pt": "Estamos atrasados em relação ao cronograma.",
+   "en": "We are behind schedule."
+  }
+ },
+ {
+  "pt": "prazo",
+  "pos": "n.",
+  "english": "deadline, time limit, term",
+  "level": 4,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "prazos"
+  ],
+  "example": {
+   "pt": "Consegui entregar o trabalho dentro do prazo.",
+   "en": "I managed to hand in the work on time."
+  }
+ },
+ {
+  "pt": "previamente",
+  "pos": "adv.",
+  "english": "previously, in advance",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "Os participantes devem se inscrever previamente.",
+   "en": "Participants must register in advance."
+  }
+ },
+ {
+  "pt": "posteriormente",
+  "pos": "adv.",
+  "english": "subsequently, later",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "Os detalhes serão divulgados posteriormente.",
+   "en": "The details will be announced later."
+  }
+ },
+ {
+  "pt": "anteriormente",
+  "pos": "adv.",
+  "english": "previously, before",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "Como mencionei anteriormente, o projeto mudou.",
+   "en": "As I mentioned previously, the project changed."
+  }
+ },
+ {
+  "pt": "simultaneamente",
+  "pos": "adv.",
+  "english": "simultaneously",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "Ele trabalha e estuda simultaneamente.",
+   "en": "He works and studies at the same time."
+  }
+ },
+ {
+  "pt": "eventualmente",
+  "pos": "adv.",
+  "english": "occasionally, now and then (not 'eventually')",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "Eventualmente trabalho aos sábados.",
+   "en": "Occasionally I work on Saturdays."
+  }
+ },
+ {
+  "pt": "esporadicamente",
+  "pos": "adv.",
+  "english": "sporadically",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "Nos vemos só esporadicamente.",
+   "en": "We only see each other sporadically."
+  }
+ },
+ {
+  "pt": "gradualmente",
+  "pos": "adv.",
+  "english": "gradually",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "Os preços estão subindo gradualmente.",
+   "en": "Prices are rising gradually."
+  }
+ },
+ {
+  "pt": "prontamente",
+  "pos": "adv.",
+  "english": "promptly",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "A empresa respondeu prontamente à reclamação.",
+   "en": "The company responded promptly to the complaint."
+  }
+ },
+ {
+  "pt": "de agora em diante",
+  "pos": "expr.",
+  "english": "from now on",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "De agora em diante, as reuniões serão às segundas.",
+   "en": "From now on, meetings will be on Mondays."
+  }
+ },
+ {
+  "pt": "desde então",
+  "pos": "expr.",
+  "english": "since then",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "Eles se mudaram em 2010 e desde então não voltaram.",
+   "en": "They moved in 2010 and haven't been back since."
+  }
+ },
+ {
+  "pt": "até então",
+  "pos": "expr.",
+  "english": "until then, up to that point",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "Até então, ninguém sabia da verdade.",
+   "en": "Up to that point, no one knew the truth."
+  }
+ },
+ {
+  "pt": "a longo prazo",
+  "pos": "expr.",
+  "english": "in the long term",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "A longo prazo, o investimento vale a pena.",
+   "en": "In the long term, the investment is worth it."
+  }
+ },
+ {
+  "pt": "a curto prazo",
+  "pos": "expr.",
+  "english": "in the short term",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "A curto prazo, não haverá mudanças.",
+   "en": "In the short term, there will be no changes."
+  }
+ },
+ {
+  "pt": "vez ou outra",
+  "pos": "expr.",
+  "english": "every now and then",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "Vez ou outra a gente sai para jantar.",
+   "en": "Every now and then we go out for dinner."
+  }
+ },
+ {
+  "pt": "outrora",
+  "pos": "adv.",
+  "english": "formerly, in times past (literary)",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "A cidade, outrora tranquila, agora é muito agitada.",
+   "en": "The city, once quiet, is now very busy."
+  }
+ },
+ {
+  "pt": "na época",
+  "pos": "expr.",
+  "english": "at the time, back then",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "Na época, eu ainda morava com meus pais.",
+   "en": "At the time, I still lived with my parents."
+  }
+ },
+ {
+  "pt": "década",
+  "pos": "n.",
+  "english": "decade",
+  "level": 4,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "décadas"
+  ],
+  "example": {
+   "pt": "A música dos anos oitenta marcou uma década.",
+   "en": "Eighties music defined a decade."
+  }
+ },
+ {
+  "pt": "século",
+  "pos": "n.",
+  "english": "century",
+  "level": 4,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "séculos"
+  ],
+  "example": {
+   "pt": "A igreja foi construída no século dezoito.",
+   "en": "The church was built in the eighteenth century."
+  }
+ },
+ {
+  "pt": "quinzena",
+  "pos": "n.",
+  "english": "fortnight, two weeks",
+  "level": 4,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "quinzenas"
+  ],
+  "example": {
+   "pt": "O salário é pago na segunda quinzena do mês.",
+   "en": "The salary is paid in the second half of the month."
+  }
+ },
+ {
+  "pt": "trimestre",
+  "pos": "n.",
+  "english": "quarter (three months)",
+  "level": 4,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "trimestres"
+  ],
+  "example": {
+   "pt": "Os lucros cresceram no primeiro trimestre.",
+   "en": "Profits grew in the first quarter."
+  }
+ },
+ {
+  "pt": "semestre",
+  "pos": "n.",
+  "english": "semester, half-year",
+  "level": 4,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "semestres"
+  ],
+  "example": {
+   "pt": "O curso dura oito semestres.",
+   "en": "The course lasts eight semesters."
+  }
+ },
+ {
+  "pt": "etapa",
+  "pos": "n.",
+  "english": "stage, step, phase",
+  "level": 4,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "etapas"
+  ],
+  "example": {
+   "pt": "A primeira etapa do projeto já foi concluída.",
+   "en": "The first stage of the project has already been completed."
+  }
+ },
+ {
+  "pt": "fase",
+  "pos": "n.",
+  "english": "phase, stage",
+  "level": 4,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "fases"
+  ],
+  "example": {
+   "pt": "Ele está passando por uma fase difícil.",
+   "en": "He is going through a difficult phase."
+  }
+ },
+ {
+  "pt": "duração",
+  "pos": "n.",
+  "english": "duration, length",
+  "level": 4,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "durações"
+  ],
+  "example": {
+   "pt": "Qual é a duração do curso?",
+   "en": "How long is the course?"
+  }
+ },
+ {
+  "pt": "vigência",
+  "pos": "n.",
+  "english": "validity, period in force",
+  "level": 4,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "vigências"
+  ],
+  "example": {
+   "pt": "O contrato tem vigência de dois anos.",
+   "en": "The contract is valid for two years."
+  }
+ },
+ {
+  "pt": "vigente",
+  "pos": "adj.",
+  "english": "in force, current",
+  "level": 4,
+  "topic": "Time",
+  "forms": [
+   "vigentes"
+  ],
+  "example": {
+   "pt": "Segundo a lei vigente, isso é proibido.",
+   "en": "According to the law in force, this is forbidden."
+  }
+ },
+ {
+  "pt": "adiar",
+  "pos": "v.",
+  "english": "to postpone",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "Tivemos que adiar a viagem.",
+   "en": "We had to postpone the trip."
+  }
+ },
+ {
+  "pt": "prorrogar",
+  "pos": "v.",
+  "english": "to extend (a deadline)",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "O governo prorrogou o prazo de entrega da declaração.",
+   "en": "The government extended the deadline for filing the tax return."
+  }
+ },
+ {
+  "pt": "antecipar",
+  "pos": "v.",
+  "english": "to bring forward; anticipate",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "Antecipamos a reunião para amanhã.",
+   "en": "We brought the meeting forward to tomorrow."
+  }
+ },
+ {
+  "pt": "pontualidade",
+  "pos": "n.",
+  "english": "punctuality",
+  "level": 4,
+  "topic": "Time",
+  "gender": "f",
+  "example": {
+   "pt": "A pontualidade é essencial nesta empresa.",
+   "en": "Punctuality is essential at this company."
+  }
+ },
+ {
+  "pt": "véspera",
+  "pos": "n.",
+  "english": "eve, day before",
+  "level": 4,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "vésperas"
+  ],
+  "example": {
+   "pt": "Na véspera da prova, ninguém dormiu.",
+   "en": "On the eve of the exam, nobody slept."
+  }
+ },
+ {
+  "pt": "data-limite",
+  "pos": "n.",
+  "english": "deadline (date)",
+  "level": 4,
+  "topic": "Time",
+  "gender": "f",
+  "forms": [
+   "datas-limite"
+  ],
+  "example": {
+   "pt": "A data-limite para o pagamento é dia dez.",
+   "en": "The payment deadline is the tenth."
+  }
+ },
+ {
+  "pt": "feriado prolongado",
+  "pos": "n.",
+  "english": "long holiday weekend",
+  "level": 4,
+  "topic": "Time",
+  "gender": "m",
+  "forms": [
+   "feriados prolongados"
+  ],
+  "example": {
+   "pt": "No feriado prolongado, as estradas ficam lotadas.",
+   "en": "On long holiday weekends, the roads are packed."
+  }
+ },
+ {
+  "pt": "cotidiano",
+  "pos": "n./adj.",
+  "english": "daily life; everyday",
+  "level": 4,
+  "topic": "Time",
+  "forms": [
+   "cotidiana",
+   "cotidianos",
+   "cotidianas"
+  ],
+  "example": {
+   "pt": "O livro retrata o cotidiano de uma família pobre.",
+   "en": "The book portrays the daily life of a poor family."
+  }
+ },
+ {
+  "pt": "efêmero",
+  "pos": "adj.",
+  "english": "ephemeral, short-lived",
+  "level": 4,
+  "topic": "Time",
+  "forms": [
+   "efêmera",
+   "efêmeros",
+   "efêmeras"
+  ],
+  "example": {
+   "pt": "O sucesso dele foi efêmero.",
+   "en": "His success was short-lived."
+  }
+ },
+ {
+  "pt": "duradouro",
+  "pos": "adj.",
+  "english": "lasting, enduring",
+  "level": 4,
+  "topic": "Time",
+  "forms": [
+   "duradoura",
+   "duradouros",
+   "duradouras"
+  ],
+  "example": {
+   "pt": "Eles construíram uma amizade duradoura.",
+   "en": "They built a lasting friendship."
+  }
+ },
+ {
+  "pt": "temporário",
+  "pos": "adj.",
+  "english": "temporary",
+  "level": 4,
+  "topic": "Time",
+  "forms": [
+   "temporária",
+   "temporários",
+   "temporárias"
+  ],
+  "example": {
+   "pt": "Ele conseguiu um emprego temporário no fim do ano.",
+   "en": "He got a temporary job at the end of the year."
+  }
+ },
+ {
+  "pt": "provisório",
+  "pos": "adj.",
+  "english": "provisional, temporary",
+  "level": 4,
+  "topic": "Time",
+  "forms": [
+   "provisória",
+   "provisórios",
+   "provisórias"
+  ],
+  "example": {
+   "pt": "Esta é uma solução provisória.",
+   "en": "This is a temporary solution."
+  }
+ },
+ {
+  "pt": "iminente",
+  "pos": "adj.",
+  "english": "imminent",
+  "level": 4,
+  "topic": "Time",
+  "forms": [
+   "iminentes"
+  ],
+  "example": {
+   "pt": "Os especialistas alertam para um risco iminente.",
+   "en": "Experts warn of an imminent risk."
+  }
+ },
+ {
+  "pt": "prestes a",
+  "pos": "expr.",
+  "english": "about to, on the verge of",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "O filme está prestes a começar.",
+   "en": "The movie is about to start."
+  }
+ },
+ {
+  "pt": "logo que",
+  "pos": "conj.",
+  "english": "as soon as",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "Logo que chegar, me avisa.",
+   "en": "Let me know as soon as you arrive."
+  }
+ },
+ {
+  "pt": "mal",
+  "pos": "conj.",
+  "english": "as soon as, no sooner than",
+  "level": 4,
+  "topic": "Time",
+  "example": {
+   "pt": "Mal cheguei em casa, começou a chover.",
+   "en": "No sooner had I got home than it started to rain."
+  }
+ }
+]

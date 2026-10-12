@@ -1,0 +1,410 @@
+[
+ {
+  "id": "a2-numbers-measures-1",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "title": "Sábado na feira",
+  "titleEn": "Saturday at the street market",
+  "sentences": [
+   {
+    "pt": "Todo sábado, Seu Antônio vai à feira perto da casa dele.",
+    "en": "Every Saturday, Seu Antônio goes to the street market near his house.",
+    "glosses": {
+     "todo": "every",
+     "vai": "goes",
+     "à": "to the",
+     "da": "the",
+     "dele": "his"
+    }
+   },
+   {
+    "pt": "Ele é aposentado e gosta de conversar com os vendedores.",
+    "en": "He is retired and likes to chat with the sellers.",
+    "glosses": {
+     "é": "is",
+     "gosta de": "likes"
+    }
+   },
+   {
+    "pt": "Hoje ele levou cem reais e uma bolsa grande.",
+    "en": "Today he took one hundred reais and a big bag.",
+    "glosses": {
+     "levou": "took",
+     "reais": "reais (Brazilian money)"
+    }
+   },
+   {
+    "pt": "Primeiro, comprou dois quilos de tomate por doze reais.",
+    "en": "First, he bought two kilos of tomatoes for twelve reais.",
+    "glosses": {
+     "primeiro": "first",
+     "comprou": "bought",
+     "por": "for"
+    }
+   },
+   {
+    "pt": "Depois, pediu uma dúzia de ovos e meio quilo de queijo.",
+    "en": "Then he asked for a dozen eggs and half a kilo of cheese.",
+    "glosses": {
+     "pediu": "asked for"
+    }
+   },
+   {
+    "pt": "O queijo era caro: custou vinte e cinco reais.",
+    "en": "The cheese was expensive: it cost twenty-five reais.",
+    "glosses": {
+     "era": "was",
+     "custou": "cost"
+    }
+   },
+   {
+    "pt": "O vendedor de frutas é amigo dele há muitos anos.",
+    "en": "The fruit seller has been his friend for many years.",
+    "glosses": {
+     "é": "has been",
+     "dele": "his",
+     "há": "for"
+    }
+   },
+   {
+    "pt": "— Quanto custa a banana hoje? — perguntou Seu Antônio.",
+    "en": "\"How much are the bananas today?\" asked Seu Antônio.",
+    "glosses": {
+     "quanto": "how much",
+     "custa": "costs",
+     "perguntou": "asked"
+    }
+   },
+   {
+    "pt": "— Seis reais a dúzia, mas para o senhor faço duas dúzias por dez — respondeu o vendedor.",
+    "en": "\"Six reais a dozen, but for you I'll do two dozen for ten,\" answered the seller.",
+    "glosses": {
+     "o senhor": "you (polite)",
+     "faço": "I'll do",
+     "respondeu": "answered"
+    }
+   },
+   {
+    "pt": "Seu Antônio riu e comprou as duas dúzias.",
+    "en": "Seu Antônio laughed and bought the two dozen.",
+    "glosses": {
+     "riu": "laughed",
+     "comprou": "bought"
+    }
+   },
+   {
+    "pt": "Também levou três litros de suco de laranja e um quilo de cebola.",
+    "en": "He also took three liters of orange juice and a kilo of onions.",
+    "glosses": {
+     "levou": "took"
+    }
+   },
+   {
+    "pt": "No fim, ele somou tudo no celular.",
+    "en": "At the end, he added everything up on his phone.",
+    "glosses": {
+     "no fim": "at the end",
+     "somou": "added up",
+     "no": "on the"
+    }
+   },
+   {
+    "pt": "O total foi noventa e oito reais.",
+    "en": "The total was ninety-eight reais.",
+    "glosses": {
+     "foi": "was"
+    }
+   },
+   {
+    "pt": "Foi mais do que ele pensou.",
+    "en": "It was more than he thought.",
+    "glosses": {
+     "foi": "it was",
+     "do que": "than",
+     "pensou": "thought"
+    }
+   },
+   {
+    "pt": "Ele ficou com apenas dois reais.",
+    "en": "He was left with only two reais.",
+    "glosses": {
+     "ficou com": "was left with"
+    }
+   },
+   {
+    "pt": "A bolsa estava muito pesada, com quase dez quilos de compras.",
+    "en": "The bag was very heavy, with almost ten kilos of groceries.",
+    "glosses": {
+     "estava": "was"
+    }
+   },
+   {
+    "pt": "Um menino do bairro ajudou Seu Antônio a carregar tudo até em casa.",
+    "en": "A boy from the neighborhood helped Seu Antônio carry everything home.",
+    "glosses": {
+     "do": "from the",
+     "ajudou": "helped",
+     "até em casa": "all the way home"
+    }
+   },
+   {
+    "pt": "Em casa, Seu Antônio deu duas bananas para o menino.",
+    "en": "At home, Seu Antônio gave the boy two bananas.",
+    "glosses": {
+     "deu": "gave"
+    }
+   },
+   {
+    "pt": "O menino ficou feliz e disse: — Muito obrigado, até o próximo sábado!",
+    "en": "The boy was happy and said, \"Thank you very much, see you next Saturday!\"",
+    "glosses": {
+     "ficou": "was",
+     "disse": "said",
+     "até": "see you"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Quanto dinheiro Seu Antônio levou?",
+    "qEn": "How much money did Seu Antônio take?",
+    "options": [
+     "Cinquenta reais",
+     "Noventa e oito reais",
+     "Cem reais",
+     "Dez reais"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Quantas dúzias de banana ele comprou?",
+    "qEn": "How many dozen bananas did he buy?",
+    "options": [
+     "Uma",
+     "Duas",
+     "Três",
+     "Seis"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quem ajudou Seu Antônio a carregar as compras?",
+    "qEn": "Who helped Seu Antônio carry the groceries?",
+    "options": [
+     "O vendedor",
+     "Um menino do bairro",
+     "O filho dele",
+     "A vizinha"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "a2-numbers-measures-2",
+  "level": 2,
+  "topic": "Numbers & measures",
+  "title": "O sofá novo",
+  "titleEn": "The new sofa",
+  "sentences": [
+   {
+    "pt": "Camila e o marido, Rodrigo, mudaram para um apartamento novo em Florianópolis.",
+    "en": "Camila and her husband, Rodrigo, moved to a new apartment in Florianópolis.",
+    "glosses": {
+     "mudaram": "moved"
+    }
+   },
+   {
+    "pt": "A sala é pequena, mas muito bonita, com uma janela grande.",
+    "en": "The living room is small but very pretty, with a big window.",
+    "glosses": {
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Eles precisavam de um sofá, então foram a uma loja no shopping.",
+    "en": "They needed a sofa, so they went to a store at the mall.",
+    "glosses": {
+     "precisavam de": "needed",
+     "foram": "went",
+     "no": "at the"
+    }
+   },
+   {
+    "pt": "Camila adorou um sofá verde, macio e confortável.",
+    "en": "Camila loved a green, soft, comfortable sofa.",
+    "glosses": {
+     "adorou": "loved"
+    }
+   },
+   {
+    "pt": "— Qual é o tamanho dele? — ela perguntou ao vendedor.",
+    "en": "\"What size is it?\" she asked the salesman.",
+    "glosses": {
+     "qual": "what",
+     "dele": "its",
+     "perguntou": "asked",
+     "ao": "the"
+    }
+   },
+   {
+    "pt": "— Tem dois metros e vinte de comprimento e pesa sessenta quilos — ele respondeu.",
+    "en": "\"It's two meters twenty long and weighs sixty kilos,\" he answered.",
+    "glosses": {
+     "tem": "it has",
+     "pesa": "weighs",
+     "respondeu": "answered"
+    }
+   },
+   {
+    "pt": "Rodrigo lembrou que a sala tinha três metros de um lado.",
+    "en": "Rodrigo remembered that the living room was three meters on one side.",
+    "glosses": {
+     "lembrou": "remembered",
+     "tinha": "had"
+    }
+   },
+   {
+    "pt": "— Então está bom para a sala — disse ele.",
+    "en": "\"Then it's fine for the living room,\" he said.",
+    "glosses": {
+     "está": "it's",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "O sofá custou dois mil e trezentos reais.",
+    "en": "The sofa cost two thousand three hundred reais.",
+    "glosses": {
+     "custou": "cost"
+    }
+   },
+   {
+    "pt": "Eles pagaram a metade no cartão e a outra metade em dinheiro.",
+    "en": "They paid half by card and the other half in cash.",
+    "glosses": {
+     "pagaram": "paid",
+     "no": "by",
+     "em dinheiro": "in cash"
+    }
+   },
+   {
+    "pt": "Dois dias depois, o caminhão chegou com o sofá.",
+    "en": "Two days later, the truck arrived with the sofa.",
+    "glosses": {
+     "depois": "later",
+     "chegou": "arrived"
+    }
+   },
+   {
+    "pt": "Mas tinha um problema: o sofá não passava pela porta!",
+    "en": "But there was a problem: the sofa wouldn't go through the door!",
+    "glosses": {
+     "tinha": "there was",
+     "passava": "would go",
+     "pela": "through the"
+    }
+   },
+   {
+    "pt": "Ninguém mediu a porta antes.",
+    "en": "Nobody had measured the door before.",
+    "glosses": {
+     "mediu": "had measured"
+    }
+   },
+   {
+    "pt": "Rodrigo mediu a porta: só oitenta centímetros.",
+    "en": "Rodrigo measured the door: only eighty centimeters.",
+    "glosses": {
+     "mediu": "measured"
+    }
+   },
+   {
+    "pt": "E o sofá tinha noventa centímetros de altura.",
+    "en": "And the sofa was ninety centimeters high.",
+    "glosses": {
+     "tinha": "was",
+     "de altura": "high"
+    }
+   },
+   {
+    "pt": "Os dois homens do caminhão tentaram virar o sofá muitas vezes.",
+    "en": "The two men from the truck tried to turn the sofa many times.",
+    "glosses": {
+     "do": "from the",
+     "tentaram": "tried"
+    }
+   },
+   {
+    "pt": "Depois de vinte minutos, eles tiraram a porta e conseguiram passar o sofá.",
+    "en": "After twenty minutes, they took the door off and managed to get the sofa through.",
+    "glosses": {
+     "tiraram": "took off",
+     "conseguiram": "managed",
+     "passar": "to get through"
+    }
+   },
+   {
+    "pt": "Camila e Rodrigo ficaram muito aliviados.",
+    "en": "Camila and Rodrigo were very relieved.",
+    "glosses": {
+     "ficaram": "were"
+    }
+   },
+   {
+    "pt": "À noite, eles sentaram no sofá novo para assistir a um filme.",
+    "en": "In the evening, they sat on the new sofa to watch a movie.",
+    "glosses": {
+     "sentaram": "sat",
+     "no": "on the"
+    }
+   },
+   {
+    "pt": "— Da próxima vez, a gente mede tudo antes! — disse Camila, rindo.",
+    "en": "\"Next time, we measure everything first!\" said Camila, laughing.",
+    "glosses": {
+     "da próxima vez": "next time",
+     "mede": "measures",
+     "antes": "first",
+     "disse": "said",
+     "rindo": "laughing"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Qual é a cor do sofá?",
+    "qEn": "What color is the sofa?",
+    "options": [
+     "Azul",
+     "Verde",
+     "Cinza",
+     "Marrom"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Quanto custou o sofá?",
+    "qEn": "How much did the sofa cost?",
+    "options": [
+     "Dois mil reais",
+     "Dois mil e trezentos reais",
+     "Trezentos reais",
+     "Mil e duzentos reais"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Como eles passaram o sofá pela porta?",
+    "qEn": "How did they get the sofa through the door?",
+    "options": [
+     "Pela janela",
+     "Tiraram a porta",
+     "Cortaram o sofá",
+     "Não conseguiram"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

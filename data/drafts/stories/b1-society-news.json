@@ -1,0 +1,503 @@
+[
+ {
+  "id": "b1-society-news-1",
+  "level": 3,
+  "topic": "Society & news",
+  "title": "A praça do bairro",
+  "titleEn": "The neighborhood square",
+  "sentences": [
+   {
+    "pt": "No bairro de Marcos, na periferia de Salvador, havia uma praça antiga ao lado da escola.",
+    "en": "In Marcos's neighborhood, on the outskirts of Salvador, there was an old square next to the school.",
+    "glosses": {
+     "havia": "there was",
+     "da": "the"
+    }
+   },
+   {
+    "pt": "Antigamente, as crianças brincavam lá e os idosos conversavam embaixo das árvores.",
+    "en": "In the past, the children played there and the elderly chatted under the trees.",
+    "glosses": {
+     "brincavam": "played",
+     "conversavam": "chatted",
+     "embaixo das": "under the"
+    }
+   },
+   {
+    "pt": "Nos últimos anos, porém, a praça ficou suja e esquecida.",
+    "en": "In recent years, however, the square became dirty and forgotten.",
+    "glosses": {
+     "Nos últimos anos": "in recent years",
+     "ficou": "became"
+    }
+   },
+   {
+    "pt": "Os bancos estavam quebrados, as luzes estavam apagadas e havia lixo por todo lado.",
+    "en": "The benches were broken, the lights were out and there was trash everywhere.",
+    "glosses": {
+     "bancos": "benches",
+     "estavam": "were",
+     "apagadas": "out",
+     "havia": "there was",
+     "por todo lado": "everywhere"
+    }
+   },
+   {
+    "pt": "À noite, ninguém queria passar por ali, por causa da falta de segurança.",
+    "en": "At night, nobody wanted to go through there, because of the lack of safety.",
+    "glosses": {
+     "À noite": "at night",
+     "queria": "wanted",
+     "da": "of the"
+    }
+   },
+   {
+    "pt": "Marcos, que é professor na escola, ficou cansado de reclamar só com os vizinhos.",
+    "en": "Marcos, a teacher at the school, got tired of complaining only to the neighbors.",
+    "glosses": {
+     "é": "is",
+     "na": "at the",
+     "ficou": "got"
+    }
+   },
+   {
+    "pt": "Ele decidiu chamar os moradores para uma reunião na igreja do bairro.",
+    "en": "He decided to call the residents to a meeting at the neighborhood church.",
+    "glosses": {
+     "decidiu": "decided",
+     "na": "at the",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "Na primeira reunião, vieram só doze pessoas, e muitas estavam sem esperança.",
+    "en": "At the first meeting, only twelve people came, and many had no hope.",
+    "glosses": {
+     "Na": "at the",
+     "vieram": "came",
+     "estavam": "were"
+    }
+   },
+   {
+    "pt": "— A prefeitura nunca escuta a gente. Não vale a pena — disse Seu Antônio.",
+    "en": "\"City hall never listens to us. It's not worth it,\" said Seu Antônio.",
+    "glosses": {
+     "escuta": "listens to",
+     "a gente": "us",
+     "vale a pena": "it's worth it",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Marcos, no entanto, insistiu e deu duas ideias.",
+    "en": "Marcos, however, insisted and gave two ideas.",
+    "glosses": {
+     "insistiu": "insisted",
+     "deu": "gave"
+    }
+   },
+   {
+    "pt": "Primeiro, eles iam escrever um e-mail ao prefeito, com a assinatura de todos os moradores.",
+    "en": "First, they would write an email to the mayor, with the signatures of all the residents.",
+    "glosses": {
+     "iam": "would",
+     "ao": "to the"
+    }
+   },
+   {
+    "pt": "Segundo, iam limpar a praça eles mesmos, todos juntos, no fim de semana.",
+    "en": "Second, they would clean the square themselves, all together, on the weekend.",
+    "glosses": {
+     "iam": "would",
+     "eles mesmos": "themselves",
+     "juntos": "together",
+     "no": "on the"
+    }
+   },
+   {
+    "pt": "Em duas semanas, conseguiram mais de mil assinaturas.",
+    "en": "In two weeks, they got more than a thousand signatures.",
+    "glosses": {
+     "conseguiram": "got"
+    }
+   },
+   {
+    "pt": "No sábado, chegaram mais de cem pessoas com tinta, plantas e muita vontade de trabalhar.",
+    "en": "On Saturday, more than a hundred people arrived with paint, plants and a great desire to work.",
+    "glosses": {
+     "No": "on",
+     "chegaram": "arrived",
+     "vontade": "desire"
+    }
+   },
+   {
+    "pt": "Os jovens pintaram os bancos, as crianças plantaram flores e os mais velhos ajudaram a varrer.",
+    "en": "The young people painted the benches, the children planted flowers and the older ones helped sweep.",
+    "glosses": {
+     "pintaram": "painted",
+     "plantaram": "planted",
+     "mais velhos": "older ones",
+     "ajudaram": "helped"
+    }
+   },
+   {
+    "pt": "Uma jornalista de televisão soube da história e fez uma reportagem.",
+    "en": "A TV journalist heard about the story and did a report.",
+    "glosses": {
+     "soube": "heard",
+     "da": "about the",
+     "fez": "did"
+    }
+   },
+   {
+    "pt": "A notícia passou no jornal da noite, e muita gente compartilhou a reportagem nas redes sociais.",
+    "en": "The news aired on the evening news, and lots of people shared the report on social media.",
+    "glosses": {
+     "passou": "aired",
+     "jornal": "news program",
+     "compartilhou": "shared",
+     "nas": "on"
+    }
+   },
+   {
+    "pt": "Dois dias depois, o prefeito ligou para Marcos e agendou uma visita ao bairro.",
+    "en": "Two days later, the mayor called Marcos and scheduled a visit to the neighborhood.",
+    "glosses": {
+     "depois": "later",
+     "ligou": "called",
+     "agendou": "scheduled"
+    }
+   },
+   {
+    "pt": "Ele disse que ia consertar as luzes e colocar mais segurança na praça.",
+    "en": "He said he would fix the lights and put more security in the square.",
+    "glosses": {
+     "disse": "said",
+     "ia": "would",
+     "segurança": "security"
+    }
+   },
+   {
+    "pt": "Muitos moradores duvidaram, porque o prefeito já tinha dito a mesma coisa antes.",
+    "en": "Many residents doubted it, because the mayor had already said the same thing before.",
+    "glosses": {
+     "duvidaram": "doubted",
+     "tinha dito": "had said"
+    }
+   },
+   {
+    "pt": "Desta vez, porém, as luzes novas chegaram em um mês.",
+    "en": "This time, however, the new lights arrived within a month.",
+    "glosses": {
+     "Desta": "this",
+     "chegaram": "arrived"
+    }
+   },
+   {
+    "pt": "Hoje, a praça está cheia de crianças à tarde, e os idosos voltaram a conversar embaixo das árvores.",
+    "en": "Today, the square is full of children in the afternoon, and the elderly have gone back to chatting under the trees.",
+    "glosses": {
+     "está": "is",
+     "à tarde": "in the afternoon",
+     "voltaram a": "have gone back to"
+    }
+   },
+   {
+    "pt": "Seu Antônio admitiu que estava errado e agora é o primeiro a chegar nas reuniões.",
+    "en": "Seu Antônio admitted he was wrong and now is the first to arrive at the meetings.",
+    "glosses": {
+     "admitiu": "admitted",
+     "estava": "was",
+     "é": "is",
+     "nas": "at the"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Onde ficava a praça?",
+    "qEn": "Where was the square?",
+    "options": [
+     "Ao lado da escola",
+     "Perto da praia",
+     "No centro",
+     "Atrás da igreja"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "O que os moradores mandaram para o prefeito?",
+    "qEn": "What did the residents send to the mayor?",
+    "options": [
+     "Uma foto",
+     "Um e-mail",
+     "Um presente",
+     "Um livro"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "O que o prefeito disse que ia fazer?",
+    "qEn": "What did the mayor say he would do?",
+    "options": [
+     "Construir uma escola",
+     "Consertar as luzes",
+     "Fechar a praça",
+     "Vender a praça"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "b1-society-news-2",
+  "level": 3,
+  "topic": "Society & news",
+  "title": "A notícia da avó",
+  "titleEn": "Grandma's news",
+  "sentences": [
+   {
+    "pt": "Faltava uma semana para a eleição de prefeito em Manaus.",
+    "en": "There was one week left until the mayoral election in Manaus.",
+    "glosses": {
+     "Faltava": "there was left"
+    }
+   },
+   {
+    "pt": "Gabriel tinha dezoito anos e ia votar pela primeira vez.",
+    "en": "Gabriel was eighteen years old and was going to vote for the first time.",
+    "glosses": {
+     "tinha": "was",
+     "ia": "was going to",
+     "pela": "for the"
+    }
+   },
+   {
+    "pt": "Ele queria escolher bem, por isso lia notícias todos os dias.",
+    "en": "He wanted to choose well, so he read the news every day.",
+    "glosses": {
+     "queria": "wanted",
+     "por isso": "so",
+     "lia": "read"
+    }
+   },
+   {
+    "pt": "Uma noite, a avó dele, Dona Lúcia, mostrou uma mensagem no celular, muito nervosa.",
+    "en": "One night, his grandmother, Dona Lúcia, showed him a message on her phone, very upset.",
+    "glosses": {
+     "dele": "his",
+     "mostrou": "showed",
+     "no": "on her",
+     "nervosa": "upset"
+    }
+   },
+   {
+    "pt": "— Olha isso! Esse candidato vai acabar com a aposentadoria dos idosos!",
+    "en": "\"Look at this! This candidate is going to end pensions for the elderly!\"",
+    "glosses": {
+     "Olha": "look",
+     "vai acabar com": "is going to end",
+     "dos": "for the"
+    }
+   },
+   {
+    "pt": "A mensagem tinha uma foto do candidato e muitas palavras em letras grandes.",
+    "en": "The message had a photo of the candidate and lots of words in big letters.",
+    "glosses": {
+     "tinha": "had",
+     "do": "of the"
+    }
+   },
+   {
+    "pt": "A avó já tinha compartilhado a mensagem com todas as amigas da igreja.",
+    "en": "His grandmother had already shared the message with all her friends from church.",
+    "glosses": {
+     "tinha compartilhado": "had shared",
+     "da": "from"
+    }
+   },
+   {
+    "pt": "Gabriel achou a notícia estranha. Não havia data, nem nome de jornal, nem autor.",
+    "en": "Gabriel found the news strange. There was no date, no newspaper name, no author.",
+    "glosses": {
+     "achou": "found",
+     "havia": "there was"
+    }
+   },
+   {
+    "pt": "— Antes de acreditar, é melhor que a gente verifique — disse ele.",
+    "en": "\"Before believing it, it's better that we check,\" he said.",
+    "glosses": {
+     "é melhor que": "it's better that",
+     "a gente": "we",
+     "verifique": "check",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "Ele procurou a informação na internet, em três jornais conhecidos.",
+    "en": "He looked for the information online, in three well-known newspapers.",
+    "glosses": {
+     "procurou": "looked for",
+     "na": "on the",
+     "conhecidos": "well-known"
+    }
+   },
+   {
+    "pt": "Nenhum deles falava nada sobre isso.",
+    "en": "None of them said anything about it.",
+    "glosses": {
+     "Nenhum deles": "none of them",
+     "falava": "said"
+    }
+   },
+   {
+    "pt": "Depois, encontrou um grupo de jornalistas que investiga notícias da internet.",
+    "en": "Then he found a group of journalists who investigate news from the internet.",
+    "glosses": {
+     "encontrou": "found",
+     "investiga": "investigate",
+     "da": "from the"
+    }
+   },
+   {
+    "pt": "Lá estava a mesma mensagem, com estas palavras em vermelho: \"Isso não é verdade.\"",
+    "en": "There was the same message, with these words in red: \"This is not true.\"",
+    "glosses": {
+     "estava": "was",
+     "é": "is"
+    }
+   },
+   {
+    "pt": "Os jornalistas explicavam que a foto era antiga e que o candidato nunca tinha dito aquilo.",
+    "en": "The journalists explained that the photo was old and that the candidate had never said that.",
+    "glosses": {
+     "explicavam": "explained",
+     "era": "was",
+     "tinha dito": "had said",
+     "aquilo": "that"
+    }
+   },
+   {
+    "pt": "Dona Lúcia ficou envergonhada. — Eu acreditei porque parecia verdade.",
+    "en": "Dona Lúcia was embarrassed. \"I believed it because it seemed true.\"",
+    "glosses": {
+     "ficou": "was",
+     "acreditei": "I believed",
+     "parecia": "seemed",
+     "verdade": "true"
+    }
+   },
+   {
+    "pt": "Gabriel explicou que muitas notícias assim são criadas para dar medo e raiva nas pessoas.",
+    "en": "Gabriel explained that a lot of news like that is created to make people scared and angry.",
+    "glosses": {
+     "explicou": "explained",
+     "assim": "like that",
+     "são criadas": "are created",
+     "dar medo e raiva nas pessoas": "make people scared and angry"
+    }
+   },
+   {
+    "pt": "— Quando a gente fica com raiva, compartilha sem pensar — disse ele.",
+    "en": "\"When we get angry, we share without thinking,\" he said.",
+    "glosses": {
+     "a gente": "we",
+     "fica": "get",
+     "compartilha": "share",
+     "disse": "said"
+    }
+   },
+   {
+    "pt": "A avó decidiu fazer alguma coisa. Ela mandou uma nova mensagem para as amigas.",
+    "en": "His grandmother decided to do something. She sent a new message to her friends.",
+    "glosses": {
+     "decidiu": "decided",
+     "mandou": "sent"
+    }
+   },
+   {
+    "pt": "Na mensagem, explicou o erro e pediu para todas verificarem as notícias antes de compartilhar.",
+    "en": "In the message, she explained the mistake and asked everyone to check news before sharing.",
+    "glosses": {
+     "Na": "in the",
+     "explicou": "explained",
+     "pediu": "asked"
+    }
+   },
+   {
+    "pt": "Algumas amigas agradeceram, mas outras ficaram irritadas e não acreditaram.",
+    "en": "Some friends thanked her, but others got irritated and didn't believe her.",
+    "glosses": {
+     "agradeceram": "thanked",
+     "ficaram": "got",
+     "acreditaram": "believed"
+    }
+   },
+   {
+    "pt": "No domingo da eleição, Gabriel e a avó foram votar juntos.",
+    "en": "On election Sunday, Gabriel and his grandmother went to vote together.",
+    "glosses": {
+     "No": "on",
+     "da": "of the",
+     "foram": "went",
+     "juntos": "together"
+    }
+   },
+   {
+    "pt": "Gabriel não contou em quem ia votar, e a avó também não.",
+    "en": "Gabriel didn't tell who he was going to vote for, and neither did his grandmother.",
+    "glosses": {
+     "contou": "told",
+     "ia": "was going to",
+     "também não": "neither"
+    }
+   },
+   {
+    "pt": "Mas, na saída, ela disse que, pela primeira vez, tinha escolhido com informação, e não com medo.",
+    "en": "But, on the way out, she said that, for the first time, she had chosen with information and not with fear.",
+    "glosses": {
+     "na saída": "on the way out",
+     "disse": "said",
+     "pela": "for the",
+     "tinha escolhido": "had chosen"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "q": "Quantos anos Gabriel tinha?",
+    "qEn": "How old was Gabriel?",
+    "options": [
+     "16",
+     "17",
+     "18",
+     "21"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "O que a mensagem dizia sobre o candidato?",
+    "qEn": "What did the message say about the candidate?",
+    "options": [
+     "Que ele ia acabar com a aposentadoria",
+     "Que ele era rico",
+     "Que ele estava doente",
+     "Que ele ia sair da cidade"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Como Gabriel verificou a notícia?",
+    "qEn": "How did Gabriel check the news?",
+    "options": [
+     "Perguntou ao candidato",
+     "Procurou em jornais na internet",
+     "Ligou para a polícia",
+     "Perguntou à avó"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

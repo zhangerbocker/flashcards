@@ -1,0 +1,560 @@
+[
+ {
+  "pt": "preocupado",
+  "pos": "adj.",
+  "english": "worried",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "preocupada",
+   "preocupados",
+   "preocupadas"
+  ],
+  "example": {
+   "pt": "Minha mãe fica preocupada quando eu chego tarde.",
+   "en": "My mother gets worried when I get home late."
+  }
+ },
+ {
+  "pt": "nervoso",
+  "pos": "adj.",
+  "english": "nervous; upset",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "nervosa",
+   "nervosos",
+   "nervosas"
+  ],
+  "example": {
+   "pt": "Eu estava nervoso antes da prova.",
+   "en": "I was nervous before the test."
+  }
+ },
+ {
+  "pt": "orgulhoso",
+  "pos": "adj.",
+  "english": "proud",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "orgulhosa",
+   "orgulhosos",
+   "orgulhosas"
+  ],
+  "example": {
+   "pt": "Estou orgulhoso de você.",
+   "en": "I'm proud of you."
+  }
+ },
+ {
+  "pt": "sentir falta de",
+  "pos": "expr.",
+  "english": "to miss (someone or something)",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "sinto falta de",
+   "sente falta de",
+   "sentimos falta de",
+   "sentem falta de",
+   "senti falta de",
+   "sentiu falta de",
+   "sentia falta de",
+   "sinto falta da",
+   "sinto falta do",
+   "sente falta da",
+   "sente falta do"
+  ],
+  "example": {
+   "pt": "Eu sinto falta da comida da minha avó.",
+   "en": "I miss my grandmother's food."
+  }
+ },
+ {
+  "pt": "animado",
+  "pos": "adj.",
+  "english": "excited, lively",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "animada",
+   "animados",
+   "animadas"
+  ],
+  "example": {
+   "pt": "As crianças estão animadas com a viagem.",
+   "en": "The kids are excited about the trip."
+  }
+ },
+ {
+  "pt": "chateado",
+  "pos": "adj.",
+  "english": "upset, annoyed",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "chateada",
+   "chateados",
+   "chateadas"
+  ],
+  "example": {
+   "pt": "Ele ficou chateado comigo.",
+   "en": "He got upset with me."
+  }
+ },
+ {
+  "pt": "irritado",
+  "pos": "adj.",
+  "english": "irritated, annoyed",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "irritada",
+   "irritados",
+   "irritadas"
+  ],
+  "example": {
+   "pt": "Fico irritado com o trânsito.",
+   "en": "Traffic makes me irritated."
+  }
+ },
+ {
+  "pt": "envergonhado",
+  "pos": "adj.",
+  "english": "embarrassed, ashamed",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "envergonhada",
+   "envergonhados",
+   "envergonhadas"
+  ],
+  "example": {
+   "pt": "Ela ficou envergonhada e não disse nada.",
+   "en": "She got embarrassed and didn't say anything."
+  }
+ },
+ {
+  "pt": "assustado",
+  "pos": "adj.",
+  "english": "scared, frightened",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "assustada",
+   "assustados",
+   "assustadas"
+  ],
+  "example": {
+   "pt": "O gato ficou assustado com o barulho.",
+   "en": "The cat got scared by the noise."
+  }
+ },
+ {
+  "pt": "surpreso",
+  "pos": "adj.",
+  "english": "surprised",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "surpresa",
+   "surpresos",
+   "surpresas"
+  ],
+  "example": {
+   "pt": "Fiquei surpreso com a notícia.",
+   "en": "I was surprised by the news."
+  }
+ },
+ {
+  "pt": "decepcionado",
+  "pos": "adj.",
+  "english": "disappointed",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "decepcionada",
+   "decepcionados",
+   "decepcionadas"
+  ],
+  "example": {
+   "pt": "Ficamos decepcionados com o resultado.",
+   "en": "We were disappointed with the result."
+  }
+ },
+ {
+  "pt": "aliviado",
+  "pos": "adj.",
+  "english": "relieved",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "aliviada",
+   "aliviados",
+   "aliviadas"
+  ],
+  "example": {
+   "pt": "Estou aliviado que deu tudo certo.",
+   "en": "I'm relieved that everything worked out."
+  }
+ },
+ {
+  "pt": "calmo",
+  "pos": "adj.",
+  "english": "calm",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "calma",
+   "calmos",
+   "calmas"
+  ],
+  "example": {
+   "pt": "Fique calmo, vai dar tudo certo.",
+   "en": "Stay calm, everything will be fine."
+  }
+ },
+ {
+  "pt": "ansioso",
+  "pos": "adj.",
+  "english": "anxious; eager",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "ansiosa",
+   "ansiosos",
+   "ansiosas"
+  ],
+  "example": {
+   "pt": "Estou ansioso para as férias.",
+   "en": "I'm looking forward to the holidays."
+  }
+ },
+ {
+  "pt": "sozinho",
+  "pos": "adj.",
+  "english": "alone; lonely",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "sozinha",
+   "sozinhos",
+   "sozinhas"
+  ],
+  "example": {
+   "pt": "Ela mora sozinha.",
+   "en": "She lives alone."
+  }
+ },
+ {
+  "pt": "entediado",
+  "pos": "adj.",
+  "english": "bored",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "entediada",
+   "entediados",
+   "entediadas"
+  ],
+  "example": {
+   "pt": "Eu estava entediado em casa.",
+   "en": "I was bored at home."
+  }
+ },
+ {
+  "pt": "vergonha",
+  "pos": "n.",
+  "english": "shame, embarrassment",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "forms": [
+   "vergonhas"
+  ],
+  "example": {
+   "pt": "Tenho vergonha de cantar em público.",
+   "en": "I'm embarrassed to sing in public."
+  }
+ },
+ {
+  "pt": "ciúme",
+  "pos": "n.",
+  "english": "jealousy",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "gender": "m",
+  "forms": [
+   "ciúmes"
+  ],
+  "example": {
+   "pt": "Ele tem ciúme da namorada.",
+   "en": "He's jealous about his girlfriend."
+  }
+ },
+ {
+  "pt": "raiva",
+  "pos": "n.",
+  "english": "anger",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "forms": [
+   "raivas"
+  ],
+  "example": {
+   "pt": "Fiquei com raiva quando ele mentiu.",
+   "en": "I got angry when he lied."
+  }
+ },
+ {
+  "pt": "alegria",
+  "pos": "n.",
+  "english": "joy, happiness",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "forms": [
+   "alegrias"
+  ],
+  "example": {
+   "pt": "Foi uma alegria ver você de novo.",
+   "en": "It was a joy to see you again."
+  }
+ },
+ {
+  "pt": "saudade",
+  "pos": "n.",
+  "english": "longing, missing someone",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "forms": [
+   "saudades"
+  ],
+  "example": {
+   "pt": "Estou com saudade da minha família.",
+   "en": "I miss my family."
+  }
+ },
+ {
+  "pt": "vontade",
+  "pos": "n.",
+  "english": "desire, urge",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "forms": [
+   "vontades"
+  ],
+  "example": {
+   "pt": "Estou com vontade de comer chocolate.",
+   "en": "I feel like eating chocolate."
+  }
+ },
+ {
+  "pt": "sentimento",
+  "pos": "n.",
+  "english": "feeling",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "gender": "m",
+  "forms": [
+   "sentimentos"
+  ],
+  "example": {
+   "pt": "É difícil explicar esse sentimento.",
+   "en": "It's hard to explain this feeling."
+  }
+ },
+ {
+  "pt": "opinião",
+  "pos": "n.",
+  "english": "opinion",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "gender": "f",
+  "forms": [
+   "opiniões"
+  ],
+  "example": {
+   "pt": "Qual é a sua opinião sobre o filme?",
+   "en": "What's your opinion about the movie?"
+  }
+ },
+ {
+  "pt": "concordar",
+  "pos": "v.",
+  "english": "to agree",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Eu concordo com você.",
+   "en": "I agree with you."
+  }
+ },
+ {
+  "pt": "discordar",
+  "pos": "v.",
+  "english": "to disagree",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Ela discordou do chefe na reunião.",
+   "en": "She disagreed with the boss in the meeting."
+  }
+ },
+ {
+  "pt": "preferir",
+  "pos": "v.",
+  "english": "to prefer",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Eu prefiro chá a café.",
+   "en": "I prefer tea to coffee."
+  }
+ },
+ {
+  "pt": "odiar",
+  "pos": "v.",
+  "english": "to hate",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Eu odeio acordar cedo.",
+   "en": "I hate waking up early."
+  }
+ },
+ {
+  "pt": "detestar",
+  "pos": "v.",
+  "english": "to hate, to detest",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Ele detesta esperar na fila.",
+   "en": "He hates waiting in line."
+  }
+ },
+ {
+  "pt": "adorar",
+  "pos": "v.",
+  "english": "to love, to adore",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Nós adoramos esse restaurante.",
+   "en": "We love this restaurant."
+  }
+ },
+ {
+  "pt": "acreditar",
+  "pos": "v.",
+  "english": "to believe",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Você acredita em fantasmas?",
+   "en": "Do you believe in ghosts?"
+  }
+ },
+ {
+  "pt": "reclamar",
+  "pos": "v.",
+  "english": "to complain",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Ele reclama de tudo.",
+   "en": "He complains about everything."
+  }
+ },
+ {
+  "pt": "chorar",
+  "pos": "v.",
+  "english": "to cry",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "O bebê chorou a noite toda.",
+   "en": "The baby cried all night."
+  }
+ },
+ {
+  "pt": "confiar",
+  "pos": "v.",
+  "english": "to trust",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Eu confio muito na minha irmã.",
+   "en": "I really trust my sister."
+  }
+ },
+ {
+  "pt": "ter certeza",
+  "pos": "expr.",
+  "english": "to be sure",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "forms": [
+   "tenho certeza",
+   "tem certeza",
+   "temos certeza",
+   "têm certeza",
+   "tinha certeza",
+   "tive certeza",
+   "teve certeza"
+  ],
+  "example": {
+   "pt": "Você tem certeza que a loja abre hoje?",
+   "en": "Are you sure the store opens today?"
+  }
+ },
+ {
+  "pt": "com certeza",
+  "pos": "expr.",
+  "english": "certainly, definitely",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Com certeza vou na sua festa!",
+   "en": "I'm definitely going to your party!"
+  }
+ },
+ {
+  "pt": "na minha opinião",
+  "pos": "expr.",
+  "english": "in my opinion",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Na minha opinião, o livro é melhor que o filme.",
+   "en": "In my opinion, the book is better than the movie."
+  }
+ },
+ {
+  "pt": "que pena",
+  "pos": "expr.",
+  "english": "what a pity, too bad",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Você não pode vir? Que pena!",
+   "en": "You can't come? What a pity!"
+  }
+ },
+ {
+  "pt": "tanto faz",
+  "pos": "expr.",
+  "english": "it doesn't matter, whatever",
+  "level": 2,
+  "topic": "Feelings & opinions",
+  "example": {
+   "pt": "Pizza ou hambúrguer? Para mim, tanto faz.",
+   "en": "Pizza or burger? It doesn't matter to me."
+  }
+ }
+]
