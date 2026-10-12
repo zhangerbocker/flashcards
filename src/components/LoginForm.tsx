@@ -8,6 +8,7 @@ export function LoginForm() {
   const [passcode, setPasscode] = useState("");
   const [error, setError] = useState<string | null>(null);
   const [busy, setBusy] = useState(false);
+  const [shown, setShown] = useState(false);
 
   async function submit() {
     setBusy(true);
@@ -41,16 +42,35 @@ export function LoginForm() {
       className="flex flex-col gap-4"
     >
       <h1 className="font-pt text-center text-4xl text-red-700 dark:text-red-400">Português</h1>
-      <input
-        type="password"
-        autoComplete="current-password"
-        autoFocus
-        value={passcode}
-        onChange={(e) => setPasscode(e.target.value)}
-        placeholder="Passcode"
-        aria-label="Passcode"
-        className="rounded-2xl border border-stone-300 bg-white px-4 py-3 text-lg dark:border-stone-700 dark:bg-stone-900"
-      />
+      <div className="relative">
+        <input
+          type={shown ? "text" : "password"}
+          autoComplete="current-password"
+          autoCapitalize="none"
+          autoCorrect="off"
+          spellCheck={false}
+          autoFocus
+          value={passcode}
+          onChange={(e) => setPasscode(e.target.value)}
+          placeholder="Passcode"
+          aria-label="Passcode"
+          // Room on the right for the eye button (a password manager's icon sits just left of it).
+          className="w-full rounded-2xl border border-stone-300 bg-white py-3 pl-4 pr-12 text-lg dark:border-stone-700 dark:bg-stone-900"
+        />
+        <button
+          type="button"
+          onClick={() => setShown((s) => !s)}
+          aria-label={shown ? "Hide passcode" : "Show passcode"}
+          aria-pressed={shown}
+          className="absolute inset-y-0 right-0 flex w-12 items-center justify-center rounded-r-2xl text-stone-500 hover:text-stone-800 dark:hover:text-stone-200"
+        >
+          <svg viewBox="0 0 24 24" className="h-5 w-5" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+            <path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12z" />
+            <circle cx="12" cy="12" r="3" />
+            {shown && <path d="M4 4l16 16" />}
+          </svg>
+        </button>
+      </div>
       {error && <p role="alert" className="text-sm text-red-700 dark:text-red-400">{error}</p>}
       <button
         type="submit"
