@@ -1,22 +1,27 @@
-# HSK Study (Phase 0 prototype)
+# Português
 
-Local prototype of the study app described in
-`../docs/superpowers/specs/2026-10-08-mandarin-study-app-design.md`.
-Currently built: **flashcards** (words, sentences, grammar, mistakes) and **reading** for HSK 3.0 (2025) Levels 1–2.
-The Chat tab is a placeholder.
+A study app for **Brazilian Portuguese, CEFR A1–A2**: spaced-repetition flashcards (words, sentences,
+grammar and verb conjugations), graded reading with tap-to-translate, and a chat partner that corrects
+every message.
+
+Adapted, with permission, from [ScharanCysne/mandarin](https://github.com/ScharanCysne/mandarin), an HSK
+Chinese app. The scheduler, sync, login and app shell are unchanged; the content model, tokenizer, answer
+checking and prompts were rewritten for Portuguese.
 
 ## Run
 
 ```bash
 npm install
-npm run dev -- -H 0.0.0.0
+npm run dev
 ```
 
-- Laptop: http://localhost:3000
-- Phone (same Wi-Fi): http://<laptop-LAN-IP>:3000 (find it with `ipconfig getifaddr en0` on macOS).
-  If the page never loads, allow incoming connections for `node` in macOS firewall settings.
+- Laptop: http://localhost:3000 (no login locally unless `SESSION_SECRET` is set).
+- Phone (same Wi-Fi): `npm run dev -- -H 0.0.0.0`, then http://<laptop-LAN-IP>:3000
+  (find it with `ipconfig getifaddr en0` on macOS).
 
-Progress is saved in the browser (`localStorage`), so the phone and laptop keep separate progress in this phase.
+Chat and "New story" call Claude. Put a key in `.env.local` (git-ignored): either an MIT Parley key
+(`PARLEY_API_KEY`, with `PARLEY_MODEL`) or an Anthropic key (`ANTHROPIC_API_KEY`); Parley is used when its
+key is set. Check the key with `npx tsx --env-file=.env.local scripts/check-claude.ts`.
 
 ## Flashcards
 
@@ -24,36 +29,42 @@ Card types (keys in `src/lib/deck.ts`):
 
 | Card | Front → back | Unlocks |
 |---|---|---|
-| Word | 汉字 → pinyin, meaning, example | in order: HSK 1 before HSK 2, grouped by topic |
-| Word · English → 中文 | meaning → 汉字 | when the word card graduates |
-| Sentence | example sentence → pinyin + English | when the word card graduates |
-| Sentence · English → 中文 | English → the Chinese sentence | when the sentence card graduates |
-| Grammar | pattern + English → Chinese example (rotates through examples) | when 70% of its example words are introduced |
-| Grammar · fix | typical mistake → correction (with pinyin) + reason | when the grammar card graduates |
-| From your chat | your mistake → correction (fed by Chat, coming next) | immediately, outside the quota |
+| Word | Português (nouns with o/a) → meaning, example | in order: A1 before A2, grouped by topic |
+| Word · English → Português | meaning → word | when the word card graduates |
+| Sentence | example sentence → English | when the word card graduates |
+| Sentence · English → Português | English → the Portuguese sentence | when the sentence card graduates |
+| Grammar | pattern + English → Portuguese example (rotates through examples) | when 70% of its example words are introduced |
+| Grammar · fix | typical mistake → correction + reason | when the grammar card graduates |
+| Conjugation | infinitive + tense + person → form, with the full table on the back | present once the verb is known; then pretérito perfeito, then imperfeito |
+| From your chat | your mistake → correction | immediately, outside the quota |
 
-- **Daily**: FSRS spaced repetition. Due cards first, then new words and practice cards (alternating,
-  each with its own daily quota, practice types rotated), then missed cards a few minutes from due.
-- **Cram**: Words / Sentences (by level, topic, direction), Grammar (by level), or Mistakes.
+- **Daily**: due cards first, then new words and practice items (grammar points and verb tenses, taking
+  turns), each with its own daily quota, then missed cards a few minutes from due.
+- **Cram**: Words / Sentences (by level, topic, direction), Grammar, Verbs (by level and tense) or Mistakes.
   Missed cards come back 3 cards later; cram never changes the schedule.
-- **Settings** (sliders icon): theme (System / Light / Dark, applies to the whole app), new words/day, new practice/day, type answers (checked with a
-  character diff; pinyin accepted for single words), play audio on reveal.
+- **Typed answers** ignore case and punctuation; nouns are accepted with or without the article and verb
+  forms with or without the pronoun. An answer that is right apart from accents is flagged "check the
+  accents" rather than marked correct.
+- Audio uses the browser's pt-BR voice.
 - Keyboard: Space/Enter reveals, then 1–4 grades (Space = Good).
-- Progress from the first prototype (keyed by word id) is migrated automatically.
-
-Not in this phase (needs the deployed version): progress shared across devices, offline use.
 
 ## Reading
 
-- **Library**: HSK 1 / HSK 2 → 12 topics → 3 stories each (`data/stories.json`). Stories use only words at or below
-  their level, and a topic's 3 stories together use every topic word at that level. Each card shows how much of the
-  story's vocabulary you already know and whether you've read it.
-- **Reader**: tap a word for its contextual pinyin and meaning (plus the dictionary gloss and HSK level), and add it
-  to your flashcards; it becomes the next card in Daily. Press and hold a sentence, or tap 译, for its translation.
-  Pinyin: all words, only words you don't know yet (default), or off. Words you don't know are underlined.
+- **Library**: A1 / A2 → 12 topics → stories (`data/stories.json`). Each card shows how much of the story's
+  vocabulary you already know and whether you've read it.
+- **Reader**: tap a word for its meaning in context plus its dictionary entry (conjugated verbs and plurals
+  link to the infinitive or singular), and add it to your flashcards. Press and hold a sentence, or tap EN,
+  for its translation; ▶ reads the story or sentence aloud. Words you don't know yet are underlined.
 - After the story: 3 comprehension questions (tap EN for a translation) and "Mark as read".
 - **New story** (per topic) asks Claude for a fresh story via `POST /api/stories`; it goes through the same
-  vocabulary check and is saved in this browser. It takes about a minute.
+  vocabulary check and is saved in this browser.
+
+## Chat
+
+Pick a level and a scenario (a padaria in São Paulo, weekend plans, work, family, getting around Rio). The
+partner replies in simple Brazilian Portuguese within your level's words; every message you send is
+checked, mistakes (including missing accents and gender agreement) become flashcards, and English words
+you used for gaps are looked up. "End chat" shows a summary.
 
 ## Checks
 
@@ -66,11 +77,12 @@ npm run build
 
 ## Content
 
-| File | Made by | Notes |
-|---|---|---|
-| `data/words.json` | `scripts/import-words.mjs`, then `npx tsx scripts/assign-topics.ts` | 500 HSK 3.0 (2025) words; topics assigned by Claude |
-| `data/grammar.json` | `npx tsx scripts/gen-grammar.ts [--only id,…]` | 65 points from `scripts/grammar-spec.ts` (official 2025 outline); examples validated against the word list, then reviewed by hand |
-| `data/stories.json` | `npx tsx scripts/gen-stories.ts [--only "HSK1:Time,…"]` | 72 stories; Claude writes, then repairs any sentence using non-HSK words; a second pass adds contextual pinyin/glosses |
-| `data/allowed-extras.json` | hand-written | grammar items, the erhua 儿 and proper nouns allowed in generated text |
+| File | Notes |
+|---|---|
+| `data/words.json` | words with gender, inflected `forms` (so the reader can find "falei" under falar) and an example |
+| `data/verbs.json` | present, pretérito perfeito and imperfeito tables; regular verbs are checked against `regularForms` in tests |
+| `data/grammar.json` | grammar points with examples, a typical mistake and the words they use |
+| `data/stories.json` | graded stories, tokenized and glossed |
+| `data/allowed-extras.json` | names and places allowed in generated text |
 
-The generation scripts call Claude (`ANTHROPIC_API_KEY` from the environment).
+The current content is a small hand-checked starter set (`scripts/seed-story.ts` builds the starter story).

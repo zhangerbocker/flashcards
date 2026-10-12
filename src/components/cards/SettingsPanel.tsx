@@ -40,23 +40,24 @@ export function SettingsPanel({ settings, onChange }: { settings: Settings; onCh
     <div className="flex flex-col gap-3 rounded-2xl border border-stone-200 p-4 dark:border-stone-800">
       <Quota label="New words per day" value={settings.newPerDay} onChange={(v) => onChange({ ...settings, newPerDay: v })} />
       <Quota
-        label="New grammar points per day"
+        label="New grammar & verb drills per day"
         value={settings.newGrammarPerDay}
         onChange={(v) => onChange({ ...settings, newGrammarPerDay: v })}
       />
       <p className="-mt-2 text-xs text-stone-500">
-        Each word has one schedule; its reviews take turns: word, English → 中文, sentence, sentence English → 中文. Grammar
-        points unlock as you learn their words.
+        Each word has one schedule; its reviews take turns: word, English → Português, sentence, sentence English →
+        Português. Grammar points unlock as you learn their words; a verb&apos;s conjugation drills unlock once you know
+        the verb, one tense at a time.
       </p>
       <Toggle
         label="Type answers"
-        hint="Type the Chinese on English → 中文 and grammar cards, then check it."
+        hint="Type the Portuguese on English → Português, grammar and verb cards, then check it."
         checked={settings.typeAnswers}
         onChange={(v) => onChange({ ...settings, typeAnswers: v })}
       />
       <Toggle
         label="Play audio on reveal"
-        hint="Reads the Chinese aloud when you show the answer."
+        hint="Reads the Portuguese aloud when you show the answer."
         checked={settings.autoplayAudio}
         onChange={(v) => onChange({ ...settings, autoplayAudio: v })}
       />

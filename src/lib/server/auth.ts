@@ -2,7 +2,7 @@
 // APP_PASSCODE_HASH; a session is an expiry time signed with SESSION_SECRET (HMAC).
 import { createHmac, randomBytes, scryptSync, timingSafeEqual } from "node:crypto";
 
-export const SESSION_COOKIE = "hsk_session";
+export const SESSION_COOKIE = "pt_session";
 export const SESSION_TTL_MS = 30 * 24 * 3_600_000;
 
 /** "scrypt:<salt>:<hash>" in base64, for APP_PASSCODE_HASH (see scripts/hash-passcode.ts). */

@@ -19,9 +19,8 @@ import {
 import { itemKey } from "@/lib/deck";
 import { addMistake, loadProgress, localDay, saveProgress } from "@/lib/progress-store";
 import { newItem, type Progress } from "@/lib/srs";
-import { WORDS, type Level } from "@/lib/words";
+import { findWord, LEVEL_NAMES, WORDS, type Level } from "@/lib/words";
 
-const WORDS_BY_HANZI = new Map(WORDS.map((w) => [w.hanzi, w]));
 
 export function ChatApp() {
   // Rendered client-only (see ChatLoader), so browser storage is available at init.
@@ -58,7 +57,7 @@ export function ChatApp() {
     setError(null);
     try {
       const line = await openChat(request(level, scenarioId, []));
-      update({ level, scenario: scenarioId, messages: [{ role: "partner", text: line.reply, pinyin: line.replyPinyin, en: line.replyEn }] });
+      update({ level, scenario: scenarioId, messages: [{ role: "partner", text: line.reply, en: line.replyEn }] });
     } catch (err) {
       if (!(err instanceof Error)) throw err;
       setError({ message: err.message, retry: () => void start(level, scenarioId) });
@@ -84,7 +83,7 @@ export function ChatApp() {
         messages: [
           ...conversation.messages,
           { role: "user", text: message, check: turn.check },
-          { role: "partner", text: turn.partner.reply, pinyin: turn.partner.replyPinyin, en: turn.partner.replyEn },
+          { role: "partner", text: turn.partner.reply, en: turn.partner.replyEn },
         ],
       });
     } catch (err) {
@@ -96,8 +95,8 @@ export function ChatApp() {
     }
   }
 
-  function gapWord(hanzi: string): GapWord {
-    const word = WORDS_BY_HANZI.get(hanzi);
+  function gapWord(pt: string): GapWord {
+    const word = findWord(pt);
     return { word, status: word && progress.items[itemKey("word", word.id)] ? "studying" : "new" };
   }
 
@@ -155,7 +154,7 @@ export function ChatApp() {
       <header className="flex items-center justify-between gap-2">
         <div>
           <h1 className="font-semibold">{scenario.title}</h1>
-          <p className="text-xs text-stone-500">HSK {conversation.level} · tap ? for pinyin and English</p>
+          <p className="text-xs text-stone-500">{LEVEL_NAMES[conversation.level]} · tap ? for English</p>
         </div>
         <button
           type="button"
@@ -170,7 +169,7 @@ export function ChatApp() {
       <div className="flex flex-1 flex-col gap-3">
         {conversation.messages.map((m, i) =>
           m.role === "partner" ? (
-            <PartnerMessage key={i} text={m.text} pinyin={m.pinyin} en={m.en} />
+            <PartnerMessage key={i} text={m.text} en={m.en} />
           ) : (
             <UserMessage key={i} text={m.text} check={m.check} gapWord={gapWord} onAddWord={addWord} />
           ),
@@ -204,9 +203,9 @@ export function ChatApp() {
           }}
           rows={1}
           maxLength={MAX_MESSAGE_CHARS}
-          placeholder="用中文回答…"
+          placeholder="Responda em português…"
           aria-label="Your message"
-          className="font-han max-h-32 min-h-11 flex-1 resize-none rounded-2xl border border-stone-300 bg-white px-4 py-2.5 text-lg dark:border-stone-700 dark:bg-stone-900"
+          className="font-pt max-h-32 min-h-11 flex-1 resize-none rounded-2xl border border-stone-300 bg-white px-4 py-2.5 text-lg dark:border-stone-700 dark:bg-stone-900"
         />
         <button
           type="submit"

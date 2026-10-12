@@ -1,5 +1,4 @@
 import type { Mistake } from "./deck";
-import { itemsFromCards, type LegacyCard } from "./legacy-progress";
 import type { Progress } from "./srs";
 import { enqueue } from "./sync-ops";
 
@@ -29,12 +28,10 @@ export interface ReviewEntry {
   at: string;
 }
 
-const PROGRESS_KEY = "hsk.progress.v2";
-/** Per-card progress saved before items had a single schedule. */
-const LEGACY_PROGRESS_KEY = "hsk.progress.v1";
-const SETTINGS_KEY = "hsk.settings.v1";
-const MISTAKES_KEY = "hsk.mistakes.v1";
-const REVIEWS_KEY = "hsk.reviews.v1";
+const PROGRESS_KEY = "pt.progress.v1";
+const SETTINGS_KEY = "pt.settings.v1";
+const MISTAKES_KEY = "pt.mistakes.v1";
+const REVIEWS_KEY = "pt.reviews.v1";
 /** Keep the review log bounded; it only feeds streaks and today's counts. */
 const MAX_REVIEWS = 5000;
 
@@ -55,25 +52,17 @@ function isRecord(value: unknown): value is Record<string, unknown> {
 }
 
 /**
- * Loads study progress. Earlier versions saved a schedule per exercise card under
- * the v1 key; the first load converts it to per-item schedules (v1 is left in
- * place as a backup). Unreadable data is copied to a timestamped backup key so a
+ * Loads study progress. Unreadable data is copied to a timestamped backup key so a
  * bad write never loses history.
  */
 export function loadProgress(storage: KeyValueStorage): Progress {
   const value = readJson(storage, PROGRESS_KEY);
-  if (value === undefined) return loadLegacyProgress(storage);
+  if (value === undefined) return { items: {} };
   if (!isRecord(value) || !isRecord(value.items)) {
     storage.setItem(`${PROGRESS_KEY}.corrupt-${Date.now()}`, JSON.stringify(value));
     return { items: {} };
   }
   return { items: value.items as Progress["items"] };
-}
-
-function loadLegacyProgress(storage: KeyValueStorage): Progress {
-  const value = readJson(storage, LEGACY_PROGRESS_KEY);
-  if (!isRecord(value) || !isRecord(value.cards)) return { items: {} };
-  return itemsFromCards(value.cards as Record<string, LegacyCard>);
 }
 
 /** Saves progress and queues the items that changed for syncing. */
@@ -117,7 +106,6 @@ function isMistake(value: unknown): value is Mistake {
   const m = value as Record<string, unknown>;
   return (
     ["id", "wrong", "right", "reason", "createdAt"].every((k) => typeof m[k] === "string") &&
-    (m.pinyin === undefined || typeof m.pinyin === "string") &&
     (m.en === undefined || typeof m.en === "string")
   );
 }

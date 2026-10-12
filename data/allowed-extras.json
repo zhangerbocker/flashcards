@@ -1,119 +1,33 @@
 {
-  "_comment": "Tokens allowed in generated content although they are not standalone entries in the HSK 1-2 word list: grammar-syllabus items from the 2025 grammar outline, the erhua suffix 儿, and proper nouns.",
-  "grammar": [
-    "没",
-    "常",
-    "有时候",
-    "好多",
-    "杯",
-    "儿"
-  ],
+  "_comment": "Terms allowed in generated content although they are not entries in the word list: proper nouns (people and places) and a few function words. Glosses are the English shown in the reader.",
+  "grammar": [],
   "properNouns": [
-    "北京",
-    "上海",
-    "纽约",
-    "巴西",
-    "圣保罗",
-    "美国",
-    "英国",
-    "李",
-    "王",
-    "张",
-    "小王",
-    "小李",
-    "小张",
-    "大卫",
-    "安娜",
-    "马克"
+    "Ana",
+    "Pedro",
+    "João",
+    "Maria",
+    "Lucas",
+    "Beatriz",
+    "Carla",
+    "Rafael",
+    "Paulo",
+    "Júlia",
+    "Brasil",
+    "São Paulo",
+    "Rio de Janeiro",
+    "Rio",
+    "Salvador",
+    "Bahia",
+    "Copacabana",
+    "Ipanema",
+    "Portugal",
+    "Estados Unidos",
+    "Nova York",
+    "Boston"
   ],
   "glosses": {
-    "没": [
-      "méi",
-      "not (past) / don't have"
-    ],
-    "常": [
-      "cháng",
-      "often"
-    ],
-    "有时候": [
-      "yǒu shíhou",
-      "sometimes"
-    ],
-    "好多": [
-      "hǎoduō",
-      "a lot of"
-    ],
-    "杯": [
-      "bēi",
-      "cup (measure word)"
-    ],
-    "儿": [
-      "r",
-      "(erhua suffix)"
-    ],
-    "北京": [
-      "Běijīng",
-      "Beijing"
-    ],
-    "上海": [
-      "Shànghǎi",
-      "Shanghai"
-    ],
-    "纽约": [
-      "Niǔyuē",
-      "New York"
-    ],
-    "巴西": [
-      "Bāxī",
-      "Brazil"
-    ],
-    "圣保罗": [
-      "Shèngbǎoluó",
-      "São Paulo"
-    ],
-    "美国": [
-      "Měiguó",
-      "USA"
-    ],
-    "英国": [
-      "Yīngguó",
-      "UK"
-    ],
-    "李": [
-      "Lǐ",
-      "Li (surname)"
-    ],
-    "王": [
-      "Wáng",
-      "Wang (surname)"
-    ],
-    "张": [
-      "Zhāng",
-      "Zhang (surname)"
-    ],
-    "小王": [
-      "Xiǎo Wáng",
-      "Xiao Wang (name)"
-    ],
-    "小李": [
-      "Xiǎo Lǐ",
-      "Xiao Li (name)"
-    ],
-    "小张": [
-      "Xiǎo Zhāng",
-      "Xiao Zhang (name)"
-    ],
-    "大卫": [
-      "Dàwèi",
-      "David"
-    ],
-    "安娜": [
-      "Ānnà",
-      "Anna"
-    ],
-    "马克": [
-      "Mǎkè",
-      "Mark"
-    ]
+    "Brasil": "Brazil",
+    "Estados Unidos": "United States",
+    "Nova York": "New York"
   }
 }

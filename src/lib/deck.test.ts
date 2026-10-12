@@ -10,6 +10,8 @@ import {
   nextDailyCard,
   parseKey,
   unlockedGrammarItems,
+  unlockedVerbItems,
+  verbItemKey,
   type Deck,
 } from "./deck";
 import type { GrammarPoint } from "./grammar";
@@ -23,13 +25,14 @@ const TODAY = "2026-10-08";
 function word(id: number, level: Level, topic: Topic = "Actions"): Word {
   return {
     id,
-    hanzi: `字${id}`,
-    pinyin: "zì",
+    pt: `palavra${id}`,
     pos: "n.",
     english: `word ${id}`,
     level,
     topic,
-    example: { zh: "例子。", pinyin: "Lìzi.", en: "Example." },
+    gender: "f",
+    forms: [],
+    example: { pt: "Exemplo.", en: "Example." },
   };
 }
 
@@ -40,8 +43,8 @@ function grammar(id: string, wordIds: number[]): GrammarPoint {
     title: id,
     pattern: "A + B",
     explanation: "",
-    examples: [{ zh: "例子。", pinyin: "", en: "", highlight: [] }],
-    mistake: { wrong: "x", right: "y", pinyin: "y", en: "y", reason: "z" },
+    examples: [{ pt: "Exemplo.", en: "", highlight: [] }],
+    mistake: { wrong: "x", right: "y", en: "y", reason: "z" },
     wordIds,
   };
 }
@@ -49,6 +52,7 @@ function grammar(id: string, wordIds: number[]): GrammarPoint {
 const DECK: Deck = {
   words: [word(3, 2), word(1, 1, "Time"), word(2, 1, "Function words"), word(4, 2)],
   grammar: [grammar("g1", [1, 2])],
+  verbs: [],
   mistakes: [],
 };
 
@@ -216,5 +220,48 @@ describe("buildCramKeys", () => {
   it("is deterministic for a given random source", () => {
     const filter = { kind: "words", level: "all", topic: "all", face: "r" } as const;
     expect(buildCramKeys(DECK, filter, rand)).toEqual(buildCramKeys(DECK, filter, rand));
+  });
+});
+
+describe("verb drills", () => {
+  const verb = {
+    wordId: 1,
+    infinitive: "falar",
+    irregular: false,
+    tenses: {
+      presente: ["falo", "fala", "falamos", "falam"],
+      preterito: ["falei", "falou", "falamos", "falaram"],
+      imperfeito: ["falava", "falava", "falávamos", "falavam"],
+    },
+  } satisfies Deck["verbs"][number];
+  const deck: Deck = { ...DECK, verbs: [verb] };
+
+  it("rotates through the persons of a tense", () => {
+    expect(exercisesOf("v:1-presente")).toEqual(["v:1-presente-0:p", "v:1-presente-1:p", "v:1-presente-3:p", "v:1-presente-2:p"]);
+    expect(parseKey("v:1-presente-0:p")).toEqual({ kind: "conjugation", ref: "1-presente-0", face: "p" });
+  });
+
+  it("unlocks the present once the verb's word has graduated, then each tense after the previous one", () => {
+    expect(unlockedVerbItems(deck, progress({ "w:1": graded(Rating.Again) }))).toEqual([]);
+    expect(unlockedVerbItems(deck, progress({ "w:1": learned() }))).toEqual(["v:1-presente"]);
+    const presentStarted = progress({ "w:1": learned(), [verbItemKey(1, "presente")]: graded(Rating.Again) });
+    expect(unlockedVerbItems(deck, presentStarted)).toEqual([]);
+    const presentLearned = progress({ "w:1": learned(), [verbItemKey(1, "presente")]: learned() });
+    expect(unlockedVerbItems(deck, presentLearned)).toEqual(["v:1-preterito"]);
+  });
+
+  it("serves verb drills from the practice quota, taking turns with grammar", () => {
+    const p = progress({ "w:1": learned(), "w:2": learned(), "w:3": learned(), "w:4": learned() });
+    const quotas = { newPerDay: 0, newGrammarPerDay: 2 };
+    const first = nextDailyCard(deck, p, NOW, TODAY, quotas);
+    expect(first?.item).toBe("g:g1");
+    const afterGrammar = progress({ ...p.items, "g:g1": graded(Rating.Good) });
+    expect(nextDailyCard(deck, afterGrammar, NOW, TODAY, quotas)?.key).toBe("v:1-presente-0:p");
+    expect(introducedOn(progress({ ...afterGrammar.items, "v:1-presente": graded(Rating.Good) }), TODAY).grammar).toBe(2);
+  });
+
+  it("crams every person of the chosen tense", () => {
+    const keys = buildCramKeys(deck, { kind: "verbs", level: "all", topic: "all", face: "p", tense: "preterito" }, () => 0.3);
+    expect([...keys].sort()).toEqual(["v:1-preterito-0:p", "v:1-preterito-1:p", "v:1-preterito-2:p", "v:1-preterito-3:p"]);
   });
 });

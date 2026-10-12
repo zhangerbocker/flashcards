@@ -1,16 +1,18 @@
 import type { GrammarPoint } from "./grammar";
 import type { CardState, Progress } from "./srs";
 import { TOPICS, type Topic } from "./topics";
+import { TENSES, type Tense, type Verb } from "./verbs";
 import type { Level, Word } from "./words";
 
 /**
  * Exercise card keys encode kind, content id and face:
- *   w:<wordId>:r  word, hanzi → meaning        w:<wordId>:p  word, meaning → hanzi
- *   s:<wordId>:r  example sentence, zh → en     s:<wordId>:p  example sentence, en → zh
+ *   w:<wordId>:r  word, pt → meaning            w:<wordId>:p  word, meaning → pt
+ *   s:<wordId>:r  example sentence, pt → en     s:<wordId>:p  example sentence, en → pt
  *   g:<grammarId>:u  use the pattern            g:<grammarId>:f  fix the typical mistake
+ *   v:<wordId>-<tense>-<person>:p  conjugate a verb (person 0-3, see PERSONS)
  *   m:<mistakeId>:f  fix a mistake from chat
  */
-export type CardKind = "word" | "sentence" | "grammar" | "mistake";
+export type CardKind = "word" | "sentence" | "grammar" | "conjugation" | "mistake";
 export type CardFace = "r" | "p" | "u" | "f";
 
 export interface ParsedKey {
@@ -19,8 +21,8 @@ export interface ParsedKey {
   face: CardFace;
 }
 
-const PREFIX: Record<CardKind, string> = { word: "w", sentence: "s", grammar: "g", mistake: "m" };
-const KIND_BY_PREFIX: Record<string, CardKind> = { w: "word", s: "sentence", g: "grammar", m: "mistake" };
+const PREFIX: Record<CardKind, string> = { word: "w", sentence: "s", grammar: "g", conjugation: "v", mistake: "m" };
+const KIND_BY_PREFIX: Record<string, CardKind> = { w: "word", s: "sentence", g: "grammar", v: "conjugation", m: "mistake" };
 
 export function cardKey(kind: CardKind, ref: string | number, face: CardFace): string {
   return `${PREFIX[kind]}:${ref}:${face}`;
@@ -37,8 +39,6 @@ export interface Mistake {
   id: string;
   wrong: string;
   right: string;
-  /** Pinyin of the corrected sentence, when the chat provided it. */
-  pinyin?: string;
   /** English meaning of the corrected sentence, when the chat provided it. */
   en?: string;
   reason: string;
@@ -48,17 +48,27 @@ export interface Mistake {
 export interface Deck {
   words: readonly Word[];
   grammar: readonly GrammarPoint[];
+  verbs: readonly Verb[];
   mistakes: readonly Mistake[];
 }
 
 /**
  * Study items, each with one schedule (see srs.ts):
  *   w:<wordId>  a word       g:<grammarId>  a grammar point       m:<mistakeId>  a chat mistake
+ *   v:<wordId>-<tense>  one tense of a verb
  * Each review of an item shows its next exercise card in turn.
  */
-export type ItemKind = "word" | "grammar" | "mistake";
+export type ItemKind = "word" | "grammar" | "verb" | "mistake";
 
-const ITEM_PREFIX: Record<ItemKind, string> = { word: "w", grammar: "g", mistake: "m" };
+const ITEM_PREFIX: Record<ItemKind, string> = { word: "w", grammar: "g", verb: "v", mistake: "m" };
+
+/** The item key for one tense of a verb. */
+export function verbItemKey(wordId: number, tense: Tense): string {
+  return itemKey("verb", `${wordId}-${tense}`);
+}
+
+/** Persons in the order a verb tense's reviews take turns (eu, ele, eles, nós). */
+const PERSON_ORDER = [0, 1, 3, 2];
 
 export function itemKey(kind: ItemKind, ref: string | number): string {
   return `${ITEM_PREFIX[kind]}:${ref}`;
@@ -66,7 +76,8 @@ export function itemKey(kind: ItemKind, ref: string | number): string {
 
 /**
  * The exercise cards of an item, in the order they take turns: a word goes
- * hanzi → meaning, meaning → hanzi, then its example sentence both ways.
+ * pt → meaning, meaning → pt, then its example sentence both ways; a verb tense
+ * goes through its persons.
  */
 export function exercisesOf(item: string): string[] {
   const [prefix, ref] = item.split(":");
@@ -75,6 +86,8 @@ export function exercisesOf(item: string): string[] {
       return [cardKey("word", ref, "r"), cardKey("word", ref, "p"), cardKey("sentence", ref, "r"), cardKey("sentence", ref, "p")];
     case "g":
       return [cardKey("grammar", ref, "u"), cardKey("grammar", ref, "f")];
+    case "v":
+      return PERSON_ORDER.map((p) => cardKey("conjugation", `${ref}-${p}`, "p"));
     case "m":
       return [cardKey("mistake", ref, "f")];
     default:
@@ -108,7 +121,7 @@ const LEARN_AHEAD_MS = 20 * 60 * 1000;
 
 const topicRank = (t: Topic) => TOPICS.indexOf(t);
 
-/** New-word order: by HSK level, grouped by topic, then list order. */
+/** New-word order: by level, grouped by topic, then list order. */
 export function orderedWords(words: readonly Word[]): Word[] {
   return [...words].sort((a, b) => a.level - b.level || topicRank(a.topic) - topicRank(b.topic) || a.id - b.id);
 }
@@ -135,18 +148,38 @@ export function unlockedGrammarItems(deck: Deck, progress: Progress): string[] {
     .filter((k) => !introduced(progress, k));
 }
 
+/**
+ * Verb tenses not yet studied, in word order: a verb's present unlocks once its word
+ * has graduated, and each later tense once the previous tense has graduated.
+ */
+export function unlockedVerbItems(deck: Deck, progress: Progress): string[] {
+  const graduated = (key: string) => progress.items[key]?.state === "review";
+  const order = new Map(orderedWords(deck.words).map((w, i) => [w.id, i]));
+  const verbs = deck.verbs.filter((v) => order.has(v.wordId)).sort((a, b) => order.get(a.wordId)! - order.get(b.wordId)!);
+  return verbs.flatMap((v) => {
+    if (!graduated(itemKey("word", v.wordId))) return [];
+    const key = TENSES.map((t) => verbItemKey(v.wordId, t)).find((k) => !introduced(progress, k));
+    if (!key) return [];
+    const index = TENSES.findIndex((t) => verbItemKey(v.wordId, t) === key);
+    return index === 0 || graduated(verbItemKey(v.wordId, TENSES[index - 1])) ? [key] : [];
+  });
+}
+
 function unseenMistakes(deck: Deck, progress: Progress): string[] {
   return deck.mistakes.map((m) => itemKey("mistake", m.id)).filter((k) => !introduced(progress, k));
 }
 
-/** Words and grammar points first studied on `day` (chat mistakes don't count). */
+/**
+ * Words and practice items (grammar points and verb tenses) first studied on `day`
+ * (chat mistakes don't count).
+ */
 export function introducedOn(progress: Progress, day: string): { words: number; grammar: number } {
   let words = 0;
   let grammar = 0;
   for (const [key, item] of Object.entries(progress.items)) {
     if (item.introducedOn !== day) continue;
     if (key.startsWith("w:")) words++;
-    else if (key.startsWith("g:")) grammar++;
+    else if (key.startsWith("g:") || key.startsWith("v:")) grammar++;
   }
   return { words, grammar };
 }
@@ -161,6 +194,7 @@ function knownItems(deck: Deck): Set<string> {
   return new Set([
     ...deck.words.map((w) => itemKey("word", w.id)),
     ...deck.grammar.map((g) => itemKey("grammar", g.id)),
+    ...deck.verbs.flatMap((v) => TENSES.map((t) => verbItemKey(v.wordId, t))),
     ...deck.mistakes.map((m) => itemKey("mistake", m.id)),
   ]);
 }
@@ -177,7 +211,8 @@ function scheduledItems(deck: Deck, progress: Progress) {
  * Picks the next item of the daily session and the exercise to show for it:
  * 1. items already due, most overdue first;
  * 2. unseen chat mistakes (no quota);
- * 3. new words and unlocked grammar points, alternating, each within its daily quota;
+ * 3. new words and practice items, alternating, each within its daily quota; practice
+ *    alternates between unlocked grammar points and verb tenses;
  * 4. learning items due within the learn-ahead window.
  * Items whose content no longer exists are skipped. Returns null when done.
  */
@@ -199,7 +234,7 @@ export function nextDailyCard(
 
   const done = introducedOn(progress, today);
   const word = done.words < settings.newPerDay ? newWordItems(deck, progress)[0] : undefined;
-  const grammar = done.grammar < settings.newGrammarPerDay ? unlockedGrammarItems(deck, progress)[0] : undefined;
+  const grammar = done.grammar < settings.newGrammarPerDay ? nextPractice(deck, progress, done.grammar) : undefined;
   const fresh = done.words <= done.grammar ? (word ?? grammar) : (grammar ?? word);
   if (fresh) return pick(fresh, true);
 
@@ -207,7 +242,14 @@ export function nextDailyCard(
   return ahead ? pick(ahead[0], false) : null;
 }
 
-/** Header counts: items due now, new words left today, new grammar points left today (plus unseen chat mistakes). */
+/** The next practice item: grammar and verb tenses take turns, each falling back to the other. */
+function nextPractice(deck: Deck, progress: Progress, doneToday: number): string | undefined {
+  const grammar = unlockedGrammarItems(deck, progress)[0];
+  const verb = unlockedVerbItems(deck, progress)[0];
+  return doneToday % 2 === 0 ? (grammar ?? verb) : (verb ?? grammar);
+}
+
+/** Header counts: items due now, new words left today, new practice items left today (plus unseen chat mistakes). */
 export function dailyCounts(
   deck: Deck,
   progress: Progress,
@@ -223,17 +265,23 @@ export function dailyCounts(
     newWords: left(settings.newPerDay, done.words, newWordItems(deck, progress).length),
     newGrammar:
       unseenMistakes(deck, progress).length +
-      left(settings.newGrammarPerDay, done.grammar, unlockedGrammarItems(deck, progress).length),
+      left(
+        settings.newGrammarPerDay,
+        done.grammar,
+        unlockedGrammarItems(deck, progress).length + unlockedVerbItems(deck, progress).length,
+      ),
   };
 }
 
-export type CramKind = "words" | "sentences" | "grammar" | "mistakes";
+export type CramKind = "words" | "sentences" | "grammar" | "verbs" | "mistakes";
 
 export interface CramFilter {
   kind: CramKind;
   level: Level | "all";
   topic: Topic | "all";
   face: "r" | "p";
+  /** Verbs only. */
+  tense?: Tense | "all";
 }
 
 /** Card keys for a cram session matching the filter, shuffled with the injected random source. */
@@ -253,6 +301,14 @@ export function buildCramKeys(deck: Deck, filter: CramFilter, random: () => numb
         .filter((g) => levelOk(g.level))
         .flatMap((g) => [cardKey("grammar", g.id, "u"), cardKey("grammar", g.id, "f")]);
       break;
+    case "verbs": {
+      const levelOf = new Map(deck.words.map((w) => [w.id, w.level]));
+      const tenses = !filter.tense || filter.tense === "all" ? TENSES : [filter.tense];
+      keys = deck.verbs
+        .filter((v) => levelOk(levelOf.get(v.wordId) ?? 1))
+        .flatMap((v) => tenses.flatMap((t) => [0, 1, 2, 3].map((p) => cardKey("conjugation", `${v.wordId}-${t}-${p}`, "p"))));
+      break;
+    }
     case "mistakes":
       keys = deck.mistakes.map((m) => cardKey("mistake", m.id, "f"));
       break;

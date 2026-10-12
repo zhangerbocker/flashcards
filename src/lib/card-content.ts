@@ -1,14 +1,15 @@
 import { parseKey, type Deck, type Mistake } from "./deck";
 import type { GrammarExample, GrammarPoint } from "./grammar";
-import type { Level, Word } from "./words";
+import { isTense, PERSONS, type Tense, type Verb } from "./verbs";
+import { withArticle, type Level, type Word } from "./words";
 
 interface Base {
   key: string;
   label: string;
   level?: Level;
-  /** Expected Chinese for production cards (typed-answer checking); pinyin accepted for single words. */
-  answer?: { zh: string; pinyin?: string };
-  /** Chinese read aloud by the speaker button, front and back. */
+  /** Expected Portuguese for production cards (typed-answer checking), plus other accepted answers. */
+  answer?: { pt: string; alternatives?: string[] };
+  /** Portuguese read aloud by the speaker button, front and back. */
   audio: { front?: string; back: string };
 }
 
@@ -16,15 +17,17 @@ export type CardContent =
   | (Base & { kind: "word"; face: "r" | "p"; word: Word })
   | (Base & { kind: "sentence"; face: "r" | "p"; word: Word })
   | (Base & { kind: "grammar"; face: "u" | "f"; grammar: GrammarPoint; example: GrammarExample })
+  | (Base & { kind: "conjugation"; face: "p"; verb: Verb; word: Word; tense: Tense; person: number; form: string })
   | (Base & { kind: "mistake"; face: "f"; mistake: Mistake });
 
 const LABELS: Partial<Record<string, string>> = {
   "word:r": "Word",
-  "word:p": "Word · English → 中文",
+  "word:p": "Word · English → Português",
   "sentence:r": "Sentence",
-  "sentence:p": "Sentence · English → 中文",
+  "sentence:p": "Sentence · English → Português",
   "grammar:u": "Grammar",
   "grammar:f": "Grammar · fix the mistake",
+  "conjugation:p": "Conjugation",
   "mistake:f": "From your chat",
 };
 
@@ -42,16 +45,17 @@ export function cardContent(key: string, deck: Deck, reps = 0): CardContent | nu
     const word = deck.words.find((w) => w.id === Number(ref));
     if (!word) return null;
     if (kind === "word") {
+      const full = withArticle(word);
       return {
         key, label, kind, face, word, level: word.level,
-        answer: face === "p" ? { zh: word.hanzi, pinyin: word.pinyin } : undefined,
-        audio: { front: face === "r" ? word.hanzi : undefined, back: word.hanzi },
+        answer: face === "p" ? { pt: full, alternatives: full === word.pt ? [] : [word.pt] } : undefined,
+        audio: { front: face === "r" ? full : undefined, back: full },
       };
     }
     return {
       key, label, kind, face, word, level: word.level,
-      answer: face === "p" ? { zh: word.example.zh } : undefined,
-      audio: { front: face === "r" ? word.example.zh : undefined, back: word.example.zh },
+      answer: face === "p" ? { pt: word.example.pt } : undefined,
+      audio: { front: face === "r" ? word.example.pt : undefined, back: word.example.pt },
     };
   }
 
@@ -60,11 +64,30 @@ export function cardContent(key: string, deck: Deck, reps = 0): CardContent | nu
     const grammar = deck.grammar.find((g) => g.id === ref);
     if (!grammar || grammar.examples.length === 0) return null;
     const example = grammar.examples[reps % grammar.examples.length];
-    const answer = face === "u" ? example.zh : grammar.mistake.right;
-    return { key, label, kind, face, grammar, example, level: grammar.level, answer: { zh: answer }, audio: { back: answer } };
+    const answer = face === "u" ? example.pt : grammar.mistake.right;
+    return { key, label, kind, face, grammar, example, level: grammar.level, answer: { pt: answer }, audio: { back: answer } };
+  }
+
+  if (kind === "conjugation") {
+    const m = /^(\d+)-(\w+)-([0-3])$/.exec(ref);
+    if (!m || face !== "p" || !isTense(m[2])) return null;
+    const wordId = Number(m[1]);
+    const verb = deck.verbs.find((v) => v.wordId === wordId);
+    const word = deck.words.find((w) => w.id === wordId);
+    if (!verb || !word) return null;
+    const tense = m[2];
+    const person = Number(m[3]);
+    const form = verb.tenses[tense][person];
+    // "eu falo" or "ela fala" is as good as the bare form.
+    const pronouns = PERSONS[person].split(" / ");
+    return {
+      key, label, kind, face, verb, word, tense, person, form, level: word.level,
+      answer: { pt: form, alternatives: pronouns.map((p) => `${p} ${form}`) },
+      audio: { back: `${pronouns[0]} ${form}` },
+    };
   }
 
   const mistake = deck.mistakes.find((m) => m.id === ref);
   if (!mistake || face !== "f") return null;
-  return { key, label, kind: "mistake", face, mistake, answer: { zh: mistake.right }, audio: { back: mistake.right } };
+  return { key, label, kind: "mistake", face, mistake, answer: { pt: mistake.right }, audio: { back: mistake.right } };
 }

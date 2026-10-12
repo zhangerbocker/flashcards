@@ -7,7 +7,7 @@ import { knownShare, LIBRARY, loadCustomStories, loadReadIds, saveCustomStory } 
 import { loadProgress } from "@/lib/progress-store";
 import type { Story } from "@/lib/story";
 import { TOPICS, type Topic } from "@/lib/topics";
-import type { Level } from "@/lib/words";
+import { LEVEL_NAMES, LEVELS, type Level } from "@/lib/words";
 
 function StoryCard({ story, share, read }: { story: Story; share: number; read: boolean }) {
   return (
@@ -16,7 +16,7 @@ function StoryCard({ story, share, read }: { story: Story; share: number; read: 
       className="flex items-center justify-between gap-3 rounded-2xl border border-stone-200 bg-white px-4 py-3 hover:border-stone-400 dark:border-stone-800 dark:bg-stone-900"
     >
       <span className="min-w-0">
-        <span className="font-han block truncate text-lg">{story.title}</span>
+        <span className="font-pt block truncate text-lg">{story.title}</span>
         <span className="block truncate text-xs text-stone-500">
           {story.titleEn}
           {story.id.startsWith("c-") ? " · new" : ""}
@@ -67,14 +67,14 @@ export function Library() {
       <header className="flex items-center justify-between">
         <h1 className="text-lg font-semibold">Reading</h1>
         <div className="flex rounded-full bg-stone-200 p-1 text-sm dark:bg-stone-800">
-          {([1, 2, 3] as const).map((l) => (
+          {LEVELS.map((l) => (
             <button
               key={l}
               type="button"
               onClick={() => setLevel(l)}
               className={`rounded-full px-4 py-1.5 ${level === l ? "bg-white shadow-sm dark:bg-stone-950" : "text-stone-600 dark:text-stone-400"}`}
             >
-              HSK {l}
+              {LEVEL_NAMES[l]}
             </button>
           ))}
         </div>

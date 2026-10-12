@@ -7,8 +7,8 @@ import {
   applyFixes,
   buildStory,
   draftProblems,
+  draftWordCount,
   glossTargets,
-  hanCount,
   LENGTH_RANGE,
   missingWords,
   vocabOffenders,
@@ -17,21 +17,20 @@ import {
   type StoryDraft,
 } from "../story";
 import type { Topic } from "../topics";
-import type { Level, Word } from "../words";
-
+import { withArticle, type Level, type Word } from "../words";
 
 const Question = z.object({
-  q: z.string().describe("Question in simple Chinese"),
+  q: z.string().describe("Question in simple Portuguese"),
   qEn: z.string().describe("English translation of the question"),
-  options: z.array(z.string()).describe("Exactly 4 short options in Chinese"),
+  options: z.array(z.string()).describe("Exactly 4 short options in Portuguese"),
   answer: z.number().int().describe("Index (0-3) of the correct option"),
 });
 
 const Draft = z.object({
-  title: z.string().describe("Short Chinese title"),
+  title: z.string().describe("Short Portuguese title"),
   titleEn: z.string(),
   sentences: z
-    .array(z.object({ zh: z.string().describe("One Chinese sentence with its end punctuation"), en: z.string() }))
+    .array(z.object({ pt: z.string().describe("One Portuguese sentence with its end punctuation"), en: z.string() }))
     .describe("The story, one sentence per entry, in order"),
   questions: z.array(Question).describe("Exactly 3 multiple-choice comprehension questions"),
 });
@@ -40,7 +39,7 @@ const DraftBatch = z.object({ stories: z.array(Draft) });
 
 const Glosses = z.object({
   sentences: z
-    .array(z.object({ tokens: z.array(z.object({ pinyin: z.string(), en: z.string() })) }))
+    .array(z.object({ tokens: z.array(z.object({ en: z.string() })) }))
     .describe("One entry per sentence; one gloss per given token, same order and count"),
 });
 
@@ -52,7 +51,7 @@ export interface StoryGenInput {
   extras: ReadonlySet<string>;
   /** Whether every topic word at this level must appear across the stories. */
   requireCoverage: boolean;
-  /** Pinyin and English for extras (names, grammar items), used when glossing falls back. */
+  /** English for extras (names, places), used when glossing falls back. */
   extraGlosses: ReadonlyMap<string, Gloss>;
   /** Prefix for generated story ids. */
   idPrefix: string;
@@ -66,20 +65,27 @@ export interface StoryGenResult {
   missing: string[];
 }
 
-/** Target sentence counts per story; models hit these more reliably than character counts. */
-const SENTENCES: Record<Level, string> = { 1: "16-22", 2: "20-28", 3: "24-32" };
+/** Target sentence counts per story; models hit these more reliably than word counts. */
+const SENTENCES: Record<Level, string> = { 1: "12-18", 2: "16-24" };
+
+const TENSES: Record<Level, string> = {
+  1: "the present tense, ir + infinitive for the future, and a little pretérito perfeito",
+  2: "the present, ir + infinitive, the pretérito perfeito and the pretérito imperfeito",
+};
 
 function system(level: Level, extras: ReadonlySet<string>): string {
   const [min, max] = LENGTH_RANGE[level];
-  return `You write graded reading stories for an adult learner of Mandarin at HSK ${level} (HSK 3.0, 2025 syllabus).
-The learner is Brazilian, lives and works in New York, likes coffee, travels home to São Paulo.
+  const cefr = level === 1 ? "A1" : "A2";
+  return `You write graded reading stories in Brazilian Portuguese for an adult English-speaking learner at CEFR ${cefr}.
 Rules:
-- Use ONLY words from the allowed vocabulary list, plus punctuation, Arabic numerals and these extras: ${[...extras].join(" ")}. Use only names from the extras.
-- Each story has ${SENTENCES[level]} short sentences (${min}-${max} Chinese characters in total): a small everyday scene with a beginning and an end, natural and warm, not a word list.
+- Use ONLY words from the allowed vocabulary list, in any inflected form (conjugations, plurals, feminine forms, contractions like do/na/pelo), plus punctuation, numerals and these extras: ${[...extras].join(", ")}. Use only names from the extras.
+- Brazilian usage: você, a gente where natural, Brazilian vocabulary and word order.
+- Use only ${TENSES[level]}.
+- Each story has ${SENTENCES[level]} short sentences (${min}-${max} words in total): a small everyday scene with a beginning and an end, natural and warm, not a word list.
 - One sentence per entry, with its end punctuation.
 - Comprehension questions test the story's content; options are short; exactly one is correct.
-- Different stories use different scenes and characters. Vary the settings (work, home, shopping, friends, weekends, school, travel, sports); a trip home to São Paulo at most once per topic.
-- If a word you want is not in the list, rephrase with listed words instead.${level === 1 ? "\n- 为什么 is not an HSK 1 word: ask what / who / where / when / how many questions instead of why." : ""}`;
+- Different stories use different scenes and characters. Vary the settings (work, home, shopping, friends, weekends, school, travel, sports, the beach).
+- If a word you want is not in the list, rephrase with listed words instead.`;
 }
 
 const Fixes = z.object({
@@ -88,7 +94,7 @@ const Fixes = z.object({
       path: z
         .string()
         .describe('A path from the problem list; "<story>.s<j>+" to insert a new sentence right after sentence j; or "<story>.add" to append at the end'),
-      zh: z.string(),
+      pt: z.string(),
       en: z.string().describe("English translation (may be empty for options)"),
       options: z.array(z.string()).optional().describe('For "<story>.q<j>" only: the full new set of 4 options'),
       answer: z.number().int().optional().describe('For "<story>.q<j>" only: index of the correct new option'),
@@ -101,12 +107,12 @@ const MAX_REPAIRS = 6;
 async function writeDrafts(input: StoryGenInput, lexicon: ReturnType<typeof buildLexicon>) {
   const allowed = input.words.filter((w) => w.level <= input.level);
   const topicWords = input.words.filter((w) => w.level === input.level && w.topic === input.topic);
-  const vocab = allowed.map((w) => w.hanzi).join(" ");
+  const vocab = allowed.map(withArticle).join(", ");
   const ctx = { level: input.level, lexicon, extras: input.extras };
   const [min] = LENGTH_RANGE[input.level];
   const coverage = input.requireCoverage
-    ? `Across the ${input.count} stories, use EVERY one of these topic words at least once: ${topicWords.map((w) => w.hanzi).join(" ")}`
-    : `Feature words from this topic where natural: ${topicWords.map((w) => w.hanzi).join(" ")}`;
+    ? `Across the ${input.count} stories, use EVERY one of these topic words at least once: ${topicWords.map(withArticle).join(", ")}`
+    : `Feature words from this topic where natural: ${topicWords.map(withArticle).join(", ")}`;
 
   const first = await generateJson(
     DraftBatch,
@@ -124,13 +130,13 @@ async function writeDrafts(input: StoryGenInput, lexicon: ReturnType<typeof buil
   let missing: number[] = [];
   for (let round = 1; ; round++) {
     const offenders = drafts.flatMap((d, i) => vocabOffenders(d, i, ctx));
-    const short = drafts.flatMap((d, i) => (hanCount(d) < min ? [{ i, n: hanCount(d) }] : []));
+    const short = drafts.flatMap((d, i) => (draftWordCount(d) < min ? [{ i, n: draftWordCount(d) }] : []));
     missing = input.requireCoverage ? missingWords(drafts, lexicon, topicWords) : [];
     if (offenders.length === 0 && short.length === 0 && missing.length === 0) return { drafts, missing };
     if (round > MAX_REPAIRS) {
       // Out-of-vocabulary text must be fixed; a few uncovered words or a slightly short story are tolerated.
       if (offenders.length === 0) return { drafts, missing };
-      throw new Error(`still uses words outside the list after ${MAX_REPAIRS} repairs: ${offenders.map((o) => o.bad.join("")).join(" ")}`);
+      throw new Error(`still uses words outside the list after ${MAX_REPAIRS} repairs: ${offenders.map((o) => o.bad.join(", ")).join("; ")}`);
     }
 
     const tasks: string[] = [];
@@ -141,21 +147,21 @@ async function writeDrafts(input: StoryGenInput, lexicon: ReturnType<typeof buil
         questionPaths.add(q[1]);
         continue;
       }
-      tasks.push(`${o.path}: "${o.text}" uses ${o.bad.join(" ")}, which are not allowed. Rewrite it with listed words so the story still reads naturally; you may also rewrite neighboring sentences.`);
+      tasks.push(`${o.path}: "${o.text}" uses ${o.bad.join(", ")}, which are not allowed. Rewrite it with listed words so the story still reads naturally; you may also rewrite neighboring sentences.`);
     }
     for (const path of questionPaths) {
       const [story, qi] = path.split(".q").map(Number);
       const q = drafts[story].questions[qi];
       tasks.push(`${path}: the question "${q.q}" or its options (${q.options.join(" / ")}) use words outside the list. Write a new question for "${path}" with "options" (4) and "answer", answerable from the story, using only listed words.`);
     }
-    for (const { i, n } of short) tasks.push(`Story ${i} has only ${n} characters; add sentences so it reaches at least ${min}, inserted where they fit ("${i}.s<j>+") or at the end ("${i}.add") if they continue the story.`);
+    for (const { i, n } of short) tasks.push(`Story ${i} has only ${n} words; add sentences so it reaches at least ${min}, inserted where they fit ("${i}.s<j>+") or at the end ("${i}.add") if they continue the story.`);
     if (missing.length) {
-      const names = topicWords.filter((w) => missing.includes(w.id)).map((w) => w.hanzi);
-      tasks.push(`These topic words are not used yet: ${names.join(" ")}. Use them naturally: rewrite a fitting sentence, or insert a new sentence where it belongs in the plot ("<story>.s<j>+"). Never tack unrelated sentences onto the end.`);
+      const names = topicWords.filter((w) => missing.includes(w.id)).map(withArticle);
+      tasks.push(`These topic words are not used yet: ${names.join(", ")}. Use them naturally: rewrite a fitting sentence, or insert a new sentence where it belongs in the plot ("<story>.s<j>+"). Never tack unrelated sentences onto the end.`);
     }
     input.onRetry?.(round, tasks);
     const listing = drafts
-      .map((d, i) => `Story ${i}: ${d.title}\n${d.sentences.map((s, j) => `  ${i}.s${j} ${s.zh}`).join("\n")}`)
+      .map((d, i) => `Story ${i}: ${d.title}\n${d.sentences.map((s, j) => `  ${i}.s${j} ${s.pt}`).join("\n")}`)
       .join("\n");
     const out = await generateJson(
       Fixes,
@@ -168,9 +174,9 @@ async function writeDrafts(input: StoryGenInput, lexicon: ReturnType<typeof buil
 
 async function glossDraft(draft: StoryDraft, lexicon: ReturnType<typeof buildLexicon>): Promise<Gloss[][]> {
   const targets = glossTargets(draft, lexicon);
-  const listing = targets.map((tokens, i) => `${i + 1}. ${draft.sentences[i].zh}\n   tokens: ${tokens.join(" | ")}`).join("\n");
-  const prompt = `For each sentence, give the contextual pinyin (tone marks) and a short English gloss for each listed token, in order. Gloss the meaning in this sentence (e.g. 会 as "will" or "can").\n\n${listing}`;
-  const out = await generateJson(Glosses, "You annotate Chinese text for learners. Return exactly one gloss per listed token.", prompt);
+  const listing = targets.map((tokens, i) => `${i + 1}. ${draft.sentences[i].pt}\n   tokens: ${tokens.join(" | ")}`).join("\n");
+  const prompt = `For each sentence, give a short English gloss for each listed token, in order, with the meaning it has in this sentence. For verbs, include the person and tense (fui → "I went", estava → "was"); for contractions, both parts (no → "in the").\n\n${listing}`;
+  const out = await generateJson(Glosses, "You annotate Brazilian Portuguese text for English-speaking learners. Return exactly one gloss per listed token.", prompt);
   return out.sentences.map((s) => s.tokens);
 }
 
@@ -183,12 +189,12 @@ export async function generateStories(input: StoryGenInput): Promise<StoryGenRes
     input.words.filter((w) => w.level <= input.level),
     input.extras,
   );
-  const dictionary = new Map(input.words.map((w) => [w.id, { pinyin: w.pinyin, en: w.english }]));
+  const dictionary = new Map(input.words.map((w) => [w.id, { en: w.english }]));
   const { drafts, missing } = await writeDrafts(input, lexicon);
   const glosses = await Promise.all(drafts.map((d) => glossDraft(d, lexicon)));
   const stories = drafts.map((d, i) =>
     buildStory(`${input.idPrefix}-${i + 1}`, input.level, input.topic, d, glosses[i], lexicon, dictionary, input.extraGlosses),
   );
-  const missingNames = input.words.filter((w) => missing.includes(w.id)).map((w) => w.hanzi);
+  const missingNames = input.words.filter((w) => missing.includes(w.id)).map(withArticle);
   return { stories, missing: missingNames };
 }

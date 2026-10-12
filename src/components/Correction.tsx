@@ -4,7 +4,7 @@ import { diffSentences } from "@/lib/answer";
 export function Correction({ wrong, right, className = "text-3xl" }: { wrong: string; right: string; className?: string }) {
   const diff = diffSentences(wrong, right);
   return (
-    <span className={`font-han ${className}`}>
+    <span className={`font-pt ${className}`}>
       {diff.map((d, i) =>
         d.status === "missing" ? (
           <mark key={i} className="rounded bg-emerald-200/70 px-0.5 text-inherit dark:bg-emerald-500/30">

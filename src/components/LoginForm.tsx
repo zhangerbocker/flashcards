@@ -40,7 +40,7 @@ export function LoginForm() {
       }}
       className="flex flex-col gap-4"
     >
-      <h1 className="font-han text-center text-4xl text-red-700 dark:text-red-400">学中文</h1>
+      <h1 className="font-pt text-center text-4xl text-red-700 dark:text-red-400">Português</h1>
       <input
         type="password"
         autoComplete="current-password"

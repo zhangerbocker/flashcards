@@ -1,40 +1,41 @@
-/** Removes punctuation and whitespace and folds full-width ASCII so answers compare fairly. */
-function normalizeChinese(text: string): string {
+/** Lowercase, composed accents, no punctuation, single spaces: so answers compare fairly. */
+function normalize(text: string): string {
   return text
-    .normalize("NFKC")
-    .replace(/[\s\p{P}\p{S}]/gu, "")
-    .toLowerCase();
+    .normalize("NFC")
+    .toLowerCase()
+    .replace(/[\p{P}\p{S}]/gu, " ")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
-/** Pinyin without tone marks, spaces or apostrophes; ü/v both become "v". */
-export function plainPinyin(text: string): string {
-  return text
-    .normalize("NFD")
-    .replace(/[̀-ͯ]/g, (mark) => (mark === "̈" ? "̈" : ""))
-    .replace(/ü/gi, "v")
-    .replace(/[\s'’\p{P}]/gu, "")
-    .toLowerCase();
+/** Text without accents or cedillas (não → nao, você → voce). */
+export function stripAccents(text: string): string {
+  return text.normalize("NFD").replace(/\p{M}/gu, "").normalize("NFC");
 }
+
+export type DiffPart = { text: string; status: "same" | "missing" | "extra" };
 
 export interface AnswerCheck {
   correct: boolean;
-  /** Character-level diff of the typed answer against the expected Chinese. */
-  diff: { text: string; status: "same" | "missing" | "extra" }[];
+  /** Right apart from accents (nao for não): close, but worth pointing out. */
+  accentsOnly: boolean;
+  /** Character-level diff of the typed answer against the expected answer. */
+  diff: DiffPart[];
 }
 
-/** Longest-common-subsequence diff between two character arrays. */
-function diffChars(
-  typed: string[],
-  expected: string[],
+/** Longest-common-subsequence diff between two token arrays. */
+function diffTokens(
+  typed: readonly string[],
+  expected: readonly string[],
   equal: (a: string, b: string) => boolean = (a, b) => a === b,
-): AnswerCheck["diff"] {
+): DiffPart[] {
   const n = typed.length;
   const m = expected.length;
   const lcs: number[][] = Array.from({ length: n + 1 }, () => new Array<number>(m + 1).fill(0));
   for (let i = n - 1; i >= 0; i--)
     for (let j = m - 1; j >= 0; j--)
       lcs[i][j] = equal(typed[i], expected[j]) ? lcs[i + 1][j + 1] + 1 : Math.max(lcs[i + 1][j], lcs[i][j + 1]);
-  const out: AnswerCheck["diff"] = [];
+  const out: DiffPart[] = [];
   let i = 0;
   let j = 0;
   while (i < n || j < m) {
@@ -42,45 +43,52 @@ function diffChars(
       out.push({ text: typed[i], status: "same" });
       i++;
       j++;
-    } else if (j < m && (i >= n || lcs[i][j + 1] >= lcs[i + 1][j])) {
-      out.push({ text: expected[j], status: "missing" });
-      j++;
-    } else {
+    } else if (i < n && (j >= m || lcs[i + 1][j] >= lcs[i][j + 1])) {
+      // On a tie, show what to remove before what to add ("-estou +sou").
       out.push({ text: typed[i], status: "extra" });
       i++;
+    } else {
+      out.push({ text: expected[j], status: "missing" });
+      j++;
     }
   }
   return out;
 }
 
 /**
- * Checks a typed answer against the expected Chinese. Punctuation and spacing
- * are ignored. When `pinyin` is given (single-word cards), a toneless pinyin
- * answer is also accepted.
+ * Checks a typed answer against the expected Portuguese. Case, punctuation and
+ * spacing are ignored. `alternatives` are also accepted (the noun without its
+ * article). An answer that is right except for accents is not correct, but is
+ * flagged as `accentsOnly`. The diff is against the expected answer.
  */
-export function checkAnswer(typed: string, expectedZh: string, pinyin?: string): AnswerCheck {
-  const t = normalizeChinese(typed);
-  const e = normalizeChinese(expectedZh);
-  const pinyinOk = pinyin !== undefined && t.length > 0 && plainPinyin(typed) === plainPinyin(pinyin);
-  return { correct: t === e || pinyinOk, diff: diffChars([...t], [...e]) };
+export function checkAnswer(typed: string, expected: string, alternatives: readonly string[] = []): AnswerCheck {
+  const t = normalize(typed);
+  const accepted = [expected, ...alternatives].map(normalize);
+  const correct = t.length > 0 && accepted.includes(t);
+  const accentsOnly = !correct && t.length > 0 && accepted.some((a) => stripAccents(a) === stripAccents(t));
+  return { correct, accentsOnly, diff: diffTokens([...t], [...normalize(expected)]) };
 }
 
+/** A word without surrounding punctuation, lowercased, for comparing sentence words. */
+const fold = (word: string) => word.normalize("NFC").toLowerCase().replace(/^[\p{P}]+|[\p{P}]+$/gu, "");
+
 /**
- * Character diff from a wrong sentence to its correction, for display: punctuation is
- * kept (shown as in the correction), full-width and ASCII forms count as the same
- * character, and spaces are dropped.
+ * Word-level diff from a wrong sentence to its correction, for display. Words that differ
+ * only in case or surrounding punctuation count as the same and show the corrected form.
+ * Each part's text carries the space that follows it, so the parts join into a sentence;
+ * neighboring words with the same status are merged into one part ("suco de laranja").
  */
-export function diffSentences(wrong: string, right: string): AnswerCheck["diff"] {
-  const chars = (s: string) => [...s.replace(/\s+/g, "")];
-  // NFKC folds full-width ，！？ etc. to ASCII; the ideographic full stop needs mapping by hand.
-  const fold = (c: string) => (c === "。" ? "." : c.normalize("NFKC"));
-  const diff = diffChars(chars(wrong), chars(right), (a, b) => fold(a) === fold(b));
-  // Equal-but-differently-written punctuation shows the corrected form.
-  const corrected = chars(right);
+export function diffSentences(wrong: string, right: string): DiffPart[] {
+  const words = (s: string) => s.normalize("NFC").trim().split(/\s+/).filter(Boolean);
+  const corrected = words(right);
+  const diff = diffTokens(words(wrong), corrected, (a, b) => fold(a) === fold(b));
   let j = 0;
-  return diff.map((d) => {
-    if (d.status === "extra") return d;
-    const text = corrected[j++];
-    return { ...d, text };
-  });
+  const parts = diff.map((d) => (d.status === "extra" ? d : { ...d, text: corrected[j++] }));
+  const spaced = parts.map((d, i) => (i < parts.length - 1 ? { ...d, text: `${d.text} ` } : d));
+  return spaced.reduce<DiffPart[]>((merged, d) => {
+    const last = merged[merged.length - 1];
+    if (last?.status === d.status) last.text += d.text;
+    else merged.push({ ...d });
+    return merged;
+  }, []);
 }

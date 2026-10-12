@@ -1,32 +1,54 @@
 import { describe, expect, it } from "vitest";
-import { parseWords, WORDS } from "./words";
-import { TOPICS } from "./topics";
+import { findWord, parseWords, withArticle, WORDS } from "./words";
+import { lookupForm } from "./segment";
 
-describe("HSK word list", () => {
-  it("has 300 HSK 1, 200 HSK 2 and 500 HSK 3 words (1000 in all)", () => {
-    expect(WORDS.filter((w) => w.level === 1)).toHaveLength(300);
-    expect(WORDS.filter((w) => w.level === 2)).toHaveLength(200);
-    expect(WORDS.filter((w) => w.level === 3)).toHaveLength(500);
-  });
-
-  it("keeps no reading markers (才1) in the hanzi", () => {
-    expect(WORDS.filter((w) => /\d/.test(w.hanzi)).map((w) => w.hanzi)).toEqual([]);
-  });
-
-  it("uses each word in its own example sentence", () => {
-    expect(WORDS.filter((w) => !w.example.zh.includes(w.hanzi)).map((w) => `${w.id} ${w.hanzi}`)).toEqual([]);
-  });
-
+describe("word list", () => {
   it("has unique ids", () => {
     expect(new Set(WORDS.map((w) => w.id)).size).toBe(WORDS.length);
   });
 
-  it("gives every topic at least 10 words", () => {
-    for (const topic of TOPICS) expect(WORDS.filter((w) => w.topic === topic).length).toBeGreaterThanOrEqual(10);
+  it("has no duplicate entries (same word and part of speech)", () => {
+    const keys = WORDS.map((w) => `${lookupForm(w.pt)}|${w.pos}`);
+    expect(keys.filter((k, i) => keys.indexOf(k) !== i)).toEqual([]);
+  });
+
+  it("gives every noun a gender", () => {
+    expect(WORDS.filter((w) => w.pos === "n." && !w.gender).map((w) => w.pt)).toEqual([]);
+  });
+
+  it("keeps forms lowercase and different from the dictionary form", () => {
+    const bad = WORDS.flatMap((w) => w.forms.filter((f) => f !== f.toLowerCase() || f === w.pt).map((f) => `${w.pt}: ${f}`));
+    expect(bad).toEqual([]);
+  });
+
+  it("uses each word, in some form, in its own example sentence", () => {
+    const missing = WORDS.filter((w) => {
+      const sentence = ` ${lookupForm(w.example.pt).replace(/[^\p{L}\p{M} ]/gu, " ")} `;
+      return ![w.pt, ...w.forms].some((f) => sentence.includes(` ${lookupForm(f)} `));
+    });
+    expect(missing.map((w) => `${w.id} ${w.pt}: ${w.example.pt}`)).toEqual([]);
   });
 
   it("has no truncated glosses", () => {
     expect(WORDS.filter((w) => w.english.includes("…"))).toEqual([]);
+  });
+});
+
+describe("withArticle", () => {
+  it("adds the article to nouns only", () => {
+    expect(withArticle({ pt: "casa", gender: "f" })).toBe("a casa");
+    expect(withArticle({ pt: "dia", gender: "m" })).toBe("o dia");
+    expect(withArticle({ pt: "estudante", gender: "mf" })).toBe("o/a estudante");
+    expect(withArticle({ pt: "bonito" })).toBe("bonito");
+  });
+});
+
+describe("findWord", () => {
+  it("finds a word by dictionary or inflected form, ignoring a leading article", () => {
+    const casa = WORDS.find((w) => w.pt === "casa")!;
+    expect(findWord("a casa")).toBe(casa);
+    expect(findWord("Casas")).toBe(casa);
+    expect(findWord("xyz")).toBeUndefined();
   });
 });
 
@@ -36,6 +58,6 @@ describe("parseWords", () => {
   });
 
   it("names the malformed entry", () => {
-    expect(() => parseWords([{ id: 1, hanzi: "爱" }])).toThrow(/malformed word at index 0/);
+    expect(() => parseWords([{ id: 1, pt: "casa" }])).toThrow(/malformed word at index 0/);
   });
 });

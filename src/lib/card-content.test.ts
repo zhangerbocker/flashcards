@@ -6,31 +6,54 @@ const DECK: Deck = {
   words: [
     {
       id: 1,
-      hanzi: "爱",
-      pinyin: "ài",
+      pt: "casa",
+      pos: "n.",
+      english: "house",
+      level: 1,
+      topic: "Places & directions",
+      gender: "f",
+      forms: ["casas"],
+      example: { pt: "A casa é pequena.", en: "The house is small." },
+    },
+    {
+      id: 2,
+      pt: "falar",
       pos: "v.",
-      english: "to love",
+      english: "to speak",
       level: 1,
       topic: "Actions",
-      example: { zh: "我爱我的家人。", pinyin: "Wǒ ài wǒ de jiārén.", en: "I love my family." },
+      forms: ["falo", "fala"],
+      example: { pt: "Eu falo português.", en: "I speak Portuguese." },
     },
   ],
   grammar: [
     {
       id: "g1",
-      level: 2,
-      title: "比",
-      pattern: "A 比 B + adj",
+      level: 1,
+      title: "Ser vs. estar",
+      pattern: "ser / estar",
       explanation: "",
       examples: [
-        { zh: "狗比猫大。", pinyin: "", en: "Dogs are bigger than cats.", highlight: ["比"] },
-        { zh: "我比你高。", pinyin: "", en: "I'm taller than you.", highlight: ["比"] },
+        { pt: "Eu sou de Boston.", en: "I am from Boston.", highlight: ["sou"] },
+        { pt: "Eu estou cansado.", en: "I'm tired.", highlight: ["estou"] },
       ],
-      mistake: { wrong: "狗比猫很大。", right: "狗比猫大。", pinyin: "Gǒu bǐ māo dà.", en: "Dogs are bigger than cats.", reason: "No 很." },
+      mistake: { wrong: "Eu estou de Boston.", right: "Eu sou de Boston.", en: "I am from Boston.", reason: "Origin takes ser." },
       wordIds: [],
     },
   ],
-  mistakes: [{ id: "m1", wrong: "我是忙。", right: "我很忙。", reason: "No 是 before adjectives.", createdAt: "x" }],
+  verbs: [
+    {
+      wordId: 2,
+      infinitive: "falar",
+      irregular: false,
+      tenses: {
+        presente: ["falo", "fala", "falamos", "falam"],
+        preterito: ["falei", "falou", "falamos", "falaram"],
+        imperfeito: ["falava", "falava", "falávamos", "falavam"],
+      },
+    },
+  ],
+  mistakes: [{ id: "m1", wrong: "Eu é cansada.", right: "Eu estou cansada.", reason: "Use estar for states.", createdAt: "x" }],
 };
 
 describe("cardContent", () => {
@@ -38,28 +61,42 @@ describe("cardContent", () => {
     expect(cardContent("w:1:r", DECK)?.answer).toBeUndefined();
   });
 
-  it("accepts hanzi or pinyin for word production", () => {
-    expect(cardContent("w:1:p", DECK)?.answer).toEqual({ zh: "爱", pinyin: "ài" });
+  it("expects a noun with its article, also accepting it without", () => {
+    expect(cardContent("w:1:p", DECK)?.answer).toEqual({ pt: "a casa", alternatives: ["casa"] });
+    expect(cardContent("w:2:p", DECK)?.answer).toEqual({ pt: "falar", alternatives: [] });
+  });
+
+  it("reads nouns aloud with their article", () => {
+    expect(cardContent("w:1:r", DECK)?.audio).toEqual({ front: "a casa", back: "a casa" });
   });
 
   it("expects the example sentence for sentence production", () => {
-    expect(cardContent("s:1:p", DECK)?.answer).toEqual({ zh: "我爱我的家人。" });
+    expect(cardContent("s:1:p", DECK)?.answer).toEqual({ pt: "A casa é pequena." });
   });
 
   it("rotates grammar examples by review count", () => {
     const first = cardContent("g:g1:u", DECK, 0);
     const second = cardContent("g:g1:u", DECK, 1);
-    expect(first?.kind === "grammar" && first.example.zh).toBe("狗比猫大。");
-    expect(second?.kind === "grammar" && second.example.zh).toBe("我比你高。");
+    expect(first?.kind === "grammar" && first.example.pt).toBe("Eu sou de Boston.");
+    expect(second?.kind === "grammar" && second.example.pt).toBe("Eu estou cansado.");
   });
 
   it("expects the corrected sentence on fix cards", () => {
-    expect(cardContent("g:g1:f", DECK)?.answer).toEqual({ zh: "狗比猫大。" });
-    expect(cardContent("m:m1:f", DECK)?.answer).toEqual({ zh: "我很忙。" });
+    expect(cardContent("g:g1:f", DECK)?.answer).toEqual({ pt: "Eu sou de Boston." });
+    expect(cardContent("m:m1:f", DECK)?.answer).toEqual({ pt: "Eu estou cansada." });
+  });
+
+  it("asks for one person of a verb tense, accepting it with or without the pronoun", () => {
+    const card = cardContent("v:2-preterito-1:p", DECK);
+    expect(card).toMatchObject({ kind: "conjugation", tense: "preterito", person: 1, form: "falou", level: 1 });
+    expect(card?.answer).toEqual({ pt: "falou", alternatives: ["você falou", "ele falou", "ela falou"] });
+    expect(card?.audio).toEqual({ back: "você falou" });
   });
 
   it("returns null for content that no longer exists", () => {
     expect(cardContent("w:99:r", DECK)).toBeNull();
     expect(cardContent("g:gone:u", DECK)).toBeNull();
+    expect(cardContent("v:9-presente-0:p", DECK)).toBeNull();
+    expect(cardContent("v:2-futuro-0:p", DECK)).toBeNull();
   });
 });

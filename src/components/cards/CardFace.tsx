@@ -1,5 +1,7 @@
 import type { ReactNode } from "react";
 import type { CardContent } from "@/lib/card-content";
+import { PERSONS, TENSE_NAMES } from "@/lib/verbs";
+import { withArticle } from "@/lib/words";
 import { Correction } from "../Correction";
 import { Highlighted } from "./Highlighted";
 import { SpeakButton } from "./SpeakButton";
@@ -20,20 +22,20 @@ function Front({ card }: { card: CardContent }) {
   switch (card.kind) {
     case "word":
       return card.face === "r" ? (
-        <p className="font-han text-7xl leading-tight sm:text-8xl">{card.word.hanzi}</p>
+        <p className="font-pt text-5xl leading-tight sm:text-6xl">{withArticle(card.word)}</p>
       ) : (
         <>
-          <Prompt>Say or write it in Chinese</Prompt>
+          <Prompt>Say or write it in Portuguese</Prompt>
           <p className="text-3xl font-medium">{card.word.english}</p>
           <Muted>{card.word.pos}</Muted>
         </>
       );
     case "sentence":
       return card.face === "r" ? (
-        <Highlighted text={card.word.example.zh} parts={[card.word.hanzi]} className="text-3xl leading-relaxed" />
+        <Highlighted text={card.word.example.pt} parts={[card.word.pt, ...card.word.forms]} className="text-3xl leading-relaxed" />
       ) : (
         <>
-          <Prompt>Say or write it in Chinese</Prompt>
+          <Prompt>Say or write it in Portuguese</Prompt>
           <p className="text-2xl font-medium">{card.word.example.en}</p>
           <Muted>
             Use: {card.word.english}
@@ -44,22 +46,33 @@ function Front({ card }: { card: CardContent }) {
       return card.face === "u" ? (
         <>
           <Prompt>{card.grammar.title}</Prompt>
-          <p className="font-han rounded-lg bg-stone-100 px-3 py-1 text-lg dark:bg-stone-800">{card.grammar.pattern}</p>
+          <p className="font-pt rounded-lg bg-stone-100 px-3 py-1 text-lg dark:bg-stone-800">{card.grammar.pattern}</p>
           <p className="mt-6 text-2xl font-medium">{card.example.en}</p>
-          <Muted>Say it in Chinese using the pattern</Muted>
+          <Muted>Say it in Portuguese using the pattern</Muted>
         </>
       ) : (
         <>
           <Prompt>What&apos;s wrong? Fix it</Prompt>
-          <p className="font-han text-3xl text-red-700 dark:text-red-400">{card.grammar.mistake.wrong}</p>
+          <p className="font-pt text-3xl text-red-700 dark:text-red-400">{card.grammar.mistake.wrong}</p>
           <Muted>{card.grammar.title}</Muted>
+        </>
+      );
+    case "conjugation":
+      return (
+        <>
+          <Prompt>{TENSE_NAMES[card.tense]}</Prompt>
+          <p className="font-pt text-4xl">{card.verb.infinitive}</p>
+          <Muted>{card.word.english}</Muted>
+          <p className="font-pt mt-6 text-3xl">
+            {PERSONS[card.person]} <span className="text-stone-400">…</span>
+          </p>
         </>
       );
     case "mistake":
       return (
         <>
           <Prompt>You wrote this in chat. Fix it</Prompt>
-          <p className="font-han text-3xl text-red-700 dark:text-red-400">{card.mistake.wrong}</p>
+          <p className="font-pt text-3xl text-red-700 dark:text-red-400">{card.mistake.wrong}</p>
         </>
       );
   }
@@ -70,16 +83,14 @@ function Back({ card }: { card: CardContent }) {
     case "word":
       return (
         <>
-          {card.face === "p" && <p className="font-han text-7xl leading-tight">{card.word.hanzi}</p>}
-          <p className="mt-2 text-2xl text-red-700 dark:text-red-400">{card.word.pinyin}</p>
-          <p className="text-lg">{card.word.english}</p>
+          {card.face === "p" && <p className="font-pt text-5xl leading-tight">{withArticle(card.word)}</p>}
+          <p className="mt-2 text-lg">{card.word.english}</p>
           <Muted>{card.word.pos}</Muted>
           <Panel>
             <div className="flex items-start justify-between gap-2">
-              <Highlighted text={card.word.example.zh} parts={[card.word.hanzi]} className="text-xl" />
-              <SpeakButton text={card.word.example.zh} label="Play example sentence" />
+              <Highlighted text={card.word.example.pt} parts={[card.word.pt, ...card.word.forms]} className="text-xl" />
+              <SpeakButton text={card.word.example.pt} label="Play example sentence" />
             </div>
-            <Muted>{card.word.example.pinyin}</Muted>
             <p className="mt-1 text-sm">{card.word.example.en}</p>
           </Panel>
         </>
@@ -88,14 +99,12 @@ function Back({ card }: { card: CardContent }) {
       return (
         <>
           {card.face === "p" && (
-            <Highlighted text={card.word.example.zh} parts={[card.word.hanzi]} className="text-3xl leading-relaxed" />
+            <Highlighted text={card.word.example.pt} parts={[card.word.pt, ...card.word.forms]} className="text-3xl leading-relaxed" />
           )}
-          <p className="mt-3 text-red-700 dark:text-red-400">{card.word.example.pinyin}</p>
-          <p className="mt-1 text-lg">{card.word.example.en}</p>
+          <p className="mt-3 text-lg">{card.word.example.en}</p>
           <Panel>
             <p>
-              <span className="font-han text-lg">{card.word.hanzi}</span>{" "}
-              <span className="text-red-700 dark:text-red-400">{card.word.pinyin}</span> · {card.word.english}
+              <span className="font-pt text-lg">{withArticle(card.word)}</span> · {card.word.english}
             </p>
           </Panel>
         </>
@@ -103,11 +112,10 @@ function Back({ card }: { card: CardContent }) {
     case "grammar":
       return card.face === "u" ? (
         <>
-          <Highlighted text={card.example.zh} parts={card.example.highlight} className="mt-4 text-3xl leading-relaxed" />
-          <p className="mt-2 text-red-700 dark:text-red-400">{card.example.pinyin}</p>
-          <p className="mt-1 text-lg">{card.example.en}</p>
+          <Highlighted text={card.example.pt} parts={card.example.highlight} className="mt-4 text-3xl leading-relaxed" />
+          <p className="mt-2 text-lg">{card.example.en}</p>
           <Panel>
-            <p className="font-han mb-1 text-sm text-stone-500">{card.grammar.pattern}</p>
+            <p className="font-pt mb-1 text-sm text-stone-500">{card.grammar.pattern}</p>
             <p className="text-sm">{card.grammar.explanation}</p>
           </Panel>
         </>
@@ -116,11 +124,34 @@ function Back({ card }: { card: CardContent }) {
           <div className="mt-4">
             <Correction wrong={card.grammar.mistake.wrong} right={card.grammar.mistake.right} />
           </div>
-          <p className="mt-2 text-red-700 dark:text-red-400">{card.grammar.mistake.pinyin}</p>
-          <p className="mt-1 text-lg">{card.grammar.mistake.en}</p>
+          <p className="mt-2 text-lg">{card.grammar.mistake.en}</p>
           <Panel>
             <p className="text-sm">{card.grammar.mistake.reason}</p>
-            <p className="font-han mt-2 text-sm text-stone-500">{card.grammar.pattern}</p>
+            <p className="font-pt mt-2 text-sm text-stone-500">{card.grammar.pattern}</p>
+          </Panel>
+        </>
+      );
+    case "conjugation":
+      return (
+        <>
+          <p className="font-pt mt-4 text-4xl">
+            {PERSONS[card.person].split(" / ")[0]} <span className="text-red-700 dark:text-red-400">{card.form}</span>
+          </p>
+          <Panel>
+            <p className="mb-2 text-xs font-medium uppercase tracking-wide text-stone-400">
+              {card.verb.infinitive} · {TENSE_NAMES[card.tense]}
+              {card.verb.irregular && " · irregular"}
+            </p>
+            <table className="font-pt w-full text-base">
+              <tbody>
+                {PERSONS.map((person, i) => (
+                  <tr key={person} className={i === card.person ? "font-semibold" : "text-stone-600 dark:text-stone-300"}>
+                    <td className="py-0.5 pr-3 text-sm text-stone-500">{person}</td>
+                    <td className="py-0.5">{card.verb.tenses[card.tense][i]}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
           </Panel>
         </>
       );
@@ -130,8 +161,7 @@ function Back({ card }: { card: CardContent }) {
           <div className="mt-4">
             <Correction wrong={card.mistake.wrong} right={card.mistake.right} />
           </div>
-          {card.mistake.pinyin && <p className="mt-2 text-red-700 dark:text-red-400">{card.mistake.pinyin}</p>}
-          {card.mistake.en && <p className="mt-1 text-lg">{card.mistake.en}</p>}
+          {card.mistake.en && <p className="mt-2 text-lg">{card.mistake.en}</p>}
           <Panel>
             <p className="text-sm">{card.mistake.reason}</p>
           </Panel>

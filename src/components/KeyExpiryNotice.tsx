@@ -31,7 +31,7 @@ export function KeyExpiryNotice() {
     >
       <p>
         <b>Your Anthropic API key {when}.</b> {expired ? "Chat and new stories won't work" : "After that, chat and new stories stop working"}{" "}
-        until you create a new key and update ANTHROPIC_API_KEY (and NEXT_PUBLIC_API_KEY_EXPIRES) in Vercel.
+        until you create a new key and update PARLEY_API_KEY (and NEXT_PUBLIC_API_KEY_EXPIRES) in Vercel.
       </p>
       <button type="button" aria-label="Dismiss" onClick={() => setDismissed(true)} className="shrink-0 text-lg leading-none opacity-60">
         ×

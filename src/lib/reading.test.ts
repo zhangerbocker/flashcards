@@ -2,11 +2,9 @@ import { describe, expect, it } from "vitest";
 import {
   knownShare,
   loadCustomStories,
-  loadPinyinMode,
   loadReadIds,
   markRead,
   saveCustomStory,
-  savePinyinMode,
   wordStatus,
 } from "./reading";
 import { gradeItem, Rating, type Progress } from "./srs";
@@ -31,9 +29,9 @@ const story: Story = {
   id: "c-1",
   level: 1,
   topic: "Time",
-  title: "今天",
+  title: "Hoje",
   titleEn: "Today",
-  sentences: [{ tokens: [{ text: "今天", pinyin: "jīntiān", en: "today", wordId: 1 }], en: "Today." }],
+  sentences: [{ tokens: [{ text: "Hoje", en: "today", wordId: 1 }], en: "Today." }],
   questions: [],
   wordIds: [1, 2, 3, 4],
 };
@@ -51,7 +49,7 @@ describe("knownShare", () => {
     expect(knownShare(story, progress)).toBe(0.25);
   });
 
-  it("is zero for a story without HSK words", () => {
+  it("is zero for a story without list words", () => {
     expect(knownShare({ ...story, wordIds: [] }, progress)).toBe(0);
   });
 });
@@ -66,23 +64,16 @@ describe("custom stories", () => {
 
   it("skips malformed entries", () => {
     const storage = new MemoryStorage();
-    storage.setItem("hsk.stories.v1", JSON.stringify([{ id: "bad" }, story]));
+    storage.setItem("pt.stories.v1", JSON.stringify([{ id: "bad" }, story]));
     expect(loadCustomStories(storage).map((s) => s.id)).toEqual(["c-1"]);
   });
 });
 
-describe("read status and pinyin mode", () => {
+describe("read status", () => {
   it("remembers read stories", () => {
     const storage = new MemoryStorage();
     markRead(storage, "a");
     markRead(storage, "a");
     expect([...loadReadIds(storage)]).toEqual(["a"]);
-  });
-
-  it("defaults pinyin to unknown words only and round-trips", () => {
-    const storage = new MemoryStorage();
-    expect(loadPinyinMode(storage)).toBe("unknown");
-    savePinyinMode(storage, "none");
-    expect(loadPinyinMode(storage)).toBe("none");
   });
 });

@@ -2,7 +2,7 @@ import type { KeyValueStorage } from "./progress-store";
 
 export type Theme = "system" | "light" | "dark";
 
-export const THEME_KEY = "hsk.theme.v1";
+export const THEME_KEY = "pt.theme.v1";
 
 export function loadTheme(storage: KeyValueStorage): Theme {
   const value = storage.getItem(THEME_KEY);

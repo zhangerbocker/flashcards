@@ -15,7 +15,7 @@ export const CHAT_MODEL = process.env.CHAT_MODEL || (USING_PARLEY ? PARLEY_MODEL
 export interface TutorContext {
   level: Level;
   scenario: Scenario;
-  /** Every word allowed at the level, as hanzi. */
+  /** Every word allowed at the level, in dictionary form (nouns with their article). */
   allowedWords: readonly string[];
   targetWords: readonly string[];
   /** Earlier messages, oldest first, already trimmed to the context window. */

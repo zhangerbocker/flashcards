@@ -18,10 +18,11 @@ import {
   saveSettings,
   type Settings,
 } from "@/lib/progress-store";
-import { speakChinese } from "@/lib/speech";
+import { speakPortuguese } from "@/lib/speech";
 import { gradeItem, nextDueAt, previewIntervals, Rating, requeueMissed, type Grade, type Progress } from "@/lib/srs";
 import { reviewedOn, streak } from "@/lib/stats";
-import { WORDS, type Level } from "@/lib/words";
+import { VERBS } from "@/lib/verbs";
+import { LEVEL_NAMES, LEVELS, WORDS, type Level } from "@/lib/words";
 
 type Mode = "daily" | "cram";
 
@@ -57,7 +58,7 @@ export function CardsApp() {
   const [cramQueue, setCramQueue] = useState<string[]>([]);
   const [cramSeen, setCramSeen] = useState(0);
 
-  const deck: Deck = useMemo(() => ({ words: WORDS, grammar: GRAMMAR, mistakes }), [mistakes]);
+  const deck: Deck = useMemo(() => ({ words: WORDS, grammar: GRAMMAR, verbs: VERBS, mistakes }), [mistakes]);
   const today = localDay(now);
   const daily = useMemo(() => {
     const quotas = {
@@ -99,7 +100,7 @@ export function CardsApp() {
   const autoplayText = settings.autoplayAudio ? card?.audio.back : undefined;
   const reveal = useCallback(() => {
     setRevealed(true);
-    if (autoplayText) speakChinese(autoplayText);
+    if (autoplayText) speakPortuguese(autoplayText);
   }, [autoplayText]);
 
   const grade = useCallback(
@@ -149,6 +150,7 @@ export function CardsApp() {
 
   const learned = (level: Level) =>
     WORDS.filter((w) => w.level === level && progress.items[itemKey("word", w.id)]?.state === "review").length;
+  const total = (level: Level) => WORDS.filter((w) => w.level === level).length;
 
   return (
     <div className="flex flex-1 flex-col gap-4">
@@ -177,7 +179,7 @@ export function CardsApp() {
             <p className="text-right text-xs leading-tight text-stone-500 sm:text-sm">
               <b className="text-stone-800 dark:text-stone-200">{daily.counts.due}</b> due ·{" "}
               <b className="text-stone-800 dark:text-stone-200">{daily.counts.newWords}</b> new ·{" "}
-              <b className="text-stone-800 dark:text-stone-200">{daily.counts.newGrammar}</b> grammar
+              <b className="text-stone-800 dark:text-stone-200">{daily.counts.newGrammar}</b> practice
             </p>
           )}
           <button
@@ -293,7 +295,7 @@ export function CardsApp() {
 
       <footer className="flex flex-wrap items-center justify-between gap-2 text-xs text-stone-500">
         <span>
-          Learned: HSK 1 {learned(1)}/300 · HSK 2 {learned(2)}/200 · HSK 3 {learned(3)}/500
+          Learned: {LEVELS.map((l) => `${LEVEL_NAMES[l]} ${learned(l)}/${total(l)}`).join(" · ")}
         </span>
         <span>
           {streak(reviews, today)}-day streak · {reviewedOn(reviews, today)} reviewed today
@@ -343,7 +345,7 @@ function DailyDone({
           onClick={onMoreGrammar}
           className="rounded-2xl border border-stone-300 px-5 py-3 font-medium dark:border-stone-700"
         >
-          {GRAMMAR_BATCH} more grammar
+          {GRAMMAR_BATCH} more practice
         </button>
       </div>
     </div>

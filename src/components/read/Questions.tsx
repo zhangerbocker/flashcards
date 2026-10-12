@@ -19,7 +19,7 @@ export function Questions({ story }: { story: Story }) {
       {story.questions.map((q, qi) => (
         <div key={qi} className="flex flex-col gap-2">
           <div className="flex items-start justify-between gap-2">
-            <p className="font-han text-lg">{q.q}</p>
+            <p className="font-pt text-lg">{q.q}</p>
             <button
               type="button"
               onClick={() => setShowEn((s) => s.map((v, i) => (i === qi ? !v : v)))}
@@ -40,7 +40,7 @@ export function Questions({ story }: { story: Story }) {
                   type="button"
                   disabled={chosen !== null}
                   onClick={() => setAnswers((a) => a.map((v, i) => (i === qi ? oi : v)))}
-                  className={`font-han rounded-xl border px-3 py-2 text-left ${
+                  className={`font-pt rounded-xl border px-3 py-2 text-left ${
                     state === "right"
                       ? "border-emerald-500 bg-emerald-50 dark:bg-emerald-900/30"
                       : state === "wrong"

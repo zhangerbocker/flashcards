@@ -20,7 +20,7 @@ describe("theme", () => {
     const storage = new MemoryStorage();
     saveTheme(storage, "dark");
     expect(loadTheme(storage)).toBe("dark");
-    storage.setItem("hsk.theme.v1", "purple");
+    storage.setItem("pt.theme.v1", "purple");
     expect(loadTheme(storage)).toBe("system");
   });
 

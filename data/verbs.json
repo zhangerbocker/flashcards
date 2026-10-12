@@ -1,0 +1,302 @@
+[
+ {
+  "wordId": 57,
+  "infinitive": "ser",
+  "irregular": true,
+  "tenses": {
+   "presente": [
+    "sou",
+    "é",
+    "somos",
+    "são"
+   ],
+   "preterito": [
+    "fui",
+    "foi",
+    "fomos",
+    "foram"
+   ],
+   "imperfeito": [
+    "era",
+    "era",
+    "éramos",
+    "eram"
+   ]
+  }
+ },
+ {
+  "wordId": 58,
+  "infinitive": "estar",
+  "irregular": true,
+  "tenses": {
+   "presente": [
+    "estou",
+    "está",
+    "estamos",
+    "estão"
+   ],
+   "preterito": [
+    "estive",
+    "esteve",
+    "estivemos",
+    "estiveram"
+   ],
+   "imperfeito": [
+    "estava",
+    "estava",
+    "estávamos",
+    "estavam"
+   ]
+  }
+ },
+ {
+  "wordId": 59,
+  "infinitive": "ter",
+  "irregular": true,
+  "tenses": {
+   "presente": [
+    "tenho",
+    "tem",
+    "temos",
+    "têm"
+   ],
+   "preterito": [
+    "tive",
+    "teve",
+    "tivemos",
+    "tiveram"
+   ],
+   "imperfeito": [
+    "tinha",
+    "tinha",
+    "tínhamos",
+    "tinham"
+   ]
+  }
+ },
+ {
+  "wordId": 60,
+  "infinitive": "ir",
+  "irregular": true,
+  "tenses": {
+   "presente": [
+    "vou",
+    "vai",
+    "vamos",
+    "vão"
+   ],
+   "preterito": [
+    "fui",
+    "foi",
+    "fomos",
+    "foram"
+   ],
+   "imperfeito": [
+    "ia",
+    "ia",
+    "íamos",
+    "iam"
+   ]
+  }
+ },
+ {
+  "wordId": 61,
+  "infinitive": "fazer",
+  "irregular": true,
+  "tenses": {
+   "presente": [
+    "faço",
+    "faz",
+    "fazemos",
+    "fazem"
+   ],
+   "preterito": [
+    "fiz",
+    "fez",
+    "fizemos",
+    "fizeram"
+   ],
+   "imperfeito": [
+    "fazia",
+    "fazia",
+    "fazíamos",
+    "faziam"
+   ]
+  }
+ },
+ {
+  "wordId": 62,
+  "infinitive": "falar",
+  "irregular": false,
+  "tenses": {
+   "presente": [
+    "falo",
+    "fala",
+    "falamos",
+    "falam"
+   ],
+   "preterito": [
+    "falei",
+    "falou",
+    "falamos",
+    "falaram"
+   ],
+   "imperfeito": [
+    "falava",
+    "falava",
+    "falávamos",
+    "falavam"
+   ]
+  }
+ },
+ {
+  "wordId": 63,
+  "infinitive": "comer",
+  "irregular": false,
+  "tenses": {
+   "presente": [
+    "como",
+    "come",
+    "comemos",
+    "comem"
+   ],
+   "preterito": [
+    "comi",
+    "comeu",
+    "comemos",
+    "comeram"
+   ],
+   "imperfeito": [
+    "comia",
+    "comia",
+    "comíamos",
+    "comiam"
+   ]
+  }
+ },
+ {
+  "wordId": 64,
+  "infinitive": "beber",
+  "irregular": false,
+  "tenses": {
+   "presente": [
+    "bebo",
+    "bebe",
+    "bebemos",
+    "bebem"
+   ],
+   "preterito": [
+    "bebi",
+    "bebeu",
+    "bebemos",
+    "beberam"
+   ],
+   "imperfeito": [
+    "bebia",
+    "bebia",
+    "bebíamos",
+    "bebiam"
+   ]
+  }
+ },
+ {
+  "wordId": 65,
+  "infinitive": "morar",
+  "irregular": false,
+  "tenses": {
+   "presente": [
+    "moro",
+    "mora",
+    "moramos",
+    "moram"
+   ],
+   "preterito": [
+    "morei",
+    "morou",
+    "moramos",
+    "moraram"
+   ],
+   "imperfeito": [
+    "morava",
+    "morava",
+    "morávamos",
+    "moravam"
+   ]
+  }
+ },
+ {
+  "wordId": 66,
+  "infinitive": "trabalhar",
+  "irregular": false,
+  "tenses": {
+   "presente": [
+    "trabalho",
+    "trabalha",
+    "trabalhamos",
+    "trabalham"
+   ],
+   "preterito": [
+    "trabalhei",
+    "trabalhou",
+    "trabalhamos",
+    "trabalharam"
+   ],
+   "imperfeito": [
+    "trabalhava",
+    "trabalhava",
+    "trabalhávamos",
+    "trabalhavam"
+   ]
+  }
+ },
+ {
+  "wordId": 67,
+  "infinitive": "gostar",
+  "irregular": false,
+  "tenses": {
+   "presente": [
+    "gosto",
+    "gosta",
+    "gostamos",
+    "gostam"
+   ],
+   "preterito": [
+    "gostei",
+    "gostou",
+    "gostamos",
+    "gostaram"
+   ],
+   "imperfeito": [
+    "gostava",
+    "gostava",
+    "gostávamos",
+    "gostavam"
+   ]
+  }
+ },
+ {
+  "wordId": 68,
+  "infinitive": "ficar",
+  "irregular": false,
+  "tenses": {
+   "presente": [
+    "fico",
+    "fica",
+    "ficamos",
+    "ficam"
+   ],
+   "preterito": [
+    "fiquei",
+    "ficou",
+    "ficamos",
+    "ficaram"
+   ],
+   "imperfeito": [
+    "ficava",
+    "ficava",
+    "ficávamos",
+    "ficavam"
+   ]
+  }
+ }
+]

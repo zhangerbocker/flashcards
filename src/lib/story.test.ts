@@ -4,8 +4,8 @@ import {
   applyFixes,
   buildStory,
   draftProblems,
+  draftWordCount,
   glossTargets,
-  hanCount,
   missingWords,
   parseStories,
   vocabOffenders,
@@ -13,45 +13,46 @@ import {
 } from "./story";
 
 const lexicon = buildLexicon([
-  { id: 1, hanzi: "我" },
-  { id: 2, hanzi: "喜欢" },
-  { id: 3, hanzi: "喝" },
-  { id: 4, hanzi: "咖啡" },
-  { id: 5, hanzi: "茶" },
-  { id: 6, hanzi: "吗" },
-  { id: 7, hanzi: "你" },
+  { id: 1, pt: "eu", forms: [] },
+  { id: 2, pt: "gostar", forms: ["gosto", "gosta"] },
+  { id: 3, pt: "beber", forms: ["bebo", "bebe"] },
+  { id: 4, pt: "café", forms: ["cafés"] },
+  { id: 5, pt: "chá", forms: [] },
+  { id: 6, pt: "de", forms: ["do", "da"] },
+  { id: 7, pt: "você", forms: [] },
+  { id: 8, pt: "em", forms: ["no", "na"] },
 ]);
-const ctx = { level: 1 as const, lexicon, extras: new Set(["纽约"]) };
+const ctx = { level: 1 as const, lexicon, extras: new Set(["Nova York"]) };
 
 function draft(sentences: string[], questions = 3): StoryDraft {
   return {
-    title: "咖啡",
+    title: "Café",
     titleEn: "Coffee",
-    sentences: sentences.map((zh) => ({ zh, en: "…" })),
-    questions: Array.from({ length: questions }, () => ({ q: "你喜欢茶吗？", qEn: "", options: ["我", "你", "茶", "咖啡"], answer: 2 })),
+    sentences: sentences.map((pt) => ({ pt, en: "…" })),
+    questions: Array.from({ length: questions }, () => ({ q: "Você bebe chá?", qEn: "", options: ["eu", "você", "chá", "café"], answer: 2 })),
   };
 }
 
-/** A draft long enough for HSK 1 (≥ 96 characters). */
-const longEnough = (s: string) => Array.from({ length: 20 }, () => s);
+/** A draft long enough for A1 (≥ 72 words). */
+const longEnough = (s: string) => Array.from({ length: 25 }, () => s);
 
 describe("draftProblems", () => {
   it("accepts a valid draft", () => {
-    expect(draftProblems(draft(longEnough("我喜欢咖啡。")), ctx)).toEqual([]);
+    expect(draftProblems(draft(longEnough("Eu gosto de café.")), ctx)).toEqual([]);
   });
 
   it("flags words outside the vocabulary, allowing extras", () => {
-    const issues = draftProblems(draft([...longEnough("我喜欢咖啡。"), "我在纽约喝可乐。"]), ctx);
-    // The message quotes the sentence, then lists only the unknown words (not 纽约).
-    expect(issues.join()).toMatch(/outside the list: 在 可 乐$/);
+    const issues = draftProblems(draft([...longEnough("Eu gosto de café."), "Eu bebo suco em Nova York."]), ctx);
+    // The message quotes the sentence, then lists only the unknown words (not Nova York).
+    expect(issues.join()).toMatch(/outside the list: suco$/);
   });
 
   it("flags stories that are far too short", () => {
-    expect(draftProblems(draft(["我喜欢茶。"]), ctx).join()).toMatch(/characters/);
+    expect(draftProblems(draft(["Eu gosto de chá."]), ctx).join()).toMatch(/words; aim for/);
   });
 
   it("requires three questions with four options and a valid answer", () => {
-    const d = draft(longEnough("我喜欢咖啡。"), 2);
+    const d = draft(longEnough("Eu gosto de café."), 2);
     d.questions[0].answer = 9;
     const issues = draftProblems(d, ctx).join(" | ");
     expect(issues).toMatch(/exactly 3 questions/);
@@ -59,59 +60,51 @@ describe("draftProblems", () => {
   });
 });
 
-describe("hanCount", () => {
-  it("counts only Chinese characters", () => {
-    expect(hanCount(draft(["我喜欢咖啡。", "29块"]))).toBe(6);
+describe("draftWordCount", () => {
+  it("counts words, not numbers or punctuation", () => {
+    expect(draftWordCount(draft(["Eu gosto de café.", "29 cafés!"]))).toBe(5);
   });
 });
 
 describe("missingWords", () => {
-  it("lists topic words no draft uses", () => {
-    const topic = [
-      { id: 2, hanzi: "喜欢" },
-      { id: 3, hanzi: "喝" },
-      { id: 4, hanzi: "咖啡" },
-      { id: 5, hanzi: "茶" },
-    ];
-    expect(missingWords([draft(["我喜欢咖啡。"]), draft(["你喝茶吗？"])], lexicon, topic)).toEqual([]);
-    expect(missingWords([draft(["我喜欢咖啡。"])], lexicon, topic)).toEqual([3, 5]);
-  });
-
-  it("counts homographs listed as separate entries as used together", () => {
-    // The lexicon links 茶 to id 5; a second entry with the same characters (id 50) is covered too.
-    expect(missingWords([draft(["我喝茶。"])], lexicon, [{ id: 50, hanzi: "茶" }])).toEqual([]);
+  it("lists topic words no draft uses, in any form", () => {
+    const topic = [{ id: 2 }, { id: 3 }, { id: 4 }, { id: 5 }];
+    expect(missingWords([draft(["Eu gosto de cafés."]), draft(["Você bebe chá?"])], lexicon, topic)).toEqual([]);
+    expect(missingWords([draft(["Eu gosto de café."])], lexicon, topic)).toEqual([3, 5]);
   });
 });
 
 describe("buildStory", () => {
   const dictionary = new Map([
-    [1, { pinyin: "wǒ", en: "I" }],
-    [3, { pinyin: "hē", en: "to drink" }],
-    [5, { pinyin: "chá", en: "tea" }],
+    [1, { en: "I" }],
+    [3, { en: "to drink" }],
+    [5, { en: "tea" }],
   ]);
 
-  it("attaches contextual glosses to non-punctuation tokens", () => {
-    const d = draft(["我喝茶。"]);
-    expect(glossTargets(d, lexicon)).toEqual([["我", "喝", "茶"]]);
-    const story = buildStory("s1", 1, "Food & drink", d, [[{ pinyin: "wǒ", en: "I" }, { pinyin: "hē", en: "drink" }, { pinyin: "chá", en: "tea" }]], lexicon, dictionary);
+  it("attaches contextual glosses to words, keeping spaces and punctuation", () => {
+    const d = draft(["Eu bebo chá."]);
+    expect(glossTargets(d, lexicon)).toEqual([["Eu", "bebo", "chá"]]);
+    const story = buildStory("s1", 1, "Food & drink", d, [[{ en: "I" }, { en: "drink" }, { en: "tea" }]], lexicon, dictionary);
     expect(story.sentences[0].tokens).toEqual([
-      { text: "我", pinyin: "wǒ", en: "I", wordId: 1 },
-      { text: "喝", pinyin: "hē", en: "drink", wordId: 3 },
-      { text: "茶", pinyin: "chá", en: "tea", wordId: 5 },
-      { text: "。" },
+      { text: "Eu", en: "I", wordId: 1 },
+      { text: " " },
+      { text: "bebo", en: "drink", wordId: 3 },
+      { text: " " },
+      { text: "chá", en: "tea", wordId: 5 },
+      { text: "." },
     ]);
     expect(story.wordIds.sort()).toEqual([1, 3, 5]);
   });
 
   it("falls back to extra glosses for names when the gloss count is off", () => {
-    const withNames = buildLexicon([{ id: 1, hanzi: "我" }], ["大卫"]);
-    const story = buildStory("s1", 1, "Time", draft(["大卫"]), [[]], withNames, new Map(), new Map([["大卫", { pinyin: "Dàwèi", en: "David" }]]));
-    expect(story.sentences[0].tokens[0]).toEqual({ text: "大卫", pinyin: "Dàwèi", en: "David", wordId: undefined });
+    const withNames = buildLexicon([{ id: 1, pt: "eu", forms: [] }], ["Nova York"]);
+    const story = buildStory("s1", 1, "Time", draft(["Nova York"]), [[]], withNames, new Map(), new Map([["Nova York", { en: "New York" }]]));
+    expect(story.sentences[0].tokens[0]).toEqual({ text: "Nova York", en: "New York", wordId: undefined });
   });
 
   it("falls back to dictionary glosses when the gloss count is off", () => {
-    const story = buildStory("s1", 1, "Food & drink", draft(["我喝茶。"]), [[{ pinyin: "x", en: "y" }]], lexicon, dictionary);
-    expect(story.sentences[0].tokens[1]).toEqual({ text: "喝", pinyin: "hē", en: "to drink", wordId: 3 });
+    const story = buildStory("s1", 1, "Food & drink", draft(["Eu bebo chá."]), [[{ en: "y" }]], lexicon, dictionary);
+    expect(story.sentences[0].tokens[2]).toEqual({ text: "bebo", en: "to drink", wordId: 3 });
   });
 });
 
@@ -123,11 +116,11 @@ describe("parseStories", () => {
 
 describe("vocabOffenders", () => {
   it("locates out-of-vocabulary text by path", () => {
-    const d = draft(["我喜欢咖啡。", "我喝可乐。"]);
-    d.questions[1].options[3] = "可乐";
+    const d = draft(["Eu gosto de café.", "Eu bebo suco."]);
+    d.questions[1].options[3] = "suco";
     expect(vocabOffenders(d, 0, ctx)).toEqual([
-      { path: "0.s1", text: "我喝可乐。", bad: ["可", "乐"] },
-      { path: "0.q1.o3", text: "可乐", bad: ["可", "乐"] },
+      { path: "0.s1", text: "Eu bebo suco.", bad: ["suco"] },
+      { path: "0.q1.o3", text: "suco", bad: ["suco"] },
     ]);
   });
 });
@@ -135,42 +128,45 @@ describe("vocabOffenders", () => {
 describe("applyFixes", () => {
   it("replaces sentences, titles, questions and options, and appends sentences", () => {
     const [fixed] = applyFixes(
-      [draft(["我喝可乐。"])],
+      [draft(["Eu bebo suco."])],
       [
-        { path: "0.s0", zh: "我喝茶。", en: "I drink tea." },
-        { path: "0.title", zh: "茶", en: "Tea" },
-        { path: "0.q0", zh: "你喝茶吗？", en: "Do you drink tea?" },
-        { path: "0.q0.o1", zh: "茶" },
-        { path: "0.add", zh: "你喝咖啡。", en: "You drink coffee." },
+        { path: "0.s0", pt: "Eu bebo chá.", en: "I drink tea." },
+        { path: "0.title", pt: "Chá", en: "Tea" },
+        { path: "0.q0", pt: "Você bebe chá?", en: "Do you drink tea?" },
+        { path: "0.q0.o1", pt: "chá" },
+        { path: "0.add", pt: "Você bebe café.", en: "You drink coffee." },
       ],
     );
-    expect(fixed.sentences.map((s) => s.zh)).toEqual(["我喝茶。", "你喝咖啡。"]);
-    expect(fixed.title).toBe("茶");
-    expect(fixed.questions[0].q).toBe("你喝茶吗？");
-    expect(fixed.questions[0].options[1]).toBe("茶");
+    expect(fixed.sentences.map((s) => s.pt)).toEqual(["Eu bebo chá.", "Você bebe café."]);
+    expect(fixed.title).toBe("Chá");
+    expect(fixed.questions[0].q).toBe("Você bebe chá?");
+    expect(fixed.questions[0].options[1]).toBe("chá");
   });
 
   it("inserts sentences after the given sentence, keeping original indices valid", () => {
     const [fixed] = applyFixes(
-      [draft(["一。", "二。", "三。"])],
+      [draft(["Um.", "Dois.", "Três."])],
       [
-        { path: "0.s0+", zh: "一点五。", en: "" },
-        { path: "0.s1+", zh: "二点五。", en: "" },
-        { path: "0.s1+", zh: "二点七。", en: "" },
-        { path: "0.add", zh: "四。", en: "" },
+        { path: "0.s0+", pt: "Um e meio.", en: "" },
+        { path: "0.s1+", pt: "Dois e meio.", en: "" },
+        { path: "0.s1+", pt: "Dois e três quartos.", en: "" },
+        { path: "0.add", pt: "Quatro.", en: "" },
       ],
     );
-    expect(fixed.sentences.map((s) => s.zh)).toEqual(["一。", "一点五。", "二。", "二点五。", "二点七。", "三。", "四。"]);
+    expect(fixed.sentences.map((s) => s.pt)).toEqual(["Um.", "Um e meio.", "Dois.", "Dois e meio.", "Dois e três quartos.", "Três.", "Quatro."]);
   });
 
   it("replaces a whole question when options and answer are given", () => {
-    const [fixed] = applyFixes([draft(["我喝茶。"])], [{ path: "0.q2", zh: "谁喝茶？", en: "Who drinks tea?", options: ["我", "你", "他", "她"], answer: 0 }]);
-    expect(fixed.questions[2]).toEqual({ q: "谁喝茶？", qEn: "Who drinks tea?", options: ["我", "你", "他", "她"], answer: 0 });
+    const [fixed] = applyFixes(
+      [draft(["Eu bebo chá."])],
+      [{ path: "0.q2", pt: "Quem bebe chá?", en: "Who drinks tea?", options: ["eu", "você", "ele", "ela"], answer: 0 }],
+    );
+    expect(fixed.questions[2]).toEqual({ q: "Quem bebe chá?", qEn: "Who drinks tea?", options: ["eu", "você", "ele", "ela"], answer: 0 });
   });
 
   it("does not mutate the input and ignores unknown paths", () => {
-    const original = draft(["我喝茶。"]);
-    applyFixes([original], [{ path: "0.s0", zh: "改了" }, { path: "5.s0", zh: "x" }, { path: "nonsense", zh: "x" }]);
-    expect(original.sentences[0].zh).toBe("我喝茶。");
+    const original = draft(["Eu bebo chá."]);
+    applyFixes([original], [{ path: "0.s0", pt: "Mudou." }, { path: "5.s0", pt: "x" }, { path: "nonsense", pt: "x" }]);
+    expect(original.sentences[0].pt).toBe("Eu bebo chá.");
   });
 });

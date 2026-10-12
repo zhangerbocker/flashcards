@@ -1,4 +1,4 @@
-import { ChatRequest, findScenario, recentHistory } from "../chat";
+import { ChatRequest, findScenario, promptWords, recentHistory } from "../chat";
 import { WORDS, WORDS_BY_ID } from "../words";
 import { TutorError, type TutorClient } from "./tutor";
 
@@ -25,8 +25,8 @@ export function chatHandler(tutor: TutorClient) {
     const context = {
       level,
       scenario: findScenario(scenarioId)!,
-      allowedWords: WORDS.filter((w) => w.level <= level).map((w) => w.hanzi),
-      targetWords: targetWordIds.flatMap((id) => WORDS_BY_ID.get(id)?.hanzi ?? []),
+      allowedWords: promptWords(WORDS.filter((w) => w.level <= level)),
+      targetWords: promptWords(targetWordIds.flatMap((id) => WORDS_BY_ID.get(id) ?? [])),
       history: recentHistory(history),
     };
     try {

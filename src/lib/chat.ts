@@ -3,7 +3,7 @@ import { itemKey, type Mistake } from "./deck";
 import type { KeyValueStorage } from "./progress-store";
 import type { Progress } from "./srs";
 import type { Topic } from "./topics";
-import type { Level, Word } from "./words";
+import { withArticle, type Level, type Word } from "./words";
 
 export interface Scenario {
   id: string;
@@ -18,39 +18,39 @@ export interface Scenario {
 
 export const SCENARIOS: readonly Scenario[] = [
   {
-    id: "cafe",
-    title: "Ordering at a café",
-    blurb: "Order a drink and something to eat in New York.",
-    setting: "You work at a café in New York. The learner is ordering something to drink and eat.",
+    id: "padaria",
+    title: "At a padaria",
+    blurb: "Order coffee and a pão de queijo at a bakery in São Paulo.",
+    setting: "You work at the counter of a padaria (bakery-café) in São Paulo. The learner is ordering something to drink and eat.",
     topics: ["Food & drink", "Numbers & measures"],
   },
   {
     id: "weekend",
     title: "Weekend plans",
     blurb: "Tell a friend what you did or will do on the weekend.",
-    setting: "You are the learner's friend. You are talking about what each of you did or will do on the weekend.",
+    setting: "You are the learner's Brazilian friend. You are talking about what each of you did or will do on the weekend.",
     topics: ["Time", "Actions", "Places & directions"],
   },
   {
     id: "work",
-    title: "Work and studying Chinese",
-    blurb: "Chat with a new colleague about work and learning Chinese.",
-    setting: "You are a new colleague. You are chatting about work, school and learning Chinese.",
+    title: "Work and studying Portuguese",
+    blurb: "Chat with a new colleague about work, school and learning Portuguese.",
+    setting: "You are a new Brazilian colleague. You are chatting about work, school and why the learner is learning Portuguese.",
     topics: ["School & work", "Time"],
   },
   {
     id: "family",
     title: "Family and friends",
     blurb: "A classmate asks about your family and friends.",
-    setting: "You are the learner's classmate. You are asking about their family and friends.",
+    setting: "You are the learner's Brazilian classmate. You are asking about their family and friends.",
     topics: ["People & family", "Descriptions"],
   },
   {
-    id: "brazil",
-    title: "A trip to Brazil",
-    blurb: "A friend is planning a trip to Brazil and asks you about it.",
-    setting: "You are a friend planning a trip to Brazil. The learner is Brazilian and tells you about it: weather, food, places.",
-    topics: ["Weather & colors", "Places & directions", "Daily life & transport"],
+    id: "rio",
+    title: "Getting around Rio",
+    blurb: "Ask a local for directions and tips on a trip to Rio de Janeiro.",
+    setting: "You are a friendly local in Rio de Janeiro. The learner is a visitor asking for directions, how to get places, and what to see.",
+    topics: ["Places & directions", "Daily life & transport", "Weather & colors"],
   },
 ];
 
@@ -58,17 +58,15 @@ export function findScenario(id: string): Scenario | undefined {
   return SCENARIOS.find((s) => s.id === id);
 }
 
-/** What the partner says, with pinyin and English for the "?" toggle. */
+/** What the partner says, with English for the "?" toggle. */
 export const PartnerLine = z.object({
-  reply: z.string().describe("Your reply in simplified Chinese: 1-3 short sentences"),
-  replyPinyin: z.string().describe("Tone-marked pinyin of reply: words separated by spaces, each sentence capitalized, punctuation attached to the word before it as in English (Nǐ hǎo! Nǐ xǐhuan chá ma?)"),
+  reply: z.string().describe("Your reply in Brazilian Portuguese: 1-3 short sentences"),
   replyEn: z.string().describe("Natural English translation of reply"),
 });
 export type PartnerLine = z.infer<typeof PartnerLine>;
 
 export const MessageCheck = z.object({
-  corrected: z.string().describe("The learner's message as correct, natural Chinese; unchanged if it was already fine"),
-  correctedPinyin: z.string().describe("Tone-marked pinyin of corrected: words separated by spaces, each sentence capitalized, punctuation attached to the word before it as in English (Nǐ hǎo! Nǐ xǐhuan chá ma?)"),
+  corrected: z.string().describe("The learner's message as correct, natural Brazilian Portuguese; unchanged if it was already fine"),
   correctedEn: z.string().describe("English meaning of corrected"),
   changes: z
     .array(
@@ -82,13 +80,12 @@ export const MessageCheck = z.object({
   gaps: z
     .array(
       z.object({
-        typed: z.string().describe("The pinyin or English the learner typed instead of a Chinese word"),
-        hanzi: z.string(),
-        pinyin: z.string(),
+        typed: z.string().describe("The English (or other non-Portuguese) word the learner typed"),
+        pt: z.string().describe("The Portuguese word, in dictionary form (nouns with their article: a casa)"),
         en: z.string(),
       }),
     )
-    .describe("Words the learner wrote in pinyin or English because they didn't know the characters"),
+    .describe("Words the learner wrote in English because they didn't know the Portuguese"),
 });
 export type MessageCheck = z.infer<typeof MessageCheck>;
 
@@ -98,7 +95,7 @@ export type TutorTurn = z.infer<typeof TutorTurn>;
 
 export const ChatMessage = z.discriminatedUnion("role", [
   z.object({ role: z.literal("user"), text: z.string(), check: MessageCheck.optional() }),
-  z.object({ role: z.literal("partner"), text: z.string(), pinyin: z.string(), en: z.string() }),
+  z.object({ role: z.literal("partner"), text: z.string(), en: z.string() }),
 ]);
 export type ChatMessage = z.infer<typeof ChatMessage>;
 
@@ -110,7 +107,7 @@ const MAX_TARGET_WORDS = 15;
 export const CONTEXT_MESSAGES = 10;
 
 export const ChatRequest = z.object({
-  level: z.union([z.literal(1), z.literal(2), z.literal(3)]),
+  level: z.union([z.literal(1), z.literal(2)]),
   scenario: z.string().refine((id) => findScenario(id) !== undefined, "unknown scenario"),
   targetWordIds: z.array(z.number().int()).max(MAX_TARGET_WORDS),
   history: z
@@ -146,24 +143,31 @@ export function chooseTargetWords(progress: Progress, words: readonly Word[], le
   return chosen;
 }
 
+const CEFR: Record<Level, string> = { 1: "A1", 2: "A2" };
+
 export function systemPrompt(level: Level, scenario: Scenario, allowedWords: readonly string[], targetWords: readonly string[]): string {
-  return `You are a friendly conversation partner for an adult learning Mandarin at HSK ${level} (2025 syllabus). The learner is Brazilian, lives in New York, and reads English.
+  return `You are a friendly conversation partner for an adult English speaker learning Brazilian Portuguese at CEFR ${CEFR[level]}.
 
 Scenario: ${scenario.setting}
 
 Your reply:
-- Simplified Chinese only, 1-3 short sentences, warm and natural, usually ending with one follow-up question. Stay in the scenario.
-- Use only words from the allowed list (names, numbers and punctuation are fine). Work in the target words when they fit naturally.
+- Brazilian Portuguese only (você, not tu; Brazilian vocabulary and word order), 1-3 short sentences, warm and natural, usually ending with one follow-up question. Stay in the scenario.
+- Keep to the allowed words and their inflected forms (conjugations, plurals, feminines); names, numbers and punctuation are fine. Use only the tenses an ${CEFR[level]} learner knows: ${level === 1 ? "the present, ir + infinitive for the future, and the simple past (pretérito perfeito)" : "the present, ir + infinitive, the pretérito perfeito and imperfeito, and simple commands"}. Work in the target words when they fit naturally.
 - Never explain grammar or mention mistakes in the reply; the correction is shown separately.
 
 Checking the learner's message:
-- corrected: their message as correct, natural Chinese, with the smallest edits that keep their meaning. If it is already correct, or just an equally natural alternative, return it unchanged with no changes. Ignore punctuation and spacing.
+- corrected: their message as correct, natural Brazilian Portuguese, with the smallest edits that keep their meaning. If it is already correct, or just an equally natural alternative, return it unchanged with no changes. Missing accents (nao for não, voce for você) and wrong gender or agreement are real mistakes; capitalization and final punctuation are not.
 - changes: one entry per real mistake (from, to, reason in one short English sentence).
-- gaps: wherever they typed pinyin or English instead of a Chinese word, give the Chinese word. Put that word in corrected, but don't count it in changes: it is a vocabulary gap, not a mistake.
+- gaps: wherever they typed an English word instead of a Portuguese one, give the Portuguese word. Put that word in corrected, but don't count it in changes: it is a vocabulary gap, not a mistake.
 
-Target words: ${targetWords.join(" ") || "(none)"}
+Target words: ${targetWords.join(", ") || "(none)"}
 
-Allowed words: ${allowedWords.join(" ")}`;
+Allowed words: ${allowedWords.join(", ")}`;
+}
+
+/** The allowed-word list for the prompt: nouns with their article, so the model sees genders. */
+export function promptWords(words: readonly Word[]): string[] {
+  return words.map(withArticle);
 }
 
 /** The newest history messages for the model's context. */
@@ -178,7 +182,6 @@ export function mistakeFromTurn(wrong: string, check: MessageCheck, id: string, 
     id,
     wrong,
     right: check.corrected,
-    pinyin: check.correctedPinyin,
     en: check.correctedEn,
     reason: check.changes.map((c) => c.reason).join(" "),
     createdAt,
@@ -193,10 +196,10 @@ export interface Conversation {
   ended?: boolean;
 }
 
-const CHAT_KEY = "hsk.chat.v1";
+const CHAT_KEY = "pt.chat.v1";
 
 const SavedConversation = z.object({
-  level: z.union([z.literal(1), z.literal(2), z.literal(3)]),
+  level: z.union([z.literal(1), z.literal(2)]),
   scenario: z.string().refine((id) => findScenario(id) !== undefined),
   messages: z.array(ChatMessage),
   ended: z.boolean().optional(),

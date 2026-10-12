@@ -1,19 +1,17 @@
 import { checkAnswer } from "@/lib/answer";
 
 interface Expected {
-  zh: string;
-  pinyin?: string;
+  pt: string;
+  alternatives?: string[];
 }
 
 /** Optional typed answer for production cards; submitting reveals the card. */
 export function AnswerInput({
   value,
-  acceptsPinyin,
   onChange,
   onSubmit,
 }: {
   value: string;
-  acceptsPinyin: boolean;
   onChange: (value: string) => void;
   onSubmit: () => void;
 }) {
@@ -28,11 +26,14 @@ export function AnswerInput({
     >
       <input
         autoFocus
-        lang="zh-CN"
+        lang="pt-BR"
+        autoCapitalize="none"
+        autoCorrect="off"
+        spellCheck={false}
         value={value}
         onChange={(e) => onChange(e.target.value)}
-        placeholder={acceptsPinyin ? "Chinese or pinyin" : "Type in Chinese"}
-        className="font-han w-full rounded-xl border border-stone-300 bg-white px-4 py-3 text-lg outline-none focus:border-red-700 dark:border-stone-700 dark:bg-stone-950"
+        placeholder="Type in Portuguese"
+        className="font-pt w-full rounded-xl border border-stone-300 bg-white px-4 py-3 text-lg outline-none focus:border-red-700 dark:border-stone-700 dark:bg-stone-950"
       />
     </form>
   );
@@ -41,23 +42,21 @@ export function AnswerInput({
 /** Shows whether the typed answer matched, with a character diff when it didn't. */
 export function AnswerResult({ typed, expected }: { typed: string; expected: Expected }) {
   if (!typed.trim()) return null;
-  const result = checkAnswer(typed, expected.zh, expected.pinyin);
+  const result = checkAnswer(typed, expected.pt, expected.alternatives);
+  const tone = result.correct ? "emerald" : result.accentsOnly ? "amber" : "red";
+  const styles = {
+    emerald: ["bg-emerald-50 dark:bg-emerald-900/30", "text-emerald-700 dark:text-emerald-300"],
+    amber: ["bg-amber-50 dark:bg-amber-900/30", "text-amber-800 dark:text-amber-300"],
+    red: ["bg-red-50 dark:bg-red-900/30", "text-red-700 dark:text-red-300"],
+  }[tone];
   return (
-    <div
-      className={`w-full rounded-xl px-4 py-3 text-left ${
-        result.correct ? "bg-emerald-50 dark:bg-emerald-900/30" : "bg-red-50 dark:bg-red-900/30"
-      }`}
-    >
-      <p
-        className={`text-sm font-medium ${
-          result.correct ? "text-emerald-700 dark:text-emerald-300" : "text-red-700 dark:text-red-300"
-        }`}
-      >
-        {result.correct ? "Correct" : "Not quite"}
+    <div className={`w-full rounded-xl px-4 py-3 text-left ${styles[0]}`}>
+      <p className={`text-sm font-medium ${styles[1]}`}>
+        {result.correct ? "Correct" : result.accentsOnly ? "Almost: check the accents" : "Not quite"}
       </p>
       {!result.correct && (
         <>
-          <p className="font-han mt-1 text-xl">
+          <p className="font-pt mt-1 text-xl">
             {result.diff.map((d, i) => (
               <span
                 key={i}

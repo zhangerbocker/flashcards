@@ -1,6 +1,6 @@
 import type { ChatMessage, MessageCheck } from "./chat";
 import { itemKey } from "./deck";
-import { buildLexicon, segment } from "./segment";
+import { buildLexicon, lookupForm, segment } from "./segment";
 import type { Progress } from "./srs";
 import type { Word } from "./words";
 
@@ -9,16 +9,19 @@ export interface ChatSummary {
   sent: number;
   /** Of those, how many needed no correction. */
   clean: number;
-  /** HSK words the learner wrote outside any corrected part, in order of first use. */
+  /** List words the learner wrote outside any corrected part, in order of first use. */
   wordsUsedWell: Word[];
   corrections: { wrong: string; right: string; changes: MessageCheck["changes"] }[];
-  /** Words the learner typed in pinyin or English, one entry per Chinese word. */
+  /** Words the learner typed in English, one entry per Portuguese word. */
   gaps: MessageCheck["gaps"];
-  /** HSK words the partner used that the learner hasn't studied or used in the chat, in order of first use. */
+  /** List words the partner used that the learner hasn't studied or used in the chat, in order of first use. */
   partnerNewWords: Word[];
 }
 
-/** What a finished conversation showed about the learner's Chinese; no model call needed. */
+/** Lowercase words separated by single spaces, for whole-word matching. */
+const wordsOnly = (text: string) => lookupForm(text.replace(/[^\p{L}\p{M}\d]+/gu, " "));
+
+/** What a finished conversation showed about the learner's Portuguese; no model call needed. */
 export function summarizeChat(messages: readonly ChatMessage[], words: readonly Word[], progress: Progress): ChatSummary {
   const lexicon = buildLexicon(words);
   const byId = new Map(words.map((w) => [w.id, w]));
@@ -34,7 +37,7 @@ export function summarizeChat(messages: readonly ChatMessage[], words: readonly 
   // Words the learner wrote themselves (including corrected and looked-up forms) aren't new to them.
   const learnerWords = new Set(
     messages.flatMap((m) =>
-      m.role === "user" ? [m.text, m.check?.corrected ?? "", ...(m.check?.gaps.map((g) => g.hanzi) ?? [])].flatMap(wordsIn).map((t) => t.wordId!) : [],
+      m.role === "user" ? [m.text, m.check?.corrected ?? "", ...(m.check?.gaps.map((g) => g.pt) ?? [])].flatMap(wordsIn).map((t) => t.wordId!) : [],
     ),
   );
 
@@ -51,9 +54,9 @@ export function summarizeChat(messages: readonly ChatMessage[], words: readonly 
     const { changes } = m.check;
     if (changes.length === 0) clean++;
     else corrections.push({ wrong: m.text, right: m.check.corrected, changes });
-    for (const g of m.check.gaps) if (!gaps.has(g.hanzi)) gaps.set(g.hanzi, g);
+    for (const g of m.check.gaps) if (!gaps.has(g.pt)) gaps.set(g.pt, g);
     for (const t of wordsIn(m.text)) {
-      const insideFix = changes.some((c) => c.from.includes(t.text));
+      const insideFix = changes.some((c) => ` ${wordsOnly(c.from)} `.includes(` ${wordsOnly(t.text)} `));
       if (!insideFix && !usedWell.has(t.wordId!)) usedWell.set(t.wordId!, byId.get(t.wordId!)!);
     }
   }

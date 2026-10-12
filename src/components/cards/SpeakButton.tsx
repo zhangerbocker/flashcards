@@ -1,4 +1,4 @@
-import { speakChinese } from "@/lib/speech";
+import { speakPortuguese } from "@/lib/speech";
 
 export function SpeakButton({ text, label }: { text: string; label: string }) {
   return (
@@ -6,7 +6,7 @@ export function SpeakButton({ text, label }: { text: string; label: string }) {
       type="button"
       onClick={(e) => {
         e.stopPropagation();
-        speakChinese(text);
+        speakPortuguese(text);
       }}
       aria-label={label}
       className="shrink-0 rounded-full p-2 text-stone-400 hover:bg-stone-100 hover:text-stone-700 dark:hover:bg-stone-800 dark:hover:text-stone-200"

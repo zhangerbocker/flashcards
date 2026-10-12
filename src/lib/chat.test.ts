@@ -7,6 +7,7 @@ import {
   mistakeFromTurn,
   recentHistory,
   saveConversation,
+  promptWords,
   systemPrompt,
   type MessageCheck,
 } from "./chat";
@@ -16,10 +17,10 @@ import type { Level, Word } from "./words";
 
 const NOW = new Date("2026-10-08T12:00:00Z");
 const TODAY = "2026-10-08";
-const cafe = findScenario("cafe")!;
+const cafe = findScenario("padaria")!;
 
 function word(id: number, level: Level, topic: Topic): Word {
-  return { id, hanzi: `字${id}`, pinyin: "zì", pos: "n.", english: `w${id}`, level, topic, example: { zh: "", pinyin: "", en: "" } };
+  return { id, pt: `palavra${id}`, pos: "n.", english: `w${id}`, level, topic, gender: "f", forms: [], example: { pt: "", en: "" } };
 }
 
 class MemoryStorage {
@@ -33,9 +34,8 @@ class MemoryStorage {
 }
 
 const check = (changes: MessageCheck["changes"]): MessageCheck => ({
-  corrected: "狗比猫大。",
-  correctedPinyin: "Gǒu bǐ māo dà.",
-  correctedEn: "Dogs are bigger than cats.",
+  corrected: "Eu sou de Boston.",
+  correctedEn: "I am from Boston.",
   changes,
   gaps: [],
 });
@@ -66,11 +66,18 @@ describe("chooseTargetWords", () => {
 
 describe("systemPrompt", () => {
   it("includes the level, scenario, target words and allowed words", () => {
-    const prompt = systemPrompt(1, cafe, ["咖啡", "茶"], ["咖啡"]);
-    expect(prompt).toContain("HSK 1");
+    const prompt = systemPrompt(1, cafe, ["o café", "a água"], ["o café"]);
+    expect(prompt).toContain("CEFR A1");
+    expect(prompt).toContain("Brazilian Portuguese");
     expect(prompt).toContain(cafe.setting);
-    expect(prompt).toContain("Target words: 咖啡");
-    expect(prompt).toContain("Allowed words: 咖啡 茶");
+    expect(prompt).toContain("Target words: o café");
+    expect(prompt).toContain("Allowed words: o café, a água");
+  });
+});
+
+describe("promptWords", () => {
+  it("lists nouns with their article so the model sees the gender", () => {
+    expect(promptWords([word(1, 1, "Time")])).toEqual(["a palavra1"]);
   });
 });
 
@@ -82,26 +89,25 @@ describe("recentHistory", () => {
 });
 
 describe("mistakeFromTurn", () => {
-  it("makes a flashcard from a corrected message, with pinyin and English", () => {
-    const mistake = mistakeFromTurn("狗比猫很大。", check([{ from: "很大", to: "大", reason: "No 很 in 比 sentences." }]), "m1", TODAY);
+  it("makes a flashcard from a corrected message, with English", () => {
+    const mistake = mistakeFromTurn("Eu estou de Boston.", check([{ from: "estou", to: "sou", reason: "Origin takes ser." }]), "m1", TODAY);
     expect(mistake).toEqual({
       id: "m1",
-      wrong: "狗比猫很大。",
-      right: "狗比猫大。",
-      pinyin: "Gǒu bǐ māo dà.",
-      en: "Dogs are bigger than cats.",
-      reason: "No 很 in 比 sentences.",
+      wrong: "Eu estou de Boston.",
+      right: "Eu sou de Boston.",
+      en: "I am from Boston.",
+      reason: "Origin takes ser.",
       createdAt: TODAY,
     });
   });
 
   it("makes nothing when the message needed no changes", () => {
-    expect(mistakeFromTurn("狗比猫大。", check([]), "m1", TODAY)).toBeNull();
+    expect(mistakeFromTurn("Eu sou de Boston.", check([]), "m1", TODAY)).toBeNull();
   });
 });
 
 describe("ChatRequest", () => {
-  const valid = { level: 1, scenario: "cafe", targetWordIds: [1], history: [], message: "你好" };
+  const valid = { level: 1, scenario: "padaria", targetWordIds: [1], history: [], message: "Oi, tudo bem?" };
 
   it("accepts a valid request", () => {
     expect(ChatRequest.safeParse(valid).success).toBe(true);
@@ -109,8 +115,8 @@ describe("ChatRequest", () => {
 
   it("rejects an unknown scenario, a bad level and an over-long message", () => {
     expect(ChatRequest.safeParse({ ...valid, scenario: "moon" }).success).toBe(false);
-    expect(ChatRequest.safeParse({ ...valid, level: 4 }).success).toBe(false);
-    expect(ChatRequest.safeParse({ ...valid, message: "好".repeat(301) }).success).toBe(false);
+    expect(ChatRequest.safeParse({ ...valid, level: 3 }).success).toBe(false);
+    expect(ChatRequest.safeParse({ ...valid, message: "a".repeat(301) }).success).toBe(false);
   });
 
   it("rejects a blank message", () => {
@@ -121,7 +127,7 @@ describe("ChatRequest", () => {
 describe("conversation storage", () => {
   it("round-trips a conversation", () => {
     const storage = new MemoryStorage();
-    const conversation = { level: 1 as const, scenario: "cafe", messages: [{ role: "partner" as const, text: "你好！", pinyin: "Nǐ hǎo!", en: "Hi!" }] };
+    const conversation = { level: 1 as const, scenario: "padaria", messages: [{ role: "partner" as const, text: "Oi!", en: "Hi!" }] };
     saveConversation(storage, conversation);
     expect(loadConversation(storage)).toEqual(conversation);
   });
@@ -131,7 +137,7 @@ describe("conversation storage", () => {
     expect(loadConversation(storage)).toBeNull();
     saveConversation(storage, null);
     expect(loadConversation(storage)).toBeNull();
-    storage.setItem("hsk.chat.v1", "{oops");
+    storage.setItem("pt.chat.v1", "{oops");
     expect(loadConversation(storage)).toBeNull();
   });
 });

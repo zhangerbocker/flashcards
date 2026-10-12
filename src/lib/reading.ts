@@ -8,11 +8,9 @@ import { enqueue } from "./sync-ops";
 export const LIBRARY: Story[] = parseStories(rawStories);
 
 export type WordStatus = "known" | "learning" | "new";
-export type PinyinMode = "all" | "unknown" | "none";
 
-const CUSTOM_KEY = "hsk.stories.v1";
-const READ_KEY = "hsk.read.v1";
-const PINYIN_KEY = "hsk.pinyin.v1";
+const CUSTOM_KEY = "pt.stories.v1";
+const READ_KEY = "pt.read.v1";
 
 /** A word is known once it has been passed (in review), learning once it is being studied. */
 export function wordStatus(progress: Progress, wordId: number): WordStatus {
@@ -21,7 +19,7 @@ export function wordStatus(progress: Progress, wordId: number): WordStatus {
   return item.state === "review" ? "known" : "learning";
 }
 
-/** Share (0-1) of a story's distinct HSK words that are known. */
+/** Share (0-1) of a story's distinct list words that are known. */
 export function knownShare(story: Story, progress: Progress): number {
   if (story.wordIds.length === 0) return 0;
   return story.wordIds.filter((id) => wordStatus(progress, id) === "known").length / story.wordIds.length;
@@ -76,15 +74,6 @@ export function markRead(storage: KeyValueStorage, id: string): Set<string> {
 export function replaceReadingWithSynced(storage: KeyValueStorage, synced: { stories: Story[]; readIds: string[] }): void {
   storage.setItem(CUSTOM_KEY, JSON.stringify(synced.stories));
   storage.setItem(READ_KEY, JSON.stringify(synced.readIds));
-}
-
-export function loadPinyinMode(storage: KeyValueStorage): PinyinMode {
-  const value = storage.getItem(PINYIN_KEY);
-  return value === "all" || value === "unknown" || value === "none" ? value : "unknown";
-}
-
-export function savePinyinMode(storage: KeyValueStorage, mode: PinyinMode): void {
-  storage.setItem(PINYIN_KEY, mode);
 }
 
 export function findStory(id: string, custom: readonly Story[]): Story | undefined {

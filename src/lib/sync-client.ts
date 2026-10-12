@@ -11,7 +11,7 @@ export interface SyncDeps {
 export type SyncResult = "synced" | "offline" | "signed-out";
 
 /** Set once this device's local data has been uploaded, so it is only uploaded once. */
-const UPLOADED_KEY = "hsk.uploaded.v1";
+const UPLOADED_KEY = "pt.uploaded.v1";
 /** Requests that hang (bad mobile signal) give up so the app falls back to local data. */
 const TIMEOUT_MS = 10_000;
 

@@ -25,7 +25,6 @@ export const MistakeSchema = z.object({
   id: z.string().max(100),
   wrong: z.string().max(1000),
   right: z.string().max(1000),
-  pinyin: z.string().max(2000).optional(),
   en: z.string().max(1000).optional(),
   reason: z.string().max(2000),
   createdAt: z.string().max(40),
@@ -48,7 +47,7 @@ const StorySchema = z.custom<Story>((value) => {
 }, "malformed story");
 
 export const SyncOp = z.discriminatedUnion("type", [
-  z.object({ type: z.literal("item"), key: z.string().regex(/^[wgm]:[\w-]+$/), schedule: ItemScheduleSchema }),
+  z.object({ type: z.literal("item"), key: z.string().regex(/^[wgvm]:[\w-]+$/), schedule: ItemScheduleSchema }),
   z.object({ type: z.literal("review"), entry: ReviewEntrySchema }),
   z.object({ type: z.literal("mistake"), mistake: MistakeSchema }),
   z.object({ type: z.literal("settings"), settings: SettingsSchema }),
@@ -70,9 +69,9 @@ export const SyncState = z.object({
 });
 export type SyncState = z.infer<typeof SyncState>;
 
-const OUTBOX_KEY = "hsk.outbox.v1";
+const OUTBOX_KEY = "pt.outbox.v1";
 /** Fired on window when an op is queued, so the sync client can send it promptly. */
-export const OUTBOX_EVENT = "hsk:outbox";
+export const OUTBOX_EVENT = "pt:outbox";
 
 export function pendingOps(storage: KeyValueStorage): SyncOp[] {
   const raw = storage.getItem(OUTBOX_KEY);

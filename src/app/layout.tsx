@@ -4,9 +4,9 @@ import { ServiceWorker } from "@/components/ServiceWorker";
 import { THEME_BOOT_SCRIPT } from "@/lib/theme";
 
 export const metadata: Metadata = {
-  title: "HSK Study",
-  description: "Flashcards, reading and chat for HSK 1–3",
-  appleWebApp: { capable: true, title: "学中文", statusBarStyle: "default" },
+  title: "Português",
+  description: "Flashcards, reading and chat for Brazilian Portuguese, A1–A2",
+  appleWebApp: { capable: true, title: "Português", statusBarStyle: "default" },
 };
 
 export const viewport: Viewport = {

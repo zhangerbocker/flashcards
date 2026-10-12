@@ -1,11 +1,13 @@
 import type { CramFilter, CramKind } from "@/lib/deck";
 import { TOPICS, type Topic } from "@/lib/topics";
-import type { Level } from "@/lib/words";
+import { TENSE_NAMES, TENSES, type Tense } from "@/lib/verbs";
+import { LEVEL_NAMES, LEVELS, type Level } from "@/lib/words";
 
 const KINDS: { kind: CramKind; label: string }[] = [
   { kind: "words", label: "Words" },
   { kind: "sentences", label: "Sentences" },
   { kind: "grammar", label: "Grammar" },
+  { kind: "verbs", label: "Verbs" },
   { kind: "mistakes", label: "Mistakes" },
 ];
 
@@ -51,10 +53,27 @@ export function CramControls({ filter, mistakeCount, remaining, onChange }: Cram
             className={selectClass}
           >
             <option value="all">All levels</option>
-            <option value="1">HSK 1</option>
-            <option value="2">HSK 2</option>
-            <option value="3">HSK 3</option>
+            {LEVELS.map((l) => (
+              <option key={l} value={l}>
+                {LEVEL_NAMES[l]}
+              </option>
+            ))}
           </select>
+          {filter.kind === "verbs" && (
+            <select
+              aria-label="Tense"
+              value={filter.tense ?? "all"}
+              onChange={(e) => onChange({ ...filter, tense: e.target.value as Tense | "all" })}
+              className={selectClass}
+            >
+              <option value="all">All tenses</option>
+              {TENSES.map((t) => (
+                <option key={t} value={t}>
+                  {TENSE_NAMES[t]}
+                </option>
+              ))}
+            </select>
+          )}
           {hasTopics && (
             <>
               <select
@@ -73,9 +92,9 @@ export function CramControls({ filter, mistakeCount, remaining, onChange }: Cram
               <button
                 type="button"
                 onClick={() => onChange({ ...filter, face: filter.face === "r" ? "p" : "r" })}
-                className={`${selectClass} font-han`}
+                className={selectClass}
               >
-                {filter.face === "r" ? "中文 → English" : "English → 中文"}
+                {filter.face === "r" ? "Português → English" : "English → Português"}
               </button>
             </>
           )}

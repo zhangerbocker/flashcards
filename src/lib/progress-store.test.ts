@@ -46,26 +46,12 @@ describe("progress", () => {
     expect(loadProgress(storage)).toEqual({ items: { "w:7": ITEM } });
   });
 
-  it("converts per-card progress saved by earlier versions, leaving it as a backup", () => {
-    const storage = new MemoryStorage();
-    const legacy = JSON.stringify({ cards: { "w:7:r": { ...ITEM, turn: undefined }, "s:7:r": ITEM } });
-    storage.setItem("hsk.progress.v1", legacy);
-    expect(Object.keys(loadProgress(storage).items)).toEqual(["w:7"]);
-    expect(storage.getItem("hsk.progress.v1")).toBe(legacy);
-  });
-
-  it("prefers current progress over the old per-card data", () => {
-    const storage = new MemoryStorage();
-    storage.setItem("hsk.progress.v1", JSON.stringify({ cards: { "w:9:r": ITEM } }));
-    saveProgress(storage, { items: { "w:7": ITEM } });
-    expect(Object.keys(loadProgress(storage).items)).toEqual(["w:7"]);
-  });
 
   it("backs up corrupt data instead of silently discarding it", () => {
     const storage = new MemoryStorage();
-    storage.setItem("hsk.progress.v2", "{not json");
+    storage.setItem("pt.progress.v1", "{not json");
     expect(loadProgress(storage)).toEqual({ items: {} });
-    expect(storage.keys().some((k) => k.startsWith("hsk.progress.v2.corrupt-"))).toBe(true);
+    expect(storage.keys().some((k) => k.startsWith("pt.progress.v1.corrupt-"))).toBe(true);
   });
 });
 
@@ -83,13 +69,13 @@ describe("settings", () => {
 
   it("keeps valid fields from older saves and defaults the rest", () => {
     const storage = new MemoryStorage();
-    storage.setItem("hsk.settings.v1", JSON.stringify({ newPerDay: 50 }));
+    storage.setItem("pt.settings.v1", JSON.stringify({ newPerDay: 50 }));
     expect(loadSettings(storage)).toEqual({ ...DEFAULT_SETTINGS, newPerDay: 50 });
   });
 
   it("ignores invalid values", () => {
     const storage = new MemoryStorage();
-    storage.setItem("hsk.settings.v1", JSON.stringify({ newPerDay: -3, autoplayAudio: "yes" }));
+    storage.setItem("pt.settings.v1", JSON.stringify({ newPerDay: -3, autoplayAudio: "yes" }));
     expect(loadSettings(storage)).toEqual(DEFAULT_SETTINGS);
   });
 });

@@ -1,38 +1,28 @@
 import { describe, expect, it } from "vitest";
 import { LIBRARY } from "./reading";
-import { TOPICS } from "./topics";
-import { WORDS, WORDS_BY_ID } from "./words";
+import { lookupForm } from "./segment";
+import { WORDS_BY_ID } from "./words";
 
 describe("reading library", () => {
-  it("has at least 3 stories for every topic at every level", () => {
-    for (const level of [1, 2, 3] as const) {
-      for (const topic of TOPICS) {
-        expect(LIBRARY.filter((s) => s.level === level && s.topic === topic).length, `HSK ${level} ${topic}`).toBeGreaterThanOrEqual(3);
-      }
-    }
-  });
-
   it("uses only words at or below each story's level", () => {
     const tooHard = LIBRARY.flatMap((s) =>
-      s.wordIds.filter((id) => (WORDS_BY_ID.get(id)?.level ?? 99) > s.level).map((id) => `${s.id}: ${WORDS_BY_ID.get(id)?.hanzi}`),
+      s.wordIds.filter((id) => (WORDS_BY_ID.get(id)?.level ?? 99) > s.level).map((id) => `${s.id}: ${WORDS_BY_ID.get(id)?.pt}`),
     );
     expect(tooHard).toEqual([]);
   });
 
-  it("covers every topic word in that topic's stories", () => {
-    const uncovered: string[] = [];
-    for (const level of [1, 2, 3] as const) {
-      for (const topic of TOPICS) {
-        // Matched by written form so homograph entries (点, 过, 花) share coverage.
-        const used = new Set(
-          LIBRARY.filter((s) => s.level === level && s.topic === topic).flatMap((s) =>
-            s.sentences.flatMap((se) => se.tokens.filter((t) => t.wordId !== undefined).map((t) => t.text)),
-          ),
-        );
-        for (const w of WORDS) if (w.level === level && w.topic === topic && !used.has(w.hanzi)) uncovered.push(`HSK${level} ${topic}: ${w.hanzi}`);
-      }
-    }
-    expect(uncovered).toEqual([]);
+  it("links every word token to a word whose forms include it", () => {
+    const bad = LIBRARY.flatMap((s) =>
+      s.sentences.flatMap((se) =>
+        se.tokens.flatMap((t) => {
+          if (t.wordId === undefined) return [];
+          const w = WORDS_BY_ID.get(t.wordId);
+          const ok = w && [w.pt, ...w.forms].map(lookupForm).includes(lookupForm(t.text));
+          return ok ? [] : [`${s.id}: ${t.text}`];
+        }),
+      ),
+    );
+    expect(bad).toEqual([]);
   });
 
   it("gives every story 3 questions with 4 options and a valid answer", () => {
@@ -42,10 +32,14 @@ describe("reading library", () => {
     expect(bad).toEqual([]);
   });
 
-  it("glosses every non-punctuation token", () => {
+  it("glosses every word", () => {
     const missing = LIBRARY.flatMap((s) =>
-      s.sentences.flatMap((se) => se.tokens.filter((t) => /\p{Script=Han}/u.test(t.text) && !t.pinyin).map((t) => `${s.id}: ${t.text}`)),
+      s.sentences.flatMap((se) => se.tokens.filter((t) => /\p{L}/u.test(t.text) && !t.en).map((t) => `${s.id}: ${t.text}`)),
     );
     expect(missing).toEqual([]);
+  });
+
+  it("has unique ids", () => {
+    expect(new Set(LIBRARY.map((s) => s.id)).size).toBe(LIBRARY.length);
   });
 });

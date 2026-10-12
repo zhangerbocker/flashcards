@@ -5,7 +5,7 @@
 
 @theme {
   --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-  --font-han: "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", "Microsoft YaHei", sans-serif;
+  --font-pt: ui-serif, "Iowan Old Style", Georgia, "Times New Roman", serif;
 }
 
 body {

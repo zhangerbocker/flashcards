@@ -1,45 +1,43 @@
 import { describe, expect, it } from "vitest";
-import { checkAnswer, diffSentences, plainPinyin } from "./answer";
+import { checkAnswer, diffSentences, stripAccents } from "./answer";
 
-describe("plainPinyin", () => {
-  it("strips tone marks, spaces and case", () => {
-    expect(plainPinyin("Bù hǎoyìsi")).toBe("buhaoyisi");
-  });
-
-  it("maps ü to v", () => {
-    expect(plainPinyin("lǜsè")).toBe("lvse");
+describe("stripAccents", () => {
+  it("removes accents and cedillas", () => {
+    expect(stripAccents("Não, você começa às três")).toBe("Nao, voce comeca as tres");
   });
 });
 
 describe("checkAnswer", () => {
-  it("accepts the exact Chinese, ignoring punctuation and spaces", () => {
-    expect(checkAnswer("我 很好", "我很好。").correct).toBe(true);
+  it("accepts the exact Portuguese, ignoring case, punctuation and extra spaces", () => {
+    expect(checkAnswer("eu  estou bem", "Eu estou bem.").correct).toBe(true);
   });
 
-  it("accepts toneless pinyin when pinyin is provided", () => {
-    expect(checkAnswer("pengyou", "朋友", "péngyou").correct).toBe(true);
+  it("accepts alternatives such as the noun without its article", () => {
+    expect(checkAnswer("casa", "a casa", ["casa"]).correct).toBe(true);
+    expect(checkAnswer("o casa", "a casa", ["casa"]).correct).toBe(false);
   });
 
-  it("does not accept pinyin for sentence cards", () => {
-    expect(checkAnswer("wo hen hao", "我很好。").correct).toBe(false);
+  it("flags an answer that is right apart from accents, without counting it correct", () => {
+    const result = checkAnswer("nao sei", "Não sei.");
+    expect(result).toMatchObject({ correct: false, accentsOnly: true });
+  });
+
+  it("treats precomposed and decomposed accents as the same", () => {
+    expect(checkAnswer("café", "café").correct).toBe(true);
   });
 
   it("rejects an empty answer", () => {
-    expect(checkAnswer("", "朋友", "péngyou").correct).toBe(false);
+    expect(checkAnswer("", "a casa", ["casa"])).toMatchObject({ correct: false, accentsOnly: false });
   });
 
-  it("marks missing and extra characters", () => {
-    expect(checkAnswer("狗比猫很大", "狗比猫大。").diff).toEqual([
-      { text: "狗", status: "same" },
-      { text: "比", status: "same" },
-      { text: "猫", status: "same" },
-      { text: "很", status: "extra" },
-      { text: "大", status: "same" },
+  it("marks missing and extra letters against the expected answer", () => {
+    expect(checkAnswer("falo", "falou").diff.map((d) => [d.text, d.status])).toEqual([
+      ["f", "same"],
+      ["a", "same"],
+      ["l", "same"],
+      ["o", "same"],
+      ["u", "missing"],
     ]);
-  });
-
-  it("marks characters the answer left out", () => {
-    expect(checkAnswer("我好", "我很好").diff.map((d) => d.status)).toEqual(["same", "missing", "same"]);
   });
 });
 
@@ -49,15 +47,23 @@ describe("diffSentences", () => {
       .map((d) => (d.status === "same" ? d.text : d.status === "missing" ? `+${d.text}` : `-${d.text}`))
       .join("");
 
-  it("keeps punctuation so the corrected sentence reads normally", () => {
-    expect(render("狗比猫很大。我喜欢狗。", "狗比猫大。我喜欢狗。")).toBe("狗比猫-很大。我喜欢狗。");
+  it("diffs word by word, keeping the spaces so the sentence reads normally", () => {
+    expect(render("Eu estou de Boston.", "Eu sou de Boston.")).toBe("Eu -estou +sou de Boston.");
   });
 
-  it("treats full-width and ASCII punctuation as the same, showing the corrected form", () => {
-    expect(render("你好,我是安娜.", "你好，我是安娜。")).toBe("你好，我是安娜。");
+  it("shows the corrected form of words that differ only in case or punctuation", () => {
+    expect(render("eu sou de boston", "Eu sou de Boston.")).toBe("Eu sou de Boston.");
   });
 
-  it("drops spaces and marks typed English as removed", () => {
-    expect(render("我的 mother 很好", "我妈妈很好")).toBe("我+妈+妈-的-m-o-t-h-e-r很好");
+  it("merges neighboring words with the same status", () => {
+    expect(diffSentences("um orange juice", "um suco de laranja")).toEqual([
+      { text: "um ", status: "same" },
+      { text: "orange juice ", status: "extra" },
+      { text: "suco de laranja", status: "missing" },
+    ]);
+  });
+
+  it("marks typed English as removed and the Portuguese as added", () => {
+    expect(render("Minha mother é legal", "Minha mãe é legal")).toBe("Minha -mother +mãe é legal");
   });
 });

@@ -13,9 +13,9 @@ const ThemeButton = dynamic(() => import("./ThemeButton").then((m) => m.ThemeBut
 });
 
 const TABS = [
-  { href: "/cards", label: "Cards", han: "卡" },
-  { href: "/read", label: "Read", han: "读" },
-  { href: "/chat", label: "Chat", han: "聊" },
+  { href: "/cards", label: "Cards", pt: "Cartões" },
+  { href: "/read", label: "Read", pt: "Ler" },
+  { href: "/chat", label: "Chat", pt: "Conversar" },
 ] as const;
 
 /** The tab bar markup; `pathname` decides which tab is highlighted (none while unknown). */
@@ -34,7 +34,7 @@ export function TabBarView({ pathname }: { pathname: string }) {
                   active ? "text-red-700 dark:text-red-400" : "text-stone-500"
                 }`}
               >
-                <span className="font-han text-xl leading-none">{tab.han}</span>
+                <span className="font-pt text-lg leading-none">{tab.pt}</span>
                 {tab.label}
               </Link>
             </li>

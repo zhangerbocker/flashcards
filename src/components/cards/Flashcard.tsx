@@ -1,5 +1,6 @@
 import type { CardContent } from "@/lib/card-content";
 import { AnswerInput, AnswerResult } from "./AnswerBox";
+import { LEVEL_NAMES } from "@/lib/words";
 import { CardFace } from "./CardFace";
 import { SpeakButton } from "./SpeakButton";
 
@@ -26,7 +27,7 @@ export function Flashcard({ card, revealed, isNew, typing, typed, onTypedChange,
       <div className="absolute left-4 top-4 flex flex-wrap gap-2 text-xs">
         {card.level && (
           <span className="rounded-full bg-stone-100 px-2 py-0.5 text-stone-600 dark:bg-stone-800 dark:text-stone-300">
-            HSK {card.level}
+            {LEVEL_NAMES[card.level]}
           </span>
         )}
         <span className="rounded-full bg-stone-100 px-2 py-0.5 text-stone-600 dark:bg-stone-800 dark:text-stone-300">
@@ -49,7 +50,6 @@ export function Flashcard({ card, revealed, isNew, typing, typed, onTypedChange,
       {showInput && (
         <AnswerInput
           value={typed}
-          acceptsPinyin={card.answer?.pinyin !== undefined}
           onChange={onTypedChange}
           onSubmit={onReveal}
         />

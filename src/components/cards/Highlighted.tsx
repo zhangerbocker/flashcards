@@ -1,10 +1,15 @@
-/** Renders Chinese text with the given substrings emphasized (first occurrence of each). */
+/**
+ * Renders Portuguese text with the given words or phrases emphasized (first whole-word
+ * occurrence of each, ignoring case).
+ */
 export function Highlighted({ text, parts, className = "" }: { text: string; parts: readonly string[]; className?: string }) {
   const ranges: [number, number][] = [];
+  const lower = text.toLowerCase();
   for (const part of parts) {
     if (!part) continue;
-    const start = text.indexOf(part);
-    if (start >= 0) ranges.push([start, start + part.length]);
+    const escaped = part.toLowerCase().replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    const match = new RegExp(`(?<![\\p{L}\\p{M}])${escaped}(?![\\p{L}\\p{M}])`, "u").exec(lower);
+    if (match) ranges.push([match.index, match.index + part.length]);
   }
   ranges.sort((a, b) => a[0] - b[0]);
 
@@ -19,7 +24,7 @@ export function Highlighted({ text, parts, className = "" }: { text: string; par
   if (cursor < text.length) pieces.push({ text: text.slice(cursor), mark: false });
 
   return (
-    <span className={`font-han ${className}`}>
+    <span className={`font-pt ${className}`}>
       {pieces.map((p, i) =>
         p.mark ? (
           <mark key={i} className="rounded bg-amber-200/70 px-0.5 text-inherit dark:bg-amber-500/30">

@@ -2,9 +2,9 @@ import type { MetadataRoute } from "next";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "HSK Study",
-    short_name: "学中文",
-    description: "Flashcards, reading and chat for HSK 1–3",
+    name: "Português",
+    short_name: "Português",
+    description: "Flashcards, reading and chat for Brazilian Portuguese, A1–A2",
     start_url: "/cards",
     display: "standalone",
     background_color: "#fafaf9",
