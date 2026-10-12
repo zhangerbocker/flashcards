@@ -15,7 +15,7 @@ API route needs the passcode login.
    |---|---|---|
    | `PARLEY_API_KEY` | your MIT Parley key (or set `ANTHROPIC_API_KEY` instead) | yes |
    | `PARLEY_MODEL` | `claude-sonnet-4-6` | no |
-   | `NEXT_PUBLIC_API_KEY_EXPIRES` | last valid day of the key, e.g. `2026-12-31` | no (shown in the expiry notice) |
+   | `NEXT_PUBLIC_API_KEY_EXPIRES` | optional: last valid day of the key, e.g. `2026-12-31`; leave it out if the key never expires | no (shown in the expiry notice) |
    | `APP_PASSCODE_HASH` | output of `npx tsx scripts/hash-passcode.ts` (type the passcode) | yes |
    | `SESSION_SECRET` | output of `openssl rand -base64 32` | yes |
 
@@ -41,7 +41,8 @@ from that browser on the first sync. Stop the dev server afterwards.
 
 ## Renewing the API key
 
-From a week before `NEXT_PUBLIC_API_KEY_EXPIRES` the app shows a notice every time it opens.
+If `NEXT_PUBLIC_API_KEY_EXPIRES` is set, the app shows a notice every time it opens from a week before
+that date (without it, no notice is shown).
 Create a new key, update `PARLEY_API_KEY` (or `ANTHROPIC_API_KEY`) and `NEXT_PUBLIC_API_KEY_EXPIRES`, and redeploy
 (the expiry date is built into the page, so it only changes on a new deployment).
 
