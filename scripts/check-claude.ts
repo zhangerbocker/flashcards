@@ -6,6 +6,13 @@ import { USING_PARLEY } from "../src/lib/server/anthropic-client";
 
 const Word = z.object({ pt: z.string(), english: z.string() });
 
-console.log(`Calling ${USING_PARLEY ? "Parley" : "Anthropic"} with ${CONTENT_MODEL}…`);
-const word = await generateJson(Word, "You are a Brazilian Portuguese teacher.", "Give one common A1 noun.", 500, "low");
-console.log("OK:", word);
+async function main() {
+  console.log(`Calling ${USING_PARLEY ? "Parley" : "Anthropic"} with ${CONTENT_MODEL}…`);
+  const word = await generateJson(Word, "You are a Brazilian Portuguese teacher.", "Give one common A1 noun.", 500, "low");
+  console.log("OK:", word);
+}
+
+main().catch((err) => {
+  console.error("Failed:", err instanceof Error ? err.message : err);
+  process.exit(1);
+});
