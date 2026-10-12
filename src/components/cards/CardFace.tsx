@@ -15,7 +15,7 @@ function Panel({ children }: { children: ReactNode }) {
 }
 
 function Prompt({ children }: { children: ReactNode }) {
-  return <p className="mb-3 text-xs font-medium uppercase tracking-wide text-stone-400">{children}</p>;
+  return <p className="mb-3 font-mono text-[11px] font-medium uppercase tracking-[0.18em] text-red-700 dark:text-red-400">{children}</p>;
 }
 
 /** Present and preterite side by side, for a verb's word card. */
@@ -169,7 +169,7 @@ function Back({ card }: { card: CardContent }) {
             {PERSONS[card.person].split(" / ")[0]} <span className="text-red-700 dark:text-red-400">{card.form}</span>
           </p>
           <Panel>
-            <p className="mb-2 text-xs font-medium uppercase tracking-wide text-stone-400">
+            <p className="mb-2 font-mono text-[11px] font-medium uppercase tracking-[0.18em] text-red-700 dark:text-red-400">
               {card.verb.infinitive} · {TENSE_NAMES[card.tense]}
               {card.verb.irregular && " · irregular"}
             </p>

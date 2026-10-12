@@ -143,7 +143,7 @@ export function CardsApp() {
         <button
           type="button"
           onClick={() => setShowSetup(true)}
-          className="rounded-full bg-stone-900 px-4 py-1.5 text-sm font-medium text-white dark:bg-stone-100 dark:text-stone-900"
+          className="rounded-full border border-stone-300 px-4 py-1.5 text-sm font-medium text-stone-700 hover:border-stone-700 hover:text-stone-900 dark:border-stone-700 dark:text-stone-200 dark:hover:border-stone-300"
         >
           New session
         </button>
@@ -173,7 +173,7 @@ export function CardsApp() {
 
       {session && !showSetup && session.total > 0 && (
         <div className="h-1 overflow-hidden rounded-full bg-stone-200 dark:bg-stone-800" aria-hidden="true">
-          <div className="h-full bg-emerald-600 transition-all" style={{ width: `${(done / session.total) * 100}%` }} />
+          <div className="h-full bg-red-700 transition-all dark:bg-red-400" style={{ width: `${(done / session.total) * 100}%` }} />
         </div>
       )}
 
@@ -204,14 +204,14 @@ export function CardsApp() {
             <button
               type="button"
               onClick={dontKnow}
-              className="rounded-2xl border border-rose-200 bg-rose-50 py-3 font-medium text-rose-800 hover:bg-rose-100 dark:border-rose-900/60 dark:bg-rose-950/40 dark:text-rose-200 dark:hover:bg-rose-950/70"
+              className="rounded-full border border-rose-200 bg-rose-50 py-3 font-medium text-rose-800 hover:bg-rose-100 dark:border-rose-900/60 dark:bg-rose-950/40 dark:text-rose-200 dark:hover:bg-rose-950/70"
             >
               ← I don&apos;t know it
             </button>
             <button
               type="button"
               onClick={know}
-              className="rounded-2xl border border-emerald-200 bg-emerald-50 py-3 font-medium text-emerald-800 hover:bg-emerald-100 dark:border-emerald-900/60 dark:bg-emerald-950/40 dark:text-emerald-200 dark:hover:bg-emerald-950/70"
+              className="rounded-full border border-emerald-200 bg-emerald-50 py-3 font-medium text-emerald-800 hover:bg-emerald-100 dark:border-emerald-900/60 dark:bg-emerald-950/40 dark:text-emerald-200 dark:hover:bg-emerald-950/70"
             >
               I know it →
             </button>
@@ -242,7 +242,7 @@ function SessionDone({ session, onReviewMissed, onNewSession }: { session: Sessi
   const firstTry = session.total - session.missed.length;
   return (
     <div className="flex flex-1 flex-col items-center justify-center gap-3 text-center">
-      <p className="text-lg font-semibold">Session complete</p>
+      <p className="font-pt text-3xl leading-tight">Session complete</p>
       <p className="text-stone-500">
         {session.total} card{session.total === 1 ? "" : "s"} · {firstTry} known on the first try
         {session.missed.length > 0 && ` · ${session.missed.length} missed at least once`}
@@ -252,7 +252,7 @@ function SessionDone({ session, onReviewMissed, onNewSession }: { session: Sessi
           <button
             type="button"
             onClick={onReviewMissed}
-            className="rounded-2xl border border-stone-300 px-5 py-3 font-medium dark:border-stone-700"
+            className="rounded-full border border-stone-300 px-5 py-3 font-medium hover:border-stone-700 dark:hover:border-stone-300 dark:border-stone-700"
           >
             Go over the {session.missed.length} I missed
           </button>
@@ -260,7 +260,7 @@ function SessionDone({ session, onReviewMissed, onNewSession }: { session: Sessi
         <button
           type="button"
           onClick={onNewSession}
-          className="rounded-2xl bg-stone-900 px-5 py-3 font-medium text-white dark:bg-stone-100 dark:text-stone-900"
+          className="rounded-full px-5 py-3 font-medium bg-red-700 text-white hover:bg-red-800 dark:bg-red-500 dark:text-white dark:hover:bg-red-400"
         >
           New session
         </button>

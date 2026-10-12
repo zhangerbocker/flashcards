@@ -23,7 +23,7 @@ export function Flashcard({ card, revealed, isNew, typing, accentsOptional, type
       role={revealed || showInput ? undefined : "button"}
       tabIndex={revealed || showInput ? undefined : 0}
       onClick={revealed || showInput ? undefined : onReveal}
-      className="relative flex flex-1 flex-col items-center justify-center gap-4 rounded-3xl border border-stone-200 bg-white px-6 pb-6 pt-14 text-center shadow-sm dark:border-stone-800 dark:bg-stone-900"
+      className="relative flex flex-1 flex-col items-center justify-center gap-4 rounded-[22px] border border-stone-200 bg-white px-6 pb-6 pt-14 text-center shadow-[0_30px_60px_-44px_rgba(27,25,22,0.5)] dark:border-stone-800 dark:bg-stone-900"
     >
       <div className="absolute left-4 top-4 flex flex-wrap gap-2 text-xs">
         {card.level && (

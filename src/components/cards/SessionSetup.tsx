@@ -52,11 +52,11 @@ export function SessionSetup({ levels, initialFilter, initialSize, countFor, onC
   const cards = size === "all" ? available : Math.min(size, available);
 
   return (
-    <div className="flex flex-col gap-5 rounded-2xl border border-stone-200 p-4 dark:border-stone-800">
-      <h2 className="text-lg font-semibold">New session</h2>
+    <div className="flex flex-col gap-5 rounded-[22px] border border-stone-200 bg-white p-5 shadow-[0_30px_60px_-44px_rgba(27,25,22,0.5)] dark:border-stone-800 dark:bg-stone-900">
+      <h2 className="font-pt text-3xl leading-tight">New session</h2>
 
       <section className="flex flex-col gap-2">
-        <h3 className="text-xs font-medium uppercase tracking-wide text-stone-500">Study</h3>
+        <h3 className="font-mono text-[11px] font-medium uppercase tracking-[0.18em] text-red-700 dark:text-red-400">Study</h3>
         <div className="flex flex-wrap gap-1">
           {KINDS.map(({ kind, label }) => (
             <Chip key={kind} active={filter.kind === kind} onClick={() => setFilter({ ...filter, kind })}>
@@ -121,7 +121,7 @@ export function SessionSetup({ levels, initialFilter, initialSize, countFor, onC
 
       {hasTopics && (
         <section className="flex flex-col gap-2">
-          <h3 className="text-xs font-medium uppercase tracking-wide text-stone-500">Direction</h3>
+          <h3 className="font-mono text-[11px] font-medium uppercase tracking-[0.18em] text-red-700 dark:text-red-400">Direction</h3>
           <div className="flex flex-wrap gap-1">
             <Chip active={filter.face === "r"} onClick={() => setFilter({ ...filter, face: "r" })}>
               Português → English
@@ -139,7 +139,7 @@ export function SessionSetup({ levels, initialFilter, initialSize, countFor, onC
       )}
 
       <section className="flex flex-col gap-2">
-        <h3 className="text-xs font-medium uppercase tracking-wide text-stone-500">Cards</h3>
+        <h3 className="font-mono text-[11px] font-medium uppercase tracking-[0.18em] text-red-700 dark:text-red-400">Cards</h3>
         <div className="flex flex-wrap gap-1">
           {SESSION_SIZES.map((n) => (
             <Chip key={n} active={size === n} onClick={() => setSize(n)}>
@@ -161,7 +161,7 @@ export function SessionSetup({ levels, initialFilter, initialSize, countFor, onC
           <button
             type="button"
             onClick={onCancel}
-            className="flex-1 rounded-2xl border border-stone-300 py-3 font-medium dark:border-stone-700"
+            className="flex-1 rounded-full border border-stone-300 py-3 font-medium hover:border-stone-700 dark:hover:border-stone-300 dark:border-stone-700"
           >
             Back to session
           </button>
@@ -170,7 +170,7 @@ export function SessionSetup({ levels, initialFilter, initialSize, countFor, onC
           type="button"
           disabled={cards === 0}
           onClick={() => onStart(filter, size)}
-          className="flex-1 rounded-2xl bg-stone-900 py-3 font-medium text-white disabled:opacity-40 dark:bg-stone-100 dark:text-stone-900"
+          className="flex-1 rounded-full py-3 font-medium bg-red-700 text-white hover:bg-red-800 dark:bg-red-500 dark:text-white dark:hover:bg-red-400 disabled:opacity-40"
         >
           {cards === 0 ? "No cards match" : `Start · ${cards} card${cards === 1 ? "" : "s"}`}
         </button>

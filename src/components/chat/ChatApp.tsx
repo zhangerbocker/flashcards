@@ -212,7 +212,7 @@ export function ChatApp() {
         <button
           type="submit"
           disabled={pending !== null || !draft.trim()}
-          className="h-11 shrink-0 rounded-2xl bg-stone-900 px-4 font-medium text-white disabled:opacity-40 dark:bg-stone-100 dark:text-stone-900"
+          className="h-11 shrink-0 rounded-full px-4 font-medium bg-red-700 text-white hover:bg-red-800 dark:bg-red-500 dark:text-white dark:hover:bg-red-400 disabled:opacity-40"
         >
           Send
         </button>
