@@ -8,6 +8,7 @@ import type { Story } from "@/lib/story";
 import { TOPICS, type Topic } from "@/lib/topics";
 import { LEVEL_NAMES, type Level } from "@/lib/words";
 import { useActiveLevels, useCustomStories, useProgress, useReadIds } from "../useSettings";
+import { useMe } from "../useMe";
 
 function StoryCard({ story, share, read }: { story: Story; share: number; read: boolean }) {
   return (
@@ -33,6 +34,8 @@ function StoryCard({ story, share, read }: { story: Story; share: number; read: 
 export function Library() {
   const router = useRouter();
   const levels = useActiveLevels();
+  // Generating a story costs more than a guest's chat budget, so it's the owner's alone.
+  const canGenerate = useMe()?.role === "owner";
   const [chosen, setLevel] = useState<Level>(1);
   // Falls back to A1 when the chosen level is switched off.
   const level = levels.includes(chosen) ? chosen : 1;
@@ -91,14 +94,16 @@ export function Library() {
           <section key={topic} className="flex flex-col gap-2">
             <div className="flex items-center justify-between">
               <h2 className="text-sm font-medium text-stone-600 dark:text-stone-400">{topic}</h2>
-              <button
-                type="button"
-                disabled={generating !== null}
-                onClick={() => newStory(topic)}
-                className="rounded-full border border-stone-300 px-3 py-1 text-xs disabled:opacity-50 dark:border-stone-700"
-              >
-                {generating === topic ? "Writing… ~1 min" : "New story"}
-              </button>
+              {canGenerate && (
+                <button
+                  type="button"
+                  disabled={generating !== null}
+                  onClick={() => newStory(topic)}
+                  className="rounded-full border border-stone-300 px-3 py-1 text-xs disabled:opacity-50 dark:border-stone-700"
+                >
+                  {generating === topic ? "Writing… ~1 min" : "New story"}
+                </button>
+              )}
             </div>
             {stories.length ? (
               stories.map((s) => <StoryCard key={s.id} story={s} share={knownShare(s, progress)} read={readIds.has(s.id)} />)

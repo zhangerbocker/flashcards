@@ -2,8 +2,19 @@ import { useState } from "react";
 import { SCENARIOS } from "@/lib/chat";
 import { LEVEL_NAMES, type Level } from "@/lib/words";
 import { useActiveLevels } from "../useSettings";
+import { BudgetNote } from "./BudgetNote";
+import type { Me } from "@/lib/me";
 
-export function ChatSetup({ starting, onStart }: { starting: boolean; onStart: (level: Level, scenario: string) => void }) {
+export function ChatSetup({
+  starting,
+  me,
+  onStart,
+}: {
+  starting: boolean;
+  me: Me | null;
+  onStart: (level: Level, scenario: string) => void;
+}) {
+  const outOfBudget = me?.role === "guest" && me.budget !== null && !me.budget.allowed;
   const levels = useActiveLevels();
   const [chosen, setLevel] = useState<Level>(1);
   // Falls back to A1 when the chosen level is switched off.
@@ -27,12 +38,13 @@ export function ChatSetup({ starting, onStart }: { starting: boolean; onStart: (
         </div>
       </div>
       <p className="text-sm text-stone-500">Pick a situation. Write in Portuguese (English for words you don&apos;t know is fine) and every message gets checked.</p>
+      <BudgetNote me={me} />
       <ul className="flex flex-col gap-2">
         {SCENARIOS.map((s) => (
           <li key={s.id}>
             <button
               type="button"
-              disabled={starting}
+              disabled={starting || outOfBudget}
               onClick={() => onStart(level, s.id)}
               className="w-full rounded-[20px] border border-stone-200 bg-white p-4 text-left shadow-[0_30px_60px_-44px_rgba(27,25,22,0.5)] transition hover:-translate-y-0.5 hover:border-red-700 disabled:opacity-50 dark:border-stone-800 dark:bg-stone-900 dark:hover:border-red-400"
             >

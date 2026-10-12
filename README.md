@@ -75,6 +75,10 @@ partner replies in simple Brazilian Portuguese within your level's words; every 
 checked, mistakes (including missing accents and gender agreement) become flashcards, and English words
 you used for gaps are looked up. "End chat" shows a summary.
 
+**Owner and guests.** Logging in with the owner passcode gives unlimited chat, "New story" and synced
+progress. The shared guest passcode gives a chat budget ($0.25 per login, $5 for all guests together),
+shown on the chat screen, and keeps progress on the guest's device. See `docs/deploy.md` → Guests.
+
 ## Checks
 
 ```bash

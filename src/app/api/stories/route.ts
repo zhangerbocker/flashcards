@@ -1,4 +1,5 @@
 import { loadExtras } from "@/lib/server/extras";
+import { ownerOnly, requestIdentity } from "@/lib/server/request-identity";
 import { generateStories } from "@/lib/server/story-gen";
 import { isTopic } from "@/lib/topics";
 import { isLevel, LEVEL_NAMES, WORDS } from "@/lib/words";
@@ -11,6 +12,9 @@ export const maxDuration = 300;
  * Body: { level: 1 | 2, topic: Topic }. Responds { story } or { error }.
  */
 export async function POST(request: Request) {
+  // Each story costs more than a guest's whole chat budget, so only the owner generates them.
+  const refused = ownerOnly(requestIdentity(request), "Generating new stories");
+  if (refused) return refused;
   let body: unknown;
   try {
     body = await request.json();

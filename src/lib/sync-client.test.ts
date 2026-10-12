@@ -27,12 +27,13 @@ beforeEach(async () => {
 });
 
 /** A device whose fetch goes to the real handlers backed by the shared test database. */
-function device(network: "online" | "offline" | "signed-out" = "online"): SyncDeps & { storage: MemoryStorage } {
+function device(network: "online" | "offline" | "signed-out" | "guest" = "online"): SyncDeps & { storage: MemoryStorage } {
   const sync = syncHandler(async () => db);
   const state = stateHandler(async () => db);
   const fakeFetch = async (path: string | URL | Request, init?: RequestInit): Promise<Response> => {
     if (network === "offline") throw new TypeError("Failed to fetch");
     if (network === "signed-out") return Response.json({ error: "Not signed in" }, { status: 401 });
+    if (network === "guest") return Response.json({ error: "Syncing progress is only available to the owner." }, { status: 403 });
     if (path === "/api/sync") return sync(new Request("http://x/api/sync", { method: "POST", body: init?.body as string }));
     if (path === "/api/state") return state();
     return new Response("not found", { status: 404 });
@@ -43,6 +44,16 @@ function device(network: "online" | "offline" | "signed-out" = "online"): SyncDe
 const grade = (rating: Grade, at: Date) => gradeItem(undefined, rating, at, "2026-10-08");
 
 describe("syncNow", () => {
+  it("keeps a guest's progress on the device and doesn't let the outbox grow", async () => {
+    const guest = device("guest");
+    saveProgress(guest.storage, { items: { "w:7": grade(Rating.Know, T1) } });
+    expect(await syncNow(guest)).toBe("local");
+    expect(pendingOps(guest.storage)).toEqual([]);
+    expect(loadProgress(guest.storage).items["w:7"]).toEqual(grade(Rating.Know, T1));
+    // Nothing reached the owner's synced progress.
+    expect(Object.keys((await (await stateHandler(async () => db)()).json()).items)).toEqual([]);
+  });
+
   it("uploads a device's existing progress on its first sync and gives it to a new device", async () => {
     const laptop = device();
     saveProgress(laptop.storage, { items: { "w:7": grade(Rating.Know, T1) } });
