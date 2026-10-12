@@ -88,6 +88,12 @@ export function CardsApp() {
     if (autoplayText) speakPortuguese(autoplayText);
   }, [autoplayText]);
 
+  /** Space or a tap turns the card over, either way; the typed answer stays for the next look. */
+  const flip = useCallback(() => {
+    if (revealed) setRevealed(false);
+    else reveal();
+  }, [revealed, reveal]);
+
   /** Records the answer on the card's item, so later sessions put missed and due cards first. */
   const record = useCallback(
     (key: string, rating: Grade) => {
@@ -124,12 +130,12 @@ export function CardsApp() {
         dontKnow();
       } else if (e.key === " " || e.key === "Enter") {
         e.preventDefault();
-        if (!revealed) reveal();
+        flip();
       }
     }
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, [card, revealed, know, dontKnow, reveal]);
+  }, [card, know, dontKnow, flip]);
 
   const learned = (level: Level) =>
     WORDS.filter((w) => w.level === level && progress.items[itemKey("word", w.id)]?.state === "review").length;
@@ -199,6 +205,7 @@ export function CardsApp() {
             typed={typed}
             onTypedChange={setTyped}
             onReveal={reveal}
+            onFlip={flip}
           />
           <div className="grid grid-cols-2 gap-2">
             <button
