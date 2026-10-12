@@ -1,18 +1,18 @@
 // Shared Claude helper for content generation (offline scripts and server routes only:
-// it reads ANTHROPIC_API_KEY and must never be imported by client components).
-import Anthropic from "@anthropic-ai/sdk";
+// it reads the API key and must never be imported by client components).
 import { betaZodOutputFormat } from "@anthropic-ai/sdk/helpers/beta/zod";
 import type { z } from "zod";
+import { createClient, PARLEY_MODEL, USING_PARLEY } from "./anthropic-client";
 
-/** Content generation model (chosen in the design spec). */
-export const CONTENT_MODEL = "claude-sonnet-5-5";
+/** Content generation model (chosen in the design spec); Parley uses PARLEY_MODEL instead. */
+export const CONTENT_MODEL = USING_PARLEY ? PARLEY_MODEL : "claude-sonnet-5-5";
 
-const client = new Anthropic({ timeout: 5 * 60_000, maxRetries: 2 });
+const client = createClient({ timeout: 5 * 60_000, maxRetries: 2 });
 
 /**
  * Asks Claude for JSON matching `schema` and returns the parsed value.
- * Uses the server-side fallback so a policy decline is retried on another
- * model inside the same call. Throws naming the stop reason when the output
+ * Uses the server-side fallback (not on Parley) so a policy decline is retried
+ * on another model inside the same call. Throws naming the stop reason when the output
  * is refused, truncated, or fails schema validation.
  */
 export async function generateJson<T extends z.ZodType>(
@@ -28,8 +28,7 @@ export async function generateJson<T extends z.ZodType>(
     system,
     messages: [{ role: "user", content: prompt }],
     output_config: { effort, format: betaZodOutputFormat(schema) },
-    betas: ["server-side-fallback-2026-07-01"],
-    fallbacks: "default",
+    ...(USING_PARLEY ? {} : { betas: ["server-side-fallback-2026-07-01"], fallbacks: "default" as const }),
   });
   if (response.stop_reason === "refusal") {
     throw new Error(`Claude declined the request (${response.stop_details?.category ?? "no category"})`);

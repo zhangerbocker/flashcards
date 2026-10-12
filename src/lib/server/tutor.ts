@@ -1,15 +1,16 @@
-// The chat partner (server only: reads ANTHROPIC_API_KEY; never import from client components).
+// The chat partner (server only: reads the API key; never import from client components).
 import Anthropic from "@anthropic-ai/sdk";
 import { betaZodOutputFormat } from "@anthropic-ai/sdk/helpers/beta/zod";
 import type { z } from "zod";
 import { PartnerLine, systemPrompt, TutorTurn, type Scenario } from "../chat";
 import type { Level } from "../words";
+import { createClient, PARLEY_MODEL, USING_PARLEY } from "./anthropic-client";
 
 /**
  * Chat model: Haiku 5.5 (chosen with the learner: fast and cheap enough for every message).
- * CHAT_MODEL overrides it, e.g. where the API gateway doesn't serve Haiku.
+ * CHAT_MODEL overrides it; on Parley the default is PARLEY_MODEL, since Parley doesn't serve Haiku 5.5.
  */
-export const CHAT_MODEL = process.env.CHAT_MODEL || "claude-haiku-5-5";
+export const CHAT_MODEL = process.env.CHAT_MODEL || (USING_PARLEY ? PARLEY_MODEL : "claude-haiku-5-5");
 
 export interface TutorContext {
   level: Level;
@@ -36,7 +37,7 @@ const START = "(Start the conversation with one short opening line.)";
 /** Thinking counts toward max_tokens on Haiku 5.5, so leave room beyond the ~300-token answer. */
 const MAX_TOKENS = 4000;
 
-export function createClaudeTutor(client = new Anthropic({ timeout: 30_000, maxRetries: 1 })): TutorClient {
+export function createClaudeTutor(client = createClient({ timeout: 30_000, maxRetries: 1 })): TutorClient {
   async function ask<T extends z.ZodType>(schema: T, context: TutorContext, message: string): Promise<z.infer<T>> {
     const messages: Anthropic.Beta.BetaMessageParam[] = [
       { role: "user", content: START },
