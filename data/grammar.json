@@ -1,0 +1,6395 @@
+[
+ {
+  "id": "h1-shi",
+  "level": 1,
+  "title": "是 sentences",
+  "pattern": "A 是 B / A 不是 B",
+  "explanation": "Use 是 to say that A is B, for identity or category. To negate it, put 不 before 是: 不是.",
+  "examples": [
+   {
+    "zh": "我是学生。",
+    "pinyin": "wǒ shì xué shēng",
+    "en": "I am a student.",
+    "highlight": [
+     "是"
+    ]
+   },
+   {
+    "zh": "她是我的老师。",
+    "pinyin": "tā shì wǒ de lǎo shī",
+    "en": "She is my teacher.",
+    "highlight": [
+     "是"
+    ]
+   },
+   {
+    "zh": "大卫不是中国人。",
+    "pinyin": "dà wèi bú shì zhōng guó rén",
+    "en": "David is not Chinese.",
+    "highlight": [
+     "不是"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我是很高兴。",
+   "right": "我很高兴。",
+   "pinyin": "Wǒ hěn gāoxìng.",
+   "en": "I'm happy.",
+   "reason": "是 links nouns, not adjectives; use 很 with an adjective and no 是."
+  },
+  "wordIds": [
+   221,
+   188,
+   248,
+   202,
+   30,
+   107,
+   25,
+   13,
+   289,
+   170
+  ]
+ },
+ {
+  "id": "h1-you",
+  "level": 1,
+  "title": "有 for having",
+  "pattern": "Subject + 有 + Noun / Subject + 没有 + Noun",
+  "explanation": "Use 有 (yǒu) to say someone has something. To negate it, use 没有 (méiyǒu), never 不有.",
+  "examples": [
+   {
+    "zh": "我有两个哥哥。",
+    "pinyin": "wǒ yǒu liǎng gè gēge。",
+    "en": "I have two older brothers.",
+    "highlight": [
+     "有"
+    ]
+   },
+   {
+    "zh": "他没有手机。",
+    "pinyin": "tā méiyǒu shǒujī。",
+    "en": "He doesn't have a cell phone.",
+    "highlight": [
+     "没有"
+    ]
+   },
+   {
+    "zh": "你有电脑吗?",
+    "pinyin": "nǐ yǒu diànnǎo ma?",
+    "en": "Do you have a computer?",
+    "highlight": [
+     "有"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我不有钱。",
+   "right": "我没有钱。",
+   "pinyin": "Wǒ méiyǒu qián.",
+   "en": "I don't have any money.",
+   "reason": "有 is negated with 没有, never with 不."
+  },
+  "wordIds": [
+   221,
+   263,
+   111,
+   60,
+   59,
+   200,
+   122,
+   189,
+   146,
+   36,
+   115
+  ]
+ },
+ {
+  "id": "h1-cunxian",
+  "level": 1,
+  "title": "Place + 有 / 是 + thing",
+  "pattern": "Place + 有 + number + measure word + noun / Place + 是 + noun",
+  "explanation": "Use 有 to say that a place has something in it (there is/are). Use 是 to say that a place is exactly that thing, often when it is the only thing there.",
+  "examples": [
+   {
+    "zh": "我家有三个人。",
+    "pinyin": "wǒ jiā yǒu sān gè rén",
+    "en": "My home has three people.",
+    "highlight": [
+     "家有三个人"
+    ]
+   },
+   {
+    "zh": "学校里有一个书店。",
+    "pinyin": "xué xiào lǐ yǒu yí gè shū diàn",
+    "en": "There is a bookstore in the school.",
+    "highlight": [
+     "里有一个书店"
+    ]
+   },
+   {
+    "zh": "学校前边是医院。",
+    "pinyin": "xué xiào qián biān shì yī yuàn",
+    "en": "In front of the school is a hospital.",
+    "highlight": [
+     "前边是医院"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "桌子上是三本书。",
+   "right": "桌子上有三本书。",
+   "pinyin": "Zhuōzi shàng yǒu sān běn shū.",
+   "en": "There are three books on the table.",
+   "reason": "When saying a place has a number of things, use 有, not 是."
+  },
+  "wordIds": [
+   221,
+   86,
+   263,
+   173,
+   60,
+   170,
+   250,
+   110,
+   254,
+   191,
+   163,
+   11,
+   188,
+   257
+  ]
+ },
+ {
+  "id": "h1-zai",
+  "level": 1,
+  "title": "在 + place",
+  "pattern": "S + 在 + place (+ verb)",
+  "explanation": "在 means 'to be at' when it is the main verb. Before another verb it is a preposition: put 在 + place before the verb to say where the action happens.",
+  "examples": [
+   {
+    "zh": "我在家。",
+    "pinyin": "wǒ zài jiā",
+    "en": "I'm at home.",
+    "highlight": [
+     "在家"
+    ]
+   },
+   {
+    "zh": "爸爸在公司工作。",
+    "pinyin": "bàba zài gōngsī gōngzuò",
+    "en": "Dad works at a company.",
+    "highlight": [
+     "在公司工作"
+    ]
+   },
+   {
+    "zh": "我们在学校学习汉语。",
+    "pinyin": "wǒmen zài xuéxiào xuéxí hànyǔ",
+    "en": "We study Chinese at school.",
+    "highlight": [
+     "在学校学习"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我吃饭在饭店。",
+   "right": "我在饭店吃饭。",
+   "pinyin": "Wǒ zài fàndiàn chī fàn.",
+   "en": "I'm eating at a restaurant.",
+   "reason": "The 在 + place phrase must come before the verb, not after it."
+  },
+  "wordIds": [
+   221,
+   271,
+   86,
+   3,
+   62,
+   63,
+   222,
+   250,
+   249,
+   69
+  ]
+ },
+ {
+  "id": "h1-ma",
+  "level": 1,
+  "title": "吗 questions",
+  "pattern": "Statement + 吗?",
+  "explanation": "Add 吗 to the end of a statement to turn it into a yes/no question. Keep the word order the same as in English statements; just put 吗 at the end.",
+  "examples": [
+   {
+    "zh": "你是学生吗?",
+    "pinyin": "nǐ shì xué shēng ma?",
+    "en": "Are you a student?",
+    "highlight": [
+     "吗"
+    ]
+   },
+   {
+    "zh": "你喜欢吃面条儿吗?",
+    "pinyin": "nǐ xǐ huan chī miàn tiáor ma?",
+    "en": "Do you like eating noodles?",
+    "highlight": [
+     "吗"
+    ]
+   },
+   {
+    "zh": "今天很冷吗?",
+    "pinyin": "jīn tiān hěn lěng ma?",
+    "en": "Is it very cold today?",
+    "highlight": [
+     "吗"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "你吗是老师?",
+   "right": "你是老师吗?",
+   "pinyin": "Nǐ shì lǎoshī ma?",
+   "en": "Are you a teacher?",
+   "reason": "吗 must go at the very end of the sentence, not in the middle."
+  },
+  "wordIds": [
+   146,
+   188,
+   248,
+   115,
+   225,
+   21,
+   127,
+   94,
+   79,
+   109
+  ]
+ },
+ {
+  "id": "h1-qwords",
+  "level": 1,
+  "title": "Question words",
+  "pattern": "Subject + Verb + Question word (in the answer's position)",
+  "explanation": "In Chinese, a question word like 什么, 谁, 哪儿, 几 or 多少 goes exactly where the answer would go. You do not move it to the front like in English, and you do not add 吗.",
+  "examples": [
+   {
+    "zh": "你想吃什么?",
+    "pinyin": "nǐ xiǎng chī shén me?",
+    "en": "What do you want to eat?",
+    "highlight": [
+     "什么"
+    ]
+   },
+   {
+    "zh": "你家在哪儿?",
+    "pinyin": "nǐ jiā zài nǎr?",
+    "en": "Where is your home?",
+    "highlight": [
+     "哪儿"
+    ]
+   },
+   {
+    "zh": "这个多少钱?",
+    "pinyin": "zhè ge duō shao qián?",
+    "en": "How much is this?",
+    "highlight": [
+     "多少"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "什么你想吃?",
+   "right": "你想吃什么?",
+   "pinyin": "Nǐ xiǎng chī shénme?",
+   "en": "What do you want to eat?",
+   "reason": "The question word stays in the position of the answer (after the verb), not at the start like in English."
+  },
+  "wordIds": [
+   146,
+   233,
+   21,
+   182,
+   86,
+   271,
+   134,
+   281,
+   47,
+   164
+  ]
+ },
+ {
+  "id": "h1-anota",
+  "level": 1,
+  "title": "A-not-A questions",
+  "pattern": "V + 不 + V (+ object)? / Adj + 不 + Adj / 有没有 + object",
+  "explanation": "To ask a yes/no question, repeat the verb or adjective with 不 in between instead of adding 吗. For 有, use 有没有 (not 有不有).",
+  "examples": [
+   {
+    "zh": "你去不去超市?",
+    "pinyin": "nǐ qù bu qù chāoshì?",
+    "en": "Are you going to the supermarket?",
+    "highlight": [
+     "去不去"
+    ]
+   },
+   {
+    "zh": "这个菜好吃不好吃?",
+    "pinyin": "zhège cài hǎochī bu hǎochī?",
+    "en": "Is this dish tasty?",
+    "highlight": [
+     "好吃不好吃"
+    ]
+   },
+   {
+    "zh": "你有没有手机?",
+    "pinyin": "nǐ yǒu méiyǒu shǒujī?",
+    "en": "Do you have a cell phone?",
+    "highlight": [
+     "有没有"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "你喜欢不喜欢喝茶吗?",
+   "right": "你喜欢不喜欢喝茶?",
+   "pinyin": "Nǐ xǐhuan bù xǐhuan hē chá?",
+   "en": "Do you like drinking tea or not?",
+   "reason": "An A-not-A question already asks the question, so do not add 吗 at the end."
+  },
+  "wordIds": [
+   146,
+   167,
+   13,
+   19,
+   281,
+   16,
+   72,
+   263,
+   122,
+   189
+  ]
+ },
+ {
+  "id": "h1-ne",
+  "level": 1,
+  "title": "呢 questions",
+  "pattern": "A，B 呢？ / Noun + 呢？",
+  "explanation": "Add 呢 after a noun to ask 'and what about…?' after a topic is already set. It also asks 'where is…?' when a thing or person is missing.",
+  "examples": [
+   {
+    "zh": "我很好，你呢？",
+    "pinyin": "wǒ hěn hǎo, nǐ ne?",
+    "en": "I'm fine, and you?",
+    "highlight": [
+     "你呢"
+    ]
+   },
+   {
+    "zh": "我喜欢喝茶，你呢？",
+    "pinyin": "wǒ xǐhuan hē chá, nǐ ne?",
+    "en": "I like drinking tea, how about you?",
+    "highlight": [
+     "你呢"
+    ]
+   },
+   {
+    "zh": "我的手机呢？",
+    "pinyin": "wǒ de shǒujī ne?",
+    "en": "Where is my phone?",
+    "highlight": [
+     "我的手机呢"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我的手机在哪儿呢吗？",
+   "right": "我的手机呢？",
+   "pinyin": "Wǒ de shǒujī ne?",
+   "en": "Where's my phone?",
+   "reason": "Don't combine 呢 with 吗; 呢 alone after the noun already asks 'where is it?'."
+  },
+  "wordIds": [
+   221,
+   79,
+   71,
+   146,
+   144,
+   225,
+   77,
+   17,
+   30,
+   189
+  ]
+ },
+ {
+  "id": "h1-bu-mei",
+  "level": 1,
+  "title": "不 vs 没",
+  "pattern": "不 + verb/adj (present, future, habit, adjective) ; 没(有) + verb (past) ; 没有 = don't have",
+  "explanation": "Use 不 to negate habits, future plans, present wishes and adjectives. Use 没 or 没有 to say something did not happen in the past, and to negate 有 (没有, never 不有).",
+  "examples": [
+   {
+    "zh": "我不喝茶。",
+    "pinyin": "wǒ bù hē chá",
+    "en": "I don't drink tea.",
+    "highlight": [
+     "不喝"
+    ]
+   },
+   {
+    "zh": "他昨天没上班。",
+    "pinyin": "tā zuó tiān méi shàng bān",
+    "en": "He didn't go to work yesterday.",
+    "highlight": [
+     "没上班"
+    ]
+   },
+   {
+    "zh": "我没有手机。",
+    "pinyin": "wǒ méi yǒu shǒu jī",
+    "en": "I don't have a cell phone.",
+    "highlight": [
+     "没有"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我昨天不去超市。",
+   "right": "我昨天没去超市。",
+   "pinyin": "Wǒ zuótiān méi qù chāoshì.",
+   "en": "I didn't go to the supermarket yesterday.",
+   "reason": "For a past action that did not happen, use 没, not 不."
+  },
+  "wordIds": [
+   221,
+   13,
+   77,
+   17,
+   200,
+   297,
+   176,
+   122,
+   189
+  ]
+ },
+ {
+  "id": "h1-de",
+  "level": 1,
+  "title": "的 for possession",
+  "pattern": "Noun/Pronoun + 的 + Noun",
+  "explanation": "Use 的 after a person or noun to show who owns something, like 's in English. With family and close relations, 的 is usually dropped (我妈妈, not 我的妈妈).",
+  "examples": [
+   {
+    "zh": "这是我的手机。",
+    "pinyin": "zhè shì wǒ de shǒu jī",
+    "en": "This is my phone.",
+    "highlight": [
+     "我的手机"
+    ]
+   },
+   {
+    "zh": "那是老师的书。",
+    "pinyin": "nà shì lǎo shī de shū",
+    "en": "That is the teacher's book.",
+    "highlight": [
+     "老师的书"
+    ]
+   },
+   {
+    "zh": "我妈妈在家。",
+    "pinyin": "wǒ mā ma zài jiā",
+    "en": "My mom is at home.",
+    "highlight": [
+     "我妈妈"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "这是我手机。",
+   "right": "这是我的手机。",
+   "pinyin": "Zhè shì wǒ de shǒujī.",
+   "en": "This is my phone.",
+   "reason": "Use 的 between a pronoun and an ordinary object; only family and close relations can drop it."
+  },
+  "wordIds": [
+   279,
+   188,
+   221,
+   30,
+   189,
+   136,
+   107,
+   190,
+   114,
+   271,
+   86
+  ]
+ },
+ {
+  "id": "h1-mw",
+  "level": 1,
+  "title": "Measure words",
+  "pattern": "数字/这/那/哪 + 量词 + 名词（两 + 量词）",
+  "explanation": "In Chinese, a number or 这/那/哪 must be followed by a measure word before the noun, like 三个人 or 这本书. Use 两, not 二, before a measure word to say 'two'.",
+  "examples": [
+   {
+    "zh": "我有两个孩子。",
+    "pinyin": "wǒ yǒu liǎng gè hái zi",
+    "en": "I have two children.",
+    "highlight": [
+     "两个孩子"
+    ]
+   },
+   {
+    "zh": "这本书很好看。",
+    "pinyin": "zhè běn shū hěn hǎo kàn",
+    "en": "This book is very good-looking (nice to read).",
+    "highlight": [
+     "这本书"
+    ]
+   },
+   {
+    "zh": "你喜欢哪件衣服？",
+    "pinyin": "nǐ xǐ huan nǎ jiàn yī fu",
+    "en": "Which piece of clothing do you like?",
+    "highlight": [
+     "哪件衣服"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我买了二个苹果。",
+   "right": "我买了两个苹果。",
+   "pinyin": "Wǒ mǎi le liǎng ge píngguǒ.",
+   "en": "I bought two apples.",
+   "reason": "Use 两, not 二, before a measure word when counting quantity."
+  },
+  "wordIds": [
+   221,
+   263,
+   111,
+   60,
+   68,
+   279,
+   10,
+   190,
+   79,
+   73,
+   146,
+   225,
+   131,
+   89,
+   255
+  ]
+ },
+ {
+  "id": "h1-adj",
+  "level": 1,
+  "title": "Adjectives as predicates",
+  "pattern": "Subject + 很 + Adj / Subject + 不 + Adj",
+  "explanation": "In Chinese, adjectives work as verbs, so you do not use 是 before them. Put 很 before the adjective in a plain statement (it is often weak, like 'is'), and use 不 directly before the adjective to negate.",
+  "examples": [
+   {
+    "zh": "今天很冷。",
+    "pinyin": "Jīntiān hěn lěng.",
+    "en": "It is cold today.",
+    "highlight": [
+     "很冷"
+    ]
+   },
+   {
+    "zh": "这个面包很好吃。",
+    "pinyin": "Zhège miànbāo hěn hǎochī.",
+    "en": "This bread is delicious.",
+    "highlight": [
+     "很好吃"
+    ]
+   },
+   {
+    "zh": "我现在不忙。",
+    "pinyin": "Wǒ xiànzài bù máng.",
+    "en": "I am not busy now.",
+    "highlight": [
+     "不忙"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我是很忙。",
+   "right": "我很忙。",
+   "pinyin": "Wǒ hěn máng.",
+   "en": "I'm busy.",
+   "reason": "Adjectives are not used with 是; just say subject + 很 + adjective."
+  },
+  "wordIds": [
+   94,
+   79,
+   109,
+   281,
+   126,
+   72,
+   221,
+   232,
+   13,
+   118
+  ]
+ },
+ {
+  "id": "h1-degree",
+  "level": 1,
+  "title": "很 · 太…了 · 真 · 非常",
+  "pattern": "很/非常 + adj; 太 + adj + 了; 真 + adj",
+  "explanation": "Put 很 or 非常 before an adjective to say 'very' or 'extremely'. Use 太…了 for 'too/so' and 真 for a feeling or exclamation like 'really!'.",
+  "examples": [
+   {
+    "zh": "今天很冷。",
+    "pinyin": "Jīntiān hěn lěng.",
+    "en": "It's very cold today.",
+    "highlight": [
+     "很冷"
+    ]
+   },
+   {
+    "zh": "这个包子太好吃了!",
+    "pinyin": "Zhège bāozi tài hǎochī le!",
+    "en": "This baozi is so delicious!",
+    "highlight": [
+     "太好吃了"
+    ]
+   },
+   {
+    "zh": "你的电脑真漂亮!",
+    "pinyin": "Nǐ de diànnǎo zhēn piàoliang!",
+    "en": "Your computer is really nice!",
+    "highlight": [
+     "真漂亮"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我是很忙。",
+   "right": "我很忙。",
+   "pinyin": "Wǒ hěn máng.",
+   "en": "I'm busy.",
+   "reason": "Do not use 是 before an adjective; the degree adverb 很 links the subject and the adjective."
+  },
+  "wordIds": [
+   94,
+   79,
+   109,
+   281,
+   8,
+   206,
+   72,
+   108,
+   146,
+   30,
+   36,
+   285,
+   158
+  ]
+ },
+ {
+  "id": "h1-youdianr",
+  "level": 1,
+  "title": "有点儿 + adjective",
+  "pattern": "S + 有点儿 + adj",
+  "explanation": "有点儿 goes before an adjective to mean 'a bit' or 'somewhat', and it usually shows you are not happy about something. It sounds like a mild complaint.",
+  "examples": [
+   {
+    "zh": "今天有点儿冷。",
+    "pinyin": "Jīntiān yǒudiǎnr lěng.",
+    "en": "It's a bit cold today.",
+    "highlight": [
+     "有点儿冷"
+    ]
+   },
+   {
+    "zh": "这个东西有点儿贵。",
+    "pinyin": "Zhège dōngxi yǒudiǎnr guì.",
+    "en": "This thing is a bit expensive.",
+    "highlight": [
+     "有点儿贵"
+    ]
+   },
+   {
+    "zh": "我今天有点儿忙。",
+    "pinyin": "Wǒ jīntiān yǒudiǎnr máng.",
+    "en": "I'm a bit busy today.",
+    "highlight": [
+     "有点儿忙"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "请你有点儿早起床。",
+   "right": "请你早一点儿起床。",
+   "pinyin": "Qǐng nǐ zǎo yìdiǎnr qǐchuáng.",
+   "en": "Please get up a little earlier.",
+   "reason": "有点儿 describes a negative state; to ask for 'a little more' of something, use adj + 一点儿 instead."
+  },
+  "wordIds": [
+   94,
+   265,
+   109,
+   281,
+   40,
+   65,
+   221,
+   118
+  ]
+ },
+ {
+  "id": "h1-ye-dou",
+  "level": 1,
+  "title": "也 and 都",
+  "pattern": "Subject + 也都 + Verb/Adj",
+  "explanation": "Both 也 (also) and 都 (all) go after the subject and before the verb or adjective. When you use them together, the order is always 也都, never 都也.",
+  "examples": [
+   {
+    "zh": "我们也都喜欢吃饺子。",
+    "pinyin": "wǒ men yě dōu xǐ huan chī jiǎo zi 。",
+    "en": "We all like eating dumplings too.",
+    "highlight": [
+     "也都"
+    ]
+   },
+   {
+    "zh": "他们也都是学生。",
+    "pinyin": "tā men yě dōu shì xué sheng 。",
+    "en": "They are all students too.",
+    "highlight": [
+     "也都"
+    ]
+   },
+   {
+    "zh": "我的朋友也都很忙。",
+    "pinyin": "wǒ de péng you yě dōu hěn máng 。",
+    "en": "My friends are all busy too.",
+    "highlight": [
+     "也都"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我们都也喜欢喝茶。",
+   "right": "我们也都喜欢喝茶。",
+   "pinyin": "Wǒmen yě dōu xǐhuan hē chá.",
+   "en": "We all like drinking tea too.",
+   "reason": "When combined, 也 must come before 都, so the order is 也都."
+  },
+  "wordIds": [
+   222,
+   253,
+   41,
+   225,
+   21,
+   90,
+   203,
+   188,
+   248,
+   221,
+   30,
+   156,
+   79,
+   118
+  ]
+ },
+ {
+  "id": "h1-huineng",
+  "level": 1,
+  "title": "会 · 能 · 可以",
+  "pattern": "S + 会/能/可以 + V (+ O)",
+  "explanation": "会 means you know how to do something because you learned it. 能 means you are able to because of ability or circumstances. 可以 means you are allowed to or it is okay to.",
+  "examples": [
+   {
+    "zh": "我会说汉语。",
+    "pinyin": "wǒ huì shuō hàn yǔ",
+    "en": "I can speak Chinese (I have learned how).",
+    "highlight": [
+     "会说"
+    ]
+   },
+   {
+    "zh": "你明天能来吗?",
+    "pinyin": "nǐ míng tiān néng lái ma",
+    "en": "Can you come tomorrow?",
+    "highlight": [
+     "能来"
+    ]
+   },
+   {
+    "zh": "我可以坐这里吗?",
+    "pinyin": "wǒ kě yǐ zuò zhè lǐ ma",
+    "en": "May I sit here?",
+    "highlight": [
+     "可以坐"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我今天病了,不会去学校。",
+   "right": "我今天病了,不能去学校。",
+   "pinyin": "Wǒ jīntiān bìng le, bù néng qù xuéxiào.",
+   "en": "I'm sick today, so I can't go to school.",
+   "reason": "Being unable to go because of circumstances (illness) needs 能, not 会, which is for learned skills."
+  },
+  "wordIds": [
+   221,
+   82,
+   196,
+   69,
+   146,
+   129,
+   145,
+   106,
+   115,
+   102,
+   298,
+   282
+  ]
+ },
+ {
+  "id": "h1-xiangyao",
+  "level": 1,
+  "title": "想 and 要",
+  "pattern": "我想 + verb / 我要 + verb / 我要 + noun",
+  "explanation": "想 + verb softly says what you would like to do. 要 + verb says you want to or will do something more firmly, and 要 + noun means you want that thing.",
+  "examples": [
+   {
+    "zh": "我想喝水。",
+    "pinyin": "wǒ xiǎng hē shuǐ",
+    "en": "I would like to drink some water.",
+    "highlight": [
+     "想喝"
+    ]
+   },
+   {
+    "zh": "我明天要上班。",
+    "pinyin": "wǒ míng tiān yào shàng bān",
+    "en": "I have to go to work tomorrow.",
+    "highlight": [
+     "要上班"
+    ]
+   },
+   {
+    "zh": "我要一杯茶。",
+    "pinyin": "wǒ yào yì bēi chá",
+    "en": "I want a cup of tea.",
+    "highlight": [
+     "要一杯茶"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我想一杯茶。",
+   "right": "我要一杯茶。",
+   "pinyin": "Wǒ yào yì bēi chá.",
+   "en": "I want a cup of tea.",
+   "reason": "Before a noun, use 要 to mean want; 想 needs a verb after it."
+  },
+  "wordIds": [
+   221,
+   233,
+   77,
+   192,
+   129,
+   252,
+   176,
+   254,
+   17
+  ]
+ },
+ {
+  "id": "h1-le1",
+  "level": 1,
+  "title": "Verb + 了 (completed)",
+  "pattern": "Subject + Verb + 了 (+ Object) / Subject + 没 + Verb",
+  "explanation": "Put 了 right after a verb to show the action was completed. To say it did not happen, use 没 before the verb and drop 了.",
+  "examples": [
+   {
+    "zh": "我吃了两个包子。",
+    "pinyin": "wǒ chī le liǎng ge bāo zi",
+    "en": "I ate two baozi.",
+    "highlight": [
+     "吃了"
+    ]
+   },
+   {
+    "zh": "昨天我买了一件衣服。",
+    "pinyin": "zuó tiān wǒ mǎi le yí jiàn yī fu",
+    "en": "Yesterday I bought a piece of clothing.",
+    "highlight": [
+     "买了"
+    ]
+   },
+   {
+    "zh": "他没喝牛奶。",
+    "pinyin": "tā méi hē niú nǎi",
+    "en": "He didn't drink milk.",
+    "highlight": [
+     "没喝"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我没吃了早饭。",
+   "right": "我没吃早饭。",
+   "pinyin": "Wǒ méi chī zǎofàn.",
+   "en": "I didn't eat breakfast.",
+   "reason": "With 没 the action did not happen, so you do not add 了 after the verb."
+  },
+  "wordIds": [
+   221,
+   21,
+   108,
+   111,
+   60,
+   8,
+   297,
+   116,
+   254,
+   89,
+   255,
+   200,
+   77,
+   151
+  ]
+ },
+ {
+  "id": "h1-le2",
+  "level": 1,
+  "title": "Sentence 了 (new situation)",
+  "pattern": "Sentence + 了 (change / new situation)",
+  "explanation": "Put 了 at the end of a sentence to show that something has changed or a new situation has begun. It often means \"now it is the case that...\" or \"has become\".",
+  "examples": [
+   {
+    "zh": "下雨了,我们回家吧。",
+    "pinyin": "xià yǔ le , wǒ men huí jiā ba 。",
+    "en": "It's raining now, let's go home.",
+    "highlight": [
+     "下雨了"
+    ]
+   },
+   {
+    "zh": "现在八点了。",
+    "pinyin": "xiàn zài bā diǎn le 。",
+    "en": "It's already eight o'clock now.",
+    "highlight": [
+     "八点了"
+    ]
+   },
+   {
+    "zh": "我不想吃了。",
+    "pinyin": "wǒ bù xiǎng chī le 。",
+    "en": "I don't want to eat anymore.",
+    "highlight": [
+     "不想吃了"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "天气冷了很。",
+   "right": "天气冷了。",
+   "pinyin": "Tiānqì lěng le.",
+   "en": "It's gotten cold.",
+   "reason": "了 for a new situation goes at the end; don't add 很 after it."
+  },
+  "wordIds": [
+   227,
+   108,
+   222,
+   81,
+   86,
+   4,
+   232,
+   2,
+   33,
+   221,
+   13,
+   233,
+   21
+  ]
+ },
+ {
+  "id": "h1-progressive",
+  "level": 1,
+  "title": "在 / 正在 … 呢",
+  "pattern": "S + 在/正在 + V (+ O) (+ 呢)",
+  "explanation": "Put 在 or 正在 before a verb to say an action is happening right now. You can add 呢 at the end of the sentence to make it sound more natural.",
+  "examples": [
+   {
+    "zh": "我在吃饭呢。",
+    "pinyin": "wǒ zài chī fàn ne",
+    "en": "I'm eating right now.",
+    "highlight": [
+     "在吃饭呢"
+    ]
+   },
+   {
+    "zh": "妈妈正在做饭。",
+    "pinyin": "māma zhèngzài zuò fàn",
+    "en": "Mom is cooking right now.",
+    "highlight": [
+     "正在做饭"
+    ]
+   },
+   {
+    "zh": "他们在看电视呢。",
+    "pinyin": "tāmen zài kàn diànshì ne",
+    "en": "They are watching TV.",
+    "highlight": [
+     "在看电视呢"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我吃饭在呢。",
+   "right": "我在吃饭呢。",
+   "pinyin": "Wǒ zài chī fàn ne.",
+   "en": "I'm eating.",
+   "reason": "在 goes before the verb; 呢 goes at the end."
+  },
+  "wordIds": [
+   221,
+   271,
+   21,
+   50,
+   144,
+   114,
+   286,
+   300,
+   203,
+   99,
+   37
+  ]
+ },
+ {
+  "id": "h1-lihe",
+  "level": 1,
+  "title": "Separable verbs",
+  "pattern": "V + 了 + duration + O (separable verb split)",
+  "explanation": "Words like 上课, 看病 and 下课 are verb + object. Put 了 and time lengths between the two parts, not after the whole word.",
+  "examples": [
+   {
+    "zh": "我今天上了两个小时课。",
+    "pinyin": "wǒ jīntiān shàng le liǎng gè xiǎoshí kè",
+    "en": "Today I had two hours of class.",
+    "highlight": [
+     "上了两个小时课"
+    ]
+   },
+   {
+    "zh": "医生看了一个小时病。",
+    "pinyin": "yīshēng kàn le yí gè xiǎoshí bìng",
+    "en": "The doctor saw patients for an hour.",
+    "highlight": [
+     "看了一个小时病"
+    ]
+   },
+   {
+    "zh": "下了课,我去吃饭。",
+    "pinyin": "xià le kè, wǒ qù chī fàn",
+    "en": "After class ended, I went to eat.",
+    "highlight": [
+     "下了课"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我上课了两个小时。",
+   "right": "我上了两个小时课。",
+   "pinyin": "Wǒ shàng le liǎng ge xiǎoshí kè.",
+   "en": "I had two hours of class.",
+   "reason": "Split 上课 and put 了 and the duration between 上 and 课."
+  },
+  "wordIds": [
+   221,
+   94,
+   175,
+   108,
+   111,
+   60,
+   236,
+   103,
+   256,
+   99,
+   254,
+   12,
+   226,
+   167,
+   21,
+   50
+  ]
+ },
+ {
+  "id": "h1-serial",
+  "level": 1,
+  "title": "Two verbs in a row",
+  "pattern": "Subject + V1 (+ place) + V2 (+ object)",
+  "explanation": "Chinese can put two verbs next to each other without any linking word. The first verb is the way or the place you go, and the second is the purpose: 去商店买东西 means go to the store to buy things.",
+  "examples": [
+   {
+    "zh": "我去商店买东西。",
+    "pinyin": "wǒ qù shāngdiàn mǎi dōngxi",
+    "en": "I go to the store to buy things.",
+    "highlight": [
+     "去商店买东西"
+    ]
+   },
+   {
+    "zh": "他坐出租车去学校。",
+    "pinyin": "tā zuò chūzūchē qù xuéxiào",
+    "en": "He takes a taxi to school.",
+    "highlight": [
+     "坐出租车去学校"
+    ]
+   },
+   {
+    "zh": "明天我们来你家吃饭。",
+    "pinyin": "míngtiān wǒmen lái nǐ jiā chī fàn",
+    "en": "Tomorrow we are coming to your home to eat.",
+    "highlight": [
+     "来你家吃饭"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我去商店要买东西。",
+   "right": "我去商店买东西。",
+   "pinyin": "Wǒ qù shāngdiàn mǎi dōngxi.",
+   "en": "I'm going to the store to buy things.",
+   "reason": "Do not add 要 or any linking word between the two verbs; just place them in a row."
+  },
+  "wordIds": [
+   221,
+   167,
+   174,
+   116,
+   40,
+   200,
+   298,
+   22,
+   250,
+   129,
+   222,
+   106,
+   146,
+   86,
+   21,
+   50
+  ]
+ },
+ {
+  "id": "h1-double-obj",
+  "level": 1,
+  "title": "Two objects",
+  "pattern": "Subject + 给/问 + person + thing",
+  "explanation": "Some verbs take two objects: first the person, then the thing. With 给 you give something to someone; with 问 you ask someone a question.",
+  "examples": [
+   {
+    "zh": "我给你一本书。",
+    "pinyin": "wǒ gěi nǐ yì běn shū",
+    "en": "I give you a book.",
+    "highlight": [
+     "给你一本书"
+    ]
+   },
+   {
+    "zh": "他给我两个包子。",
+    "pinyin": "tā gěi wǒ liǎng gè bāozi",
+    "en": "He gives me two steamed buns.",
+    "highlight": [
+     "给我两个包子"
+    ]
+   },
+   {
+    "zh": "我问老师一个问题。",
+    "pinyin": "wǒ wèn lǎoshī yí gè wèntí",
+    "en": "I ask the teacher a question.",
+    "highlight": [
+     "问老师一个问题"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我给一本书你。",
+   "right": "我给你一本书。",
+   "pinyin": "Wǒ gěi nǐ yì běn shū.",
+   "en": "I'm giving you a book.",
+   "reason": "The person must come right after the verb, before the thing, as in English \"give you a book\"."
+  },
+  "wordIds": [
+   221,
+   61,
+   146,
+   254,
+   10,
+   190,
+   200,
+   111,
+   60,
+   8,
+   219,
+   107,
+   220
+  ]
+ },
+ {
+  "id": "h1-time-order",
+  "level": 1,
+  "title": "Time and place before the verb",
+  "pattern": "Subject + Time + Place + Verb (dates: 年 月 号 星期 点)",
+  "explanation": "In Chinese, time words and place words come before the verb, with time first and then place. Dates and times go from big to small: year, month, day, weekday, hour.",
+  "examples": [
+   {
+    "zh": "我明天在家工作。",
+    "pinyin": "wǒ míng tiān zài jiā gōng zuò",
+    "en": "I work at home tomorrow.",
+    "highlight": [
+     "明天",
+     "在家",
+     "工作"
+    ]
+   },
+   {
+    "zh": "我们今天下午在学校学习。",
+    "pinyin": "wǒ men jīn tiān xià wǔ zài xué xiào xué xí",
+    "en": "We study at school this afternoon.",
+    "highlight": [
+     "今天下午",
+     "在学校",
+     "学习"
+    ]
+   },
+   {
+    "zh": "他明年一月三号去中国。",
+    "pinyin": "tā míng nián yī yuè sān hào qù zhōng guó",
+    "en": "He is going to China on January 3rd next year.",
+    "highlight": [
+     "明年一月三号",
+     "去中国"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我在家明天工作。",
+   "right": "我明天在家工作。",
+   "pinyin": "Wǒ míngtiān zài jiā gōngzuò.",
+   "en": "I'm working at home tomorrow.",
+   "reason": "Time must come before place, and both must come before the verb."
+  },
+  "wordIds": [
+   221,
+   129,
+   271,
+   86,
+   63,
+   222,
+   94,
+   230,
+   250,
+   249,
+   200,
+   128,
+   254,
+   269,
+   173,
+   76,
+   167,
+   289
+  ]
+ },
+ {
+  "id": "h1-money",
+  "level": 1,
+  "title": "Prices",
+  "pattern": "这个 + 多少钱？ / 数字 + 块 (+ 数字)",
+  "explanation": "Ask a price with 多少钱. Say amounts with 块 (or 元 in writing); in speech a last digit after 块 means 毛, e.g. 两块五 is 2.5 yuan. Use 两, not 二, before 块 when it is the first number.",
+  "examples": [
+   {
+    "zh": "这个多少钱？",
+    "pinyin": "zhè ge duōshao qián",
+    "en": "How much is this?",
+    "highlight": [
+     "多少钱"
+    ]
+   },
+   {
+    "zh": "苹果十块钱。",
+    "pinyin": "píngguǒ shí kuài qián",
+    "en": "The apples are ten yuan.",
+    "highlight": [
+     "十块钱"
+    ]
+   },
+   {
+    "zh": "一杯茶两块五。",
+    "pinyin": "yì bēi chá liǎng kuài wǔ",
+    "en": "A cup of tea is 2.5 yuan.",
+    "highlight": [
+     "两块五"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "这个二块五。",
+   "right": "这个两块五。",
+   "pinyin": "Zhè ge liǎng kuài wǔ.",
+   "en": "This one is two and a half yuan.",
+   "reason": "Before 块 use 两, not 二, for the number 2."
+  },
+  "wordIds": [
+   281,
+   47,
+   164,
+   159,
+   184,
+   105,
+   254,
+   17,
+   111,
+   223
+  ]
+ },
+ {
+  "id": "h1-di",
+  "level": 1,
+  "title": "第 + number",
+  "pattern": "第 + number (+ measure word) + noun",
+  "explanation": "Put 第 before a number to make an ordinal: 第一 means first, 第二 means second. You can add a measure word and noun after it, like 第二个星期 or 第三天.",
+  "examples": [
+   {
+    "zh": "今天是我第一天上班。",
+    "pinyin": "jīn tiān shì wǒ dì yī tiān shàng bān。",
+    "en": "Today is my first day of work.",
+    "highlight": [
+     "第一天"
+    ]
+   },
+   {
+    "zh": "这是我第二个星期学汉语。",
+    "pinyin": "zhè shì wǒ dì èr gè xīng qī xué hàn yǔ。",
+    "en": "This is my second week learning Chinese.",
+    "highlight": [
+     "第二个星期"
+    ]
+   },
+   {
+    "zh": "第三课很好玩儿。",
+    "pinyin": "dì sān kè hěn hǎo wánr。",
+    "en": "Lesson three is a lot of fun.",
+    "highlight": [
+     "第三课"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我是三第个学生。",
+   "right": "我是第三个学生。",
+   "pinyin": "Wǒ shì dì sān ge xuésheng.",
+   "en": "I'm the third student.",
+   "reason": "第 must come before the number and the measure word, not after the number."
+  },
+  "wordIds": [
+   94,
+   188,
+   221,
+   31,
+   254,
+   207,
+   176,
+   279,
+   49,
+   60,
+   243,
+   247,
+   69,
+   173,
+   103,
+   79,
+   75
+  ]
+ },
+ {
+  "id": "h1-location",
+  "level": 1,
+  "title": "Location words",
+  "pattern": "Noun + 上/下/里/外/前/后 (+ 边)",
+  "explanation": "Put a location word after a noun to say where something is: 上 (on), 下 (under), 里 (inside), 外 (outside), 前 (in front), 后 (behind). 边 can be added, as in 学校前边.",
+  "examples": [
+   {
+    "zh": "手机在桌子上。",
+    "pinyin": "Shǒujī zài zhuōzi shàng.",
+    "en": "The phone is on the table.",
+    "highlight": [
+     "桌子上"
+    ]
+   },
+   {
+    "zh": "妈妈在家里做饭。",
+    "pinyin": "Māma zài jiā lǐ zuò fàn.",
+    "en": "Mom is cooking at home.",
+    "highlight": [
+     "家里"
+    ]
+   },
+   {
+    "zh": "他在学校前边。",
+    "pinyin": "Tā zài xuéxiào qián bian.",
+    "en": "He is in front of the school.",
+    "highlight": [
+     "学校前边"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我的书在桌子。",
+   "right": "我的书在桌子上。",
+   "pinyin": "Wǒ de shū zài zhuōzi shàng.",
+   "en": "My book is on the table.",
+   "reason": "After a noun like 桌子, you need a location word such as 上 to say where something is."
+  },
+  "wordIds": [
+   189,
+   271,
+   295,
+   175,
+   114,
+   86,
+   110,
+   300,
+   200,
+   250,
+   163,
+   11
+  ]
+ },
+ {
+  "id": "h1-he-dui",
+  "level": 1,
+  "title": "和 and 对",
+  "pattern": "A 和 B + verb; A 对 B + 很 + adj",
+  "explanation": "和 links two nouns, meaning 'and' or 'with'. 对 marks the target of an attitude, so 对 + person + adj means 'to/for someone'.",
+  "examples": [
+   {
+    "zh": "我和朋友去看电影。",
+    "pinyin": "wǒ hé péngyou qù kàn diànyǐng。",
+    "en": "I go to see a movie with my friend.",
+    "highlight": [
+     "我和朋友"
+    ]
+   },
+   {
+    "zh": "老师对我们很好。",
+    "pinyin": "lǎoshī duì wǒmen hěn hǎo。",
+    "en": "The teacher is very good to us.",
+    "highlight": [
+     "对我们很好"
+    ]
+   },
+   {
+    "zh": "妈妈和爸爸都在家。",
+    "pinyin": "māma hé bàba dōu zài jiā。",
+    "en": "Mom and Dad are both at home.",
+    "highlight": [
+     "妈妈和爸爸"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "他很好对我。",
+   "right": "他对我很好。",
+   "pinyin": "Tā duì wǒ hěn hǎo.",
+   "en": "He is very good to me.",
+   "reason": "对 + person must come before the adjective, not after it."
+  },
+  "wordIds": [
+   221,
+   78,
+   156,
+   167,
+   99,
+   38,
+   107,
+   44,
+   222,
+   79,
+   71,
+   114,
+   3,
+   41,
+   271,
+   86
+  ]
+ },
+ {
+  "id": "h1-buyao-qing",
+  "level": 1,
+  "title": "请 and 不要",
+  "pattern": "请 + verb (please ...) / 不要 + verb (don't ...)",
+  "explanation": "Put 请 before a verb to make a polite request. Put 不要 before a verb to tell someone not to do something.",
+  "examples": [
+   {
+    "zh": "请坐。",
+    "pinyin": "Qǐng zuò.",
+    "en": "Please sit down.",
+    "highlight": [
+     "请坐"
+    ]
+   },
+   {
+    "zh": "请喝茶。",
+    "pinyin": "Qǐng hē chá.",
+    "en": "Please have some tea.",
+    "highlight": [
+     "请喝"
+    ]
+   },
+   {
+    "zh": "不要说话。",
+    "pinyin": "Búyào shuōhuà.",
+    "en": "Don't talk.",
+    "highlight": [
+     "不要说话"
+    ]
+   },
+   {
+    "zh": "请不要打电话。",
+    "pinyin": "Qǐng búyào dǎ diànhuà.",
+    "en": "Please don't make phone calls.",
+    "highlight": [
+     "请不要"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "不要请坐。",
+   "right": "请坐。",
+   "pinyin": "Qǐng zuò.",
+   "en": "Please sit down.",
+   "reason": "Use 请 alone to say 'please sit'; 不要 means 'don't', so 不要请坐 would mean 'don't please sit'. For a polite 'don't', say 请不要 + verb."
+  },
+  "wordIds": [
+   165,
+   298,
+   77,
+   17,
+   15,
+   197,
+   24
+  ]
+ },
+ {
+  "id": "h1-ye-hai",
+  "level": 1,
+  "title": "…，也… · …，还…",
+  "pattern": "S + V/Adj，也 + V/Adj ；S + V + O，还 + V + O",
+  "explanation": "也 means 'also' and links a new subject or action to something already said. 还 means 'in addition' and adds another item or action by the same subject. Both go before the verb.",
+  "examples": [
+   {
+    "zh": "我喜欢茶，他也喜欢茶。",
+    "pinyin": "wǒ xǐhuan chá, tā yě xǐhuan chá.",
+    "en": "I like tea, and he likes tea too.",
+    "highlight": [
+     "也喜欢"
+    ]
+   },
+   {
+    "zh": "我想吃面条儿，还想喝牛奶。",
+    "pinyin": "wǒ xiǎng chī miàntiáor, hái xiǎng hē niúnǎi.",
+    "en": "I want to eat noodles, and I also want to drink milk.",
+    "highlight": [
+     "还想喝"
+    ]
+   },
+   {
+    "zh": "今天很冷，还下雨。",
+    "pinyin": "jīntiān hěn lěng, hái xiàyǔ.",
+    "en": "It's cold today, and it's also raining.",
+    "highlight": [
+     "还下雨"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我喜欢茶，也他喜欢。",
+   "right": "我喜欢茶，他也喜欢。",
+   "pinyin": "Wǒ xǐhuan chá, tā yě xǐhuan.",
+   "en": "I like tea, and he does too.",
+   "reason": "也 must go after the subject and right before the verb, not before the subject."
+  },
+  "wordIds": [
+   221,
+   225,
+   17,
+   200,
+   253,
+   233,
+   21,
+   127,
+   67,
+   77,
+   151,
+   94,
+   79,
+   109,
+   227
+  ]
+ },
+ {
+  "id": "h2-bi",
+  "level": 2,
+  "title": "比 comparisons",
+  "pattern": "A 比 B + adj (+ 一点儿 / 多了 / number + measure)",
+  "explanation": "Use 比 to compare two things: A 比 B + adjective. Add 一点儿 for 'a little', 多了 for 'much', or an exact amount after the adjective. Never put 很 before the adjective in a 比 sentence.",
+  "examples": [
+   {
+    "zh": "哥哥比我大两岁。",
+    "pinyin": "Gēge bǐ wǒ dà liǎng suì.",
+    "en": "My older brother is two years older than me.",
+    "highlight": [
+     "比我大两岁"
+    ]
+   },
+   {
+    "zh": "今天比昨天冷多了。",
+    "pinyin": "Jīntiān bǐ zuótiān lěng duō le.",
+    "en": "Today is much colder than yesterday.",
+    "highlight": [
+     "比昨天冷多了"
+    ]
+   },
+   {
+    "zh": "这个比那个贵一点儿。",
+    "pinyin": "Zhège bǐ nàge guì yìdiǎnr.",
+    "en": "This one is a little more expensive than that one.",
+    "highlight": [
+     "比那个贵一点儿"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我比他很高。",
+   "right": "我比他高。",
+   "pinyin": "Wǒ bǐ tā gāo.",
+   "en": "I'm taller than him.",
+   "reason": "Do not use 很 in a 比 sentence; 比 already makes the comparison, so put the adjective directly after B."
+  },
+  "wordIds": [
+   59,
+   309,
+   221,
+   25,
+   111,
+   199,
+   94,
+   297,
+   109,
+   46,
+   108,
+   281,
+   138,
+   65,
+   261
+  ]
+ },
+ {
+  "id": "h2-meiyou-cmp",
+  "level": 2,
+  "title": "A 有 / 没有 B (这么/那么) adj",
+  "pattern": "A 有 / 没有 B (这么/那么) + adj",
+  "explanation": "Use 有 to say A reaches the level of B, and 没有 to say A is not as … as B. 这么 or 那么 (\"this/that much\") often comes before the adjective, and the adjective is usually a positive one like 大, 高 or 贵.",
+  "examples": [
+   {
+    "zh": "你弟弟有你高吗?",
+    "pinyin": "nǐ dì di yǒu nǐ gāo ma",
+    "en": "Is your younger brother as tall as you?",
+    "highlight": [
+     "有你高"
+    ]
+   },
+   {
+    "zh": "今天没有昨天那么冷。",
+    "pinyin": "jīn tiān méi yǒu zuó tiān nà me lěng",
+    "en": "Today is not as cold as yesterday.",
+    "highlight": [
+     "没有昨天那么冷"
+    ]
+   },
+   {
+    "zh": "这个店的面包没有那个店的好吃。",
+    "pinyin": "zhè ge diàn de miàn bāo méi yǒu nà ge diàn de hǎo chī",
+    "en": "The bread at this shop is not as tasty as the bread at that shop.",
+    "highlight": [
+     "没有那个店的好吃"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "今天不有昨天那么热。",
+   "right": "今天没有昨天那么热。",
+   "pinyin": "Jīntiān méiyǒu zuótiān nàme rè.",
+   "en": "Today isn't as hot as yesterday.",
+   "reason": "The negative of 有 is always 没有, never 不有."
+  },
+  "wordIds": [
+   146,
+   32,
+   263,
+   341,
+   115,
+   94,
+   122,
+   297,
+   406,
+   109,
+   281,
+   34,
+   30,
+   126,
+   138,
+   72
+  ]
+ },
+ {
+  "id": "h2-bi-verb",
+  "level": 2,
+  "title": "Comparing actions",
+  "pattern": "A + V 得 + 比 B + adj / A 比 B + V 得 + adj",
+  "explanation": "To compare how two people do an action, put 比 B before the adjective in 'V 得 adj'. You can say it as 'A V 得比 B adj' or as 'A 比 B V 得 adj'.",
+  "examples": [
+   {
+    "zh": "我跑得比你快。",
+    "pinyin": "wǒ pǎo de bǐ nǐ kuài",
+    "en": "I run faster than you.",
+    "highlight": [
+     "跑得比你快"
+    ]
+   },
+   {
+    "zh": "姐姐比我唱得好听。",
+    "pinyin": "jiějie bǐ wǒ chàng de hǎotīng",
+    "en": "My older sister sings better than me.",
+    "highlight": [
+     "比我唱得好听"
+    ]
+   },
+   {
+    "zh": "哥哥睡得比我晚。",
+    "pinyin": "gēge shuì de bǐ wǒ wǎn",
+    "en": "My older brother goes to bed later than me.",
+    "highlight": [
+     "睡得比我晚"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我跑比你得快。",
+   "right": "我跑得比你快。",
+   "pinyin": "Wǒ pǎo de bǐ nǐ kuài.",
+   "en": "I run faster than you.",
+   "reason": "得 must come right after the verb, and 比 B goes after 得, right before the adjective."
+  },
+  "wordIds": [
+   221,
+   414,
+   332,
+   309,
+   146,
+   384,
+   92,
+   18,
+   74,
+   59,
+   194,
+   215
+  ]
+ },
+ {
+  "id": "h2-shi-de",
+  "level": 2,
+  "title": "是…的",
+  "pattern": "S + 是 + time/place/manner + V (+ O) + 的",
+  "explanation": "Use 是…的 when a past action is already known and you want to stress when, where, how, or who did it. 是 goes before the emphasized part, and 的 goes at the end of the sentence.",
+  "examples": [
+   {
+    "zh": "我是坐飞机来的。",
+    "pinyin": "wǒ shì zuò fēijī lái de",
+    "en": "I came by plane.",
+    "highlight": [
+     "是",
+     "坐飞机",
+     "的"
+    ]
+   },
+   {
+    "zh": "他是昨天回家的。",
+    "pinyin": "tā shì zuótiān huí jiā de",
+    "en": "He went home yesterday.",
+    "highlight": [
+     "是",
+     "昨天",
+     "的"
+    ]
+   },
+   {
+    "zh": "你是在哪儿学汉语的?",
+    "pinyin": "nǐ shì zài nǎr xué hànyǔ de",
+    "en": "Where did you learn Chinese?",
+    "highlight": [
+     "是",
+     "在哪儿",
+     "的"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我是昨天来了。",
+   "right": "我是昨天来的。",
+   "pinyin": "Wǒ shì zuótiān lái de.",
+   "en": "It was yesterday that I came.",
+   "reason": "In 是…的 sentences, end with 的, not 了."
+  },
+  "wordIds": [
+   221,
+   188,
+   298,
+   54,
+   106,
+   30,
+   200,
+   297,
+   81,
+   86,
+   146,
+   271,
+   134,
+   247,
+   69
+  ]
+ },
+ {
+  "id": "h2-guo",
+  "level": 2,
+  "title": "过 (experience)",
+  "pattern": "Subj + 没 + Verb + 过 + Obj",
+  "explanation": "Put 过 after a verb to say you have done something before. To say you have never done it, use 没 before the verb and keep 过: 没 + verb + 过.",
+  "examples": [
+   {
+    "zh": "我去过中国。",
+    "pinyin": "wǒ qù guo zhōng guó",
+    "en": "I have been to China.",
+    "highlight": [
+     "去过"
+    ]
+   },
+   {
+    "zh": "我没吃过饺子。",
+    "pinyin": "wǒ méi chī guo jiǎo zi",
+    "en": "I have never eaten dumplings.",
+    "highlight": [
+     "没吃过"
+    ]
+   },
+   {
+    "zh": "你看过这个电影吗?",
+    "pinyin": "nǐ kàn guo zhè ge diàn yǐng ma",
+    "en": "Have you seen this movie?",
+    "highlight": [
+     "看过"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我没去过中国了。",
+   "right": "我没去过中国。",
+   "pinyin": "Wǒ méi qù guo Zhōngguó.",
+   "en": "I've never been to China.",
+   "reason": "Do not add 了 to a 没...过 sentence, because 过 already shows past experience."
+  },
+  "wordIds": [
+   221,
+   167,
+   347,
+   289,
+   21,
+   90,
+   146,
+   99,
+   281,
+   38,
+   115
+  ]
+ },
+ {
+  "id": "h2-zhe",
+  "level": 2,
+  "title": "着 (ongoing state)",
+  "pattern": "Place + Verb + 着 + thing / Subject + Verb + 着 + thing",
+  "explanation": "Put 着 after a verb to show a state or action that is continuing. For location sentences, say the place first, then verb + 着, then the thing or person there.",
+  "examples": [
+   {
+    "zh": "门口站着一个人。",
+    "pinyin": "Ménkǒu zhàn zhe yí ge rén.",
+    "en": "A person is standing at the door.",
+    "highlight": [
+     "站着"
+    ]
+   },
+   {
+    "zh": "桌子上写着我的名字。",
+    "pinyin": "Zhuōzi shang xiě zhe wǒ de míngzi.",
+    "en": "My name is written on the table.",
+    "highlight": [
+     "写着"
+    ]
+   },
+   {
+    "zh": "他拿着手机。",
+    "pinyin": "Tā ná zhe shǒujī.",
+    "en": "He is holding a phone.",
+    "highlight": [
+     "拿着"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "他穿着了白色的衣服。",
+   "right": "他穿着白色的衣服。",
+   "pinyin": "Tā chuān zhe báisè de yīfu.",
+   "en": "He's wearing white clothes.",
+   "reason": "着 shows a continuing state, so do not add 了 right after it."
+  },
+  "wordIds": [
+   401,
+   486,
+   490,
+   254,
+   60,
+   170,
+   295,
+   175,
+   240,
+   221,
+   30,
+   130,
+   200,
+   405,
+   189
+  ]
+ },
+ {
+  "id": "h2-yaole",
+  "level": 2,
+  "title": "要 / 快要 / 就要 … 了",
+  "pattern": "快要 / 就要 / 要 + verb + 了",
+  "explanation": "Put 快要, 就要 or 要 before a verb and 了 at the end to say something is about to happen. 就要 feels the soonest, and it can be used with a specific time word.",
+  "examples": [
+   {
+    "zh": "快要下雨了,你别出去。",
+    "pinyin": "kuài yào xià yǔ le , nǐ bié chū qù 。",
+    "en": "It's about to rain, so don't go out.",
+    "highlight": [
+     "快要下雨了"
+    ]
+   },
+   {
+    "zh": "我们明天就要去中国了。",
+    "pinyin": "wǒ men míng tiān jiù yào qù zhōng guó le 。",
+    "en": "We are leaving for China tomorrow.",
+    "highlight": [
+     "就要去中国了"
+    ]
+   },
+   {
+    "zh": "火车要开了,快上车!",
+    "pinyin": "huǒ chē yào kāi le , kuài shàng chē !",
+    "en": "The train is about to leave, get on quickly!",
+    "highlight": [
+     "要开了"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我们快要明天去中国了。",
+   "right": "我们明天就要去中国了。",
+   "pinyin": "Wǒmen míngtiān jiù yào qù Zhōngguó le.",
+   "en": "We're going to China tomorrow.",
+   "reason": "快要 cannot be used with a specific time word; use 就要 after the time word instead."
+  },
+  "wordIds": [
+   386,
+   227,
+   108,
+   146,
+   311,
+   320,
+   222,
+   129,
+   376,
+   252,
+   167,
+   289,
+   83,
+   97,
+   384,
+   175,
+   20
+  ]
+ },
+ {
+  "id": "h2-doule",
+  "level": 2,
+  "title": "都…了",
+  "pattern": "都 + time/state + 了",
+  "explanation": "Use 都…了 to say something has 'already' reached a point, often with surprise or urgency. 都 comes before the time or state, and 了 goes at the end.",
+  "examples": [
+   {
+    "zh": "都十二点了,快吃饭吧!",
+    "pinyin": "dōu shí'èr diǎn le, kuài chī fàn ba!",
+    "en": "It's already twelve o'clock, let's eat quickly!",
+    "highlight": [
+     "都十二点了"
+    ]
+   },
+   {
+    "zh": "你都七岁了,自己洗手吧。",
+    "pinyin": "nǐ dōu qī suì le, zìjǐ xǐ shǒu ba.",
+    "en": "You're already seven years old, wash your hands yourself.",
+    "highlight": [
+     "都七岁了"
+    ]
+   },
+   {
+    "zh": "都晚上了,他还没回家。",
+    "pinyin": "dōu wǎnshang le, tā hái méi huí jiā.",
+    "en": "It's already evening, and he still hasn't come home.",
+    "highlight": [
+     "都晚上了"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "都十二点,你还没起床!",
+   "right": "都十二点了,你还没起床!",
+   "pinyin": "Dōu shí'èr diǎn le, nǐ hái méi qǐchuáng!",
+   "en": "It's already twelve o'clock and you're still not up!",
+   "reason": "The 'already' meaning of 都 needs 了 at the end of the phrase."
+  },
+  "wordIds": [
+   41,
+   184,
+   49,
+   33,
+   108,
+   384,
+   21,
+   50,
+   4,
+   146,
+   160,
+   199,
+   494,
+   456,
+   433,
+   217,
+   200,
+   67,
+   81,
+   86
+  ]
+ },
+ {
+  "id": "h2-degree-de",
+  "level": 2,
+  "title": "Verb + 得 + adjective",
+  "pattern": "S + V + O + V + 得 + adj",
+  "explanation": "Use 得 after a verb to say how well or how an action is done. If the verb has an object, say the verb twice: V + O + V + 得 + adj.",
+  "examples": [
+   {
+    "zh": "他打篮球打得很好。",
+    "pinyin": "Tā dǎ lánqiú dǎ de hěn hǎo.",
+    "en": "He plays basketball very well.",
+    "highlight": [
+     "打得很好"
+    ]
+   },
+   {
+    "zh": "妈妈做饭做得很好吃。",
+    "pinyin": "Māma zuò fàn zuò de hěn hǎochī.",
+    "en": "Mom cooks very tasty food.",
+    "highlight": [
+     "做饭做得很好吃"
+    ]
+   },
+   {
+    "zh": "她跑得很快。",
+    "pinyin": "Tā pǎo de hěn kuài.",
+    "en": "She runs very fast.",
+    "highlight": [
+     "跑得很快"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "他唱歌得很好。",
+   "right": "他唱歌唱得很好。",
+   "pinyin": "Tā chàng gē chàng de hěn hǎo.",
+   "en": "He sings very well.",
+   "reason": "When the verb has an object, repeat the verb before 得."
+  },
+  "wordIds": [
+   200,
+   327,
+   387,
+   332,
+   79,
+   71,
+   114,
+   300,
+   299,
+   72,
+   202,
+   414,
+   384
+  ]
+ },
+ {
+  "id": "h2-result",
+  "level": 2,
+  "title": "Result complements",
+  "pattern": "Verb + 错/懂/好/完/会 (result); negative: 没 + Verb + result",
+  "explanation": "Add a result word right after a verb to show the outcome of the action, like 写错 (write wrongly) or 听懂 (hear and understand). To negate, use 没 before the verb: 没听懂 means you did not manage to understand.",
+  "examples": [
+   {
+    "zh": "我听懂了。",
+    "pinyin": "wǒ tīng dǒng le",
+    "en": "I understood (what I heard).",
+    "highlight": [
+     "听懂"
+    ]
+   },
+   {
+    "zh": "你写错了这个字。",
+    "pinyin": "nǐ xiě cuò le zhè ge zì",
+    "en": "You wrote this character wrong.",
+    "highlight": [
+     "写错"
+    ]
+   },
+   {
+    "zh": "我没吃完午饭。",
+    "pinyin": "wǒ méi chī wán wǔ fàn",
+    "en": "I didn't finish lunch.",
+    "highlight": [
+     "没吃完"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我不听懂。",
+   "right": "我没听懂。",
+   "pinyin": "Wǒ méi tīng dǒng.",
+   "en": "I didn't understand (what I heard).",
+   "reason": "Result complements are negated with 没, not 不, because the result did not happen."
+  },
+  "wordIds": [
+   221,
+   209,
+   337,
+   108,
+   146,
+   240,
+   326,
+   281,
+   296,
+   21,
+   448,
+   224
+  ]
+ },
+ {
+  "id": "h2-direction",
+  "level": 2,
+  "title": "Direction complements (simple)",
+  "pattern": "V + 来/去 ; V + 上/下/进/出/回/过 (+ 来/去)",
+  "explanation": "Add 来 if the movement is toward the speaker, and 去 if it is away. Directions like 上, 下, 进, 出, 回, 过 say which way the movement goes, and 来/去 can follow them.",
+  "examples": [
+   {
+    "zh": "你进来吧。",
+    "pinyin": "nǐ jìn lái ba",
+    "en": "Come in.",
+    "highlight": [
+     "进来"
+    ]
+   },
+   {
+    "zh": "我下午回家去。",
+    "pinyin": "wǒ xià wǔ huí jiā qù",
+    "en": "I am going back home this afternoon.",
+    "highlight": [
+     "回家去"
+    ]
+   },
+   {
+    "zh": "他从楼上下来了。",
+    "pinyin": "tā cóng lóu shàng xià lái le",
+    "en": "He came down from upstairs.",
+    "highlight": [
+     "下来"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "请你进去,我在里面。",
+   "right": "请你进来,我在里面。",
+   "pinyin": "Qǐng nǐ jìnlái, wǒ zài lǐmiàn.",
+   "en": "Please come in, I'm inside.",
+   "reason": "The speaker is inside, so the movement is toward the speaker and needs 来, not 去."
+  },
+  "wordIds": [
+   146,
+   372,
+   4,
+   221,
+   230,
+   81,
+   86,
+   167,
+   200,
+   324,
+   391,
+   175,
+   458,
+   108
+  ]
+ },
+ {
+  "id": "h2-direction-compound",
+  "level": 2,
+  "title": "Direction complements (compound)",
+  "pattern": "Verb + 出来/出去/进来/进去/回来/回去/起来/上来/下去",
+  "explanation": "Add a direction word after a verb to show which way the action moves. 来 means toward the speaker, 去 means away from the speaker.",
+  "examples": [
+   {
+    "zh": "他从家里跑出来了。",
+    "pinyin": "tā cóng jiā lǐ pǎo chū lái le",
+    "en": "He ran out of the house.",
+    "highlight": [
+     "跑出来"
+    ]
+   },
+   {
+    "zh": "请进来坐吧。",
+    "pinyin": "qǐng jìn lái zuò ba",
+    "en": "Please come in and sit down.",
+    "highlight": [
+     "进来"
+    ]
+   },
+   {
+    "zh": "大家都站起来了。",
+    "pinyin": "dà jiā dōu zhàn qǐ lái le",
+    "en": "Everyone stood up.",
+    "highlight": [
+     "站起来"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "他跑进去房间了，我在房间里。",
+   "right": "他跑进房间来了。",
+   "pinyin": "Tā pǎo jìn fángjiān lái le.",
+   "en": "He ran into the room.",
+   "reason": "The speaker is inside, so use 来; a place goes between 进 and 来 (跑进房间来)."
+  },
+  "wordIds": [
+   200,
+   324,
+   86,
+   110,
+   414,
+   318,
+   108,
+   165,
+   372,
+   298,
+   4,
+   26,
+   41,
+   486,
+   418
+  ]
+ },
+ {
+  "id": "h2-times",
+  "level": 2,
+  "title": "Verb + number of times",
+  "pattern": "Subject + Verb (+过/了) + Number + 次 (+ Object)",
+  "explanation": "To say how many times an action happens, put number + 次 right after the verb. If there is an object, it usually comes after 次 (for pronoun objects, it comes before).",
+  "examples": [
+   {
+    "zh": "我去过一次中国。",
+    "pinyin": "wǒ qù guo yí cì zhōngguó",
+    "en": "I have been to China once.",
+    "highlight": [
+     "去过一次"
+    ]
+   },
+   {
+    "zh": "他一天打三次电话。",
+    "pinyin": "tā yì tiān dǎ sān cì diànhuà",
+    "en": "He makes phone calls three times a day.",
+    "highlight": [
+     "打三次"
+    ]
+   },
+   {
+    "zh": "这个电影我看了两次。",
+    "pinyin": "zhè ge diànyǐng wǒ kàn le liǎng cì",
+    "en": "I watched this movie twice.",
+    "highlight": [
+     "看了两次"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我一次去过中国。",
+   "right": "我去过一次中国。",
+   "pinyin": "Wǒ qù guo yí cì Zhōngguó.",
+   "en": "I've been to China once.",
+   "reason": "Number + 次 goes after the verb, not before it."
+  },
+  "wordIds": [
+   221,
+   167,
+   347,
+   254,
+   323,
+   289,
+   200,
+   207,
+   327,
+   173,
+   35,
+   281,
+   38,
+   99,
+   108,
+   111
+  ]
+ },
+ {
+  "id": "h2-duration",
+  "level": 2,
+  "title": "How long",
+  "pattern": "S + V + 了 + duration (+ object) / A + 比 + B + adj + amount",
+  "explanation": "To say how long an action lasted, put the time amount right after the verb (with 了 if completed). To say how much bigger or older, put the amount after the adjective.",
+  "examples": [
+   {
+    "zh": "我学了两年中文。",
+    "pinyin": "wǒ xué le liǎng nián zhōngwén 。",
+    "en": "I studied Chinese for two years.",
+    "highlight": [
+     "学了两年"
+    ]
+   },
+   {
+    "zh": "他睡了八个小时。",
+    "pinyin": "tā shuì le bā gè xiǎoshí 。",
+    "en": "He slept for eight hours.",
+    "highlight": [
+     "睡了八个小时"
+    ]
+   },
+   {
+    "zh": "我哥哥比我大两岁。",
+    "pinyin": "wǒ gēge bǐ wǒ dà liǎng suì 。",
+    "en": "My older brother is two years older than me.",
+    "highlight": [
+     "大两岁"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我学中文了两年。",
+   "right": "我学了两年中文。",
+   "pinyin": "Wǒ xué le liǎng nián Zhōngwén.",
+   "en": "I studied Chinese for two years.",
+   "reason": "The duration goes right after the verb and before the object, not after the object."
+  },
+  "wordIds": [
+   221,
+   247,
+   108,
+   111,
+   149,
+   290,
+   200,
+   194,
+   2,
+   60,
+   236,
+   59,
+   309,
+   25,
+   199
+  ]
+ },
+ {
+  "id": "h2-redup-verb",
+  "level": 2,
+  "title": "Verb reduplication · 一下",
+  "pattern": "V V / V 一 V / V 了 V / VV 一下 / V 一下",
+  "explanation": "Repeating a verb (看看, 看一看) or adding 一下 makes an action short, light, or polite, like 'take a look' or 'have a try'. For a completed action use A了A (看了看); two-syllable verbs repeat as ABAB (休息休息).",
+  "examples": [
+   {
+    "zh": "你看看这个。",
+    "pinyin": "nǐ kàn kan zhè ge",
+    "en": "Take a look at this.",
+    "highlight": [
+     "看看"
+    ]
+   },
+   {
+    "zh": "我想休息休息。",
+    "pinyin": "wǒ xiǎng xiū xi xiū xi",
+    "en": "I want to rest a bit.",
+    "highlight": [
+     "休息休息"
+    ]
+   },
+   {
+    "zh": "请你等一下。",
+    "pinyin": "qǐng nǐ děng yí xià",
+    "en": "Please wait a moment.",
+    "highlight": [
+     "等一下"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我们休息休息一下。",
+   "right": "我们休息一下。",
+   "pinyin": "Wǒmen xiūxi yíxià.",
+   "en": "Let's take a little rest.",
+   "reason": "Use either reduplication or 一下, not both together."
+  },
+  "wordIds": [
+   146,
+   99,
+   281,
+   221,
+   233,
+   246,
+   165,
+   334,
+   259
+  ]
+ },
+ {
+  "id": "h2-redup-adj",
+  "level": 2,
+  "title": "Adjective reduplication",
+  "pattern": "AA 的 / AA 地 (no 很): 个子高高的, 慢慢地说",
+  "explanation": "Doubling a one-character adjective (AA) makes it more vivid. Use 的 after it to describe a noun or state, and 地 before a verb. Do not add 很 before the reduplicated form.",
+  "examples": [
+   {
+    "zh": "她的眼睛大大的。",
+    "pinyin": "Tā de yǎnjing dàdà de.",
+    "en": "Her eyes are big and round.",
+    "highlight": [
+     "大大的"
+    ]
+   },
+   {
+    "zh": "他个子高高的。",
+    "pinyin": "Tā gèzi gāogāo de.",
+    "en": "He is nice and tall.",
+    "highlight": [
+     "高高的"
+    ]
+   },
+   {
+    "zh": "请你慢慢地说。",
+    "pinyin": "Qǐng nǐ mànmàn de shuō.",
+    "en": "Please speak slowly.",
+    "highlight": [
+     "慢慢地"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "她的眼睛很大大的。",
+   "right": "她的眼睛大大的。",
+   "pinyin": "Tā de yǎnjing dàdà de.",
+   "en": "Her eyes are big.",
+   "reason": "A reduplicated adjective is already vivid, so it doesn't take 很."
+  },
+  "wordIds": [
+   202,
+   30,
+   467,
+   25,
+   200,
+   344,
+   341,
+   165,
+   146,
+   397,
+   333,
+   196
+  ]
+ },
+ {
+  "id": "h2-bie",
+  "level": 2,
+  "title": "别 commands",
+  "pattern": "别 + verb (+ 了)",
+  "explanation": "Put 别 before a verb to say \"don't do it.\" Add 了 at the end (别…了) to tell someone to stop something they are already doing.",
+  "examples": [
+   {
+    "zh": "别说话,老师来了。",
+    "pinyin": "bié shuō huà , lǎo shī lái le 。",
+    "en": "Don't talk, the teacher is here.",
+    "highlight": [
+     "别说话"
+    ]
+   },
+   {
+    "zh": "你别喝了,太多了。",
+    "pinyin": "nǐ bié hē le , tài duō le 。",
+    "en": "Stop drinking, it's too much.",
+    "highlight": [
+     "别喝了"
+    ]
+   },
+   {
+    "zh": "别忘了给妈妈打电话。",
+    "pinyin": "bié wàng le gěi mā ma dǎ diàn huà 。",
+    "en": "Don't forget to call Mom.",
+    "highlight": [
+     "别忘了"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "你不去吧,外面下雨了。",
+   "right": "你别去,外面下雨了。",
+   "pinyin": "Nǐ bié qù, wàimiàn xià yǔ le.",
+   "en": "Don't go, it's raining outside.",
+   "reason": "To tell someone not to do something, use 别 before the verb, not 不."
+  },
+  "wordIds": [
+   311,
+   197,
+   107,
+   106,
+   108,
+   146,
+   77,
+   206,
+   46,
+   452,
+   61,
+   114,
+   24
+  ]
+ },
+ {
+  "id": "h2-haishi-q",
+  "level": 2,
+  "title": "还是 questions",
+  "pattern": "A 还是 B?",
+  "explanation": "Use 还是 between two options to ask which one someone chooses. In a statement, 或者 is used instead, but 还是 is for questions.",
+  "examples": [
+   {
+    "zh": "你喝茶还是喝咖啡?",
+    "pinyin": "nǐ hē chá hái shi hē kā fēi",
+    "en": "Do you want tea or coffee?",
+    "highlight": [
+     "还是"
+    ]
+   },
+   {
+    "zh": "我们坐地铁还是坐出租车?",
+    "pinyin": "wǒ men zuò dì tiě hái shi zuò chū zū chē",
+    "en": "Shall we take the subway or a taxi?",
+    "highlight": [
+     "还是"
+    ]
+   },
+   {
+    "zh": "他是老师还是学生?",
+    "pinyin": "tā shì lǎo shī hái shi xué shēng",
+    "en": "Is he a teacher or a student?",
+    "highlight": [
+     "还是"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "你想吃面条儿或者米饭?",
+   "right": "你想吃面条儿还是米饭?",
+   "pinyin": "Nǐ xiǎng chī miàntiáor háishi mǐfàn?",
+   "en": "Do you want noodles or rice?",
+   "reason": "In a question offering a choice, use 还是, not 或者."
+  },
+  "wordIds": [
+   146,
+   77,
+   17,
+   352,
+   377,
+   222,
+   298,
+   335,
+   22,
+   200,
+   188,
+   107,
+   248
+  ]
+ },
+ {
+  "id": "h2-haishi-ba",
+  "level": 2,
+  "title": "还是…吧",
+  "pattern": "还是 + V (+ O) + 吧",
+  "explanation": "Use 还是…吧 to suggest the better option after thinking about it, like 'You'd better…' or 'It's better to…'. 吧 at the end makes it a soft suggestion.",
+  "examples": [
+   {
+    "zh": "你生病了,还是去看医生吧。",
+    "pinyin": "nǐ shēng bìng le , hái shi qù kàn yī shēng ba 。",
+    "en": "You're sick, you'd better go see a doctor.",
+    "highlight": [
+     "还是",
+     "吧"
+    ]
+   },
+   {
+    "zh": "外面下雨了,我们还是坐出租车吧。",
+    "pinyin": "wài miàn xià yǔ le , wǒ men hái shi zuò chū zū chē ba 。",
+    "en": "It's raining outside, we'd better take a taxi.",
+    "highlight": [
+     "还是",
+     "吧"
+    ]
+   },
+   {
+    "zh": "太晚了,你还是睡觉吧。",
+    "pinyin": "tài wǎn le , nǐ hái shi shuì jiào ba 。",
+    "en": "It's too late, you'd better go to sleep.",
+    "highlight": [
+     "还是",
+     "吧"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "你还是去看医生。",
+   "right": "你还是去看医生吧。",
+   "pinyin": "Nǐ háishi qù kàn yīshēng ba.",
+   "en": "You'd better go see a doctor.",
+   "reason": "还是 suggesting a better choice needs 吧 at the end to sound like a suggestion."
+  },
+  "wordIds": [
+   146,
+   183,
+   108,
+   352,
+   167,
+   99,
+   256,
+   4,
+   447,
+   227,
+   222,
+   298,
+   22,
+   206,
+   215,
+   195
+  ]
+ },
+ {
+  "id": "h2-suiran",
+  "level": 2,
+  "title": "虽然…但是…",
+  "pattern": "虽然 + A, 但是 + B",
+  "explanation": "Use 虽然 in the first part and 但是 in the second part to say 'Although A, B'. Unlike English, Chinese uses both words together.",
+  "examples": [
+   {
+    "zh": "虽然今天很冷,但是我想去玩。",
+    "pinyin": "suīrán jīntiān hěn lěng, dànshì wǒ xiǎng qù wán。",
+    "en": "Although it's cold today, I want to go out and play.",
+    "highlight": [
+     "虽然",
+     "但是"
+    ]
+   },
+   {
+    "zh": "虽然这个包很贵,但是很好看。",
+    "pinyin": "suīrán zhège bāo hěn guì, dànshì hěn hǎokàn。",
+    "en": "Although this bag is expensive, it looks nice.",
+    "highlight": [
+     "虽然",
+     "但是"
+    ]
+   },
+   {
+    "zh": "虽然我很累,但是还要工作。",
+    "pinyin": "suīrán wǒ hěn lèi, dànshì hái yào gōngzuò。",
+    "en": "Although I'm tired, I still have to work.",
+    "highlight": [
+     "虽然",
+     "但是"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "虽然今天很冷,我想去玩。",
+   "right": "虽然今天很冷,但是我想去玩。",
+   "pinyin": "Suīrán jīntiān hěn lěng, dànshì wǒ xiǎng qù wán.",
+   "en": "Although it's cold today, I want to go out and have fun.",
+   "reason": "Chinese needs 但是 in the second part; you can't leave it out as in English."
+  },
+  "wordIds": [
+   438,
+   94,
+   79,
+   109,
+   331,
+   221,
+   233,
+   167,
+   214,
+   281,
+   307,
+   65,
+   73,
+   388,
+   67,
+   252,
+   63
+  ]
+ },
+ {
+  "id": "h2-yinwei",
+  "level": 2,
+  "title": "因为…所以…",
+  "pattern": "因为 + cause，所以 + result",
+  "explanation": "因为 gives the reason and 所以 gives the result. In Chinese you usually use both together, unlike English where 'because' and 'so' are not used in the same sentence.",
+  "examples": [
+   {
+    "zh": "因为下雨，所以我不去。",
+    "pinyin": "yīnwèi xià yǔ，suǒyǐ wǒ bú qù。",
+    "en": "Because it's raining, I'm not going.",
+    "highlight": [
+     "因为",
+     "所以"
+    ]
+   },
+   {
+    "zh": "因为他病了，所以没上班。",
+    "pinyin": "yīnwèi tā bìng le，suǒyǐ méi shàngbān。",
+    "en": "Because he is sick, he didn't go to work.",
+    "highlight": [
+     "因为",
+     "所以"
+    ]
+   },
+   {
+    "zh": "因为今天很冷，所以我穿新衣服。",
+    "pinyin": "yīnwèi jīntiān hěn lěng，suǒyǐ wǒ chuān xīn yīfu。",
+    "en": "Because it's cold today, I'm wearing new clothes.",
+    "highlight": [
+     "因为",
+     "所以"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "因为我很忙，但是我不能去。",
+   "right": "因为我很忙，所以我不能去。",
+   "pinyin": "Yīnwèi wǒ hěn máng, suǒyǐ wǒ bù néng qù.",
+   "en": "Because I'm busy, I can't go.",
+   "reason": "Use 所以 (not 但是) to introduce the result of the reason; 但是 means 'but'."
+  },
+  "wordIds": [
+   476,
+   227,
+   439,
+   221,
+   13,
+   167,
+   200,
+   12,
+   108,
+   176,
+   94,
+   79,
+   109,
+   23,
+   242,
+   255
+  ]
+ },
+ {
+  "id": "h2-yi-jiu",
+  "level": 2,
+  "title": "一…就…",
+  "pattern": "S 一 + V1, 就 + V2",
+  "explanation": "Use 一…就… to say that the second action happens right after the first one, like 'as soon as' in English. Put 一 before the first verb and 就 before the second verb.",
+  "examples": [
+   {
+    "zh": "我一到家就给你打电话。",
+    "pinyin": "wǒ yí dào jiā jiù gěi nǐ dǎ diànhuà。",
+    "en": "As soon as I get home, I'll call you.",
+    "highlight": [
+     "一到家",
+     "就给你打电话"
+    ]
+   },
+   {
+    "zh": "他一下班就回家。",
+    "pinyin": "tā yí xiàbān jiù huí jiā。",
+    "en": "He goes home as soon as he gets off work.",
+    "highlight": [
+     "一下班",
+     "就回家"
+    ]
+   },
+   {
+    "zh": "孩子一看见妈妈就笑了。",
+    "pinyin": "háizi yí kànjiàn māma jiù xiào le。",
+    "en": "The child smiled as soon as he saw Mom.",
+    "highlight": [
+     "一看见",
+     "就笑了"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我到家一给你打电话。",
+   "right": "我一到家就给你打电话。",
+   "pinyin": "Wǒ yí dào jiā jiù gěi nǐ dǎ diànhuà.",
+   "en": "I'll call you as soon as I get home.",
+   "reason": "一 goes before the first verb (到) and 就 must come before the second verb, not 一 again."
+  },
+  "wordIds": [
+   221,
+   254,
+   29,
+   86,
+   376,
+   61,
+   146,
+   24,
+   200,
+   259,
+   304,
+   81,
+   68,
+   101,
+   114,
+   463,
+   108
+  ]
+ },
+ {
+  "id": "h2-cong",
+  "level": 2,
+  "title": "从 · 从…到 · 往",
+  "pattern": "从 + place/time (+ 到 + place/time); 往 + direction + verb",
+  "explanation": "从 means 'from' and marks a starting point in place or time; 从 A 到 B means 'from A to B'. 往 + direction + verb means 'go toward' that direction, like 往前走 'walk forward'.",
+  "examples": [
+   {
+    "zh": "我从家走到学校。",
+    "pinyin": "Wǒ cóng jiā zǒu dào xuéxiào.",
+    "en": "I walk from home to school.",
+    "highlight": [
+     "从家",
+     "到学校"
+    ]
+   },
+   {
+    "zh": "我从早上八点工作到下午六点。",
+    "pinyin": "wǒ cóng zǎoshang bā diǎn gōngzuò dào xiàwǔ liù diǎn",
+    "en": "I work from eight in the morning to six in the afternoon.",
+    "highlight": [
+     "从早上八点",
+     "到下午六点"
+    ]
+   },
+   {
+    "zh": "请往前走,再往右走。",
+    "pinyin": "qǐng wǎng qián zǒu, zài wǎng yòu zǒu",
+    "en": "Please walk forward, then walk right.",
+    "highlight": [
+     "往前走",
+     "往右走"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我工作从八点到六点。",
+   "right": "我从八点到六点工作。",
+   "pinyin": "Wǒ cóng bā diǎn dào liù diǎn gōngzuò.",
+   "en": "I work from eight to six.",
+   "reason": "The 从…到… phrase goes before the verb."
+  },
+  "wordIds": [
+   221,
+   324,
+   86,
+   495,
+   29,
+   250,
+   275,
+   2,
+   33,
+   63,
+   230,
+   113,
+   165,
+   450,
+   163,
+   270,
+   481
+  ]
+ },
+ {
+  "id": "h2-li",
+  "level": 2,
+  "title": "离 for distance",
+  "pattern": "A 离 B + 很 + 远/近",
+  "explanation": "Use 离 between two places to say how far apart they are. Put 很 plus 远 (far) or 近 (near) after B.",
+  "examples": [
+   {
+    "zh": "我家离学校很近。",
+    "pinyin": "wǒ jiā lí xué xiào hěn jìn",
+    "en": "My home is very close to school.",
+    "highlight": [
+     "离学校很近"
+    ]
+   },
+   {
+    "zh": "机场离这儿很远。",
+    "pinyin": "jī chǎng lí zhè er hěn yuǎn",
+    "en": "The airport is far from here.",
+    "highlight": [
+     "离这儿很远"
+    ]
+   },
+   {
+    "zh": "你家离地铁站远吗?",
+    "pinyin": "nǐ jiā lí dì tiě zhàn yuǎn ma",
+    "en": "Is your home far from the subway station?",
+    "highlight": [
+     "离地铁站远吗"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我家很近离公司。",
+   "right": "我家离公司很近。",
+   "pinyin": "Wǒ jiā lí gōngsī hěn jìn.",
+   "en": "My home is close to the office.",
+   "reason": "离 must come before B, and the adjective 远/近 goes at the end."
+  },
+  "wordIds": [
+   221,
+   86,
+   389,
+   250,
+   79,
+   371,
+   363,
+   283,
+   484,
+   146,
+   335,
+   486,
+   115
+  ]
+ },
+ {
+  "id": "h2-gei",
+  "level": 2,
+  "title": "给 · 送给",
+  "pattern": "给 + person + verb; verb + 给 + person + thing",
+  "explanation": "Use 给 before a person and a verb to say you do something for or to that person. Use a verb like 送 or 卖 followed by 给 and then the person and the thing to say who receives something.",
+  "examples": [
+   {
+    "zh": "明天给我打电话。",
+    "pinyin": "Míngtiān gěi wǒ dǎ diànhuà.",
+    "en": "Call me tomorrow.",
+    "highlight": [
+     "给我打电话"
+    ]
+   },
+   {
+    "zh": "我送给她一本书。",
+    "pinyin": "Wǒ sòng gěi tā yì běn shū.",
+    "en": "I give her a book as a gift.",
+    "highlight": [
+     "送给她一本书"
+    ]
+   },
+   {
+    "zh": "妈妈给我做饭。",
+    "pinyin": "Māma gěi wǒ zuò fàn.",
+    "en": "Mom cooks for me.",
+    "highlight": [
+     "给我做饭"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我打电话给她明天。",
+   "right": "我明天给她打电话。",
+   "pinyin": "Wǒ míngtiān gěi tā dǎ diànhuà.",
+   "en": "I'll call her tomorrow.",
+   "reason": "Put 给 + person before the verb, and put the time word before 给."
+  },
+  "wordIds": [
+   129,
+   61,
+   221,
+   24,
+   437,
+   202,
+   254,
+   10,
+   190,
+   114,
+   300
+  ]
+ },
+ {
+  "id": "h2-gen",
+  "level": 2,
+  "title": "跟",
+  "pattern": "A 跟 B + verb / A 跟 B 一起 + verb / A 跟 B + 都 + ...",
+  "explanation": "跟 + person + verb means 'do something with someone'. 跟 can also join two nouns like 'and', but it is more common in speech with 和.",
+  "examples": [
+   {
+    "zh": "我跟朋友去看电影。",
+    "pinyin": "wǒ gēn péng you qù kàn diàn yǐng",
+    "en": "I'm going to see a movie with a friend.",
+    "highlight": [
+     "跟朋友去"
+    ]
+   },
+   {
+    "zh": "他跟我一起吃午饭。",
+    "pinyin": "tā gēn wǒ yì qǐ chī wǔ fàn",
+    "en": "He eats lunch with me.",
+    "highlight": [
+     "跟我一起"
+    ]
+   },
+   {
+    "zh": "哥哥跟姐姐都在中国。",
+    "pinyin": "gē ge gēn jiě jie dōu zài zhōng guó",
+    "en": "My older brother and older sister are both in China.",
+    "highlight": [
+     "哥哥跟姐姐"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我去商店跟妈妈。",
+   "right": "我跟妈妈去商店。",
+   "pinyin": "Wǒ gēn māma qù shāngdiàn.",
+   "en": "I'm going to the store with my mom.",
+   "reason": "The 跟 phrase must come before the verb, not after it."
+  },
+  "wordIds": [
+   221,
+   345,
+   156,
+   167,
+   99,
+   38,
+   200,
+   473,
+   21,
+   224,
+   59,
+   92,
+   41,
+   271,
+   289
+  ]
+ },
+ {
+  "id": "h2-rang",
+  "level": 2,
+  "title": "请 / 叫 / 让 + person + verb",
+  "pattern": "A + 请/叫/让 + B + verb",
+  "explanation": "Use 请 to politely invite or ask someone to do something. Use 叫 or 让 to tell, make or let someone do something. The person goes right after 请/叫/让 and before the verb.",
+  "examples": [
+   {
+    "zh": "医生让我多休息。",
+    "pinyin": "yī shēng ràng wǒ duō xiū xi",
+    "en": "The doctor told me to rest more.",
+    "highlight": [
+     "让我多休息"
+    ]
+   },
+   {
+    "zh": "妈妈叫我早点睡觉。",
+    "pinyin": "mā ma jiào wǒ zǎo diǎn shuì jiào",
+    "en": "Mom told me to go to bed a bit earlier.",
+    "highlight": [
+     "叫我早点睡觉"
+    ]
+   },
+   {
+    "zh": "我想请你喝茶。",
+    "pinyin": "wǒ xiǎng qǐng nǐ hē chá",
+    "en": "I would like to invite you to have tea.",
+    "highlight": [
+     "请你喝茶"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "医生让休息我。",
+   "right": "医生让我休息。",
+   "pinyin": "Yīshēng ràng wǒ xiūxi.",
+   "en": "The doctor told me to rest.",
+   "reason": "The person must come right after 让 and before the verb."
+  },
+  "wordIds": [
+   256,
+   422,
+   221,
+   46,
+   246,
+   114,
+   91,
+   273,
+   33,
+   195,
+   233,
+   165,
+   146,
+   77,
+   17
+  ]
+ },
+ {
+  "id": "h2-keneng",
+  "level": 2,
+  "title": "可能",
+  "pattern": "S + 可能 + (不) + Verb",
+  "explanation": "可能 goes before the verb to say something might happen or might be true. To say 'might not', put 不 after 可能: 可能不 + verb.",
+  "examples": [
+   {
+    "zh": "他可能不来了。",
+    "pinyin": "Tā kěnéng bù lái le.",
+    "en": "He might not come anymore.",
+    "highlight": [
+     "可能不来"
+    ]
+   },
+   {
+    "zh": "明天可能下雨。",
+    "pinyin": "Míngtiān kěnéng xià yǔ.",
+    "en": "It might rain tomorrow.",
+    "highlight": [
+     "可能下雨"
+    ]
+   },
+   {
+    "zh": "妈妈现在可能在超市。",
+    "pinyin": "Māma xiànzài kěnéng zài chāoshì.",
+    "en": "Mom might be at the supermarket now.",
+    "highlight": [
+     "可能在"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "他不可能来了。",
+   "right": "他可能不来了。",
+   "pinyin": "Tā kěnéng bù lái le.",
+   "en": "He might not come anymore.",
+   "reason": "To say 'might not', use 可能不 + verb; 不可能 means 'impossible', which is much stronger."
+  },
+  "wordIds": [
+   200,
+   382,
+   13,
+   106,
+   108,
+   129,
+   227,
+   114,
+   232,
+   271,
+   19
+  ]
+ },
+ {
+  "id": "h2-zai-jiu",
+  "level": 2,
+  "title": "再 and 就",
+  "pattern": "S + 再 + V (again, later) / S + 就 + V (right away, as early as, just)",
+  "explanation": "再 means doing something again or later in the future, and also 'then' after a condition. 就 means something happens right away, earlier than expected, or 'just/only'.",
+  "examples": [
+   {
+    "zh": "明天再来吧。",
+    "pinyin": "Míngtiān zài lái ba.",
+    "en": "Come again tomorrow.",
+    "highlight": [
+     "再来"
+    ]
+   },
+   {
+    "zh": "我六点就起床了。",
+    "pinyin": "Wǒ liù diǎn jiù qǐchuáng le.",
+    "en": "I got up as early as six o'clock.",
+    "highlight": [
+     "就起床"
+    ]
+   },
+   {
+    "zh": "吃了饭再去商店。",
+    "pinyin": "Chī le fàn zài qù shāngdiàn.",
+    "en": "Eat first, then go to the store.",
+    "highlight": [
+     "再去"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我想喝再一杯茶。",
+   "right": "我想再喝一杯茶。",
+   "pinyin": "Wǒ xiǎng zài hē yì bēi chá.",
+   "en": "I'd like another cup of tea.",
+   "reason": "再 goes right before the verb it modifies."
+  },
+  "wordIds": [
+   129,
+   270,
+   106,
+   4,
+   221,
+   113,
+   33,
+   376,
+   161,
+   108,
+   21,
+   50,
+   167,
+   174
+  ]
+ },
+ {
+  "id": "h2-hai-yijing",
+  "level": 2,
+  "title": "还 · 已经 · 快",
+  "pattern": "还 + V/adj (still); 已经 + V + 了 (already); 快 + V + 了 (soon); 有时候 / 经常 + V (sometimes / often)",
+  "explanation": "还 means 'still', 已经…了 means 'already', and 快…了 means 'soon'. 有时候 (sometimes) and 经常 (often) go before the verb to say how often something happens.",
+  "examples": [
+   {
+    "zh": "他还在睡觉。",
+    "pinyin": "Tā hái zài shuìjiào.",
+    "en": "He is still sleeping.",
+    "highlight": [
+     "还"
+    ]
+   },
+   {
+    "zh": "我已经吃饭了。",
+    "pinyin": "Wǒ yǐjīng chī fàn le.",
+    "en": "I have already eaten.",
+    "highlight": [
+     "已经",
+     "了"
+    ]
+   },
+   {
+    "zh": "火车快到了。",
+    "pinyin": "Huǒchē kuài dào le.",
+    "en": "The train will arrive soon.",
+    "highlight": [
+     "快",
+     "了"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我已经吃饭。",
+   "right": "我已经吃饭了。",
+   "pinyin": "Wǒ yǐjīng chī fàn le.",
+   "en": "I've already eaten.",
+   "reason": "已经 normally needs 了 at the end of the sentence to show the action is already done."
+  },
+  "wordIds": [
+   200,
+   67,
+   271,
+   195,
+   221,
+   472,
+   21,
+   50,
+   108,
+   83,
+   384,
+   29
+  ]
+ },
+ {
+  "id": "h2-zheme",
+  "level": 2,
+  "title": "这么 · 那么 · 这样 · 那样",
+  "pattern": "这么/那么 + adj/verb;  这样/那样 + verb/adj",
+  "explanation": "这么 means 'so/this way' for something near, and 那么 means 'so/that way' for something far or already mentioned. They go before adjectives or verbs. 这样 and 那样 mean 'like this' and 'like that'.",
+  "examples": [
+   {
+    "zh": "今天这么冷!",
+    "pinyin": "jīn tiān zhè me lěng!",
+    "en": "It's so cold today!",
+    "highlight": [
+     "这么冷"
+    ]
+   },
+   {
+    "zh": "你为什么那么忙?",
+    "pinyin": "nǐ wèi shén me nà me máng?",
+    "en": "Why are you so busy?",
+    "highlight": [
+     "那么忙"
+    ]
+   },
+   {
+    "zh": "这个字这样写。",
+    "pinyin": "zhè ge zì zhè yàng xiě.",
+    "en": "This character is written like this.",
+    "highlight": [
+     "这样写"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "今天天气这么很冷。",
+   "right": "今天天气这么冷。",
+   "pinyin": "Jīntiān tiānqì zhème lěng.",
+   "en": "The weather is so cold today.",
+   "reason": "这么 already means 'so', so do not add 很 before the adjective."
+  },
+  "wordIds": [
+   94,
+   488,
+   109,
+   146,
+   454,
+   406,
+   118,
+   281,
+   296,
+   489,
+   240
+  ]
+ },
+ {
+  "id": "h2-di-adv",
+  "level": 2,
+  "title": "Adjective + 地 + verb",
+  "pattern": "Adj + 地 + Verb",
+  "explanation": "Put 地 after an adjective to describe how an action is done, like -ly in English. Use 的 before nouns and 得 after verbs to describe the result or degree.",
+  "examples": [
+   {
+    "zh": "孩子们快乐地玩。",
+    "pinyin": "háizi men kuàilè de wán。",
+    "en": "The children play happily.",
+    "highlight": [
+     "快乐地玩"
+    ]
+   },
+   {
+    "zh": "他高兴地说:谢谢!",
+    "pinyin": "tā gāoxìng de shuō: xièxie!",
+    "en": "He said happily: Thanks!",
+    "highlight": [
+     "高兴地说"
+    ]
+   },
+   {
+    "zh": "你慢慢地走。",
+    "pinyin": "nǐ màn màn de zǒu。",
+    "en": "You walk slowly.",
+    "highlight": [
+     "慢慢地走"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "他高兴的说话。",
+   "right": "他高兴地说话。",
+   "pinyin": "Tā gāoxìng de shuōhuà.",
+   "en": "He spoke happily.",
+   "reason": "Use 地, not 的, between an adjective and the verb it describes."
+  },
+  "wordIds": [
+   68,
+   124,
+   385,
+   333,
+   214,
+   200,
+   57,
+   196,
+   241,
+   146,
+   397,
+   495
+  ]
+ },
+ {
+  "id": "h2-topic",
+  "level": 2,
+  "title": "Topic first",
+  "pattern": "Topic + Subject + Verb/Comment (object or topic placed first)",
+  "explanation": "In Chinese you can put the thing you are talking about at the front, then add a comment about it. The topic can be an object (饭吃了) or a person with a description (他身体很好).",
+  "examples": [
+   {
+    "zh": "这本书我看完了。",
+    "pinyin": "zhè běn shū wǒ kàn wán le",
+    "en": "I finished reading this book.",
+    "highlight": [
+     "这本书我看完了"
+    ]
+   },
+   {
+    "zh": "他身体很好。",
+    "pinyin": "tā shēntǐ hěn hǎo",
+    "en": "His health is very good.",
+    "highlight": [
+     "他身体很好"
+    ]
+   },
+   {
+    "zh": "晚饭我做好了。",
+    "pinyin": "wǎnfàn wǒ zuò hǎo le",
+    "en": "I have made dinner.",
+    "highlight": [
+     "晚饭我做好了"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "这本书我看完了它。",
+   "right": "这本书我看完了。",
+   "pinyin": "Zhè běn shū wǒ kàn wán le.",
+   "en": "I've finished reading this book.",
+   "reason": "When the object is the topic at the front, don't repeat it after the verb."
+  },
+  "wordIds": [
+   279,
+   10,
+   190,
+   221,
+   99,
+   448,
+   108,
+   200,
+   429,
+   79,
+   71,
+   216,
+   299
+  ]
+ },
+ {
+  "id": "h2-approx",
+  "level": 2,
+  "title": "Approximate numbers",
+  "pattern": "几 + MW / Number + 多 + MW / Number + MW + 多 + noun",
+  "explanation": "几 asks about or means a small number (under ten). 多 after a number means 'a bit more than': after a round number like 二十 it comes before the measure word (二十多个), but after a single-digit number plus measure word it follows it (一个多小时).",
+  "examples": [
+   {
+    "zh": "你家有几口人?",
+    "pinyin": "nǐ jiā yǒu jǐ kǒu rén",
+    "en": "How many people are in your family?",
+    "highlight": [
+     "几口"
+    ]
+   },
+   {
+    "zh": "我们班有二十多个学生。",
+    "pinyin": "wǒ men bān yǒu èr shí duō gè xué shēng",
+    "en": "Our class has twenty-some students.",
+    "highlight": [
+     "二十多个"
+    ]
+   },
+   {
+    "zh": "我等了一个多小时。",
+    "pinyin": "wǒ děng le yí gè duō xiǎo shí",
+    "en": "I waited more than an hour.",
+    "highlight": [
+     "一个多小时"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我们班有二十个多学生。",
+   "right": "我们班有二十多个学生。",
+   "pinyin": "Wǒmen bān yǒu èrshí duō ge xuésheng.",
+   "en": "There are more than twenty students in our class.",
+   "reason": "After a round number like 二十, 多 goes before the measure word, not after it."
+  },
+  "wordIds": [
+   146,
+   86,
+   263,
+   85,
+   104,
+   170,
+   222,
+   304,
+   49,
+   184,
+   46,
+   60,
+   248,
+   221,
+   334,
+   108,
+   254,
+   236
+  ]
+ },
+ {
+  "id": "h2-shenmede",
+  "level": 2,
+  "title": "…什么的",
+  "pattern": "A、B、C 什么的",
+  "explanation": "Put 什么的 after a short list of things to mean 'and so on' or 'and stuff like that'. It makes the list open-ended, and you usually list two or three items first.",
+  "examples": [
+   {
+    "zh": "我喜欢吃苹果、面包什么的。",
+    "pinyin": "wǒ xǐhuan chī píngguǒ、miànbāo shénmede。",
+    "en": "I like eating apples, bread, and so on.",
+    "highlight": [
+     "什么的"
+    ]
+   },
+   {
+    "zh": "他家有猫、狗什么的。",
+    "pinyin": "tā jiā yǒu māo、gǒu shénmede。",
+    "en": "His family has cats, dogs, and the like.",
+    "highlight": [
+     "什么的"
+    ]
+   },
+   {
+    "zh": "我想去超市买牛奶、鸡蛋什么的。",
+    "pinyin": "wǒ xiǎng qù chāoshì mǎi niúnǎi、jīdàn shénmede。",
+    "en": "I want to go to the supermarket to buy milk, eggs, and so on.",
+    "highlight": [
+     "什么的"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我喜欢吃苹果什么的、面包。",
+   "right": "我喜欢吃苹果、面包什么的。",
+   "pinyin": "Wǒ xǐhuan chī píngguǒ, miànbāo shénmede.",
+   "en": "I like eating apples, bread and so on.",
+   "reason": "什么的 must come at the end of the whole list, not in the middle."
+  },
+  "wordIds": [
+   221,
+   225,
+   21,
+   159,
+   126,
+   182,
+   30,
+   200,
+   86,
+   263,
+   119,
+   64,
+   233,
+   167,
+   19,
+   116,
+   151,
+   84
+  ]
+ },
+ {
+  "id": "h3-ba-place",
+  "level": 3,
+  "title": "把 + object + verb + 在/到 + place",
+  "pattern": "S + 把 + object + verb + 在/到 + place",
+  "explanation": "Use 把 to say what you do to a specific thing, and where it ends up. The verb must be followed by 在 or 到 plus the place, never alone.",
+  "examples": [
+   {
+    "zh": "我把书放在桌子上。",
+    "pinyin": "wǒ bǎ shū fàng zài zhuōzi shang",
+    "en": "I put the book on the table.",
+    "highlight": [
+     "把书放在桌子上"
+    ]
+   },
+   {
+    "zh": "他把车开到学校了。",
+    "pinyin": "tā bǎ chē kāi dào xuéxiào le",
+    "en": "He drove the car to school.",
+    "highlight": [
+     "把车开到学校"
+    ]
+   },
+   {
+    "zh": "请你把手机放在椅子上。",
+    "pinyin": "qǐng nǐ bǎ shǒujī fàng zài yǐzi shang",
+    "en": "Please put the phone on the chair.",
+    "highlight": [
+     "把手机放在椅子上"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我放把书在桌子上。",
+   "right": "我把书放在桌子上。",
+   "pinyin": "wǒ bǎ shū fàng zài zhuōzi shang",
+   "en": "I put the book on the table.",
+   "reason": "把 and its object must come before the verb, not after it."
+  },
+  "wordIds": [
+   221,
+   506,
+   190,
+   624,
+   271,
+   295,
+   175,
+   200,
+   20,
+   97,
+   29,
+   250,
+   108,
+   165,
+   146,
+   189,
+   260
+  ]
+ },
+ {
+  "id": "h3-ba-give",
+  "level": 3,
+  "title": "把 + object + verb (+ 给) + person",
+  "pattern": "S + 把 + thing + verb + 给 + person",
+  "explanation": "Use 把 to put the thing first, then a verb of handing over (还, 送, etc.) plus 给 and the receiver. It stresses what happens to the thing: it ends up with that person.",
+  "examples": [
+   {
+    "zh": "请把这本书给他。",
+    "pinyin": "Qǐng bǎ zhè běn shū gěi tā.",
+    "en": "Please give this book to him.",
+    "highlight": [
+     "把",
+     "给"
+    ]
+   },
+   {
+    "zh": "我明天把钱还给你。",
+    "pinyin": "Wǒ míngtiān bǎ qián huán gěi nǐ.",
+    "en": "I'll give the money back to you tomorrow.",
+    "highlight": [
+     "把",
+     "还给"
+    ]
+   },
+   {
+    "zh": "她把礼物送给女朋友。",
+    "pinyin": "Tā bǎ lǐwù sòng gěi nǚpéngyou.",
+    "en": "She gives the gift to her girlfriend.",
+    "highlight": [
+     "把",
+     "送给"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我把钱还朋友。",
+   "right": "我把钱还给朋友。",
+   "pinyin": "Wǒ bǎ qián huán gěi péngyou.",
+   "en": "I give the money back to my friend.",
+   "reason": "After a verb like 还 or 送, you need 给 before the receiver."
+  },
+  "wordIds": [
+   165,
+   506,
+   279,
+   10,
+   190,
+   61,
+   200,
+   221,
+   129,
+   164,
+   67,
+   146,
+   202,
+   748,
+   437,
+   154
+  ]
+ },
+ {
+  "id": "h3-ba-result",
+  "level": 3,
+  "title": "把 + object + verb + complement",
+  "pattern": "S + 把 + object + verb + complement (result/direction/state)",
+  "explanation": "Use 把 to move the object before the verb and say what happens to it. The verb must be followed by something, like 完, 上, 进去 or 得 + state, and 没 goes before 把.",
+  "examples": [
+   {
+    "zh": "我把作业写完了。",
+    "pinyin": "wǒ bǎ zuòyè xiě wán le",
+    "en": "I finished writing my homework.",
+    "highlight": [
+     "把作业写完"
+    ]
+   },
+   {
+    "zh": "请你把门关上。",
+    "pinyin": "qǐng nǐ bǎ mén guān shang",
+    "en": "Please close the door.",
+    "highlight": [
+     "把门关上"
+    ]
+   },
+   {
+    "zh": "妈妈把衣服洗得很干净。",
+    "pinyin": "māma bǎ yīfu xǐ de hěn gānjìng",
+    "en": "Mom washed the clothes very clean.",
+    "highlight": [
+     "把衣服洗得很干净"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我把作业没写完。",
+   "right": "我没把作业写完。",
+   "pinyin": "wǒ méi bǎ zuòyè xiě wán",
+   "en": "I haven't finished my homework.",
+   "reason": "Negation 没 goes before 把, not after it."
+  },
+  "wordIds": [
+   221,
+   506,
+   1000,
+   240,
+   448,
+   108,
+   165,
+   146,
+   400,
+   652,
+   175,
+   114,
+   255,
+   456,
+   332,
+   79,
+   636
+  ]
+ },
+ {
+  "id": "h3-bei",
+  "level": 3,
+  "title": "被 passive",
+  "pattern": "A + 被 (+ doer) + verb + other element (了 / 走 / 完)",
+  "explanation": "被 makes the thing affected the subject, and the doer comes after 被 (it can be left out). The verb needs something after it, like 了 or 走, and the event is usually unwelcome.",
+  "examples": [
+   {
+    "zh": "我的手机被他拿走了。",
+    "pinyin": "wǒ de shǒujī bèi tā ná zǒu le",
+    "en": "My phone was taken away by him.",
+    "highlight": [
+     "被他拿走了"
+    ]
+   },
+   {
+    "zh": "我的钱被弟弟花了。",
+    "pinyin": "wǒ de qián bèi dìdi huā le",
+    "en": "My money was spent by my younger brother.",
+    "highlight": [
+     "被弟弟花了"
+    ]
+   },
+   {
+    "zh": "我的书被朋友借走了。",
+    "pinyin": "wǒ de shū bèi péngyou jiè zǒu le",
+    "en": "My book was borrowed by a friend.",
+    "highlight": [
+     "被朋友借走了"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我的手机被他没拿走。",
+   "right": "我的手机没被他拿走。",
+   "pinyin": "wǒ de shǒujī méi bèi tā ná zǒu",
+   "en": "My phone wasn't taken away by him.",
+   "reason": "Put 没 before 被, not between 被 and the verb."
+  },
+  "wordIds": [
+   221,
+   30,
+   189,
+   519,
+   200,
+   405,
+   495,
+   108,
+   164,
+   32,
+   357,
+   190,
+   156,
+   715
+  ]
+ },
+ {
+  "id": "h3-potential",
+  "level": 3,
+  "title": "Potential complements: 得 / 不",
+  "pattern": "Verb + 得/不 + complement (听得懂 / 看不见)",
+  "explanation": "Put 得 (can) or 不 (can't) between a verb and its result or direction complement to say whether something is possible. For a yes/no question, use the 得 and 不 forms together, like 听得懂听不懂.",
+  "examples": [
+   {
+    "zh": "你说得太快,我听不懂。",
+    "pinyin": "nǐ shuō de tài kuài, wǒ tīng bu dǒng。",
+    "en": "You speak too fast, I can't understand.",
+    "highlight": [
+     "听不懂"
+    ]
+   },
+   {
+    "zh": "这么多饺子,我吃不完。",
+    "pinyin": "zhè me duō jiǎo zi, wǒ chī bu wán。",
+    "en": "There are so many dumplings, I can't finish them.",
+    "highlight": [
+     "吃不完"
+    ]
+   },
+   {
+    "zh": "你看得见黑板吗?",
+    "pinyin": "nǐ kàn de jiàn hēi bǎn ma?",
+    "en": "Can you see the blackboard?",
+    "highlight": [
+     "看得见"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "这个字我不能听懂。",
+   "right": "这个字我听不懂。",
+   "pinyin": "zhè ge zì wǒ tīng bu dǒng。",
+   "en": "I can't understand this word.",
+   "reason": "Use the potential form 听不懂 instead of 不能 plus a result complement."
+  },
+  "wordIds": [
+   146,
+   196,
+   332,
+   206,
+   384,
+   221,
+   209,
+   13,
+   337,
+   488,
+   46,
+   90,
+   21,
+   448,
+   99,
+   88,
+   669,
+   115
+  ]
+ },
+ {
+  "id": "h3-result2",
+  "level": 3,
+  "title": "Result complements 到 / 住 / 走 / 上",
+  "pattern": "V + 到/住/走/上 (result complement)",
+  "explanation": "A result complement after a verb shows the outcome of the action: 到 means reaching the goal, 住 means fixed in place, 走 means away, and 上 means closed or attached.",
+  "examples": [
+   {
+    "zh": "我找到手机了。",
+    "pinyin": "wǒ zhǎo dào shǒu jī le",
+    "en": "I found my phone.",
+    "highlight": [
+     "找到"
+    ]
+   },
+   {
+    "zh": "请记住这个字。",
+    "pinyin": "qǐng jì zhù zhè ge zì",
+    "en": "Please remember this character.",
+    "highlight": [
+     "记住"
+    ]
+   },
+   {
+    "zh": "他开走了我的车。",
+    "pinyin": "tā kāi zǒu le wǒ de chē",
+    "en": "He drove my car away.",
+    "highlight": [
+     "开走"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "请把门关。",
+   "right": "请关上门。",
+   "pinyin": "qǐng guān shàng mén",
+   "en": "Please close the door.",
+   "reason": "Without the complement 上, 关 only names the action, not the result of the door being closed."
+  },
+  "wordIds": [
+   221,
+   278,
+   29,
+   189,
+   108,
+   165,
+   692,
+   294,
+   281,
+   296,
+   200,
+   97,
+   495,
+   30,
+   20
+  ]
+ },
+ {
+  "id": "h3-direction-ext",
+  "level": 3,
+  "title": "Extended directional complements",
+  "pattern": "V + 起来 / 下来 / 下去 / 出来 / 上 (figurative)",
+  "explanation": "Directional words after a verb can show abstract meanings: 想出 means to think of something, 爱上 means to fall in love with, 起来 means to start, 下去 means to continue, and 下来 means to settle or stay.",
+  "examples": [
+   {
+    "zh": "大家都笑起来了。",
+    "pinyin": "dà jiā dōu xiào qǐ lái le 。",
+    "en": "Everyone started laughing.",
+    "highlight": [
+     "笑起来"
+    ]
+   },
+   {
+    "zh": "你说下去吧。",
+    "pinyin": "nǐ shuō xià qù ba 。",
+    "en": "Go on talking.",
+    "highlight": [
+     "说下去"
+    ]
+   },
+   {
+    "zh": "他爱上了一个中国女孩儿。",
+    "pinyin": "tā ài shàng le yí gè zhōng guó nǚ hái ér 。",
+    "en": "He fell in love with a Chinese girl.",
+    "highlight": [
+     "爱上"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "天气冷了,下雨起来了。",
+   "right": "天气冷了,下起雨来了。",
+   "pinyin": "tiān qì lěng le ,xià qǐ yǔ lái le 。",
+   "en": "The weather got cold, and it started to rain.",
+   "reason": "When the verb has an object, split 起来 around it: 下起雨来, not 下雨起来."
+  },
+  "wordIds": [
+   26,
+   41,
+   463,
+   418,
+   108,
+   146,
+   196,
+   460,
+   4,
+   200,
+   1,
+   175,
+   254,
+   60,
+   289,
+   412
+  ]
+ },
+ {
+  "id": "h3-degree-ji",
+  "level": 3,
+  "title": "Degree: 得很 / 极了 / 坏了",
+  "pattern": "Adj + 得很 / Adj + 极了 / Adj/Verb + 坏了",
+  "explanation": "Put 得很 or 极了 after an adjective to mean 'extremely', as in 好得很 or 好极了. Use 坏了 after an adjective or verb for an extreme, unpleasant state like 累坏了 or 饿坏了.",
+  "examples": [
+   {
+    "zh": "这里的东西贵得很。",
+    "pinyin": "zhè lǐ de dōng xi guì de hěn",
+    "en": "Things here are extremely expensive.",
+    "highlight": [
+     "贵得很"
+    ]
+   },
+   {
+    "zh": "今天天气好极了!",
+    "pinyin": "jīn tiān tiān qì hǎo jí le",
+    "en": "The weather today is fantastic!",
+    "highlight": [
+     "好极了"
+    ]
+   },
+   {
+    "zh": "我今天累坏了。",
+    "pinyin": "wǒ jīn tiān lèi huài le",
+    "en": "I'm exhausted today.",
+    "highlight": [
+     "累坏了"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "今天很热得很。",
+   "right": "今天热得很。",
+   "pinyin": "jīn tiān rè de hěn",
+   "en": "It's extremely hot today.",
+   "reason": "得很 already means 'very', so don't add 很 before the adjective."
+  },
+  "wordIds": [
+   282,
+   30,
+   40,
+   65,
+   332,
+   79,
+   94,
+   208,
+   71,
+   690,
+   108,
+   221,
+   388,
+   360
+  ]
+ },
+ {
+  "id": "h3-time-since",
+  "level": 3,
+  "title": "Time since something happened",
+  "pattern": "Subject + Verb (+ Object) + time + 了",
+  "explanation": "Put the time length after the verb (and object) and end with 了 to say how long it has been since the action happened or ended. It means 'it has been X time since...'.",
+  "examples": [
+   {
+    "zh": "他来北京三年了。",
+    "pinyin": "tā lái běi jīng sān nián le",
+    "en": "It has been three years since he came to Beijing.",
+    "highlight": [
+     "来北京三年了"
+    ]
+   },
+   {
+    "zh": "我出国两年了。",
+    "pinyin": "wǒ chū guó liǎng nián le",
+    "en": "It has been two years since I went abroad.",
+    "highlight": [
+     "出国两年了"
+    ]
+   },
+   {
+    "zh": "他走了十分钟了。",
+    "pinyin": "tā zǒu le shí fēn zhōng le",
+    "en": "It has been ten minutes since he left.",
+    "highlight": [
+     "走了十分钟了"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我两年出国了。",
+   "right": "我出国两年了。",
+   "pinyin": "wǒ chū guó liǎng nián le",
+   "en": "It has been two years since I went abroad.",
+   "reason": "The time length goes after the verb and object, not before the verb as in English."
+  },
+  "wordIds": [
+   200,
+   106,
+   517,
+   173,
+   149,
+   108,
+   221,
+   317,
+   111,
+   495,
+   184,
+   56
+  ]
+ },
+ {
+  "id": "h3-bi-geng",
+  "level": 3,
+  "title": "A 比 B 更 / 还 + adjective",
+  "pattern": "A 比 B 更/还 + adj",
+  "explanation": "Use 比 to compare A and B, then add 更 or 还 before the adjective to say A is even more so. Never use 很 or 非常 in a 比 sentence.",
+  "examples": [
+   {
+    "zh": "今天比昨天更冷。",
+    "pinyin": "Jīntiān bǐ zuótiān gèng lěng.",
+    "en": "Today is even colder than yesterday.",
+    "highlight": [
+     "比",
+     "更冷"
+    ]
+   },
+   {
+    "zh": "他比我还高。",
+    "pinyin": "Tā bǐ wǒ hái gāo.",
+    "en": "He is even taller than me.",
+    "highlight": [
+     "比",
+     "还高"
+    ]
+   },
+   {
+    "zh": "这个比那个更好吃。",
+    "pinyin": "Zhège bǐ nàge gèng hǎochī.",
+    "en": "This one is even tastier than that one.",
+    "highlight": [
+     "比",
+     "更好吃"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "今天比昨天很冷。",
+   "right": "今天比昨天更冷。",
+   "pinyin": "Jīntiān bǐ zuótiān gèng lěng.",
+   "en": "Today is even colder than yesterday.",
+   "reason": "In a 比 sentence use 更 or 还, never 很 or 非常, before the adjective."
+  },
+  "wordIds": [
+   94,
+   309,
+   297,
+   646,
+   109,
+   200,
+   221,
+   67,
+   341,
+   281,
+   138,
+   72
+  ]
+ },
+ {
+  "id": "h3-yiyang",
+  "level": 3,
+  "title": "A 跟 B 一样 (+ adjective)",
+  "pattern": "A 跟 B 一样 (+ adj)",
+  "explanation": "Use 跟 to link two things and 一样 to say they are the same. Add an adjective after 一样 to say how they are the same; for different, use 不一样.",
+  "examples": [
+   {
+    "zh": "我的书跟你的一样。",
+    "pinyin": "Wǒ de shū gēn nǐ de yíyàng.",
+    "en": "My book is the same as yours.",
+    "highlight": [
+     "跟你的一样"
+    ]
+   },
+   {
+    "zh": "他跟他哥哥一样高。",
+    "pinyin": "Tā gēn tā gēge yíyàng gāo.",
+    "en": "He is as tall as his older brother.",
+    "highlight": [
+     "跟他哥哥一样高"
+    ]
+   },
+   {
+    "zh": "这个电脑跟那个不一样。",
+    "pinyin": "Zhège diànnǎo gēn nàge bù yíyàng.",
+    "en": "This computer is not the same as that one.",
+    "highlight": [
+     "跟那个不一样"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "他一样高跟他哥哥。",
+   "right": "他跟他哥哥一样高。",
+   "pinyin": "Tā gēn tā gēge yíyàng gāo.",
+   "en": "He is as tall as his older brother.",
+   "reason": "Put 跟 + B before 一样, and the adjective comes after 一样."
+  },
+  "wordIds": [
+   221,
+   30,
+   190,
+   345,
+   146,
+   925,
+   200,
+   59,
+   341,
+   281,
+   36,
+   138,
+   13
+  ]
+ },
+ {
+  "id": "h3-bubi",
+  "level": 3,
+  "title": "A 不比 B + adjective",
+  "pattern": "A 不比 B + adj",
+  "explanation": "不比 means 'A is not more [adj] than B'. A is about the same as B or even less, so it is often used to disagree with someone. It is different from 没有…那么, which clearly says A is less than B.",
+  "examples": [
+   {
+    "zh": "我不比他高。",
+    "pinyin": "wǒ bù bǐ tā gāo",
+    "en": "I'm not taller than him.",
+    "highlight": [
+     "不比他高"
+    ]
+   },
+   {
+    "zh": "这里的东西不比那里贵。",
+    "pinyin": "zhè lǐ de dōng xi bù bǐ nà lǐ guì",
+    "en": "The things here are not more expensive than there.",
+    "highlight": [
+     "不比那里贵"
+    ]
+   },
+   {
+    "zh": "今天不比昨天冷。",
+    "pinyin": "jīn tiān bù bǐ zuó tiān lěng",
+    "en": "Today is not colder than yesterday.",
+    "highlight": [
+     "不比昨天冷"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我不比他很高。",
+   "right": "我不比他高。",
+   "pinyin": "wǒ bù bǐ tā gāo",
+   "en": "I'm not taller than him.",
+   "reason": "Do not put 很 or other degree words before the adjective in a 比 sentence."
+  },
+  "wordIds": [
+   221,
+   13,
+   309,
+   200,
+   341,
+   282,
+   30,
+   40,
+   139,
+   65,
+   94,
+   297,
+   109
+  ]
+ },
+ {
+  "id": "h3-bi-amount",
+  "level": 3,
+  "title": "A 比 B 早 / 晚 / 多 / 少 + verb + amount",
+  "pattern": "A 比 B + 早/晚/多/少 + verb + amount",
+  "explanation": "Put 早, 晚, 多 or 少 right after 比 B, then the verb, then the amount, to say how much more, less, earlier or later someone did something. The amount comes last.",
+  "examples": [
+   {
+    "zh": "我比他早来十分钟。",
+    "pinyin": "wǒ bǐ tā zǎo lái shí fēn zhōng",
+    "en": "I came ten minutes earlier than him.",
+    "highlight": [
+     "比他早来十分钟"
+    ]
+   },
+   {
+    "zh": "他比我多买了两本书。",
+    "pinyin": "tā bǐ wǒ duō mǎi le liǎng běn shū",
+    "en": "He bought two more books than I did.",
+    "highlight": [
+     "比我多买了两本"
+    ]
+   },
+   {
+    "zh": "今天比昨天少花了五十块。",
+    "pinyin": "jīn tiān bǐ zuó tiān shǎo huā le wǔ shí kuài",
+    "en": "Today I spent fifty yuan less than yesterday.",
+    "highlight": [
+     "比昨天少花了五十块"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我比他来早十分钟。",
+   "right": "我比他早来十分钟。",
+   "pinyin": "wǒ bǐ tā zǎo lái shí fēn zhōng",
+   "en": "I came ten minutes earlier than him.",
+   "reason": "Put 早 before the verb (早来), not after it, and keep the amount at the end."
+  },
+  "wordIds": [
+   221,
+   309,
+   200,
+   273,
+   106,
+   184,
+   56,
+   46,
+   116,
+   108,
+   111,
+   10,
+   190,
+   94,
+   297,
+   180,
+   357,
+   223,
+   105
+  ]
+ },
+ {
+  "id": "h3-cunxian",
+  "level": 3,
+  "title": "Appearing and disappearing",
+  "pattern": "Place + V + 来/走 + 了 + Number + MW + Noun",
+  "explanation": "Use this pattern to say that someone or something appeared (来) or disappeared (走, 少) at a place. The place comes first, and the new or missing thing comes last with a number and measure word.",
+  "examples": [
+   {
+    "zh": "前面走来了一个人。",
+    "pinyin": "Qiánmiàn zǒu lái le yí ge rén.",
+    "en": "A person walked up ahead.",
+    "highlight": [
+     "前面走来了一个人"
+    ]
+   },
+   {
+    "zh": "我家来了一位客人。",
+    "pinyin": "Wǒ jiā lái le yí wèi kèrén.",
+    "en": "A guest has come to my home.",
+    "highlight": [
+     "来了一位客人"
+    ]
+   },
+   {
+    "zh": "我们班走了两个同学。",
+    "pinyin": "Wǒmen bān zǒu le liǎng ge tóngxué.",
+    "en": "Two classmates left our class.",
+    "highlight": [
+     "走了两个同学"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "一个人来了我家。",
+   "right": "我家来了一个人。",
+   "pinyin": "Wǒ jiā lái le yí ge rén.",
+   "en": "A person has come to my home.",
+   "reason": "Put the place first and the newly appearing person after the verb, not before it."
+  },
+  "wordIds": [
+   419,
+   495,
+   106,
+   108,
+   254,
+   60,
+   170,
+   221,
+   86,
+   453,
+   737,
+   222,
+   304,
+   111,
+   211
+  ]
+ },
+ {
+  "id": "h3-shi-de",
+  "level": 3,
+  "title": "是……的 for the speaker's view",
+  "pattern": "S + 是 + adj / verb phrase + 的",
+  "explanation": "Put 是 before an adjective or verb phrase and 的 at the end to state your opinion or judgment firmly, as if saying 'I'm sure of it'. It sounds more certain than a plain statement.",
+  "examples": [
+   {
+    "zh": "这个办法是很好的。",
+    "pinyin": "zhè ge bàn fǎ shì hěn hǎo de 。",
+    "en": "This method is very good (I'm sure).",
+    "highlight": [
+     "是很好的"
+    ]
+   },
+   {
+    "zh": "他是不会来的。",
+    "pinyin": "tā shì bú huì lái de 。",
+    "en": "He definitely won't come.",
+    "highlight": [
+     "是不会来的"
+    ]
+   },
+   {
+    "zh": "我是同意的。",
+    "pinyin": "wǒ shì tóng yì de 。",
+    "en": "I do agree.",
+    "highlight": [
+     "是同意的"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "他是不会来。",
+   "right": "他是不会来的。",
+   "pinyin": "tā shì bú huì lái de 。",
+   "en": "He definitely won't come.",
+   "reason": "The 是……的 pattern needs the closing 的 at the end; without it the sentence is incomplete."
+  },
+  "wordIds": [
+   281,
+   511,
+   188,
+   79,
+   71,
+   30,
+   200,
+   13,
+   82,
+   106,
+   221,
+   860
+  ]
+ },
+ {
+  "id": "h3-chongdong",
+  "level": 3,
+  "title": "Repeating the verb",
+  "pattern": "Subj + V + Obj + V + 得/了 + complement",
+  "explanation": "When a verb has both an object and a complement (like degree or duration), repeat the verb after the object. The first verb takes the object, and the second verb takes 得 or 了 and the complement.",
+  "examples": [
+   {
+    "zh": "他说汉语说得很好。",
+    "pinyin": "Tā shuō Hànyǔ shuō de hěn hǎo.",
+    "en": "He speaks Chinese very well.",
+    "highlight": [
+     "说汉语说得很好"
+    ]
+   },
+   {
+    "zh": "我等你等了一个小时。",
+    "pinyin": "Wǒ děng nǐ děng le yí gè xiǎoshí.",
+    "en": "I waited for you for an hour.",
+    "highlight": [
+     "等你等了一个小时"
+    ]
+   },
+   {
+    "zh": "妈妈做饭做得很好吃。",
+    "pinyin": "Māma zuò fàn zuò de hěn hǎochī.",
+    "en": "Mom cooks very deliciously.",
+    "highlight": [
+     "做饭做得很好吃"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我写汉字得很好。",
+   "right": "我写汉字写得很好。",
+   "pinyin": "Wǒ xiě Hànzì xiě de hěn hǎo.",
+   "en": "I write Chinese characters very well.",
+   "reason": "You must repeat the verb after the object before 得; 得 cannot follow the object directly."
+  },
+  "wordIds": [
+   200,
+   196,
+   69,
+   332,
+   79,
+   71,
+   221,
+   334,
+   146,
+   108,
+   254,
+   60,
+   236,
+   114,
+   300,
+   299,
+   72
+  ]
+ },
+ {
+  "id": "h3-zhe-manner",
+  "level": 3,
+  "title": "Verb 1 + 着 + verb 2",
+  "pattern": "Verb 1 + 着 + Verb 2",
+  "explanation": "着 after the first verb shows the way or state in which the second action happens. Verb 1 is the manner (like smiling or standing) while verb 2 is the main action.",
+  "examples": [
+   {
+    "zh": "她笑着说话。",
+    "pinyin": "tā xiào zhe shuō huà",
+    "en": "She talks while smiling.",
+    "highlight": [
+     "笑着说话"
+    ]
+   },
+   {
+    "zh": "我们走着去学校吧。",
+    "pinyin": "wǒ men zǒu zhe qù xué xiào ba",
+    "en": "Let's walk to school.",
+    "highlight": [
+     "走着去"
+    ]
+   },
+   {
+    "zh": "他喜欢站着吃饭。",
+    "pinyin": "tā xǐ huan zhàn zhe chī fàn",
+    "en": "He likes to eat standing up.",
+    "highlight": [
+     "站着吃饭"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "他坐了看电视。",
+   "right": "他坐着看电视。",
+   "pinyin": "tā zuò zhe kàn diàn shì",
+   "en": "He watches TV sitting down.",
+   "reason": "Use 着, not 了, after the first verb to show the manner in which the second action is done."
+  },
+  "wordIds": [
+   202,
+   463,
+   490,
+   197,
+   222,
+   495,
+   167,
+   250,
+   4,
+   200,
+   225,
+   486,
+   21,
+   50
+  ]
+ },
+ {
+  "id": "h3-fanwen",
+  "level": 3,
+  "title": "不是……吗? for emphasis",
+  "pattern": "A 不是 + V/phrase + 吗？",
+  "explanation": "Use 不是……吗 to ask a rhetorical question that means 'surely' or 'isn't it the case that'. You already believe the answer is yes, and you use it to remind or gently challenge the listener.",
+  "examples": [
+   {
+    "zh": "你不是会说汉语吗？",
+    "pinyin": "nǐ bú shì huì shuō hàn yǔ ma",
+    "en": "You speak Chinese, don't you?",
+    "highlight": [
+     "不是",
+     "吗"
+    ]
+   },
+   {
+    "zh": "这不是你的书吗？",
+    "pinyin": "zhè bú shì nǐ de shū ma",
+    "en": "Isn't this your book?",
+    "highlight": [
+     "不是",
+     "吗"
+    ]
+   },
+   {
+    "zh": "你不是明天上班吗？",
+    "pinyin": "nǐ bú shì míng tiān shàng bān ma",
+    "en": "Don't you work tomorrow?",
+    "highlight": [
+     "不是",
+     "吗"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "你不会说汉语吗？",
+   "right": "你不是会说汉语吗？",
+   "pinyin": "nǐ bú shì huì shuō hàn yǔ ma",
+   "en": "You speak Chinese, don't you?",
+   "reason": "For 'surely', put 不是 before the whole phrase; 不会……吗 just asks a plain question about ability."
+  },
+  "wordIds": [
+   146,
+   13,
+   188,
+   82,
+   196,
+   69,
+   115,
+   279,
+   30,
+   190,
+   129,
+   176
+  ]
+ },
+ {
+  "id": "h3-zenyang",
+  "level": 3,
+  "title": "怎样 + verb",
+  "pattern": "怎样 + Verb",
+  "explanation": "怎样 means 'how' and is a bit more formal than 怎么. Put it right before a verb to ask in what way something is done.",
+  "examples": [
+   {
+    "zh": "这个字怎样写？",
+    "pinyin": "zhè ge zì zěn yàng xiě ?",
+    "en": "How do you write this character?",
+    "highlight": [
+     "怎样写"
+    ]
+   },
+   {
+    "zh": "你是怎样学汉语的？",
+    "pinyin": "nǐ shì zěn yàng xué hàn yǔ de ?",
+    "en": "How did you learn Chinese?",
+    "highlight": [
+     "怎样学"
+    ]
+   },
+   {
+    "zh": "去机场怎样走？",
+    "pinyin": "qù jī chǎng zěn yàng zǒu ?",
+    "en": "How do I get to the airport?",
+    "highlight": [
+     "怎样走"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "这个字写怎样？",
+   "right": "这个字怎样写？",
+   "pinyin": "zhè ge zì zěn yàng xiě ?",
+   "en": "How do you write this character?",
+   "reason": "怎样 must come before the verb, not after it."
+  },
+  "wordIds": [
+   281,
+   296,
+   965,
+   240,
+   146,
+   188,
+   247,
+   69,
+   30,
+   167,
+   363,
+   495
+  ]
+ },
+ {
+  "id": "h3-qword-any",
+  "level": 3,
+  "title": "Question words meaning 'any' or 'some'",
+  "pattern": "疑问词 + 都/也 + (不/没) + V;  疑问词…就…疑问词;  V + 点儿 + 疑问词",
+  "explanation": "A question word with 都 or 也 means 'any-' (everything, anyone, anywhere). Repeating the same question word links two parts (想吃什么就吃什么, 'eat whatever you want'), and 什么/哪儿 after a verb can mean 'something/somewhere'.",
+  "examples": [
+   {
+    "zh": "我什么都不想吃。",
+    "pinyin": "wǒ shén me dōu bù xiǎng chī。",
+    "en": "I don't want to eat anything.",
+    "highlight": [
+     "什么都不想吃"
+    ]
+   },
+   {
+    "zh": "今天我哪儿也没去。",
+    "pinyin": "jīn tiān wǒ nǎr yě méi qù。",
+    "en": "I didn't go anywhere today.",
+    "highlight": [
+     "哪儿也没去"
+    ]
+   },
+   {
+    "zh": "你想吃什么就吃什么。",
+    "pinyin": "nǐ xiǎng chī shén me jiù chī shén me。",
+    "en": "Eat whatever you want.",
+    "highlight": [
+     "想吃什么就吃什么"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我不想吃什么。",
+   "right": "我什么都不想吃。",
+   "pinyin": "wǒ shén me dōu bù xiǎng chī。",
+   "en": "I don't want to eat anything.",
+   "reason": "To say 'not anything', put 什么 before 都 and the verb, rather than leaving it after the verb as in a plain question."
+  },
+  "wordIds": [
+   221,
+   182,
+   41,
+   13,
+   233,
+   21,
+   94,
+   134,
+   253,
+   167,
+   146,
+   376
+  ]
+ },
+ {
+  "id": "h3-xian-zai",
+  "level": 3,
+  "title": "先……，再 / 然后……",
+  "pattern": "先 + V1，再/然后 + V2",
+  "explanation": "Use 先 before the first action and 再 or 然后 before the second to say what happens in order. 再 usually sits right before the second verb, while 然后 means 'and then' and starts the next part.",
+  "examples": [
+   {
+    "zh": "我们先吃饭，再回家。",
+    "pinyin": "wǒ men xiān chī fàn , zài huí jiā 。",
+    "en": "We'll eat first, then go home.",
+    "highlight": [
+     "先",
+     "再"
+    ]
+   },
+   {
+    "zh": "先去超市，然后回家。",
+    "pinyin": "xiān qù chāo shì , rán hòu huí jiā 。",
+    "en": "First go to the supermarket, then go home.",
+    "highlight": [
+     "先",
+     "然后"
+    ]
+   },
+   {
+    "zh": "你先洗手，再喝茶吧。",
+    "pinyin": "nǐ xiān xǐ shǒu , zài hē chá ba 。",
+    "en": "Wash your hands first, then drink tea.",
+    "highlight": [
+     "先",
+     "再"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我先吃饭，再我去上班。",
+   "right": "我先吃饭，再去上班。",
+   "pinyin": "wǒ xiān chī fàn , zài qù shàng bān 。",
+   "en": "I'll eat first, then go to work.",
+   "reason": "再 must come directly before the second verb, not before the subject."
+  },
+  "wordIds": [
+   222,
+   890,
+   21,
+   50,
+   270,
+   81,
+   86,
+   167,
+   19,
+   813,
+   146,
+   456,
+   433,
+   77,
+   17,
+   4
+  ]
+ },
+ {
+  "id": "h3-huozhe",
+  "level": 3,
+  "title": "或者……或者…… / 或",
+  "pattern": "或者 A，或者 B / A 或者 B（都可以）",
+  "explanation": "Use 或者 to say \"either A or B\" in statements, when you give options or say you are fine with either. In questions (\"A or B?\") use 还是 instead.",
+  "examples": [
+   {
+    "zh": "我们或者今天去，或者明天去。",
+    "pinyin": "wǒ men huò zhě jīn tiān qù ， huò zhě míng tiān qù 。",
+    "en": "We will go either today or tomorrow.",
+    "highlight": [
+     "或者今天去",
+     "或者明天去"
+    ]
+   },
+   {
+    "zh": "喝茶或者咖啡都可以。",
+    "pinyin": "hē chá huò zhě kā fēi dōu kě yǐ 。",
+    "en": "Tea or coffee, either is fine.",
+    "highlight": [
+     "或者",
+     "都可以"
+    ]
+   },
+   {
+    "zh": "你可以坐地铁或者坐出租车。",
+    "pinyin": "nǐ kě yǐ zuò dì tiě huò zhě zuò chū zū chē 。",
+    "en": "You can take the subway or a taxi.",
+    "highlight": [
+     "或者"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "你喝茶或者咖啡？",
+   "right": "你喝茶还是咖啡？",
+   "pinyin": "nǐ hē chá hái shi kā fēi ？",
+   "en": "Do you drink tea or coffee?",
+   "reason": "In a question offering a choice, use 还是, not 或者."
+  },
+  "wordIds": [
+   222,
+   686,
+   94,
+   167,
+   129,
+   77,
+   17,
+   377,
+   41,
+   102,
+   146,
+   298,
+   335,
+   22
+  ]
+ },
+ {
+  "id": "h3-yihuier",
+  "level": 3,
+  "title": "一会儿……，一会儿……",
+  "pattern": "S + 一会儿 + A，一会儿 + B",
+  "explanation": "Use 一会儿……，一会儿…… to say that something keeps switching between two states or actions. Put a verb or adjective after each 一会儿.",
+  "examples": [
+   {
+    "zh": "天气一会儿冷，一会儿热。",
+    "pinyin": "tiān qì yí huìr lěng, yí huìr rè.",
+    "en": "The weather is cold one minute and hot the next.",
+    "highlight": [
+     "一会儿冷",
+     "一会儿热"
+    ]
+   },
+   {
+    "zh": "他一会儿看书，一会儿看电视。",
+    "pinyin": "tā yí huìr kàn shū, yí huìr kàn diàn shì.",
+    "en": "He reads for a while, then watches TV for a while.",
+    "highlight": [
+     "一会儿看书",
+     "一会儿看电视"
+    ]
+   },
+   {
+    "zh": "孩子一会儿哭，一会儿笑。",
+    "pinyin": "hái zi yí huìr kū, yí huìr xiào.",
+    "en": "The child cries one moment and laughs the next.",
+    "highlight": [
+     "一会儿哭",
+     "一会儿笑"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "他一会儿看书，也看电视。",
+   "right": "他一会儿看书，一会儿看电视。",
+   "pinyin": "tā yí huìr kàn shū, yí huìr kàn diàn shì.",
+   "en": "He reads for a while, then watches TV for a while.",
+   "reason": "The second part needs its own 一会儿 to show the alternation; 也 does not work here."
+  },
+  "wordIds": [
+   208,
+   471,
+   109,
+   169,
+   200,
+   99,
+   190,
+   37,
+   68,
+   740,
+   463
+  ]
+ },
+ {
+  "id": "h3-you-you",
+  "level": 3,
+  "title": "又……又……",
+  "pattern": "S + 又 + adj/verb phrase 1 + 又 + adj/verb phrase 2",
+  "explanation": "Use 又……又…… to say that someone or something has two qualities, or does two things, at the same time. Both parts should be the same kind of word, such as two adjectives or two verb phrases.",
+  "examples": [
+   {
+    "zh": "这个苹果又大又好吃。",
+    "pinyin": "zhè ge píng guǒ yòu dà yòu hǎo chī",
+    "en": "This apple is big and delicious.",
+    "highlight": [
+     "又大又好吃"
+    ]
+   },
+   {
+    "zh": "她又会唱歌又会跳舞。",
+    "pinyin": "tā yòu huì chàng gē yòu huì tiào wǔ",
+    "en": "She can both sing and dance.",
+    "highlight": [
+     "又会唱歌又会跳舞"
+    ]
+   },
+   {
+    "zh": "今天天气又冷又下雨。",
+    "pinyin": "jīn tiān tiān qì yòu lěng yòu xià yǔ",
+    "en": "Today the weather is both cold and rainy.",
+    "highlight": [
+     "又冷又下雨"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "这个手机又很贵又很大。",
+   "right": "这个手机又贵又大。",
+   "pinyin": "zhè ge shǒu jī yòu guì yòu dà",
+   "en": "This phone is both expensive and big.",
+   "reason": "Do not add 很 after 又; put the adjective directly after each 又."
+  },
+  "wordIds": [
+   281,
+   159,
+   949,
+   25,
+   72,
+   202,
+   82,
+   18,
+   58,
+   444,
+   94,
+   208,
+   109,
+   227
+  ]
+ },
+ {
+  "id": "h3-yibian",
+  "level": 3,
+  "title": "一边……，一边……",
+  "pattern": "S + 一边 + V1 (+O)，一边 + V2 (+O)",
+  "explanation": "Use 一边……，一边…… to say someone does two actions at the same time. Put 一边 before each verb; in short form you can say 边V1边V2.",
+  "examples": [
+   {
+    "zh": "他一边吃饭，一边看手机。",
+    "pinyin": "Tā yìbiān chī fàn, yìbiān kàn shǒujī.",
+    "en": "He looks at his phone while eating.",
+    "highlight": [
+     "一边吃饭",
+     "一边看手机"
+    ]
+   },
+   {
+    "zh": "我们一边走路，一边说话。",
+    "pinyin": "Wǒmen yìbiān zǒulù, yìbiān shuōhuà.",
+    "en": "We talk while walking.",
+    "highlight": [
+     "一边走路",
+     "一边说话"
+    ]
+   },
+   {
+    "zh": "妈妈一边做饭，一边听歌。",
+    "pinyin": "Māma yìbiān zuò fàn, yìbiān tīng gē.",
+    "en": "Mom listens to songs while cooking.",
+    "highlight": [
+     "一边做饭",
+     "一边听歌"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "他一边喝茶，看电视。",
+   "right": "他一边喝茶，一边看电视。",
+   "pinyin": "Tā yìbiān hē chá, yìbiān kàn diànshì.",
+   "en": "He watches TV while drinking tea.",
+   "reason": "You need 一边 before both actions, not just the first one."
+  },
+  "wordIds": [
+   200,
+   933,
+   21,
+   50,
+   99,
+   189,
+   222,
+   496,
+   197,
+   114,
+   300,
+   209,
+   58
+  ]
+ },
+ {
+  "id": "h3-budan",
+  "level": 3,
+  "title": "不但……，而且……",
+  "pattern": "S + 不但 + A，(S) 而且 + B",
+  "explanation": "Use 不但……，而且…… to say 'not only A but also B'. If both clauses share the same subject, put the subject before 不但 and don't repeat it before 而且.",
+  "examples": [
+   {
+    "zh": "他不但会说汉语，而且说得很好。",
+    "pinyin": "Tā búdàn huì shuō Hànyǔ, érqiě shuō de hěn hǎo.",
+    "en": "He can not only speak Chinese, but also speaks it very well.",
+    "highlight": [
+     "不但",
+     "而且"
+    ]
+   },
+   {
+    "zh": "这个店的东西不但好吃，而且很便宜。",
+    "pinyin": "Zhè ge diàn de dōngxi búdàn hǎochī, érqiě hěn piányi.",
+    "en": "The food at this shop is not only tasty, but also cheap.",
+    "highlight": [
+     "不但",
+     "而且"
+    ]
+   },
+   {
+    "zh": "我妈妈不但会做饭，而且很喜欢做饭。",
+    "pinyin": "Wǒ māma búdàn huì zuò fàn, érqiě hěn xǐhuan zuò fàn.",
+    "en": "My mom can not only cook, but also loves cooking.",
+    "highlight": [
+     "不但",
+     "而且"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "不但他会说汉语，而且说得很好。",
+   "right": "他不但会说汉语，而且说得很好。",
+   "pinyin": "Tā búdàn huì shuō Hànyǔ, érqiě shuō de hěn hǎo.",
+   "en": "He can not only speak Chinese, but also speaks it very well.",
+   "reason": "When both clauses share a subject, put it before 不但, not after."
+  },
+  "wordIds": [
+   200,
+   538,
+   82,
+   196,
+   69,
+   611,
+   332,
+   79,
+   71,
+   281,
+   34,
+   30,
+   40,
+   72,
+   157,
+   221,
+   114,
+   300,
+   225
+  ]
+ },
+ {
+  "id": "h3-suiran-keshi",
+  "level": 3,
+  "title": "虽然……，可是 / 可……",
+  "pattern": "虽然 + A，可是 / 可 + B",
+  "explanation": "虽然 introduces a fact, and 可是 or 可 introduces the contrast, like 'although... but...'. In Chinese you use both words together, and 可 can also stand alone to mean 'but'.",
+  "examples": [
+   {
+    "zh": "虽然很累，可是很高兴。",
+    "pinyin": "Suīrán hěn lèi, kěshì hěn gāoxìng.",
+    "en": "Although I'm tired, I'm very happy.",
+    "highlight": [
+     "虽然",
+     "可是"
+    ]
+   },
+   {
+    "zh": "虽然东西很贵，可是很好看。",
+    "pinyin": "Suīrán dōngxi hěn guì, kěshì hěn hǎokàn.",
+    "en": "Although the thing is expensive, it looks nice.",
+    "highlight": [
+     "虽然",
+     "可是"
+    ]
+   },
+   {
+    "zh": "我想去，可没时间。",
+    "pinyin": "Wǒ xiǎng qù, kě méi shíjiān.",
+    "en": "I want to go, but I have no time.",
+    "highlight": [
+     "可没"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "虽然今天很冷，我很想去玩儿。",
+   "right": "虽然今天很冷，可是我很想去玩儿。",
+   "pinyin": "Suīrán jīntiān hěn lěng, kěshì wǒ hěn xiǎng qù wánr.",
+   "en": "Although it's cold today, I really want to go out and play.",
+   "reason": "Chinese needs 可是 or 可 in the second clause; 虽然 alone is not enough."
+  },
+  "wordIds": [
+   438,
+   79,
+   388,
+   734,
+   57,
+   40,
+   65,
+   73,
+   221,
+   233,
+   167,
+   731,
+   186
+  ]
+ },
+ {
+  "id": "h3-ruguo",
+  "level": 3,
+  "title": "如果……(的话)，就……",
+  "pattern": "如果 + condition (的话)，(subject) 就 + result",
+  "explanation": "Use 如果 to say 'if' and 就 before the verb in the result clause. You can add 的话 after the condition, and you may drop 如果 and keep only 的话.",
+  "examples": [
+   {
+    "zh": "如果明天下雨，我们就不去了。",
+    "pinyin": "rú guǒ míng tiān xià yǔ , wǒ men jiù bù qù le 。",
+    "en": "If it rains tomorrow, we won't go.",
+    "highlight": [
+     "如果",
+     "就"
+    ]
+   },
+   {
+    "zh": "有时间的话，就来吧。",
+    "pinyin": "yǒu shí jiān de huà , jiù lái ba 。",
+    "en": "If you have time, then come.",
+    "highlight": [
+     "的话",
+     "就"
+    ]
+   },
+   {
+    "zh": "如果你累了的话，就休息一下。",
+    "pinyin": "rú guǒ nǐ lèi le de huà , jiù xiū xi yí xià 。",
+    "en": "If you're tired, then take a rest.",
+    "highlight": [
+     "如果",
+     "的话",
+     "就"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "如果明天下雨，我们不去了。",
+   "right": "如果明天下雨，我们就不去了。",
+   "pinyin": "rú guǒ míng tiān xià yǔ , wǒ men jiù bù qù le 。",
+   "en": "If it rains tomorrow, we won't go.",
+   "reason": "The result clause normally needs 就 before the verb to link it to the condition."
+  },
+  "wordIds": [
+   819,
+   129,
+   227,
+   222,
+   376,
+   13,
+   167,
+   108,
+   480,
+   366,
+   586,
+   106,
+   4,
+   146,
+   388,
+   246,
+   259
+  ]
+ },
+ {
+  "id": "h3-zhiyou",
+  "level": 3,
+  "title": "只有……，才……",
+  "pattern": "只有 + condition，才 + result",
+  "explanation": "只有……，才…… means 'only if X, then Y': X is the one and only condition. Compare 只要……就……, where X is a sufficient condition and other ways may also work.",
+  "examples": [
+   {
+    "zh": "只有多练习，才能说好汉语。",
+    "pinyin": "zhǐ yǒu duō liàn xí， cái néng shuō hǎo hàn yǔ。",
+    "en": "Only by practicing a lot can you speak Chinese well.",
+    "highlight": [
+     "只有",
+     "才"
+    ]
+   },
+   {
+    "zh": "只有你去，他才高兴。",
+    "pinyin": "zhǐ yǒu nǐ qù， tā cái gāo xìng。",
+    "en": "He'll be happy only if you go.",
+    "highlight": [
+     "只有",
+     "才"
+    ]
+   },
+   {
+    "zh": "只有早点儿起床，才不会迟到。",
+    "pinyin": "zhǐ yǒu zǎo diǎnr qǐ chuáng， cái bú huì chí dào。",
+    "en": "Only if you get up early won't you be late.",
+    "highlight": [
+     "只有",
+     "才"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "只有多练习，就能说好汉语。",
+   "right": "只有多练习，才能说好汉语。",
+   "pinyin": "zhǐ yǒu duō liàn xí， cái néng shuō hǎo hàn yǔ。",
+   "en": "Only by practicing a lot can you speak Chinese well.",
+   "reason": "只有 pairs with 才, not 就; 就 belongs with 只要 (e.g. 只要多练习，就能说好)."
+  },
+  "wordIds": [
+   980,
+   46,
+   752,
+   544,
+   145,
+   196,
+   71,
+   69,
+   146,
+   167,
+   200,
+   57,
+   273,
+   33,
+   161,
+   13,
+   82,
+   561
+  ]
+ },
+ {
+  "id": "h3-zhiyao",
+  "level": 3,
+  "title": "只要……，就……",
+  "pattern": "只要 + condition，（主语）就 + result",
+  "explanation": "只要 introduces a condition that is enough to make the result happen. 就 goes before the verb in the second clause and links the result to that condition.",
+  "examples": [
+   {
+    "zh": "只要你努力，就能学好汉语。",
+    "pinyin": "Zhǐyào nǐ nǔlì, jiù néng xué hǎo Hànyǔ.",
+    "en": "As long as you work hard, you can learn Chinese well.",
+    "highlight": [
+     "只要",
+     "就"
+    ]
+   },
+   {
+    "zh": "只要有时间，我就去看你。",
+    "pinyin": "Zhǐyào yǒu shíjiān, wǒ jiù qù kàn nǐ.",
+    "en": "As long as I have time, I'll come see you.",
+    "highlight": [
+     "只要",
+     "就"
+    ]
+   },
+   {
+    "zh": "只要不下雨，我们就去公园。",
+    "pinyin": "Zhǐyào bú xià yǔ, wǒmen jiù qù gōngyuán.",
+    "en": "As long as it doesn't rain, we'll go to the park.",
+    "highlight": [
+     "只要",
+     "就"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "只要你来，我高兴。",
+   "right": "只要你来，我就高兴。",
+   "pinyin": "Zhǐyào nǐ lái, wǒ jiù gāoxìng.",
+   "en": "As long as you come, I'll be happy.",
+   "reason": "Learners often forget 就 in the second clause; it is needed to complete the pattern."
+  },
+  "wordIds": [
+   979,
+   146,
+   786,
+   376,
+   145,
+   247,
+   71,
+   69,
+   480,
+   366,
+   221,
+   167,
+   99,
+   13,
+   227,
+   222,
+   648
+  ]
+ },
+ {
+  "id": "h3-weile",
+  "level": 3,
+  "title": "为了 / 为",
+  "pattern": "为了 + goal，subject + action；为 + person + verb",
+  "explanation": "为了 introduces a purpose or goal, followed by the action taken to reach it. 为 + person means 'for (someone)', and 为什么 means 'why'.",
+  "examples": [
+   {
+    "zh": "为了学好汉语，我每天练习。",
+    "pinyin": "wèi le xué hǎo hàn yǔ，wǒ měi tiān liàn xí。",
+    "en": "In order to learn Chinese well, I practice every day.",
+    "highlight": [
+     "为了学好汉语"
+    ]
+   },
+   {
+    "zh": "妈妈为我做了一个蛋糕。",
+    "pinyin": "mā ma wèi wǒ zuò le yí gè dàn gāo。",
+    "en": "Mom made a cake for me.",
+    "highlight": [
+     "为我做"
+    ]
+   },
+   {
+    "zh": "你为什么不去上班？",
+    "pinyin": "nǐ wèi shén me bú qù shàng bān？",
+    "en": "Why aren't you going to work?",
+    "highlight": [
+     "为什么"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我每天练习，为了学好汉语。",
+   "right": "为了学好汉语，我每天练习。",
+   "pinyin": "wèi le xué hǎo hàn yǔ，wǒ měi tiān liàn xí。",
+   "en": "In order to learn Chinese well, I practice every day.",
+   "reason": "In Chinese the 为了 goal usually comes first, before the action, not after it like English 'in order to'."
+  },
+  "wordIds": [
+   876,
+   247,
+   71,
+   69,
+   221,
+   399,
+   207,
+   752,
+   114,
+   875,
+   299,
+   108,
+   254,
+   60,
+   580,
+   146,
+   454,
+   13,
+   167,
+   176
+  ]
+ },
+ {
+  "id": "h3-le-jiu",
+  "level": 3,
+  "title": "Verb 1 + 了 + … 就 + verb 2",
+  "pattern": "Verb 1 + 了 + (object) + 就 + Verb 2",
+  "explanation": "Use this to say that as soon as the first action is finished, the second action follows right away. 了 goes after the first verb, and 就 comes before the second verb.",
+  "examples": [
+   {
+    "zh": "我下了课就去找你。",
+    "pinyin": "wǒ xià le kè jiù qù zhǎo nǐ",
+    "en": "As soon as I finish class, I'll go find you.",
+    "highlight": [
+     "下了课就去"
+    ]
+   },
+   {
+    "zh": "他吃了饭就走了。",
+    "pinyin": "tā chī le fàn jiù zǒu le",
+    "en": "He left as soon as he finished eating.",
+    "highlight": [
+     "吃了饭就走"
+    ]
+   },
+   {
+    "zh": "我们下了班就回家。",
+    "pinyin": "wǒ men xià le bān jiù huí jiā",
+    "en": "We go home as soon as we get off work.",
+    "highlight": [
+     "下了班就回"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我吃饭了就去学校。",
+   "right": "我吃了饭就去学校。",
+   "pinyin": "wǒ chī le fàn jiù qù xué xiào",
+   "en": "I go to school as soon as I finish eating.",
+   "reason": "Put 了 right after the first verb (吃了饭), not at the end of the first clause."
+  },
+  "wordIds": [
+   221,
+   226,
+   108,
+   103,
+   376,
+   167,
+   278,
+   146,
+   200,
+   21,
+   50,
+   495,
+   222,
+   304,
+   81,
+   86
+  ]
+ },
+ {
+  "id": "h3-chule",
+  "level": 3,
+  "title": "除了……(以外)，……还 / 也 / 都……",
+  "pattern": "除了 A (以外)，S 还/也 + V (besides A) ; 除了 A (以外)，S 都 + V (except A)",
+  "explanation": "Use 除了 with 还 or 也 to say \"besides A, there is more\". Use 除了 with 都 to say \"everyone except A\".",
+  "examples": [
+   {
+    "zh": "除了汉语，他还会说中文。",
+    "pinyin": "chúle hànyǔ, tā hái huì shuō zhōngwén.",
+    "en": "Besides Chinese, he can also speak Mandarin.",
+    "highlight": [
+     "除了",
+     "还"
+    ]
+   },
+   {
+    "zh": "除了苹果，我也喜欢吃面包。",
+    "pinyin": "chúle píngguǒ, wǒ yě xǐhuan chī miànbāo.",
+    "en": "Besides apples, I also like eating bread.",
+    "highlight": [
+     "除了",
+     "也"
+    ]
+   },
+   {
+    "zh": "除了他，我们都去了。",
+    "pinyin": "chúle tā, wǒmen dōu qù le.",
+    "en": "Except him, we all went.",
+    "highlight": [
+     "除了",
+     "都"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "除了我哥哥，我们都去了，我也去了。",
+   "right": "除了我哥哥以外，我们都去了。",
+   "pinyin": "chúle wǒ gēge yǐwài, wǒmen dōu qù le.",
+   "en": "Except my older brother, we all went.",
+   "reason": "For \"except\", use 除了 with 都 and don't add 也 or 还, which would mean \"besides\"."
+  },
+  "wordIds": [
+   566,
+   69,
+   200,
+   67,
+   82,
+   196,
+   290,
+   159,
+   221,
+   253,
+   225,
+   21,
+   126,
+   222,
+   41,
+   167,
+   108
+  ]
+ },
+ {
+  "id": "h3-laishuo",
+  "level": 3,
+  "title": "对……来说 / 在……看来 / 看来 / 一般来说",
+  "pattern": "对 + 人 + 来说 / 在 + 人 + 看来 / 看来 + 判断 / 一般来说，+ 情况",
+  "explanation": "These phrases introduce a point of view. 对我来说 and 在他看来 mean \"for me\" and \"in his opinion\", 看来 means \"it seems\", and 一般来说 means \"generally speaking\". Put them at the start of the sentence, followed by a comma.",
+  "examples": [
+   {
+    "zh": "对我来说，汉字很难。",
+    "pinyin": "duì wǒ lái shuō, hàn zì hěn nán.",
+    "en": "For me, Chinese characters are hard.",
+    "highlight": [
+     "对我来说"
+    ]
+   },
+   {
+    "zh": "看来要下雨了。",
+    "pinyin": "kàn lái yào xià yǔ le.",
+    "en": "It looks like it's going to rain.",
+    "highlight": [
+     "看来"
+    ]
+   },
+   {
+    "zh": "一般来说，周末人很多。",
+    "pinyin": "yì bān lái shuō, zhōu mò rén hěn duō.",
+    "en": "Generally speaking, there are a lot of people on weekends.",
+    "highlight": [
+     "一般来说"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "对我看来，汉字很难。",
+   "right": "对我来说，汉字很难。",
+   "pinyin": "duì wǒ lái shuō, hàn zì hěn nán.",
+   "en": "For me, Chinese characters are hard.",
+   "reason": "Don't mix the two frames: use 对……来说 or 在……看来, not 对……看来."
+  },
+  "wordIds": [
+   44,
+   221,
+   106,
+   196,
+   70,
+   79,
+   775,
+   730,
+   252,
+   227,
+   108,
+   932,
+   986,
+   170,
+   46
+  ]
+ },
+ {
+  "id": "h3-yuelaiyue",
+  "level": 3,
+  "title": "越来越 / 越……越……",
+  "pattern": "A 越来越 + adj / A 越 V1 越 adj",
+  "explanation": "越来越 + adjective means 'more and more' and shows a change over time. 越 A 越 B means 'the more A, the more B'. Do not put 很 after 越.",
+  "examples": [
+   {
+    "zh": "天气越来越冷。",
+    "pinyin": "tiān qì yuè lái yuè lěng",
+    "en": "The weather is getting colder and colder.",
+    "highlight": [
+     "越来越冷"
+    ]
+   },
+   {
+    "zh": "雨越下越大。",
+    "pinyin": "yǔ yuè xià yuè dà",
+    "en": "The rain is falling harder and harder.",
+    "highlight": [
+     "越下越大"
+    ]
+   },
+   {
+    "zh": "他越说越高兴。",
+    "pinyin": "tā yuè shuō yuè gāo xìng",
+    "en": "The more he talks, the happier he gets.",
+    "highlight": [
+     "越说越高兴"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "天气越来越很冷。",
+   "right": "天气越来越冷。",
+   "pinyin": "tiān qì yuè lái yuè lěng",
+   "en": "The weather is getting colder and colder.",
+   "reason": "Do not add 很 after 越来越; the adjective follows directly."
+  },
+  "wordIds": [
+   208,
+   958,
+   106,
+   109,
+   267,
+   226,
+   25,
+   200,
+   196,
+   57
+  ]
+ },
+ {
+  "id": "h3-yi-dou-bu",
+  "level": 3,
+  "title": "一……也 / 都 + 不 / 没……",
+  "pattern": "一 + 量词 (+ 名词) + 也 / 都 + 不 / 没 + 动词",
+  "explanation": "Put 一 plus a measure word before 也 or 都, then add 不 or 没, to say \"not even one\", meaning none at all. Use 没 for things that did not happen or do not exist, and 不 for states and habits.",
+  "examples": [
+   {
+    "zh": "我一口都没吃。",
+    "pinyin": "wǒ yì kǒu dōu méi chī",
+    "en": "I didn't eat a single bite.",
+    "highlight": [
+     "一口都没"
+    ]
+   },
+   {
+    "zh": "今天我一点儿也不累。",
+    "pinyin": "jīntiān wǒ yìdiǎnr yě bú lèi",
+    "en": "I'm not tired at all today.",
+    "highlight": [
+     "一点儿也不"
+    ]
+   },
+   {
+    "zh": "教室里一个人也没有。",
+    "pinyin": "jiàoshì lǐ yí gè rén yě méiyǒu",
+    "en": "There isn't a single person in the classroom.",
+    "highlight": [
+     "一个人也没有"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我一次也去过。",
+   "right": "我一次也没去过。",
+   "pinyin": "wǒ yí cì yě méi qù guo",
+   "en": "I have never gone even once.",
+   "reason": "This pattern needs a negative word (没 or 不) after 也 or 都, even though the English sounds like \"not even once\" without it."
+  },
+  "wordIds": [
+   221,
+   254,
+   104,
+   41,
+   21,
+   94,
+   261,
+   253,
+   13,
+   388,
+   368,
+   110,
+   60,
+   170,
+   122
+  ]
+ },
+ {
+  "id": "h3-cong-qi",
+  "level": 3,
+  "title": "从……起",
+  "pattern": "从 + time + 起，clause",
+  "explanation": "从……起 marks the point in time when something begins and then continues. Put the starting time between 从 and 起, then say what happens from then on.",
+  "examples": [
+   {
+    "zh": "从明天起，我每天跑步。",
+    "pinyin": "cóng míngtiān qǐ, wǒ měitiān pǎobù.",
+    "en": "Starting tomorrow, I will run every day.",
+    "highlight": [
+     "从明天起"
+    ]
+   },
+   {
+    "zh": "从今天起，我不喝牛奶了。",
+    "pinyin": "cóng jīntiān qǐ, wǒ bù hē niúnǎi le.",
+    "en": "From today on, I won't drink milk anymore.",
+    "highlight": [
+     "从今天起"
+    ]
+   },
+   {
+    "zh": "从那天起，他再也没来过。",
+    "pinyin": "cóng nà tiān qǐ, tā zài yě méi lái guo.",
+    "en": "From that day on, he never came again.",
+    "highlight": [
+     "从那天起"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "起明天，我每天跑步。",
+   "right": "从明天起，我每天跑步。",
+   "pinyin": "cóng míngtiān qǐ, wǒ měitiān pǎobù.",
+   "en": "Starting tomorrow, I will run every day.",
+   "reason": "You need 从 before the time word and 起 after it, not 起 before it."
+  },
+  "wordIds": [
+   324,
+   129,
+   801,
+   221,
+   399,
+   207,
+   415,
+   94,
+   13,
+   77,
+   151,
+   108,
+   136,
+   200,
+   270,
+   253,
+   106,
+   347
+  ]
+ },
+ {
+  "id": "h3-gai-le",
+  "level": 3,
+  "title": "该……了",
+  "pattern": "该 + (person) + verb + 了 / 该 + person + 了",
+  "explanation": "Use 该……了 to say it is now time for someone to do something. You can also use 该你了 to say it is someone's turn.",
+  "examples": [
+   {
+    "zh": "我该走了。",
+    "pinyin": "wǒ gāi zǒu le",
+    "en": "I should get going now.",
+    "highlight": [
+     "该",
+     "了"
+    ]
+   },
+   {
+    "zh": "八点了,该起床了。",
+    "pinyin": "bā diǎn le gāi qǐ chuáng le",
+    "en": "It's eight o'clock, time to get up.",
+    "highlight": [
+     "该起床了"
+    ]
+   },
+   {
+    "zh": "该你了,你来说吧。",
+    "pinyin": "gāi nǐ le nǐ lái shuō ba",
+    "en": "It's your turn, you go ahead and speak.",
+    "highlight": [
+     "该你了"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我该回家。",
+   "right": "我该回家了。",
+   "pinyin": "wǒ gāi huí jiā le",
+   "en": "It's time for me to go home.",
+   "reason": "Without 了, 该 only means 'should'; add 了 to say the time has come now."
+  },
+  "wordIds": [
+   221,
+   635,
+   495,
+   108,
+   2,
+   33,
+   161,
+   146,
+   106,
+   196,
+   4
+  ]
+ },
+ {
+  "id": "h3-zai-shang",
+  "level": 3,
+  "title": "在……上 / 下 / 中",
+  "pattern": "在 + noun + 上 / 下 / 中, + clause",
+  "explanation": "This frame sets the scope or condition of a statement. 在……上 means 'in terms of / in the area of', 在……下 means 'under the help or conditions of', and 在……中 means 'in the process or setting of'.",
+  "examples": [
+   {
+    "zh": "他在学习上很努力。",
+    "pinyin": "Tā zài xuéxí shang hěn nǔlì.",
+    "en": "He works hard in terms of study.",
+    "highlight": [
+     "在学习上"
+    ]
+   },
+   {
+    "zh": "在大家的帮助下,我学会了汉语。",
+    "pinyin": "Zài dàjiā de bāngzhù xià, wǒ xuéhuì le Hànyǔ.",
+    "en": "With everyone's help, I learned Chinese.",
+    "highlight": [
+     "在大家的帮助下"
+    ]
+   },
+   {
+    "zh": "在生活中,我常常说汉语。",
+    "pinyin": "Zài shēnghuó zhōng, wǒ chángcháng shuō Hànyǔ.",
+    "en": "In daily life, I often speak Chinese.",
+    "highlight": [
+     "在生活中"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "在大家的帮助上,我找到了工作。",
+   "right": "在大家的帮助下,我找到了工作。",
+   "pinyin": "Zài dàjiā de bāngzhù xià, wǒ zhǎodào le gōngzuò.",
+   "en": "With everyone's help, I found a job.",
+   "reason": "For 'with help from', the fixed frame is 在……下, not 在……上."
+  },
+  "wordIds": [
+   200,
+   271,
+   249,
+   175,
+   79,
+   786,
+   26,
+   30,
+   514,
+   226,
+   221,
+   247,
+   82,
+   108,
+   69,
+   829,
+   981,
+   557,
+   196
+  ]
+ },
+ {
+  "id": "h3-kanqilai",
+  "level": 3,
+  "title": "看起来 / 看上去",
+  "pattern": "A 看起来 / 看上去 + adj",
+  "explanation": "Use 看起来 or 看上去 to say how someone or something seems based on how it looks. Put it after the subject and before the adjective.",
+  "examples": [
+   {
+    "zh": "他看起来很累。",
+    "pinyin": "Tā kànqǐlái hěn lèi.",
+    "en": "He looks very tired.",
+    "highlight": [
+     "看起来"
+    ]
+   },
+   {
+    "zh": "这件衣服看上去很贵。",
+    "pinyin": "Zhè jiàn yīfu kànshàngqù hěn guì.",
+    "en": "This piece of clothing looks expensive.",
+    "highlight": [
+     "看上去"
+    ]
+   },
+   {
+    "zh": "你今天看起来很高兴。",
+    "pinyin": "Nǐ jīntiān kànqǐlái hěn gāoxìng.",
+    "en": "You look very happy today.",
+    "highlight": [
+     "看起来"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "他看起来是很累。",
+   "right": "他看起来很累。",
+   "pinyin": "Tā kànqǐlái hěn lèi.",
+   "en": "He looks very tired.",
+   "reason": "Do not add 是 after 看起来; go straight to the adjective."
+  },
+  "wordIds": [
+   200,
+   99,
+   418,
+   79,
+   388,
+   279,
+   89,
+   255,
+   427,
+   65,
+   146,
+   94,
+   57
+  ]
+ },
+ {
+  "id": "h3-modal",
+  "level": 3,
+  "title": "需要 / 应该 / 该 / 愿意 / 得 děi",
+  "pattern": "S + 需要/应该/该/愿意/得 + V；否定：不需要/不应该/不愿意/不用",
+  "explanation": "需要 means need, 应该 and 该 mean should, 愿意 means be willing, and 得 (děi) means must or have to. For negatives, use 不需要, 不应该 and 不愿意; to say you don't have to, use 不用, never 不得.",
+  "examples": [
+   {
+    "zh": "你需要休息。",
+    "pinyin": "nǐ xū yào xiū xi",
+    "en": "You need to rest.",
+    "highlight": [
+     "需要"
+    ]
+   },
+   {
+    "zh": "你应该早点儿睡。",
+    "pinyin": "nǐ yīng gāi zǎo diǎnr shuì",
+    "en": "You should sleep a bit earlier.",
+    "highlight": [
+     "应该"
+    ]
+   },
+   {
+    "zh": "我愿意帮你。",
+    "pinyin": "wǒ yuàn yì bāng nǐ",
+    "en": "I am willing to help you.",
+    "highlight": [
+     "愿意"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "明天不是星期天，你不得来上班。",
+   "right": "明天不是星期天，你得来上班。",
+   "pinyin": "míng tiān bú shì xīng qī tiān, nǐ děi lái shàng bān",
+   "en": "Tomorrow is not Sunday, you have to come to work.",
+   "reason": "得 (děi) has no regular negative; but for not having to, say 不用, as in 你不用来上班 (you don't need to come to work)."
+  },
+  "wordIds": [
+   146,
+   912,
+   246,
+   939,
+   273,
+   33,
+   194,
+   221,
+   957,
+   305
+  ]
+ },
+ {
+  "id": "h3-separable",
+  "level": 3,
+  "title": "Separable verbs",
+  "pattern": "V + 了/过 + (amount) + O  |  跟 + person + V-O",
+  "explanation": "Separable verbs are verb + object words, like 见面 and 上班. Put 了, 过 or amounts between the two parts, and never add a direct object after them. Use 跟 or 给 before the verb to bring in the other person.",
+  "examples": [
+   {
+    "zh": "我们见过面。",
+    "pinyin": "wǒmen jiàn guo miàn",
+    "en": "We have met before.",
+    "highlight": [
+     "见过面"
+    ]
+   },
+   {
+    "zh": "他帮了我一个忙。",
+    "pinyin": "tā bāng le wǒ yí gè máng",
+    "en": "He did me a favor.",
+    "highlight": [
+     "帮了我一个忙"
+    ]
+   },
+   {
+    "zh": "我今天上了四个小时班。",
+    "pinyin": "wǒ jīntiān shàng le sì gè xiǎoshí bān",
+    "en": "I worked four hours today.",
+    "highlight": [
+     "上了四个小时班"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我昨天见面他。",
+   "right": "我昨天跟他见面。",
+   "pinyin": "wǒ zuótiān gēn tā jiànmiàn",
+   "en": "I met him yesterday.",
+   "reason": "见面 already contains its object, so the person must come before the verb with 跟."
+  },
+  "wordIds": [
+   222,
+   88,
+   347,
+   403,
+   200,
+   305,
+   108,
+   221,
+   254,
+   60,
+   118,
+   94,
+   175,
+   198,
+   236,
+   304
+  ]
+ },
+ {
+  "id": "h3-cai-jiu",
+  "level": 3,
+  "title": "才 and 就 with time",
+  "pattern": "Time + 才 + Verb (late) / Time + 就 + Verb + 了 (early)",
+  "explanation": "Put 才 after a time word to show something happened later or more slowly than expected. Put 就 after a time word to show it happened earlier or sooner than expected, and usually add 了.",
+  "examples": [
+   {
+    "zh": "他十点才起床。",
+    "pinyin": "Tā shí diǎn cái qǐchuáng.",
+    "en": "He didn't get up until ten o'clock.",
+    "highlight": [
+     "才"
+    ]
+   },
+   {
+    "zh": "我六点就起床了。",
+    "pinyin": "Wǒ liù diǎn jiù qǐchuáng le.",
+    "en": "I got up as early as six o'clock.",
+    "highlight": [
+     "就",
+     "了"
+    ]
+   },
+   {
+    "zh": "妈妈晚上九点才下班。",
+    "pinyin": "Māma wǎnshang jiǔ diǎn cái xiàbān.",
+    "en": "Mom doesn't get off work until nine at night.",
+    "highlight": [
+     "才"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我六点才起床了。",
+   "right": "我六点就起床了。",
+   "pinyin": "Wǒ liù diǎn jiù qǐchuáng le.",
+   "en": "I got up as early as six o'clock.",
+   "reason": "Use 就 (with 了) for something earlier than expected; 才 means late and doesn't take 了."
+  },
+  "wordIds": [
+   200,
+   184,
+   33,
+   544,
+   161,
+   221,
+   113,
+   376,
+   108,
+   114,
+   217,
+   95,
+   228
+  ]
+ },
+ {
+  "id": "h3-time-adverbs",
+  "level": 3,
+  "title": "刚 / 刚刚 / 一直 / 马上 / 终于",
+  "pattern": "刚(刚) / 一直 / 马上 / 终于 + verb",
+  "explanation": "These adverbs go before the verb. 刚(刚) means just now, 一直 means all along, 马上 means right away, and 终于 means finally.",
+  "examples": [
+   {
+    "zh": "我刚到家。",
+    "pinyin": "wǒ gāng dào jiā",
+    "en": "I just got home.",
+    "highlight": [
+     "刚到"
+    ]
+   },
+   {
+    "zh": "他一直在等你。",
+    "pinyin": "tā yìzhí zài děng nǐ",
+    "en": "He has been waiting for you all along.",
+    "highlight": [
+     "一直在"
+    ]
+   },
+   {
+    "zh": "你等一下,我马上来。",
+    "pinyin": "nǐ děng yíxià wǒ mǎshàng lái",
+    "en": "Wait a moment, I'll come right away.",
+    "highlight": [
+     "马上来"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "他来终于了。",
+   "right": "他终于来了。",
+   "pinyin": "tā zhōngyú lái le",
+   "en": "He finally came.",
+   "reason": "终于 is an adverb and must go before the verb, not after it."
+  },
+  "wordIds": [
+   221,
+   641,
+   29,
+   86,
+   200,
+   934,
+   271,
+   334,
+   146,
+   259,
+   766,
+   106
+  ]
+ },
+ {
+  "id": "h3-mood-adverbs",
+  "level": 3,
+  "title": "Adverbs of likelihood and certainty",
+  "pattern": "Subject + 大概/好像/差不多/几乎/一定/必须/当然/其实 + Verb/Adj",
+  "explanation": "These adverbs go after the subject and before the verb or adjective. 大概 and 好像 mean 'probably/seems', 差不多 and 几乎 mean 'almost', 一定 and 必须 mean 'definitely/must', 当然 means 'of course', and 其实 means 'actually'.",
+  "examples": [
+   {
+    "zh": "他好像病了。",
+    "pinyin": "Tā hǎoxiàng bìng le.",
+    "en": "He seems to be sick.",
+    "highlight": [
+     "好像"
+    ]
+   },
+   {
+    "zh": "你必须去医院。",
+    "pinyin": "Nǐ bìxū qù yīyuàn.",
+    "en": "You must go to the hospital.",
+    "highlight": [
+     "必须"
+    ]
+   },
+   {
+    "zh": "其实我不喜欢咖啡。",
+    "pinyin": "Qíshí wǒ bù xǐhuan kāfēi.",
+    "en": "Actually, I don't like coffee.",
+    "highlight": [
+     "其实"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "好像他病了,大概明天我去。",
+   "right": "他好像病了,我明天大概去。",
+   "pinyin": "Tā hǎoxiàng bìng le, wǒ míngtiān dàgài qù.",
+   "en": "He seems to be sick, and I will probably go tomorrow.",
+   "reason": "Place the adverb after the subject and right before the verb, not at the start of the sentence like in English."
+  },
+  "wordIds": [
+   200,
+   665,
+   12,
+   108,
+   146,
+   525,
+   167,
+   257,
+   799,
+   221,
+   13,
+   225,
+   377
+  ]
+ },
+ {
+  "id": "h3-degree-adverbs",
+  "level": 3,
+  "title": "挺 / 特别 / 有些 / 比较",
+  "pattern": "挺/特别/有些/比较 + adj (挺 + adj + 的)",
+  "explanation": "Put these degree adverbs before an adjective: 挺 (quite), 特别 (especially), 有些 (somewhat, a bit negative), 比较 (relatively). 挺……的 is colloquial and often ends with 的.",
+  "examples": [
+   {
+    "zh": "今天天气挺好的。",
+    "pinyin": "jīn tiān tiān qì tǐng hǎo de",
+    "en": "The weather is quite nice today.",
+    "highlight": [
+     "挺好的"
+    ]
+   },
+   {
+    "zh": "我今天特别高兴。",
+    "pinyin": "wǒ jīn tiān tè bié gāo xìng",
+    "en": "I am especially happy today.",
+    "highlight": [
+     "特别高兴"
+    ]
+   },
+   {
+    "zh": "他有些累。",
+    "pinyin": "tā yǒu xiē lèi",
+    "en": "He is a bit tired.",
+    "highlight": [
+     "有些累"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我家挺很远的。",
+   "right": "我家比较远。",
+   "pinyin": "wǒ jiā bǐ jiào yuǎn",
+   "en": "My home is relatively far.",
+   "reason": "Use only one degree adverb before the adjective; don't stack 挺 and 很."
+  },
+  "wordIds": [
+   94,
+   208,
+   858,
+   71,
+   30,
+   221,
+   851,
+   57,
+   200,
+   266,
+   388
+  ]
+ },
+ {
+  "id": "h3-redup-mw",
+  "level": 3,
+  "title": "Reduplicated measure words",
+  "pattern": "Measure word reduplicated (个个, 张张) = 'every one'; 一 + M + 一 + M + 地 + verb = 'one by one'",
+  "explanation": "Repeating a measure word (个个, 本本, 件件) means 'every single one', and it is usually followed by 都. Repeating 一 + measure word with 地 before the verb (一个一个地) means doing something 'one by one'.",
+  "examples": [
+   {
+    "zh": "我们班的学生个个都很高兴。",
+    "pinyin": "wǒ men bān de xué shēng gè gè dōu hěn gāo xìng",
+    "en": "Every student in our class is very happy.",
+    "highlight": [
+     "个个"
+    ]
+   },
+   {
+    "zh": "这些书本本都很好看。",
+    "pinyin": "zhè xiē shū běn běn dōu hěn hǎo kàn",
+    "en": "Every one of these books is good.",
+    "highlight": [
+     "本本"
+    ]
+   },
+   {
+    "zh": "孩子们一个一个地进来了。",
+    "pinyin": "hái zi men yí gè yí gè de jìn lái le",
+    "en": "The children came in one by one.",
+    "highlight": [
+     "一个一个地"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "这些衣服件件很好看。",
+   "right": "这些衣服件件都很好看。",
+   "pinyin": "zhè xiē yī fu jiàn jiàn dōu hěn hǎo kàn",
+   "en": "Every one of these clothes looks good.",
+   "reason": "A reduplicated measure word means 'every one', so it needs 都 before the verb or adjective phrase."
+  },
+  "wordIds": [
+   222,
+   304,
+   30,
+   248,
+   60,
+   41,
+   79,
+   57,
+   284,
+   190,
+   10,
+   73,
+   68,
+   124,
+   254,
+   333,
+   372,
+   108
+  ]
+ },
+ {
+  "id": "h3-approx",
+  "level": 3,
+  "title": "Approximate numbers with 大概 or two numbers",
+  "pattern": "大概 + number + M + N  /  number1 number2 + M + N",
+  "explanation": "To give a rough amount, put 大概 before the number, or say two neighbouring numbers together (三四, 七八). Two-number style goes directly before the measure word.",
+  "examples": [
+   {
+    "zh": "我们公司大概有五十个人。",
+    "pinyin": "wǒ men gōng sī dà gài yǒu wǔ shí gè rén 。",
+    "en": "Our company has about fifty people.",
+    "highlight": [
+     "大概有五十个人"
+    ]
+   },
+   {
+    "zh": "我想休息两三天。",
+    "pinyin": "wǒ xiǎng xiū xi liǎng sān tiān 。",
+    "en": "I want to rest for two or three days.",
+    "highlight": [
+     "两三天"
+    ]
+   },
+   {
+    "zh": "他的女儿十五六岁。",
+    "pinyin": "tā de nǚ ér shí wǔ liù suì 。",
+    "en": "His daughter is fifteen or sixteen years old.",
+    "highlight": [
+     "十五六岁"
+    ]
+   }
+  ],
+  "mistake": {
+   "wrong": "我有三五个朋友在纽约。",
+   "right": "我有三四个朋友在纽约。",
+   "pinyin": "wǒ yǒu sān sì gè péng you zài niǔ yuē 。",
+   "en": "I have three or four friends in New York.",
+   "reason": "Use two consecutive numbers (三四), not numbers that skip one (三五)."
+  },
+  "wordIds": [
+   222,
+   62,
+   573,
+   263,
+   223,
+   184,
+   60,
+   170,
+   221,
+   233,
+   246,
+   111,
+   173,
+   207,
+   200,
+   30,
+   153,
+   113,
+   199
+  ]
+ }
+]
