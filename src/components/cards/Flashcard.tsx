@@ -12,17 +12,22 @@ interface FlashcardProps {
   accentsOptional: boolean;
   typed: string;
   onTypedChange: (value: string) => void;
+  /** Submitting a typed answer shows the back. */
   onReveal: () => void;
+  /** Tapping the card turns it over (front ↔ back). */
+  onFlip: () => void;
 }
 
-export function Flashcard({ card, revealed, isNew, typing, accentsOptional, typed, onTypedChange, onReveal }: FlashcardProps) {
+export function Flashcard({ card, revealed, isNew, typing, accentsOptional, typed, onTypedChange, onReveal, onFlip }: FlashcardProps) {
   const audio = revealed ? card.audio.back : card.audio.front;
   const showInput = typing && !revealed && card.answer !== undefined;
   return (
     <div
-      role={revealed || showInput ? undefined : "button"}
-      tabIndex={revealed || showInput ? undefined : 0}
-      onClick={revealed || showInput ? undefined : onReveal}
+      // While the answer box is showing, taps belong to it; otherwise the card flips either way.
+      role={showInput ? undefined : "button"}
+      tabIndex={showInput ? undefined : 0}
+      aria-label={showInput ? undefined : revealed ? "Show the front" : "Show the answer"}
+      onClick={showInput ? undefined : onFlip}
       className="relative flex flex-1 flex-col items-center justify-center gap-4 rounded-[22px] border border-stone-200 bg-white px-6 pb-6 pt-14 text-center shadow-[0_30px_60px_-44px_rgba(27,25,22,0.5)] dark:border-stone-800 dark:bg-stone-900"
     >
       <div className="absolute left-4 top-4 flex flex-wrap gap-2 text-xs">
@@ -56,7 +61,7 @@ export function Flashcard({ card, revealed, isNew, typing, accentsOptional, type
         />
       )}
       {revealed && card.answer && <AnswerResult typed={typed} expected={card.answer} accentsOptional={accentsOptional} />}
-      {!revealed && !showInput && <p className="text-sm text-stone-400">Tap to reveal</p>}
+      {!showInput && <p className="text-sm text-stone-400">{revealed ? "Tap to flip back" : "Tap to reveal"}</p>}
     </div>
   );
 }
