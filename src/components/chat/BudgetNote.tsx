@@ -23,7 +23,7 @@ export function BudgetNote({ me, compact = false }: { me: Me | null; compact?: b
           {budget.reason === "pool-limit"
             ? "Chat is paused for guests: the shared guest budget has been used up."
             : `You've used your ${dollars(budget.limitUsd)} guest chat budget, so chat is off for this login.`}{" "}
-          Flashcards and reading still work.
+          Flashcards and reading still work. (The owner can switch passcodes in Cards → settings.)
         </p>
       ) : (
         <p>
