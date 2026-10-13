@@ -4,7 +4,10 @@ import { useEffect, useRef, useState } from "react";
 import { ChatSetup } from "./ChatSetup";
 import { ChatSummaryView } from "./ChatSummaryView";
 import { PartnerMessage, UserMessage, type GapWord } from "./Messages";
-import { openChat, sendMessage } from "./tutor-api";
+import { BudgetNote } from "./BudgetNote";
+import { BudgetError, openChat, sendMessage } from "./tutor-api";
+import { setMe, useMe } from "../useMe";
+import type { Me } from "@/lib/me";
 import {
   chooseTargetWords,
   findScenario,
@@ -28,6 +31,13 @@ export function ChatApp() {
   const [conversation, setConversation] = useState<Conversation | null>(() => loadConversation(window.localStorage));
   const progress = useProgress();
   const [{ accentsOptional }] = useSettings();
+  const me = useMe();
+  const outOfBudget = me?.role === "guest" && me.budget !== null && !me.budget.allowed;
+
+  /** Shows a reply's budget, or the budget a refusal reports (no retry: it wouldn't help). */
+  function noteBudget(budget: Me["budget"]) {
+    if (budget) setMe({ role: "guest", budget });
+  }
   const [draft, setDraft] = useState("");
   const [pending, setPending] = useState<string | null>(null);
   const [starting, setStarting] = useState(false);
@@ -58,10 +68,12 @@ export function ChatApp() {
     setStarting(true);
     setError(null);
     try {
-      const line = await openChat(request(level, scenarioId, []));
+      const { partner: line, budget } = await openChat(request(level, scenarioId, []));
+      noteBudget(budget);
       update({ level, scenario: scenarioId, messages: [{ role: "partner", text: line.reply, en: line.replyEn }] });
     } catch (err) {
       if (!(err instanceof Error)) throw err;
+      if (err instanceof BudgetError) return noteBudget(err.budget);
       setError({ message: err.message, retry: () => void start(level, scenarioId) });
     } finally {
       setStarting(false);
@@ -77,6 +89,7 @@ export function ChatApp() {
     setError(null);
     try {
       const turn = await sendMessage(request(conversation.level, conversation.scenario, conversation.messages, message));
+      noteBudget(turn.budget);
       const now = new Date();
       const mistake = mistakeFromTurn(message, turn.check, `chat-${now.getTime()}`, localDay(now), accentsOptional);
       if (mistake) addMistake(window.localStorage, mistake);
@@ -91,6 +104,7 @@ export function ChatApp() {
     } catch (err) {
       if (!(err instanceof Error)) throw err;
       setDraft(message);
+      if (err instanceof BudgetError) return noteBudget(err.budget);
       setError({ message: err.message, retry: () => void send(message) });
     } finally {
       setPending(null);
@@ -124,7 +138,7 @@ export function ChatApp() {
   if (!conversation) {
     return (
       <div className="flex flex-col gap-4">
-        <ChatSetup starting={starting} onStart={(level, scenario) => void start(level, scenario)} />
+        <ChatSetup starting={starting} me={me} onStart={(level, scenario) => void start(level, scenario)} />
         {starting && <p className="text-center text-sm text-stone-500">Starting the conversation…</p>}
         {errorBanner}
       </div>
@@ -186,6 +200,7 @@ export function ChatApp() {
       </div>
 
       {errorBanner}
+      <BudgetNote me={me} compact />
       <form
         onSubmit={(e) => {
           e.preventDefault();
@@ -211,7 +226,7 @@ export function ChatApp() {
         />
         <button
           type="submit"
-          disabled={pending !== null || !draft.trim()}
+          disabled={pending !== null || !draft.trim() || outOfBudget}
           className="h-11 shrink-0 rounded-full px-4 font-medium bg-red-700 text-white hover:bg-red-800 dark:bg-red-500 dark:text-white dark:hover:bg-red-400 disabled:opacity-40"
         >
           Send

@@ -1,6 +1,6 @@
 import { beforeEach, describe, expect, it } from "vitest";
 import { gradeItem, Rating } from "../srs";
-import { hashPasscode, isValidSession } from "./auth";
+import { hashPasscode, isValidSession, readSession } from "./auth";
 import { migrate, pgliteDb, type Db } from "./db";
 import { loginHandler } from "./login-handler";
 import { stateHandler, syncHandler } from "./sync-handlers";
@@ -67,6 +67,19 @@ describe("login", () => {
     for (let i = 0; i < 10; i++) await handler()(post({ passcode: "wrong" }));
     const res = await handler()(post({ passcode: "ni-hao-123" }));
     expect(res.status).toBe(429);
+  });
+
+  it("logs in as a guest with the shared passcode and as the owner with the owner's", async () => {
+    const both = handler({ ownerPasscodeHash: hashPasscode("owner-only") });
+    const token = async (passcode: string) => {
+      const res = await both(post({ passcode }));
+      return readSession(res.headers.get("Set-Cookie")!.split(";")[0].split("=")[1], SECRET, NOW);
+    };
+    expect(await token("owner-only")).toEqual({ role: "owner", id: "owner" });
+    const guest = await token("ni-hao-123");
+    expect(guest?.role).toBe("guest");
+    // Each guest login gets its own budget.
+    expect((await token("ni-hao-123"))?.id).not.toBe(guest?.id);
   });
 
   it("refuses to log in when login isn't configured", async () => {

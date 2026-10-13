@@ -4,7 +4,7 @@ import { createSessionToken } from "./auth";
 
 const NOW = new Date("2026-10-08T12:00:00Z");
 const SECRET = "a-test-secret-that-is-long-enough";
-const token = createSessionToken(SECRET, NOW);
+const token = createSessionToken(SECRET, NOW, { role: "guest", id: "g1" });
 
 describe("access", () => {
   it("lets a signed-in learner in everywhere", () => {

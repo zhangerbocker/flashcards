@@ -28,6 +28,11 @@ const SCHEMA = [
   `CREATE TABLE IF NOT EXISTS read_stories (id text PRIMARY KEY)`,
   `CREATE TABLE IF NOT EXISTS settings (id smallint PRIMARY KEY DEFAULT 1 CHECK (id = 1), data jsonb NOT NULL)`,
   `CREATE TABLE IF NOT EXISTS failed_logins (at timestamptz NOT NULL)`,
+  `CREATE TABLE IF NOT EXISTS guest_spend (
+     guest_id text PRIMARY KEY,
+     spent_usd double precision NOT NULL DEFAULT 0,
+     updated_at timestamptz NOT NULL
+   )`,
 ];
 
 export async function migrate(db: Db): Promise<void> {

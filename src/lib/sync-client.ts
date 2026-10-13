@@ -7,8 +7,11 @@ export interface SyncDeps {
   fetch: typeof fetch;
 }
 
-/** synced: up to date with the server; offline: kept local data; signed-out: the session expired. */
-export type SyncResult = "synced" | "offline" | "signed-out";
+/**
+ * synced: up to date with the server; offline: kept local data; signed-out: the session expired;
+ * local: this login (a guest) keeps progress on the device only, so nothing is sent.
+ */
+export type SyncResult = "synced" | "offline" | "signed-out" | "local";
 
 /** Set once this device's local data has been uploaded, so it is only uploaded once. */
 const UPLOADED_KEY = "pt.uploaded.v1";
@@ -49,6 +52,11 @@ export async function flush(deps: SyncDeps): Promise<SyncResult> {
     });
     if (res === "offline") return "offline";
     if (res.status === 401) return "signed-out";
+    if (res.status === 403) {
+      // A guest: progress stays on this device, so the queued changes have nowhere to go.
+      dropOps(deps.storage, pendingOps(deps.storage).length);
+      return "local";
+    }
     if (res.status === 400) {
       // The server can never accept this batch; keeping it would block every later change.
       console.error(`sync batch rejected: ${((await res.json().catch(() => ({}))) as { error?: string }).error ?? "no reason"}`);
@@ -90,10 +98,11 @@ export async function syncNow(deps: SyncDeps): Promise<SyncResult> {
   return "synced";
 }
 
-async function fetchState(deps: SyncDeps): Promise<SyncState | "offline" | "signed-out"> {
+async function fetchState(deps: SyncDeps): Promise<SyncState | "offline" | "signed-out" | "local"> {
   const res = await request(deps, "/api/state", { cache: "no-store" });
   if (res === "offline") return "offline";
   if (res.status === 401) return "signed-out";
+  if (res.status === 403) return "local";
   if (!res.ok) return "offline";
   const state = SyncState.safeParse(await res.json());
   if (!state.success) throw new Error(`server state didn't match the expected shape: ${state.error.issues[0].message}`);
