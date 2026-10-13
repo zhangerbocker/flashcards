@@ -2,6 +2,7 @@
 
 import { useRouter } from "next/navigation";
 import { useState } from "react";
+import { logIn } from "./login";
 
 export function LoginForm() {
   const router = useRouter();
@@ -14,20 +15,12 @@ export function LoginForm() {
     setBusy(true);
     setError(null);
     try {
-      const res = await fetch("/api/login", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ passcode }),
-      });
-      if (res.ok) {
+      const result = await logIn(passcode);
+      if (result.ok) {
         router.replace("/cards");
         return;
       }
-      const body = (await res.json().catch(() => ({}))) as { error?: string };
-      setError(body.error ?? `Login failed (HTTP ${res.status})`);
-    } catch (err) {
-      if (!(err instanceof TypeError)) throw err;
-      setError("Couldn't reach the server. Check your connection.");
+      setError(result.error);
     } finally {
       setBusy(false);
     }
